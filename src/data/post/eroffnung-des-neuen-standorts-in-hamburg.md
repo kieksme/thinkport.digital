@@ -7,13 +7,9 @@ coverImage: 'Neuer-Standort-Hamburg.png'
 
 [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
-# Thinkport eröffnet neuen Standort in Hamburg
+## Thinkport eröffnet neuen Standort in Hamburg
 
-NEWS
-
-![Standorteröffnung Hamburg Post](images/Standorteroeffnung-Hamburg-Post-1024x1024.png)
-
-## „Großartige Neuigkeiten! Wir erweitern unsere Standorte...“
+### „Großartige Neuigkeiten! Wir erweitern unsere Standorte …“
 
 Um so nah wie möglich auch an unseren nördlich Kunden zu sein, eröffnen wir einen weiteren Standort. In Hamburg.
 
