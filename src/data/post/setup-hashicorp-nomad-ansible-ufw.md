@@ -51,9 +51,6 @@ Dazu erstellen wir zuerst eine Ordnerstruktur. Beim Schreiben von Rollen für An
 
     				 `roles/     common/               # this hierarchy represents a "role"         tasks/            #             main.yml      #  <-- tasks file can include smaller files if warranted         handlers/         #             main.yml      #  <-- handlers file         templates/        #  <-- files for use with the template resource             ntp.conf.j2   #  <------- templates end in .j2         files/            #             bar.txt       #  <-- files for use with the copy resource             foo.sh        #  <-- script files for use with the script resource         vars/             #             main.yml      #  <-- variables associated with this role         defaults/         #             main.yml      #  <-- default lower priority variables for this role         meta/             #             main.yml      #  <-- role dependencies         library/          # roles can also include custom modules         module_utils/     # roles can also include custom module_utils         lookup_plugins/   # or other types of plugins, like lookup in this case     webtier/              # same kind of structure as "common" was above, done for the webtier role     monitoring/           # ""     fooapp/               # ""`
 
-
-
-
 Wir legen also in dem `ansible` Ordner einen Unterordner namens `roles` an. Um es uns einfach zu machen führen wir dann im Ordner `roles` folgenden Befehl aus: `ansible-galaxy int ufw` . Dadurch sollte folgende Ordnerstruktur in dem `roles` Ordner erstellt werden:
 
 Beim Ausführen der Rolle aus der `playbook.yml` Datei werden dann von Ansible alle tasks aus der `tasks/main.yml` Datei abgearbeitet.  
@@ -71,9 +68,6 @@ Nun können wir anfangen mit der Installation von ufw dazu können wir das in An
 
     				 `- name: install ufw firewall      apt: name=ufw update_cache=yes state=latest`
 
-
-
-
 Zuerst benennen wir die Task mit `install ufw firewall` und anschließend benutzen wir die `apt` Task um den Namen `ufw` anzugeben, den Cache updaten (ist wie `apt get-update` ) und zuletzt den state auf `latest` legen, dadurch sagen wir Ansible, dass von ufw immer die aktuellste Version installiert sein soll!
 
 Andere States sind z. B.:
@@ -84,18 +78,15 @@ Andere States sind z. B.:
 
 Nun haben wird also die `ufw` installiert, danach wollen wir zuerst alle einkommenden Verbindungen verbieten und alle ausgehenden erlauben. Dazu fügen wir die folgenden beiden Blöcke ein:
 
-`- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
+ `- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
 
-`- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
+ `- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
 
 Wie du siehst sprechen wir hier nicht mehr die `apt` Task an, sondern die `ufw` Task - dies ist eine in Ansible eingebaute Task mit der wir die ufw sehr einfach konfigurieren können. Am Ende dieser Task verwenden wir noch einen Handler um den ufw Dienst neuzustarten. Dazu geben wir den Namen des Handlers ein (hier `reload ufw` ). Da wir den Handler noch nicht angelegt haben machen wir das nun.
 
 Wir fügen also in der `handlers/main.yml` Datei folgenden Code ein:
 
     				 `- name: reload ufw      ufw:         state: reloaded`
-
-
-
 
 Der Name kommt dir bestimmt bekannt vor, dieser Name ist wichtig um in der `tasks/main.yml` einen Neustart der ufw auszulösen. Wir setzen also wir die ufw Task ein und setzen diesmal den Status auf reloaded.
 
@@ -105,23 +96,13 @@ Jetzt erlauben wir über eine Variable im Playbook alle Apps und Ports für ufw.
 
     				 `- name: ufw allow apps from vars      ufw:             rule: allow             name: "{{ item }}"      with_items: "{{ ufw_apps_allow }}"      when: ufw_apps_allow is defined      notify:      - reload ufw`
 
-
-
-
-
     				 `- name: ufw allow ports from vars      ufw:             rule: allow             port: "{{ item }}"             proto: tcp      with_items: "{{ ufw_ports_allow }}"      when: ufw_ports_allow is defined      notify:      - reload ufw`
-
-
-
 
 Hier benutzen wir also wieder die `ufw` Task um Änderungen an der Firewall vorzunehmen. Wir erlauben jeweils alle Apps/Ports die wir hier deklarieren. Um nicht für jeden Port eine einzelne Task schreiben zu müssen, benutzen wir `with_items` und übergeben damit eine Variable, in diesem Fall eine Liste von Ports bzw. Apps. Diese List referenzieren wir dann mit `“{{ item }}"` im `name` Feld. Diese Task führen wir dann aber nur aus sofern `ufw_apps/ports_allow` definiert ist. Danach führen wieder wieder einen Reload des ufw Services durch.
 
 Zum Schluss stellen wir noch sicher, dass ufw beim Start der virtuellen Maschine automatisch startet.
 
     				 `- name: enable ufw service      ufw:         state: enabled`
-
-
-
 
 Hier stellen wir also den Status des ufw Services auf “enabled” also wird ufw nun bei jedem VM Start automatisch gestartet.
 
@@ -135,14 +116,7 @@ Nun haben wir die Rolle in einem betriebsbereitem Zustand, daher binden wir sie 
 
     				 `ufw_apps_allow: "OpenSSH"`
 
-
-
-
-
     				 `--- - hosts: azure_nomad_vms     become: yes     roles:         - ufw     vars:         ufw_apps_allow:             - OpenSSH #       ufw_ports_allow:`
-
-
-
 
 Wir fügen also die Rolle `ufw` unter `roles` hinzu. Danach legen wir auch noch eine List für `ufw_apps_allow` an, darin schreiben wir bislang nur den Wert für `OpenSSH` . Später verwenden wir für Nomad, Consul und Vault noch spezielle Ports, daher können wir die Variable `ufw_ports_allow` bereits kommentiert anlegen.
 
@@ -205,8 +179,6 @@ _Cloud Engineer_
 ### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
-
-[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
 
 ### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 

@@ -86,8 +86,6 @@ OpenAI bietet schnell entwickelnde Technologien, die aktuelle Daten erhalten mü
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
-
 ### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
