@@ -47,9 +47,6 @@ Es gibt also für viele Anwendungsfälle bereits Rollen von anderen Entwickler\*
 
     				 `--- - src: oefenweb.fail2ban     name: fail2ban`
 
-
-
-
 Über `src` geben wir an woher wir die Rolle beziehen möchten. In unserem Fall verwenden wir hier eine Rolle von Ansible Galaxy, daher geben wir `username.rolename` an (in diesem Fall `oefenweb.fail2ban` ). Danach vergeben wir noch einen spezifischen Namen zum späteren Aufruf im Playbook, denn dort müssen wir diese Rolle wieder unter `roles` einbinden, wie auch bei der `ufw` Rolle. Es gibt auch die Möglichkeit eine spezielle Version der Rolle/Kollektion mit dem `version:` Tag auszuwählen.  
 Zuerst installieren wir aber unsere Requirements mit folgendem Befehl: `ansible-galaxy install -r requirements.yml` dadurch werden alle in der `requirements.yml` befindlichen Rollen installiert.
 
@@ -58,9 +55,6 @@ Die Rollen können dabei nicht von Ansible Galaxy kommen, sondern auch von einem
 Nun fügen wir die installiere Rolle also in unser Playbook ein, das sollte dann so aussehen:
 
     				 `--- - hosts: azure_nomad_vms     become: yes     roles:         - ufw         - fail2ban     vars:         failed2ban_services:             - name: sshd                 port: 22                 maxretry: 5                 bantime: 60         ufw_apps_allow:             - OpenSSH # ufw_ports_allow:`
-
-
-
 
 Wir fügen also den `name` Wert der `oefenweb.fail2ban` Rolle in den `roles` Block ein. Danach können wir dann auch den sshd Port mit einem Schutz versehen.
 

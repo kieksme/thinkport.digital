@@ -41,24 +41,15 @@ Bevor wir die `.zip` Datei von der HashiCorp Website herunterladen, müssen wir 
 
     				 `--- prerequisites:     - unzip`
 
-
-
-
 Dazu legen wir in der `defaults/main.yml` Datei eine Liste namens `prerequisites` an und führen dort das Software-Paket `unzip` auf.
 
 Danach erstellen wir auch schon unsere erste Task für diese Rolle in der `tasks/main.yml` Datei. Dazu benutzen wir die `package` Task. Wir loopen also durch alle `"{{ item }}"` der Liste `"{{ prerequisites }}"` und setzen den State auf `present` um das Paket immer auf der Maschine zu haben.
 
     				 `--- - name: Ensure prerequisites     package:         name: "{{ item }}"         state: present     loop: "{{ prerequisites }}"`
 
-
-
-
 Danach laden wir auch schon die Datei für nomad herunter. Dazu benutzen wir die `unarchive` Task, da die Datei als zip von HashiCorp bereitgestellt wird.
 
     				 `- name: Install Nomad from releases      unarchive:         src: https://releases.hashicorp.com/nomad/{{ nomad_version }}/nomad_{{ nomad_version }}_linux_amd64.zip         dest: "{{ nomad_install_dir }}"         remote_src: yes         creates: "{{ nomad_install_dir }}/nomad"         owner: root         group: root         mode: 0755`
-
-
-
 
 Hier setzen wir aus dem normalen Download-Link unsere speziellen Download-Link zusammen, denn wir wollen am Ende bestimmen welche Version von Nomad installiert wird. Dazu verwenden wir wieder einen Variable namens `nomad_version` , diese legen wir dann auch in der `defaults/main.yml` Datei an und vergeben einen Wert (Stand Aug. 23 - Nomad 1.6.1).  
 Bei `src` geben wir also die Internetadresse des ZIP-Pakets an welches entpacket werden soll. Im Feld `dest` geben wir dann direkt das Installationsverzeichnis an, in das Nomad installiert werden soll. Anschließend setzen wir den `remote_src` Parameter auf `yes` , legen den Install Ordner an, falls er noch nicht da ist und setzen die entsprechenden Berechtigungen für den root User und die root Gruppe.
@@ -67,17 +58,11 @@ Nun legen wir direkt auch noch 5 weitere Default-Werte an. Für ein Konfiguratio
 
     				 `--- prerequisites: - unzip nomad_version: "1.6.1" # Nomad vars hashicorp_releases_url: https://releases.hashicorp.com nomad_install_dir: /usr/local/bin nomad_data_dir: /opt/nomad nomad_config_dir: /etc/nomad.d #User&Groups nomad_user: nomad nomad_group: nomad`
 
-
-
-
 Ansible Vars File - Ansible variables File (vars.json)
 
 Als nächstes überprüfen wir ob nomad richtig installiert wurde, dazu benutzen wir einfach den Command `nomad version` , sofern dieser nicht die erwartete Rückmeldung gibt, gibt Ansible einen Fehler aus. Wir verwenden dazu die Ansible Task `command` , eigentlich gibt es für die gängigen Aufgaben immer eigene Ansible Tasks (siehe ufw, unarchive package). In diesem speziellen Fall haben wir keine nomad Task, sondern können nur auf die Command Task zurückgreifen.
 
     				 `- name: Check nomad version      command: nomad version      register: nomad_version_output      changed_when: false      failed_when: "'Nomad v' not in nomad_version_output.stdout"`
-
-
-
 
 Für führen also den Command `nomad version` aus, speichern den Output des Commands über `register:` in eine Variable namens `nomad_version_output` und setzen dann den Wert `failed_when:` um zu schauen ob “Nomad v” in dem Output des Commands auftaucht, wenn nicht schlägt Ansible fehl!
 
@@ -97,24 +82,15 @@ Mit diesen 2 Tasks legen wir also erstmal eine Gruppe mit der Variable `nomad_gr
 
     				 `- name: Create a nomad group     group:         name: "{{ nomad_group }}"         system: yes - name: Create a nomad user     user:         name: "{{ nomad_user }}"         group: "{{ nomad_group }}"         comment: "Nomad user"         shell: /bin/false         system: yes         create_home: yes         home: "{{ nomad_config_dir }}"`
 
-
-
-
 Nun haben wir also eine Gruppe, einen User und ein Home-Verzeichnis erstellt. Um in diesem Verzeichnis als besitzender User Dinge lesen, schreiben und ausführen zu können vergeben wir nun noch die passenden Berechtigungen.
 
     				 `- name: Set the permissions on the nomad home directory      file:         path: "{{ nomad_config_dir }}"         state: directory         owner: "{{ nomad_user }}"         group: "{{ nomad_group }}"         mode: 0700`
-
-
-
 
 [Hier](https://chmodcommand.com/chmod-0700/ 'https://chmodcommand.com/chmod-0700/') kannst du schauen welcher Code welchen Berechtigungen entspricht Als nächstes müssen wir noch das Verzeichnis anlegen in dem Nomad später dann die systemrelevanten Daten ablegt. Dazu benutzen wir erneut die `file` Task, mit dieser können wir über Ansible Dateien oder Ordner erstellen oder auch die Abwesenheit der Ordner sicherstellen. Dabei gibt es wieder verschiedene States, diese kannst du [hier](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/file_module.html 'https://docs.ansible.com/ansible/latest/collections/ansible/builtin/file_module.html') nachschauen.
 
 Hier setzen wir nun also die Variable `nomoad_data_dir` ein um den Ordnerpfad und Namen zu vergeben, setzen als state Directory um einen Ordner zu erzeugen, setzen als Owner und Group jeweils wieder unsere Nomad User und Gruppe. Was der Code bedeutet kannst du ja durch den Link oben mal versuchen herauszufinden!
 
     				 `- name: Create a data directory      file:         path: "{{ nomad_data_dir }}"         state: directory         owner: "{{ nomad_user }}"         group: "{{ nomad_group }}"         mode: 0755`
-
-
-
 
 Jetzt sind wir auch schon fast fertig, nun müssen wir noch Nomad konfigurieren und den Service erstellen sowie aktivieren.
 
@@ -123,9 +99,6 @@ Zuerst erstellen wir also die Config-Datei über ein Template und speichern dies
 Wir benutzen diesmal eine template Task, wir verweisen auf ein Jinja2 Template in einem gesonderten Ordner für die Konfiguration und platzieren dann das durch Ansible befüllte Template in dem vorhin erstellen Config-Ordner. Mit Jinja2 können wir in diesem Fall Variablen von Ansible in eine Datei schreiben die dann von Nomad als Konfiguration verwendet wird. Die Konfigurationsdatei von Nomad wird auch wie Terraform in der HCL (HashiCorp Configuration Language) geschrieben.
 
     				 `- name: Template Nomad config directory      template:         src: ../nomad/config.hcl.j2         dest: "{{ nomad_config_dir }}/config.hcl"         mode: "0644"         owner: "{{ nomad_user }}"         group: "{{ nomad_group }}"`
-
-
-
 
 Da wir ggf. später noch andere Dateien für nomad brauchen legen wir am besten direkt einen Ordner in unserer Struktur an, wir brauchen am Ende 5 Ordner wie auf dem folgenden Bild zu sehen:
 
@@ -145,9 +118,6 @@ Die Variable aus Ansible referenzieren wir hier genauso wie auch in Ansible selb
 
     				 `server {     enabled             = true     bootstrap_expect    = {{ nomad_bootstrap_expect }}     start_join = ["{{ groups['azure_nomad_vms'] | map('extract', hostvars, ['ansible_default_ipv4', 'address']) | join('","') }}"] }`
 
-
-
-
 Wir setzen also den Server Block auf `enabled = true` , danach geben wir die Anzahl der zu erwartenden Server im Cluster an, diese Anzahl vergeben wir auch wieder mit einer Variable die wir später im `playbook.yml` festlegen. Danach müssen wir eine Liste aller privaten IP-Adressen erstellen die im Cluster sein sollen. Die Funktion liest aus den Facts von Ansible (siehe Funktion `gather_facts: true` ) nun jede private IP-Adresse und verbindet diese zu einer Liste die so aussieht:
 
 `start_join = ["10.0.1.4","10.0.1.5","10.0.1.6"]`
@@ -156,17 +126,11 @@ Dadurch sucht dann jeder Server nach den anderen und bildet ein Cluster.
 
     				 `client {     enabled     = true }`
 
-
-
-
 Als nächstes konfigurieren wir die Client-Seite von Nomad, dazu setzen wir nur den Client-Block auf `enabled: true`
 
 Anschließend gehen wir noch die nötigen Plugins an, in diesem Fall konfigurieren wir das folgende Plugin:
 
     				 `plugin "raw_exec" {     config {         enabled = true     } }`
-
-
-
 
 Wir setzen hierbei nun das Plugin “raw_exec” auf enabled, dadurch können wir auf den Clients jeweils Commands ausführen.
 
@@ -178,24 +142,15 @@ Die Datei sollte dann in der Mitte so aussehen, den Rest müssen wir nicht verä
 
     				 `[Service] User= {{nomad_user}} Group= {{nomad_group}} ExecReload=/bin/kill -HUP $MAINPID ExecStart={{nomad_install_dir}}/nomad agent -config={{nomad_config_dir}}/ KillMode=process`
 
-
-
-
 Nun müssen wir nur noch den Service mit Ansible auf die Maschinen bringen und aktivieren.
 
 Dazu benutzen wir erneut die template Task und kopieren die gerade erstellte Datei in den systemd Ordner. Anschließend benutzen wir die Ansible Task “systemd” um den Service zu benennen ( `name` ), ihn zu starten ( `state: restarted` ), ihn immer beim Starten der VM automatisch zu starten und den Daemon auch neu zu laden.
 
     				 `- name: Set up Nomad Systemd service     template:         src: nomad.service.j2         dest: /etc/systemd/system/nomad.service - name: Ensure nomad service     systemd:         name: nomad         state: restarted         enabled: true         daemon_reload: true`
 
-
-
-
 Nun müssen wir die Rolle nur noch im Playbook erwähnen. Dazu fügen wir sie nach der ufw und fail2ban Rolle in die Liste der vom Playbook zu verwendenden Rollen ein.
 
     				 `--- - hosts: azure_nomad_vms     become: yes     roles:         - ufw         - fail2ban         - nomad     vars:         failed2ban_services:             - name: sshd                 port: 22                 maxretry: 5                 bantime: 60         ufw_apps_allow:             - OpenSSH         ufw_ports_allow:         # nomad             - 4646             - 4647             - 4648         nomad_group_name: azure_nomad_vms         nomad_bootstrap_expect: "{{ groups[nomad_group_name] | length }}"         nomad_version: 1.6.1`
-
-
-
 
 Da wir auch noch einige Variablen brauchen, setzen wir diese auch wieder in dem `vars` Block.  
 Zuerst geben wir die für Nomad wichtigen Variablen frei indem wir die Liste `ufw_ports_allow` mit den Werte 4646, 4647 und 4648 befüllen. Den `nomad_group_name` brauchen wir um die privaten IP Adressen im Jinja2 Template der Nomad Config richtig zu generieren. Die zu erwartende Anzahl an VMs können wir uns dann anhand dieser Gruppe berechnen, indem wir die Länge ermitteln. Zuletzt setzen wir noch die gewünschte Version, da wir diese brauchen um das richtige Paket von der HashiCorp-Website herunterzuladen.
@@ -203,9 +158,6 @@ Zuerst geben wir die für Nomad wichtigen Variablen frei indem wir die Liste `uf
 Da wir mit Terraform eine NSG eingeführt haben, die Netzwerkverbindungen aus dem Internet auf die VMs verbietet, müssen wir nun noch den Port 4646 (User Interface von Nomad) freigeben. Dazu gehen wir in unsere `main.tf` Datei und fügen in der Ressource `azurerm_network_security_group` noch eine neue Regel für nomad ein.
 
     				 `security_rule {     name                        = "Nomad_UI"     priority                    = 1002     direction                   = "Inbound"     access                      = "Allow"     protocol                    = "Tcp"     source_port_range           = "*"     destination_port_range      = "4646"     source_address_prefix       = "*"     destination_address_prefix  = "*" }`
-
-
-
 
 Nun können wir auch schon terraform apply ausführen und sollten so Nomad auf den VMs installiert haben. Nun können wir die über die öffentliche IP Adresse jeder VM mit dem Port 4646 auf Nomad zugreifen.
 

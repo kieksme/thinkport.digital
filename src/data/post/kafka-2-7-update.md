@@ -102,7 +102,7 @@ stream
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
 
- ***Thinkport** ist ein dynamisches und stetig wachsendes Cloud-Beratungsunternehmen,  mit dem Ziel innovative Technologien und Lösungen im Bereich Cloud Computing zu entwickeln. Als zertifizierter Microsoft Gold Platform Partner arbeiten wir eng mit Microsoft, im Azure-Cloud-Umfeld, zusammen und verfügen auch über zertifizierte Expertise mit Amazon Web Services.*
+ **\*Thinkport** ist ein dynamisches und stetig wachsendes Cloud-Beratungsunternehmen,  mit dem Ziel innovative Technologien und Lösungen im Bereich Cloud Computing zu entwickeln. Als zertifizierter Microsoft Gold Platform Partner arbeiten wir eng mit Microsoft, im Azure-Cloud-Umfeld, zusammen und verfügen auch über zertifizierte Expertise mit Amazon Web Services.\*
 
 *Unsere Stärken und unser Know-how liegen in den Bereichen Multi-Cloud, Data Lakes, Big Data, AI und Event-Driven Architectures (Hadoop, Kafka, Solace) sowie Terraform. Um einen weiteren Einblick über unsere Dienstleistungen zu bekommen, besuchen Sie gerne unsere Website und die neu aktualisierte [Workshop Seite](https://thinkport.digital/cloud-excellence-workshops/).* 
 

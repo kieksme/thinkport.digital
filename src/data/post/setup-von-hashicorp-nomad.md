@@ -85,9 +85,6 @@ Folgen Sie diesen **Schritten zur Erstellung des Setup für Nomad** mit Ansible 
 
     				 `plaintext - ansible/   - roles/     - ufw/     - fail2ban/     - nomad/     - consul/   - playbooks/     - setup.yml - terraform/   - main.tf   - variables.tf`
 
-
-
-
 Die Struktur könnte je nach Ihren Anforderungen variieren. 
 
 ## Autoren:

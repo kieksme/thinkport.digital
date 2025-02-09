@@ -181,7 +181,7 @@ Streaming
 
     Björn Product Owner
 
-![Sabrina](images/Sabrina-1.png 'portrait Sabrine')
+![Sabrina](images/Sabrina-1.png 'Portrait Sabrina')
 
     Sabrina Team Lead
 
@@ -293,7 +293,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-* [](https://www.xing.com/profile/Tobias_Drechsel3)
+- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+- [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

@@ -23,7 +23,7 @@ const groupedMembers = membersData.members.reduce((acc, member) => {
       <h1 class="mb-2 text-3xl">Team</h1>
       {
         Object.keys(groupedMembers).map((position) => (
-          <section class="mb-6" key={position}>
+          <section class="mb-6">
             <h2 class="mb-4 text-xl">{position}</h2>
             <ul class="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
               {groupedMembers[position].map((member) => (

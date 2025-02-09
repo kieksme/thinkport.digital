@@ -20,14 +20,14 @@ Erfahren Sie in unserem exklusiven Webinar, wie eine **hochverfügbare** und **s
 
 ## Ihr Webinar auf einen Blick:
 
-* Aufbau und Vorteile einer vollautomatisierten Integrationsplattform mit Apache Kafka, Confluent-Cloud und Terraform
+- Aufbau und Vorteile einer vollautomatisierten Integrationsplattform mit Apache Kafka, Confluent-Cloud und Terraform
 
-* Donnerstag, 06. Februar 2025
-* 14:00 - 15:30 Uhr (CET)
+- Donnerstag, 06. Februar 2025
+- 14:00 - 15:30 Uhr (CET)
 
-* Online (Link wird nach Anmeldung bereitgestellt)
+- Online (Link wird nach Anmeldung bereitgestellt)
 
-* Kostenlos
+- Kostenlos
 
 [Anmelden](#Anmeldung)
 
@@ -35,10 +35,10 @@ Erfahren Sie in unserem exklusiven Webinar, wie eine **hochverfügbare** und **s
 
 Was nehmen Sie aus dem Webinar mit:
 
-* Roadmap für den Aufbau einer vollautomatisierten Kafka-Integrationsplattform in 6 Monaten
-* Technische Funktionsweise für den Self-Service-Ansatz zur effizienten und standardisierten Anbindung von Systemen
-* Direkte Einblicke in die Herausforderungen von KRITIS-Unternehmen
-* Inspiration und Lösungsansätze für Ihre eigenen Projekte durch Q&A Runde
+- Roadmap für den Aufbau einer vollautomatisierten Kafka-Integrationsplattform in 6 Monaten
+- Technische Funktionsweise für den Self-Service-Ansatz zur effizienten und standardisierten Anbindung von Systemen
+- Direkte Einblicke in die Herausforderungen von KRITIS-Unternehmen
+- Inspiration und Lösungsansätze für Ihre eigenen Projekte durch Q&A Runde
 
 ## Webinar-Agenda
 
@@ -46,19 +46,19 @@ Was nehmen Sie aus dem Webinar mit:
 
 ### Teil 1 - Integrationsplattform
 
-* Was ist eine Integrationsplattform
-* Welche Vorteile und Herausforderungen hat sie
-* Für wen erscheint diese Lösung nötig
+- Was ist eine Integrationsplattform
+- Welche Vorteile und Herausforderungen hat sie
+- Für wen erscheint diese Lösung nötig
 
 ### Teil 2 - Automatisierung
 
-* Warum und wie automatisiert man heute
-* Vorstellung der Lösungsarchitektur
-* Technische Implementierung in vier Stufen
+- Warum und wie automatisiert man heute
+- Vorstellung der Lösungsarchitektur
+- Technische Implementierung in vier Stufen
 
 ### Teil 3 - Ihre Fragen
 
-* Q&A Session zu Ihrer Integrationsplattform
+- Q&A Session zu Ihrer Integrationsplattform
 
 ![](images/Patrick-966x1024.png)
 
@@ -90,7 +90,7 @@ Confluent ist ein Unternehmen, das sich auf die Entwicklung von Daten-Streaming-
 
 Confluent bietet eine breite Palette von Lösungen, darunter:
 
-* - Confluent Platform (integrierte Streaming-Plattform)
+- - Confluent Platform (integrierte Streaming-Plattform)
     - Confluent Cloud (Kafka-as-a-Service-Plattform in der Cloud)
     - Confluent Enterprise (erweiterte Version der Confluent Platform)
     - Confluent Hub (ein Marktplatz für Kafka-Connectoren, -Tools und -Anwendungen)

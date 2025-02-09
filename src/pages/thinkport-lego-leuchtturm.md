@@ -49,9 +49,6 @@ Oder mit normaler Überweisung auf das gleiche Spendenkonto
 
     				 `BIC: COLSDE33 IBAN: DE78 3705 0198 0020 0088 50 Sparkasse KölnBonn Kontonummer: 2000 88 50 BLZ: 370 501 98`
 
-
-
-
 DANKE.
 
 ![Leuchtturm](images/Lego_n7.png)![Leuchtturm Verpackung](images/Lego_n8.png)![Lars und die Lego Leuchttürme](images/Lego_n6.png)![Leuchtturm vor der Verpackung](images/Lego_n5.png)![Leuchtturm Bauanleitung](images/Lego_n4.png)![Leuchtturm hinter weißem Grund](images/Lego_n3.png)![Verpackung des Leuchtturms](images/Lego_n2.png)![Leuchtturm auf Leuchtturm Stapel](images/Lego_n1.png)

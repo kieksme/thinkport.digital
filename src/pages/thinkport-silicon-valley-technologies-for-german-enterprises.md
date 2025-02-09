@@ -60,10 +60,10 @@ Download_Formular_HasiCorp_Vault Name \* First Last Name \* Last Email \* Compan
 
 ## stellt die IT-Ziele großer Unternehmen und DAX Konzerne in den Mittelpunkt:
 
-* Die Performance zu beschleunigen, 
-* Agilität zu erhöhen, 
-* Kosten zu senken und
-* Compliance sicherzustellen.
+- Die Performance zu beschleunigen,
+- Agilität zu erhöhen,
+- Kosten zu senken und
+- Compliance sicherzustellen.
 
 ![Thinkport Logo auf blau-türkisen Hintergrund](images/Thinkport-Bild-min-1024x629.png)
 
@@ -75,10 +75,10 @@ Download_Formular_HasiCorp_Vault Name \* First Last Name \* Last Email \* Compan
 
 ## Besondere Kompetenzen haben wir in diesen **Service-Bereichen** aufgebaut, die uns Kunden bereits seit 5 Jahren anvertrauen:
 
-* Migration und Development komplexer Cloud Architekturen
-* Hybride und Multi Cloud Architekturen
-* Leistungsfähige Data Plattformen
-* Event getriebene Streaming Architekturen
+- Migration und Development komplexer Cloud Architekturen
+- Hybride und Multi Cloud Architekturen
+- Leistungsfähige Data Plattformen
+- Event getriebene Streaming Architekturen
 
 Wie können wir Ihnen helfen? Gerne stellen wir Ihnen das Experten - Team mit Best Practise Erfahrung für Ihre Aufgabe zusammen.
 

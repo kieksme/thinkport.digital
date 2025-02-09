@@ -55,7 +55,7 @@ Die `ansible.cfg` platzieren wir im Terraform Ordner, denn von dort aus wird sp�
 
 In der `ansible.cfg` fügen wir folgenden Code ein:
 
- `[defaults] host_key_checking = False`
+`[defaults] host_key_checking = False`
 
 Da unsere VMs beim Herunter- und Hochfahren an verschiedenen Tagen immer neue öffentliche IPs bekommen, wird immer nachgefragt ob diese neuen Maschinen vertrauenswürdig sind. Um dies nicht jedes mal mit `yes` bestätigen zu müssen setzen wir den Wert für Host-Key-Checking auf `false` .
 
@@ -98,7 +98,7 @@ Dazu fügen wir eine `null_resource` ein, diese benennen wir in diesem Fall ansi
     				 `# Ausführen des Ansible Playbooks um die virtuellen Maschinen zu konfigurieren resource "null_resource" "ansible_playbook" {     triggers = {         always_run = "${timestamp()}"     }     provisioner "local-exec" {         command = "ansible-playbook -i ${var.ansible_dir}inventory.yml ${var.ansible_dir}playbook.yml'     }     depends_on = [null_resource.ansible_inventory] }`
 
 Der `triggers` Block sorgt hierbei für eine Ausführung bei jedem Terraform-Apply, denn Terraform kann bei einer `null_resource` nicht wie bei anderen Ressourcen den Stand in der `terraform.tfstate` Datei mit dem in der Cloud vergleichen. Da wir hier nur einen Command ausführen und Terraform nicht genau über den Ausgang dieses Commands Bescheid weiß, müssen wir also jedes mal die Ausführung erneut starten, das machen wir über die integrierte Timestamp Variable.  
-Anschließend führt der `local-exec`  `provisioner` den Command `ansible-playbook -i /pfad/zum/inventar playbook.yml` aus.  
+Anschließend führt der `local-exec` `provisioner` den Command `ansible-playbook -i /pfad/zum/inventar playbook.yml` aus.  
 Da wir erstellen am besten eine Variable die vom Terraform Ordner zum Ansible Ordner zeigt. Dazu erstellen wir in der `variables.tf` eine neue Variable namens `var.ansible_dir` und fügen diese dann auch in der Datei `terraform.tfvars` hinzu.
 
     				 `variable "ansible_dir" {     type        = string     description = "Pfad zum Verzeichnis der Ansible Skripte"     default     = "./ansible/" }`

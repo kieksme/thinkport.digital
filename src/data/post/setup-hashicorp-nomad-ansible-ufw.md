@@ -78,9 +78,9 @@ Andere States sind z. B.:
 
 Nun haben wird also die `ufw` installiert, danach wollen wir zuerst alle einkommenden Verbindungen verbieten und alle ausgehenden erlauben. Dazu fügen wir die folgenden beiden Blöcke ein:
 
- `- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
+`- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
 
- `- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
+`- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
 
 Wie du siehst sprechen wir hier nicht mehr die `apt` Task an, sondern die `ufw` Task - dies ist eine in Ansible eingebaute Task mit der wir die ufw sehr einfach konfigurieren können. Am Ende dieser Task verwenden wir noch einen Handler um den ufw Dienst neuzustarten. Dazu geben wir den Namen des Handlers ein (hier `reload ufw` ). Da wir den Handler noch nicht angelegt haben machen wir das nun.
 

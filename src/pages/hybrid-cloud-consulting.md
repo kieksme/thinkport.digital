@@ -27,12 +27,12 @@ Termin vereinbaren[](#linksection)
 
 ## Hybrid Cloud Stärken
 
-* Flexibilität
-* Kontrolle und Sicherheit
-* Kostenoptimierung
-* Nahtlose Integration
-* Disaster Recovery und Business Continuity
-* Skalierbarkeit und Agilität
+- Flexibilität
+- Kontrolle und Sicherheit
+- Kostenoptimierung
+- Nahtlose Integration
+- Disaster Recovery und Business Continuity
+- Skalierbarkeit und Agilität
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
 
@@ -132,7 +132,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

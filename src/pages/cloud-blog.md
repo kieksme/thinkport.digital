@@ -512,6 +512,6 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ## [svhevia@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](http://www.linkedin.com/in/sara-vazquez-hevia)
+- [](http://www.linkedin.com/in/sara-vazquez-hevia)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

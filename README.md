@@ -6,13 +6,13 @@
 
 **AstroWind** is a free and open-source template to make your website using **[Astro 5.0](https://astro.build/) + [Tailwind CSS](https://tailwindcss.com/)**. Ready to start a new project and designed taking into account web best practices.
 
-* ✅ **Production-ready** scores in **PageSpeed Insights** reports.
-* ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
-* ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
-* ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
-* ✅ Generation of **project sitemap** based on your routes.
-* ✅ **Open Graph tags** for social media sharing.
-* ✅ **Analytics** built-in Google Analytics, and Splitbee integration.
+- ✅ **Production-ready** scores in **PageSpeed Insights** reports.
+- ✅ Integration with **Tailwind CSS** supporting **Dark mode** and **_RTL_**.
+- ✅ **Fast and SEO friendly blog** with automatic **RSS feed**, **MDX** support, **Categories & Tags**, **Social Share**, ...
+- ✅ **Image Optimization** (using new **Astro Assets** and **Unpic** for Universal image CDN).
+- ✅ Generation of **project sitemap** based on your routes.
+- ✅ **Open Graph tags** for social media sharing.
+- ✅ **Analytics** built-in Google Analytics, and Splitbee integration.
 
 <br>
 
@@ -31,18 +31,18 @@
 <details open>
 <summary>Table of Contents</summary>
 
-* [Demo](#demo)
-* [Upcoming: AstroWind 2.0 – We Need Your Vision!](#-upcoming-astrowind-20--we-need-your-vision)
-* [Getting started](#getting-started)
-  + [Project structure](#project-structure)
-  + [Commands](#commands)
-  + [Configuration](#configuration)
-  + [Deploy](#deploy)
-* [Frequently Asked Questions](#frequently-asked-questions)
-* [Related Projects](#related-projects)
-* [Contributing](#contributing)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
+- [Demo](#demo)
+- [Upcoming: AstroWind 2.0 – We Need Your Vision!](#-upcoming-astrowind-20--we-need-your-vision)
+- [Getting started](#getting-started)
+  - [Project structure](#project-structure)
+  - [Commands](#commands)
+  - [Configuration](#configuration)
+  - [Deploy](#deploy)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Related Projects](#related-projects)
+- [Contributing](#contributing)
+- [Acknowledgements](#acknowledgements)
+- [License](#license)
 
 </details>
 
@@ -139,14 +139,14 @@ Any static assets, like images, can be placed in the `public/` directory if they
 
 All commands are run from the root of the project, from a terminal:
 
-| Command             | Action                                             |
-| :------------------ | :------------------------------------------------- |
-| `npm install` | Installs dependencies                              |
-| `npm run dev` | Starts local dev server at `localhost:4321` |
-| `npm run build` | Build your production site to `./dist/` |
-| `npm run preview` | Preview your build locally, before deploying       |
-| `npm run check` | Check your project for errors                      |
-| `npm run fix` | Run Eslint and format codes with Prettier          |
+| Command             | Action                                              |
+| :------------------ | :-------------------------------------------------- |
+| `npm install`       | Installs dependencies                               |
+| `npm run dev`       | Starts local dev server at `localhost:4321`         |
+| `npm run build`     | Build your production site to `./dist/`             |
+| `npm run preview`   | Preview your build locally, before deploying        |
+| `npm run check`     | Check your project for errors                       |
+| `npm run fix`       | Run Eslint and format codes with Prettier           |
 | `npm run astro ...` | Run CLI commands like `astro add` , `astro preview` |
 
 <br>
@@ -236,8 +236,8 @@ ui:
 
 To customize Font families, Colors or more Elements refer to the following files:
 
-* `src/components/CustomStyles.astro`
-* `src/assets/styles/tailwind.css`
+- `src/components/CustomStyles.astro`
+- `src/assets/styles/tailwind.css`
 
 ### Deploy
 
@@ -269,16 +269,17 @@ Clone this repository on your own GitHub account and deploy to Vercel:
 
 ## Frequently Asked Questions
 
-* Why?
--
--
+- Why?
+
+*
+*
 
 <br>
 
 ## Related projects
 
-* [TailNext](https://tailnext.vercel.app/) - Free template using Next.js 14 and Tailwind CSS with the new App Router.
-* [Qwind](https://qwind.pages.dev/) - Free template to make your website using Qwik + Tailwind CSS.
+- [TailNext](https://tailnext.vercel.app/) - Free template using Next.js 14 and Tailwind CSS with the new App Router.
+- [Qwind](https://qwind.pages.dev/) - Free template to make your website using Qwik + Tailwind CSS.
 
 ## Contributing
 

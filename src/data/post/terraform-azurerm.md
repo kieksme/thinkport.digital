@@ -38,9 +38,6 @@ Mit der Version 3.0 wurden granularere Ressourcen für App Service eingeführt, 
 
     				 `provider "azurem" {     features {         key_vault {             # verfügbar in 2.x             purge_soft_delete_on_destroy = true             recover_soft_deleted_key_vaults = true             #verfügbar, wennfür die 3.0 Beta optiert wird             purge_soft_deleted_certificates_on_destroy = true             purge_soft_deleted_keys_on_destroy = true             purge_soft_deleted_secrets_on_destroy = false             recover_soft_deleted_certificates = true             recover_soft_deleted_secrets = false             recover_soft_deleted_keys = true         }     } }`
 
-
-
-
 Code-Snippet: Soft Delete für die Wiederherstellung sowie für die Bereinigung für Secrets wurde ausgeschalten
 
 ### 2\. Soft Delete für Key Vault
