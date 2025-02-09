@@ -3,7 +3,7 @@ title: 'Thinkport und Venitus bündeln ihre Kräfte'
 publishDate: 2024-03-25T10:00:00Z
 categories: + "company-value"
   + "enterprise"
-image: 'https://thinkport.digital/wp-content/uploads/2024/12/image-14-1536x1536.png'
+cimage: 'https://thinkport.digital/wp-content/uploads/2024/12/image-14-1536x1536.png'
 ---
 
 ## Thinkport begrüßt die Venitus Gruppe als Wachstumsinvestor und strategischen Partner
