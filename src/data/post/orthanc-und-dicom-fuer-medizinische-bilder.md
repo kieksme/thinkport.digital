@@ -19,8 +19,6 @@ DICOM (Digital Imaging and Communications in Medicine) und PACS (Picture Archivi
 
 DICOM, ein universeller Standard für die Speicherung, Übertragung und Kommunikation von medizinischen Bildern und zugehörigen Informationen, stellt sicher, dass Daten zwischen verschiedenen Geräten und Anwendungen interoperabel sind. Wenn beispielsweise ein medizinisches Bild mittels eines bildgebenden Verfahrens wie CT oder MRI aufgenommen wird, wird dieses Bild in der Regel im DICOM-Format gespeichert und codiert, umfassend mit relevanten Patientendaten und bildspezifischen Informationen.
 
-![icon of a computer with a white cross in it, over a gradient background](images/3-1024x683.webp) ![](images/PACS_-Zentrales-Verwaltungssystem-für-medizinische-Bilder-1024x683.webp)
-
 ### PACS: Zentrales Verwaltungssystem für medizinische Bilder
 
 PACS nutzt den DICOM-Standard, um ein effizientes System zur Speicherung, Verwaltung und Abrufung medizinischer Bilder zu schaffen. Es handelt sich um ein zentrales Repository, das nicht nur zur Aufbewahrung von Bildern dient, sondern auch die Möglichkeit bietet, auf sie zuzugreifen und sie zu teilen. Innerhalb des PACS-Systems erfolgt die Kommunikation zwischen Servern und Client-Anwendungen, wobei der DICOM-Standard zur Übertragung und Darstellung der Bilder verwendet wird.
@@ -69,15 +67,15 @@ Orthanc, eine innovative Lösung im Bereich der medizinischen Bildgebung, zielt 
 
 ### Orthanc in Kürze
 
-- **Vielseitigkeit und Einfachheit**: Orthanc kann jeden Computer, der Windows, Linux oder OS X ausführt, in einen DICOM-Speicher verwandeln, d.h., in ein mini-PACS-System. Dies macht es zu einer flexiblen Lösung, die leicht in verschiedenen Umgebungen implementiert werden kann.
+* **Vielseitigkeit und Einfachheit**: Orthanc kann jeden Computer, der Windows, Linux oder OS X ausführt, in einen DICOM-Speicher verwandeln, d.h., in ein mini-PACS-System. Dies macht es zu einer flexiblen Lösung, die leicht in verschiedenen Umgebungen implementiert werden kann.
 
-- **Leichtgewichtige Architektur**: Die Architektur von Orthanc ist leichtgewichtig und eigenständig. Es erfordert keine komplizierte Datenbankadministration und keine Installation von Abhängigkeiten Dritter. Dies erleichtert die Einrichtung und Wartung des Systems.
+* **Leichtgewichtige Architektur**: Die Architektur von Orthanc ist leichtgewichtig und eigenständig. Es erfordert keine komplizierte Datenbankadministration und keine Installation von Abhängigkeiten Dritter. Dies erleichtert die Einrichtung und Wartung des Systems.
 
-- **RESTful API**: Eines der herausragenden Merkmale von Orthanc ist seine RESTful API, die es ermöglicht, Orthanc aus jeder Programmiersprache heraus zu steuern. Dies eröffnet immense Möglichkeiten für Anpassungen und die Integration in verschiedene Workflows und Systeme.
+* **RESTful API**: Eines der herausragenden Merkmale von Orthanc ist seine RESTful API, die es ermöglicht, Orthanc aus jeder Programmiersprache heraus zu steuern. Dies eröffnet immense Möglichkeiten für Anpassungen und die Integration in verschiedene Workflows und Systeme.
 
-- **Zugänglichkeit der Daten**: Mit Orthanc können die DICOM-Tags der gespeicherten medizinischen Bilder im JSON-Dateiformat heruntergeladen werden, und es können standardmäßig PNG-Bilder aus den DICOM-Instanzen on-the-fly generiert werden. Dies verbessert die Zugänglichkeit und Nutzbarkeit der medizinischen Bilder.
+* **Zugänglichkeit der Daten**: Mit Orthanc können die DICOM-Tags der gespeicherten medizinischen Bilder im JSON-Dateiformat heruntergeladen werden, und es können standardmäßig PNG-Bilder aus den DICOM-Instanzen on-the-fly generiert werden. Dies verbessert die Zugänglichkeit und Nutzbarkeit der medizinischen Bilder.
 
-- **Plugin-Mechanismus**: Orthanc verfügt über einen Plugin-Mechanismus, der das Hinzufügen neuer Module ermöglicht, die die Kernfunktionen seiner REST-API erweitern. Plugins, wie ein Webviewer, PostgreSQL-Datenbank-Backend, MySQL-Datenbank-Backend und eine Referenzimplementierung von DICOMweb, sind aktuell frei verfügbar und erweitern die Funktionalität und Anpassungsfähigkeit von Orthanc weiter.
+* **Plugin-Mechanismus**: Orthanc verfügt über einen Plugin-Mechanismus, der das Hinzufügen neuer Module ermöglicht, die die Kernfunktionen seiner REST-API erweitern. Plugins, wie ein Webviewer, PostgreSQL-Datenbank-Backend, MySQL-Datenbank-Backend und eine Referenzimplementierung von DICOMweb, sind aktuell frei verfügbar und erweitern die Funktionalität und Anpassungsfähigkeit von Orthanc weiter.
 
 Orthanc's einzigartiger Ansatz und Funktionsumfang machen es zu einer idealen Lösung für das effiziente Management von DICOM-Flüssen in Krankenhäusern sowie zur Unterstützung von Forschungsprojekten im Bereich der automatisierten Analyse medizinischer Bilder. Durch die Verbergung der Komplexität des DICOM-Formats und des DICOM-Protokolls ermöglicht Orthanc den Benutzern, sich auf den Inhalt der DICOM-Dateien zu konzentrieren und so die Effizienz und Produktivität in der medizinischen Bildverarbeitung zu steigern.
 
