@@ -1,14 +1,15 @@
 ---
 title: "ESG-Datenplattform"
 publishDate: 2024-08-07T10:00:00Z
+author: "Dominik Fries"
 categories: 
   + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-coverImage: "Titelbild-Bild-2.png"
+image: "https://thinkport.digital/wp-content/uploads/2024/08/Titelbild-Bild-2-768x768.png"
 ---
 
-# Die maßgeschneiderte Lösung für das automatisierte ESG-Reporting
+## Die maßgeschneiderte Lösung für das automatisierte ESG-Reporting
 
 „ESG“ steht für "Environmental, Social and Governance", die drei Säulen der Nachhaltigkeit. Und genau danach orientiert sich das ESG-Reporting bzw. die Nachhaltigkeitsberichterstattung.
 

@@ -154,7 +154,7 @@ export const headerData = {
       ],
     },
   ],
-  actions: [{ text: 'Kontakt', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Kontakt', href: '/contact' }],
 };
 
 export const footerData = {
@@ -188,7 +188,7 @@ export const footerData = {
     {
       title: 'Inhalte',
       links: [
-        { text: 'Kontakt', href: '#' },
+        { text: 'Kontakt', href: '/contact' },
         { text: 'Blog', href: '#' },
         { text: 'Karriere', href: '#' },
         { text: 'Presse', href: '#' },
@@ -196,9 +196,9 @@ export const footerData = {
     },
   ],
   secondaryLinks: [
-    { text: 'Impressumg', href: getPermalink('/terms') },
+    { text: 'Impressum', href: getPermalink('/terms') },
     { text: 'Dataenschutzerklärung', href: getPermalink('/privacy') },
-    { text: 'Kontakt', href: '#' },
+    { text: 'Kontakt', href: '/contact' },
   ],
   socialLinks: [
     { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
