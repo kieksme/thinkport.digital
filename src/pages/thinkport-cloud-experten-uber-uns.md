@@ -177,7 +177,7 @@ Finance
 
 Streaming
 
-![Wladislaw](images/Wladislaw.png 'Wladislaw') Wladislaw Cloud Engineer ![Steffen](images/Steffen.png 'Steffen') Steffen Cloud Engineer ![Vanessa](images/Vanessa.png 'Vanessa') Vanessa Business Development ![Joshua](images/Ohne-Titel-500-x-500-px-2.png 'portrait Joshua') Joshua Senior Cloud Engineer ![Philipp3](images/Philipp3.png 'portrait Philipp') Philipp Innovation Manager ![Björn](images/Björn.png 'portrait björn')
+![Wladislaw](images/Wladislaw.png 'Wladislaw') Wladislaw Cloud Engineer ![Steffen](images/Steffen.png 'Steffen') Steffen Cloud Engineer ![Vanessa](images/Vanessa.png 'Vanessa') Vanessa Business Development ![Joshua](images/Ohne-Titel-500-x-500-px-2.png 'Portrait Joshua') Joshua Senior Cloud Engineer ![Philipp3](images/Philipp3.png 'Portrait Philipp') Philipp Innovation Manager ![Björn](images/bjoern.png 'Portrait Björn')
 
     Björn Product Owner
 
@@ -293,7 +293,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-- [](https://www.xing.com/profile/Tobias_Drechsel3)
+* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+* [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)
