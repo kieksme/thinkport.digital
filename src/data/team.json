@@ -1,0 +1,361 @@
+{
+  "members": [
+    {
+      "hash": "5b362461be5665cd22d3a18d7c9d75622ec149576bc5c281f799219b04f17a5f",
+      "name": "Alex",
+      "position": "Business Unit LeadTransportation & Logistic",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/alex-2.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "724f6b578094e7f7279e3e5c2d4b0e7fe69a6f181678450826dd3b12b0591c2f",
+      "name": "Andreas",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/09/Andreas.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "4e9bc5a75d876be2fa8fbe62bf6ef2cd35e3031dd9e034cc61ef4975bdde16a2",
+      "name": "André",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/03/André-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "2d870d3eae401cf9463919cdde428c50488922a052e4420188764784e4759c0a",
+      "name": "Annemarie",
+      "position": "Dual Computer Science Student",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/09/Annemarie-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "9e5954dedd1df0ab70a7ddcc05c8ec02c1266bf4b61204756a98c15775b52ee6",
+      "name": "Björn",
+      "position": "Product Owner",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/05/Björn.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "98c8013e58498db0fa1edd3a88bccbfcc29a8b1306f8966df78b93f4b445a3ed",
+      "name": "Chantal",
+      "position": "Business Development",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2024/01/Chantal.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "0b1b0d198d7882b0ae9508374b6518611b83fc7746f0a6825bd78a1eb377067e",
+      "name": "Chris",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/chris-ulpinnis-2.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "58ff903d345827ec168dec357f6f150e6759340bbcd6c2942639759d5d724fcb",
+      "name": "Christina",
+      "position": "Business Unit LeadZero",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/11/Christina.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "07de4fafc5e6771481bf873aa70b5521bf3ec11a3eb28b9b6ae16f48a4a53990",
+      "name": "Clemens",
+      "position": "Business Unit LeadBiotech & Chemicals",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/clemens-2.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "dd2a3eb7e47d91f9e7a208c6f923de7fe65e06b8111f7ce900c7c518e557daff",
+      "name": "Dominik",
+      "position": "CTO",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/01/Dominik-3.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "74b991a57df8e80c800d475140ff7c4bd9f0f973643bf03378c52dec1edea945",
+      "name": "Evelina",
+      "position": "Cloud Developer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/03/Evelina-2.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "407b7583062a29a17ec26b988748cf03ca87ff12724c0c0334b2ccc6a2cec7ce",
+      "name": "Felix",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/07/Felix-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "058f8c5e83c3f208986a9bcb21f800370b76284557f4b9f985f8015a108d12ff",
+      "name": "Filipp",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/filipp-2.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "997cfb5b85a9d2c2f9172a61b0ce9d8dfd9abd4f9afbb5bc6fe0f52d3b5bce17",
+      "name": "Frank",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/Frank.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "3ee23614ce34b7a1046e37a6e19e798bebd2b29d9b9922a5ef945fb28c699552",
+      "name": "Jan Moritz",
+      "position": "Account Manager",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/05/moritz-2.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "ced1c3f684f055bed943be30bd65f2b792c40fe20776c9e9611887680ecd59a7",
+      "name": "Jonas",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/05/Jonas-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "6adbb5d493c9d62fddc03939a59c978858bf929b276f5bef753eeed3998c24d2",
+      "name": "Joshua",
+      "position": "Office Manager",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/01/JoshuaBabutzka-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "3b39829d31db93ea93977af6236b6a3aacb5376377ac165d2d7bb42bb0a9d087",
+      "name": "Joshua",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/11/Ohne-Titel-500-x-500-px-2.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "cd5ccae4465c083f13510a482bd72ec3be269a2e3cd1e62b20a407e2e0bbad4d",
+      "name": "Julius",
+      "position": "Business Unit LeadData",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/05/Julius-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "13b3069aa67e0473cd44011a31e2fd2eed6ceb8ae9efc0e81150bafac2604742",
+      "name": "Keith",
+      "position": "Business Unit LeadRetail",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/keith-1-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "876552b173a39d60aa570bfc46bc79044899af826c82eb3abf320dfb32ccfb6a",
+      "name": "Kristian",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/07/Kristian-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "daf76d13060457339369dd1c168857162a595fb21c27db3db166c068f358dda5",
+      "name": "Laszlo",
+      "position": "Business Unit LeadStreaming",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/01/Laszlo.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "e2e30ca6f5036969283a128d1836eedc65f70997903af57cb1f263e327257b92",
+      "name": "Lukas",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/07/Lukas.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "6a83f4f1244bb9788071282129c95ef9b243d507ea39a5b12deb6a74ebae1824",
+      "name": "Mai Ly",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/07/Mai-Ly-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "781dd16e6384fd21fc08379245a29431dba2367328ba890f75425a7a13719424",
+      "name": "Mario",
+      "position": "Cloud Developer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/10/Mario-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "a6835f73666f2bd219943f8a9b6e69422a2b32bed1107f8ad39890a6c4100614",
+      "name": "Markus",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/10/Markus.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "8e996102dc28c660edbc1778da11ec9fac5cbed963452e68d652b5ecf6c8b480",
+      "name": "Markus",
+      "position": "Senior Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/markus-1-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "e796074813158b2505ab2bc10acada580da86e581b6987152df4be5b26a6b5bf",
+      "name": "Martin",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/AnyConv.com__Martin.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "e31af54a18140e8e1163c8205da88984eb84cd62988807988ff2491c5416c16a",
+      "name": "Martin",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2024/01/Martin-Gutwin-3.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "42021518f45e40ff19e13222bf5d2d64cce96aa09c1d3c3d2f8cc517d8e6435e",
+      "name": "Mathias",
+      "position": "Senior Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/AnyConv.com__Mathias.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "453f80c3fb9e408e54d48710b3292f9fd6a4f8f30140feebf87922e77efc3f13",
+      "name": "Patrick",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/01/Patrick.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "9fc18822205131f2c7fbe4c917081160b2fd495feadcfccdf2fc8be307eb99a4",
+      "name": "Patrick",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2025/02/Patrick-M-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "a25ffc5eb2bc7339b50545196ad7eaf6ce4d09f15102186b2e72ec39eeb14dc4",
+      "name": "Philipp",
+      "position": "Innovation Manager",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/02/Philipp3.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "b9ad1efba8c7db157ab1fa69ed9f4ba6a6f7ee3b8acd43fd3c8f8009306b43f6",
+      "name": "Philipp",
+      "position": "Business Unit LeadFinance",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/AnyConv.com__Philipp-DAngelo.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "247947d9ee8091cf07f7c92ad3b61d130f9807a6a4afd11170e004d752c4ebd9",
+      "name": "Philipp",
+      "position": "Business Unit LeadGeneral",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/02/Philipp-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "4f7105c09ed760ed64d080a99bfafdfaeada1ae72f10004e4c64737e10eae90f",
+      "name": "Qin",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/08/Qin.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "08e0acce74fa65aece8e22661bdf6990dd0eac7f7c58aa76712d1285d70edcb3",
+      "name": "Rebecca",
+      "position": "Finance Manager",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/04/Rebecca-1.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "e844a3aa9c3d28aafa6c4d144e61d1bfef80d98606c01a650258a70cd8232270",
+      "name": "René",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2024/01/René.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "b34ed5054161fb21cca0aa186f833eca3e0393fbc5935d3665955078b4b70e73",
+      "name": "Reyber",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/01/Reyber-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "8e98b69635b5a5e4ee8cb2d87117c39c79b37045bd352903f16dabab6416b067",
+      "name": "Richard",
+      "position": "Cloud Architect",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/09/Richard.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "7b94a9f25062960266804edd8b09fc97fe28dbf203db9fa96a798b8f34c3a198",
+      "name": "Sabrina",
+      "position": "Team Lead People & Culture",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/03/Sabrina-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "7079ab5565c450e8fccec7f65e03a85713bf15ef5c24fa98153313521d6966de",
+      "name": "Samir",
+      "position": "Business Team LeadTransportation",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/01/Samir.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "ff02ae370ea95c88444afbfdab117e1d9b313fdaad484cb5b34afa47e1cf06a0",
+      "name": "Steffen",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/02/Steffen.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "7df89034eb226f48ceb96a902187d26d324250fff1c15501588cc4d5ae3ce26e",
+      "name": "Stephan",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2020/08/Design-ohne-Titel-7.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "9f5ff984ffe565713614ca3e98ff250cd0d056b71dfb32dc7d0c5cee9f12c2fb",
+      "name": "Thomas",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/11/Thomas.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "6a7991c17608e4ab00c0fdc5ce5922d3ef3bcf8cf4aa72f28dbf7af60630572e",
+      "name": "Tilman",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/AnyConv.com__Tilman.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "ebcbeb34535085f94eb1e38741703ac8b9083f65a141e7017a5560c6bf6ea632",
+      "name": "Tim",
+      "position": "Product Owner",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2024/04/tim-_mejorada-e1712303866982.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "c3cca84784fb7c114e8aa0b2444213e595af2e7573b88d8dc5ff245a6dae9d0d",
+      "name": "Tobias",
+      "position": "Senior Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/06/Tobias-1.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "ce255d74083e021cede35632474cd87be9c0ed4ea323ea4b0cb883a61f1c4d20",
+      "name": "Tobias",
+      "position": "CEO",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2023/11/AnyConv.com__Tobi.webp",
+      "linkedin": ""
+    },
+    {
+      "hash": "a089619a482b32b1da338f22701fc2197681684b43b9efa0ed03f36233465285",
+      "name": "Vanessa",
+      "position": "Business Development",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2022/02/Vanessa.png",
+      "linkedin": ""
+    },
+    {
+      "hash": "65461d286182e1ddfe971d75ce61b98c4bedde269bf46fa6dc038604a3f44fe6",
+      "name": "Wladislaw",
+      "position": "Cloud Engineer",
+      "avatar": "https://thinkport.digital/wp-content/uploads/2021/01/Wladislaw.png",
+      "linkedin": ""
+    }
+  ]
+}
