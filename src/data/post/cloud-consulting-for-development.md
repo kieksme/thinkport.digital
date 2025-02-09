@@ -29,11 +29,11 @@ Cloud consulting firms can help businesses assess their existing infrastructure 
 
 Use this checklist for Lift and Shift:
 
-- Identify applications and data to be moved to the cloud.
-- Choose the right cloud provider based on your business needs and goals.
-- Plan and execute a migration strategy using migration tools provided by the cloud provider.
-- Optimize cloud infrastructure to reduce costs and improve performance.
-- Ensure security and compliance requirements are met during the migration process.
+* Identify applications and data to be moved to the cloud.
+* Choose the right cloud provider based on your business needs and goals.
+* Plan and execute a migration strategy using migration tools provided by the cloud provider.
+* Optimize cloud infrastructure to reduce costs and improve performance.
+* Ensure security and compliance requirements are met during the migration process.
 
 [![Werbebanner mit Gökhan und dem Schriftzug Cloud Trainings & Workshops](images/Copy-of-GDN-Kampange-Querformat-3-1024x536.webp)](https://thinkport.digital/cloud-trainings-workshops/)
 
@@ -47,11 +47,11 @@ Cloud consulting firms can help businesses design and implement a modernization 
 
 Checklist Modernization:
 
-- Assess the architecture of your existing applications and identify areas for improvement.
-- Determine the best containerization and orchestration platform based on your business needs and goals.
-- Develop a migration plan for containerization of applications using tools like Docker.
-- Deploy the applications to a container orchestration platform like Kubernetes.
-- Optimize containerization and orchestration platform to improve performance and scalability.
+* Assess the architecture of your existing applications and identify areas for improvement.
+* Determine the best containerization and orchestration platform based on your business needs and goals.
+* Develop a migration plan for containerization of applications using tools like Docker.
+* Deploy the applications to a container orchestration platform like Kubernetes.
+* Optimize containerization and orchestration platform to improve performance and scalability.
 
 ## Cloud Optimization
 
@@ -61,11 +61,11 @@ Cloud consulting firms can help businesses optimize their cloud environment by a
 
 Checklist Cloud Optimization:
 
-- Monitor cloud resources using cloud monitoring tools like AWS CloudWatch and Azure Monitor.
-- Analyze the data collected by monitoring tools to identify opportunities for optimization.
-- Implement changes to cloud infrastructure to improve performance and reduce costs.
-- Automate cloud management processes to improve efficiency and reduce the risk of human error.
-- Continuously monitor and optimize cloud resources to ensure they meet the needs of the business.
+* Monitor cloud resources using cloud monitoring tools like AWS CloudWatch and Azure Monitor.
+* Analyze the data collected by monitoring tools to identify opportunities for optimization.
+* Implement changes to cloud infrastructure to improve performance and reduce costs.
+* Automate cloud management processes to improve efficiency and reduce the risk of human error.
+* Continuously monitor and optimize cloud resources to ensure they meet the needs of the business.
 
 [![Werbebanner mit Janina mit dem Schriftzug Cloud Architecture Review Workshop](images/Copy-of-GDN-Kampange-Querformat-2-1024x536.webp)](https://thinkport.digital/cloud-architecture-review/)
 
@@ -77,11 +77,11 @@ At this stage, businesses build and deploy applications specifically designed fo
 
 Checklist Cloud-Native:
 
-- Identify applications that can be re-architected as cloud-native applications.
-- Choose a serverless computing platform or a container-based platform based on your business needs and goals.
-- Develop and deploy cloud-native applications using cloud-native databases and serverless computing platforms like AWS Lambda or Azure Functions.
-- Optimize cloud-native applications to ensure scalability, cost-effectiveness, and resiliency.
-- Continuously monitor and optimize cloud-native applications to ensure they meet the needs of the business.
+* Identify applications that can be re-architected as cloud-native applications.
+* Choose a serverless computing platform or a container-based platform based on your business needs and goals.
+* Develop and deploy cloud-native applications using cloud-native databases and serverless computing platforms like AWS Lambda or Azure Functions.
+* Optimize cloud-native applications to ensure scalability, cost-effectiveness, and resiliency.
+* Continuously monitor and optimize cloud-native applications to ensure they meet the needs of the business.
 
 In summary, the development or adaption in the cloud is a journey that requires a mix of technologies and services. Businesses need to choose the right combination of tools and services that suit their needs and goals, from migration tools and cloud infrastructure to containers, cloud monitoring, and cloud-native technologies offered by leading cloud service providers like AWS and Azure.
 

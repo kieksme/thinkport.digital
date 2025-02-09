@@ -6,8 +6,6 @@ categories: + "events"
 coverImage: 'MicroservicesMeetup.jpeg'
 ---
 
-[![](images/Logo_horizontral_new.png)](https://thinkport.digital)
-
 Microservices Meetup Rhein Main March 2020
 
 ## NEWS Event
@@ -34,4 +32,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)

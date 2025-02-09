@@ -5,8 +5,6 @@ categories: + "news"
 coverImage: 'Bahn.png'
 ---
 
-[![](images/Logo_horizontral_new.png)](https://thinkport.digital)
-
 "Data Engineering for Managers" with BirdsOnMars
 
 ## NEWS Workshop
@@ -35,4 +33,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
--  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

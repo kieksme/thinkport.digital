@@ -5,8 +5,6 @@ categories: + "news"
 coverImage: 'health_insurance.png'
 ---
 
-[![](images/Logo_horizontral_new.png)](https://thinkport.digital)
-
 Philipp D'Angelo gewinnt den Health Insurance Hack 2020 in Leipzig
 
 ## NEWS Event
@@ -35,4 +33,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
--  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

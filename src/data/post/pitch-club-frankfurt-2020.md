@@ -6,8 +6,6 @@ categories: + "events"
 coverImage: '0-2.jpg'
 ---
 
-[![](images/Logo_horizontral_new.png)](https://thinkport.digital)
-
 PitchClub Frankfurt February 2020
 
 ## NEWS Event
@@ -36,4 +34,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)

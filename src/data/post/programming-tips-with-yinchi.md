@@ -6,8 +6,6 @@ categories: + "events"
 coverImage: 'Coding-tips.png'
 ---
 
-[![](images/Logo_horizontral_new.png)](https://thinkport.digital)
-
 3 Tips for AWS Programming
 
 ## NEWS AWS Cloud
@@ -42,4 +40,4 @@ Weitere Neuigkeiten
 
 ## cfriede@thinkport.digital
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
