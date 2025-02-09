@@ -1,9 +1,7 @@
-------------  -----------------------------------------------------------------  ----------
+---
 title:        'Synapse, Databricks, Glue, Athena - Welche Lösung für Big Data?'
 publishDate:  2024-01-08T10:00:00Z
-categories:   +                                                                  "big-data"
-+             "cloud-general"
-------------  -----------------------------------------------------------------  ----------
+---
 
 ## Entscheidung für Big Data
 
