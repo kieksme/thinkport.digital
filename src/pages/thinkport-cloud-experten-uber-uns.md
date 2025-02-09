@@ -147,13 +147,13 @@ Team
 
 ### Frankfurt
 
-![Tobi](images/AnyConv.com__Tobi.webp 'Portrait Tobias') Tobias CEO ![alex](images/alex-2.webp 'Portrait Alex')
+![Tobi](images/AnyConv.com__Tobi.png 'Portrait Tobias') Tobias CEO ![alex](images/alex-2.png 'Portrait Alex')
 
     Alex Business Unit Lead
 
 Transportation & Logistic
 
-![Keith](images/keith-1-1.webp 'Portrait Keith')
+![Keith](images/keith-1-1.png 'Portrait Keith')
 
     Keith Business Unit Lead
 
@@ -165,7 +165,7 @@ Retail
 
 Transportation
 
-![Philipp D’Angelo](images/AnyConv.com__Philipp-DAngelo.webp 'Portrat Phillip')
+![Philipp D’Angelo](images/AnyConv.com__Philipp-DAngelo.png 'Portrat Phillip')
 
     Philipp Business Unit Lead
 
@@ -229,7 +229,7 @@ Data
 
     Reyber Cloud Engineer
 
-![Rebecca](images/Rebecca-1.webp 'Rebecca portrait')
+![Rebecca](images/Rebecca-1.png 'Rebecca portrait')
 
     Rebecca Finance Manager
 
@@ -237,7 +237,7 @@ Data
 
     Joshua Office Manager
 
-![Mai Ly](images/Mai-Ly-1.webp 'Mai Ly portrait') Mai Ly Senior Cloud Engineer ![Chantal](images/Chantal.webp 'portrait of our coworker Chantal') Chantal Business Development ![tim _mejorada](images/tim-_mejorada-e1712303866982.webp 'Tim Portrait')
+![Mai Ly](images/Mai-Ly-1.png 'Mai Ly portrait') Mai Ly Senior Cloud Engineer ![Chantal](images/Chantal.png 'portrait of our coworker Chantal') Chantal Business Development ![tim _mejorada](images/tim-_mejorada-e1712303866982.png 'Tim Portrait')
 
     Tim Product Owner
 
@@ -249,7 +249,7 @@ Data
 
 General
 
-![clemens](images/clemens-2.webp 'Clemens Portrait')
+![clemens](images/clemens-2.png 'Clemens Portrait')
 
     Clemens Business Unit Lead
 
@@ -263,19 +263,19 @@ Biotech & Chemicals
 
 Leipzig
 
-![Dominik](images/Dominik-3.png 'Dominik portrait') Dominik CTO ![markus (1)](images/markus-1-1.webp 'Markus portrait') Markus Senior Cloud Architect ![Mathias](images/AnyConv.com__Mathias.webp 'Mathias Portrait') Mathias Senior Cloud Architect ![Tilman](images/AnyConv.com__Tilman.webp 'Tilman Portrait') Tilman Cloud Engineer ![Lukas](images/Lukas.png 'portrait Lukas') Lukas Senior Cloud Engineer ![Martin](images/AnyConv.com__Martin.webp 'Martin Portrait') Martin Cloud Architect ![Christina](images/Christina.png 'portrait Christina')
+![Dominik](images/Dominik-3.png 'Dominik portrait') Dominik CTO ![markus (1)](images/markus-1-1.png 'Markus portrait') Markus Senior Cloud Architect ![Mathias](images/AnyConv.com__Mathias.png 'Mathias Portrait') Mathias Senior Cloud Architect ![Tilman](images/AnyConv.com__Tilman.png 'Tilman Portrait') Tilman Cloud Engineer ![Lukas](images/Lukas.png 'portrait Lukas') Lukas Senior Cloud Engineer ![Martin](images/AnyConv.com__Martin.png 'Martin Portrait') Martin Cloud Architect ![Christina](images/Christina.png 'portrait Christina')
 
     Christina Business Unit Lead
 
 Zero
 
-![filipp](images/filipp-2.webp 'Filipp portrait') Filipp Senior Cloud Engineer ![chris-ulpinnis](images/chris-ulpinnis-2.webp 'Chris Portrait') Chris Cloud Architect ![Evelina](images/Evelina-2.webp 'Evelina portrait') Evelina Cloud Developer ![Coming Soon](images/Design-ohne-Titel-7.png 'Coming Soon Icon') Stephan Senior Cloud Engineer ![André](images/Andre.webp 'André portrait') André Senior Cloud Engineer ![Annemarie](images/Annemarie-1.webp 'portrait Annemarie') Annemarie Dual Computer Science Student ![Frank](images/Frank.webp 'portrait Frank') Frank Cloud Engineer ![Martin Gutwin](images/Martin-Gutwin-3.webp 'portrait Martin Gutwin')
+![filipp](images/filipp-2.png 'Filipp portrait') Filipp Senior Cloud Engineer ![chris-ulpinnis](images/chris-ulpinnis-2.png 'Chris Portrait') Chris Cloud Architect ![Evelina](images/Evelina-2.png 'Evelina portrait') Evelina Cloud Developer ![Coming Soon](images/Design-ohne-Titel-7.png 'Coming Soon Icon') Stephan Senior Cloud Engineer ![André](images/Andre.png 'André portrait') André Senior Cloud Engineer ![Annemarie](images/Annemarie-1.png 'portrait Annemarie') Annemarie Dual Computer Science Student ![Frank](images/Frank.png 'portrait Frank') Frank Cloud Engineer ![Martin Gutwin](images/Martin-Gutwin-3.png 'portrait Martin Gutwin')
 
     Martin Cloud Engineer
 
 ### Berlin
 
-![Felix](images/Felix-1.png 'portrait Felix') Felix Cloud Engineer ![Andreas](images/Andreas.webp 'Andreas portrait')
+![Felix](images/Felix-1.png 'portrait Felix') Felix Cloud Engineer ![Andreas](images/Andreas.png 'Andreas portrait')
 
  Andreas Cloud Architect
  

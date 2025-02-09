@@ -22,12 +22,12 @@ Qualifizieren Sie Ihre Mitarbeiter praxisnah für den neuesten Stand der Technol
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital) [](#linksection)@media only screen and (max-width: 2399px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 25%; } }@media only screen and (max-width: 1024px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 50%; } }@media only screen and (max-width: 767px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 100%; } }
 
-- All
-- AWS
-- Azure
-- Event-Streaming
-- Hybrid-Cloud
-- Weitere Trainings
+* All
+* AWS
+* Azure
+* Event-Streaming
+* Hybrid-Cloud
+* Weitere Trainings
 
 [![CI/ CD für AWS Logo und Schriftzug](https://thinkport.digital/wp-content/uploads/2022/09/AWS_CICD-1.png)
 
@@ -119,7 +119,7 @@ Fortgeschrittene Best Practices aus der Industrie lernen.
 
 Datenanalyse mit Text Mining und Machine Learning Methoden.
 
-](https://thinkport.digital/spark-fuer-big-data-lernen/)[![Terraform for google cloud platform Training](https://thinkport.digital/wp-content/uploads/2024/02/Databricks-Training.webp)
+](https://thinkport.digital/spark-fuer-big-data-lernen/)[![Terraform for google cloud platform Training](https://thinkport.digital/wp-content/uploads/2024/02/Databricks-Training.png)
 
 ### Terraform für GCP
 
@@ -133,9 +133,9 @@ Hands-on! Ganze Infrastrukturen in GCP mit IaC bereitstellen.
 
 @media only screen and (max-width: 2399px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 25%; } }@media only screen and (max-width: 1024px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 50%; } }@media only screen and (max-width: 767px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 100%; } }
 
-- All
-- Cloud
-- Verwandte Themen
+* All
+* Cloud
+* Verwandte Themen
 
 [![Disruption Days Logo und Schriftzug](https://thinkport.digital/wp-content/uploads/2022/09/DD-1.png)
 
@@ -167,7 +167,7 @@ Ihre Themen rund um die Cloud.
 
 Notfall mit Ihrer Cloud. Wir helfen!
 
-](https://thinkport.digital/cloud-soforthilfe/)[![Databricks MLOps bild](https://thinkport.digital/wp-content/uploads/2024/04/Databricks-MLOps.webp)
+](https://thinkport.digital/cloud-soforthilfe/)[![Databricks MLOps bild](https://thinkport.digital/wp-content/uploads/2024/04/Databricks-MLOps.png)
 
 ### Databricks MLOps
 
@@ -279,7 +279,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

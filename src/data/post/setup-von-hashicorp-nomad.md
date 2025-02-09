@@ -2,43 +2,43 @@
 title: 'Setup von Hashicorp Nomad'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
-coverImage: 'nomad-setup.webp'
+coverImage: 'nomad-setup.png'
 ---
 
 # Setup von Hashicorp Nomad
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-![nomad setup teaser](images/nomad-setup-1024x683.webp)
+![nomad setup teaser](images/nomad-setup-1024x683.png)
 
 Setup von Hashicorp
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 [Schritt 1:  
 Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform)
 
-[![ansible teaser](images/ansible-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 [Schritt 2:  
 Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
-[![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 [Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-[![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad)
+[![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad)
 
-[![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+[![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul)
@@ -47,7 +47,7 @@ Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul
 
 Das nachfolgende Setup von Nomad bietet eine effiziente und skalierbare Methode zur Bereitstellung und Verwaltung von Nomad und Consul in einer Infrastruktur:
 
-- - [Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/): Ermöglicht die Infrastrukturautomatisierung und bietet eine einheitliche Methode zum Erstellen, Ändern und Versionieren der Infrastruktur.
+* - [Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/): Ermöglicht die Infrastrukturautomatisierung und bietet eine einheitliche Methode zum Erstellen, Ändern und Versionieren der Infrastruktur.
 
     - [Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/): Ermöglicht die Konfiguration und Bereitstellung von Softwareanwendungen auf den erstellten Maschinen. Durch die Verwendung von Ansible-Rollen können Aufgaben modularisiert und wiederverwendet werden.
 
@@ -61,25 +61,25 @@ Folgen Sie diesen **Schritten zur Erstellung des Setup für Nomad** mit Ansible 
 
 **Schritt 1: Terraform für Infrastruktur-Setup:**
 
-- Verwenden Sie Terraform, um die erforderliche Infrastruktur (z. B., virtuelle Maschinen, Netzwerkkonfiguration) zu erstellen.
-- Definieren Sie die Ressourcen in Terraform-Konfigurationsdateien, einschließlich der Anzahl der Maschinen, Netzwerkeinstellungen usw.
+* Verwenden Sie Terraform, um die erforderliche Infrastruktur (z. B., virtuelle Maschinen, Netzwerkkonfiguration) zu erstellen.
+* Definieren Sie die Ressourcen in Terraform-Konfigurationsdateien, einschließlich der Anzahl der Maschinen, Netzwerkeinstellungen usw.
 
 **Schritt 2: Ansible für Konfiguration und Bereitstellung:**
 
-- Verbinden Sie Ansible mit Terraform, indem Sie Terraform-Outputs in Ansible-Variablen umwandeln.
+* Verbinden Sie Ansible mit Terraform, indem Sie Terraform-Outputs in Ansible-Variablen umwandeln.
 
-- Nutzen Sie Ansible-Rollen, um die Konfigurationen der verschiedenen Komponenten vorzunehmen. Zum Beispiel:
+* Nutzen Sie Ansible-Rollen, um die Konfigurationen der verschiedenen Komponenten vorzunehmen. Zum Beispiel:
 
-  - Schritt 2.1: Uncomplicated Firewall (UFW): Konfigurieren Sie die Firewall-Regeln für die Sicherheit.
+  + Schritt 2.1: Uncomplicated Firewall (UFW): Konfigurieren Sie die Firewall-Regeln für die Sicherheit.
 
-  - Schritt 2.2: Fail2Ban mit Ansible Galaxy: Nutzen Sie Ansible Galaxy, um Rollen für Fail2Ban zu integrieren und konfigurieren Sie es für die Sicherheit.
+  + Schritt 2.2: Fail2Ban mit Ansible Galaxy: Nutzen Sie Ansible Galaxy, um Rollen für Fail2Ban zu integrieren und konfigurieren Sie es für die Sicherheit.
 
 **Schritt 3 und 4: Installation von Nomad und Consul:**
 
-- Verwenden Sie Ansible, um Nomad und Consul auf den vorher erstellten Maschinen zu installieren.
-- Legen Sie die Konfigurationsdateien für Nomad und Consul fest, um die gewünschten Parameter zu definieren.
+* Verwenden Sie Ansible, um Nomad und Consul auf den vorher erstellten Maschinen zu installieren.
+* Legen Sie die Konfigurationsdateien für Nomad und Consul fest, um die gewünschten Parameter zu definieren.
 
-- Starten Sie die Nomad- und Consul-Dienste auf den Maschinen.
+* Starten Sie die Nomad- und Consul-Dienste auf den Maschinen.
 
 ## Hier ist eine grobe Beispielstruktur für die Dateien und Ordner:
 
@@ -89,7 +89,7 @@ Die Struktur könnte je nach Ihren Anforderungen variieren. 
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -105,7 +105,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -125,7 +125,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![rolle consul teaser](images/7-1024x683.webp 'rolle consul teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+[![rolle consul teaser](images/7-1024x683.png 'rolle consul teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 ### [Setup Hashicorp Nomad Ansible Consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/ 'Setup Hashicorp Nomad Ansible Consul')
 
@@ -135,7 +135,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
+[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.png 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
@@ -145,7 +145,7 @@ _Cloud Engineer_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
@@ -155,7 +155,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
@@ -165,7 +165,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![ansible teaser](images/ansible-1024x683.webp 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 ### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 

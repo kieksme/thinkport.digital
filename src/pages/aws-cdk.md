@@ -9,10 +9,10 @@ Werden Sie Experte mit dem
 
 ### Auf einen Blick
 
-- 1 Tag
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 1 Tag
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie im AWS CDK Training, die Cloud-Infrastruktur mit vorhandenen Kenntnissen und vertrauter Programmiersprache aufzubauen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -40,17 +40,17 @@ Infrastructure as Code ist ein Muss für moderne Anwendungen, die Cloud-Services
 
 Teilnehmer können nach Abschluss...
 
-- Neue CDK-Anwendungen erstellen
-- IaC mit Programmiersprachen schreiben
-- Mit dem Cloud Development-Kit entwickeln
+* Neue CDK-Anwendungen erstellen
+* IaC mit Programmiersprachen schreiben
+* Mit dem Cloud Development-Kit entwickeln
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-- Personen mit DevOps Erfahrung
-- Personen, mit Erfahrung als AWS- und Cloudformation-Entwickler und AWS-Architekten
-- Unternehmen, die Anwendungen mit AWS erstellen
+* Personen mit DevOps Erfahrung
+* Personen, mit Erfahrung als AWS- und Cloudformation-Entwickler und AWS-Architekten
+* Unternehmen, die Anwendungen mit AWS erstellen
 
 ## Aufbau
 
@@ -58,33 +58,33 @@ Der Kurs ist geeignet für...
 
 ### Übersicht über IaC Modul I
 
-- Was ist IaC?
-- Vorstellung und Vergleich Cloudformation, Terraform und CDK
-- Konzeptionelle Unterschiede zwischen den Frameworks
+* Was ist IaC?
+* Vorstellung und Vergleich Cloudformation, Terraform und CDK
+* Konzeptionelle Unterschiede zwischen den Frameworks
 
 ### Cloudformation Essentials Modul II
 
-- Stacks: Stacks Lifecycle & Stack Sets
-- Import/Export
-- Nutzung der vorhandenen Ressourcen
+* Stacks: Stacks Lifecycle & Stack Sets
+* Import/Export
+* Nutzung der vorhandenen Ressourcen
 
 ### Cloud Development Kit Modul III
 
-- Architektur des CDK
-- Abstraktion mir Konstrukten
-- Wie starte ich mit dem CDK?
+* Architektur des CDK
+* Abstraktion mir Konstrukten
+* Wie starte ich mit dem CDK?
 
 ### Entwicklungsablauf Modul IV
 
-- Initialisierung
-- Projektstart
-- Teststufen
+* Initialisierung
+* Projektstart
+* Teststufen
 
 ### VPC und IAM mit dem CDK Modul V
 
-- Netzinfrastruktur mit dem CDK erstellen
-- Rechteverwaltung
-- EC2 Instanzen
+* Netzinfrastruktur mit dem CDK erstellen
+* Rechteverwaltung
+* EC2 Instanzen
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -96,7 +96,7 @@ Die Lerninhalte des AWS CDK Trainings werden von unseren Experten spannend und e
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Symbol mit dem AWS-Logo, dem Wort Cheatsheet in Weiß und einer Schaltfläche zum Herunterladen](images/AWS-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/AWS_Cheatsheet.pdf)
+[![Symbol mit dem AWS-Logo, dem Wort Cheatsheet in Weiß und einer Schaltfläche zum Herunterladen](images/AWS-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/AWS_Cheatsheet.pdf)
 
 ## Kontakt
 
@@ -122,7 +122,7 @@ Welche Vorteile bringt AWS CDK?
 
 AWS CDK (Cloud Development Kit) bietet eine Reihe von Vorteilen für Entwickler, die AWS-Infrastruktur bereitstellen und verwalten müssen. Einige der wichtigsten Vorteile sind:
 
-- - Schnelle Bereitstellung
+* - Schnelle Bereitstellung
     - Einfache Verwaltung
     - Wiederverwendbarkeit
     - Unterstützung für eine Reihe von Programmiersprachen und Frameworks

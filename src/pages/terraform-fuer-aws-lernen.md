@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-- 3 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 3 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie mit diesem Terraform AWS Training hands-on ganze Infrastrukturen mit IaC im Handumdrehen bereitzustellen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -41,17 +41,17 @@ Dem Zeitgeist entsprechend setzen zunehmend viele Unternehmen auf Infrastructure
 
 Teilnehmer können nach Abschluss...
 
-- Ganze Architekturen mit Terraform aufsetzen
-- Skalierbare und sichere AWS Architekturen definieren
-- Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
+* Ganze Architekturen mit Terraform aufsetzen
+* Skalierbare und sichere AWS Architekturen definieren
+* Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-- Grundlegendem Verständnis in den Bereichen AWS Cloud und Systemadministration
-- Mittleren Scripting Kenntnissen
-- Interesse, Infrastructure as Code zu lernen
+* Grundlegendem Verständnis in den Bereichen AWS Cloud und Systemadministration
+* Mittleren Scripting Kenntnissen
+* Interesse, Infrastructure as Code zu lernen
 
 ## Aufbau
 
@@ -59,33 +59,33 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Grundlagen Tag I
 
-- Installation und Einführung in Terraform
-- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-- Erstellen von Terraform Modulen
-- Lab: Planung einer ersten AWS-Architektur mit Terraform
+* Installation und Einführung in Terraform
+* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+* Erstellen von Terraform Modulen
+* Lab: Planung einer ersten AWS-Architektur mit Terraform
 
 ### AWS Infrastruktur Tag II
 
-- Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
-- Lab: Entwicklung von AWS-Architekturen mit Terraform
+* Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
+* Lab: Entwicklung von AWS-Architekturen mit Terraform
 
 ### DevOps Tag III
 
-- Einführung in GitLab und Erstellen einer Pipeline
-- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
-- Dieser Teil des Kurses ist optional
+* Einführung in GitLab und Erstellen einer Pipeline
+* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
+* Dieser Teil des Kurses ist optional
 
-- Installation und Einführung in Terraform
-- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-- Erstellen von Terraform Modulen
-- Lab: Planung einer ersten AWS-Architektur mit Terraform
+* Installation und Einführung in Terraform
+* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+* Erstellen von Terraform Modulen
+* Lab: Planung einer ersten AWS-Architektur mit Terraform
 
-- Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
-- Lab: Entwicklung von AWS-Architekturen mit Terraform
+* Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
+* Lab: Entwicklung von AWS-Architekturen mit Terraform
 
-- Einführung in GitLab und Erstellen einer Pipeline
-- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
-- Dieser Teil des Kurses ist optional
+* Einführung in GitLab und Erstellen einer Pipeline
+* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
+* Dieser Teil des Kurses ist optional
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -97,7 +97,7 @@ Die Lerninhalte von "Terraform AWS Training" werden von unseren Trainern spannen
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Terraform-Logo, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/cheatsheets-bild-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/10/Terraform_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Terraform-Logo, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/cheatsheets-bild-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/10/Terraform_Cheatsheet.pdf)
 
 ## Kontakt
 

@@ -52,7 +52,7 @@ Als zertifizierte Terraform Experten sind wir Profis im Bereich Multi Cloud. Als
 
 Strategic Partner
 
-Als offizieller Partner verankern wir die Technologien und die fachliche Cloud Expertise von Solace in vielen unserer Kundenprojekte. [![Confluence logo in Viereckige Format](images/Confluence-quadrat-300x300.webp)](https://de.confluent.io/)
+Als offizieller Partner verankern wir die Technologien und die fachliche Cloud Expertise von Solace in vielen unserer Kundenprojekte. [![Confluence logo in Viereckige Format](images/Confluence-quadrat-300x300.png)](https://de.confluent.io/)
 
 ### Confluent
 
@@ -138,7 +138,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-- [](https://www.xing.com/profile/Tobias_Drechsel3)
+* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+* [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

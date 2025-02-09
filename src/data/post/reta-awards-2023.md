@@ -19,7 +19,7 @@ Zentrale Herausforderung war es, Artikelstammdaten an vielen Stellen zugänglich
 
 Die Integration von EDEKA-Daten wurde erstmals aus der Sicht eines Datenkonsumenten wie einer mobilen App gedacht. Dies führte zu einem Integrationsansatz mit dem Technologiepartner **[Solace](https://solace.com/)**.
 
-![Vor der gelben Hintergrundwand mit dem Eddi Logo von Edeka sitzen im Dominik, Laszlo, Patrick, Thomas und Jens und die "Top Supplier" Urkunde.](images/RETA-Award-1-1024x948.webp)
+![Vor der gelben Hintergrundwand mit dem Eddi Logo von Edeka sitzen im Dominik, Laszlo, Patrick, Thomas und Jens und die "Top Supplier" Urkunde.](images/RETA-Award-1-1024x948.png)
 
 REDDI, eine neue Integrationsplattform, fungiert als Brückenbauer, verbindet die klassische IT mit neuen digitalen Produkten und sorgt dafür, dass diese spezifischen Anforderungen externer Datenkonsumenten durch die Kombination innovativer Technologien erfüllt - und neue Anwendungsfälle sehr schnell umgesetzt - werden können.
 
@@ -29,7 +29,7 @@ REDDI wird somit die Standard-API für viele EDEKA-Stammdaten bei der Einführun
 
 So brachte die Partnerschaft beiden Unternehmen große Vorteile: EDEKA erhielt ein top-modernes Warenwirtschaftssystem mit herausragender User Experience der Millionen Laden-Kunden vor Ort. Und Thinkport eine namhafte Auszeichnung für sein State of the Art Streaming und Cloud Consulting.
 
-![](images/Badge.webp)
+![](images/Badge.png)
 
 ## Weitere Informationen
 
@@ -51,7 +51,7 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 

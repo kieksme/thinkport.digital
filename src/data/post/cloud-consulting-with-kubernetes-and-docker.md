@@ -2,7 +2,7 @@
 title: 'Cloud Consulting with Kubernetes and Docker'
 publishDate: 2023-03-14T10:00:00Z
 categories: + "cloud-general"
-coverImage: 'Streaming-Services-6.webp'
+coverImage: 'Streaming-Services-6.png'
 ---
 
 [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
@@ -31,17 +31,17 @@ Another alternative is to use Infrastructure-as-Code tools such as Terraform to 
 
 Terraform and Kubernetes with Docker are two different technologies with different purposes that can complement each other in many aspects. Terraform is a tool that allows users to define and deploy infrastructure in different cloud platforms such as AWS, GCP and Azure. It offers many advantages such as.
 
-- **Declarative syntax**: Terraform allows users to describe the desired infrastructure in a simple declarative syntax that is easy to understand and maintain.
-- **Automation**: Terraform automates infrastructure deployment and can also integrate continuous integration and deployment (CI/CD) with other tools such as GitLab or Jenkins.
-- **Platform independence**: Terraform is platform independent and supports many cloud platforms, allowing users to deploy consistent infrastructure across different cloud platforms.
+* **Declarative syntax**: Terraform allows users to describe the desired infrastructure in a simple declarative syntax that is easy to understand and maintain.
+* **Automation**: Terraform automates infrastructure deployment and can also integrate continuous integration and deployment (CI/CD) with other tools such as GitLab or Jenkins.
+* **Platform independence**: Terraform is platform independent and supports many cloud platforms, allowing users to deploy consistent infrastructure across different cloud platforms.
 
 Kubernetes with Docker, on the other hand, is a technology designed for orchestrating containers in production environments. It offers many advantages, such as:
 
-- **Scalability**: Kubernetes with Docker allows users to scale applications quickly and easily for high availability and better load balancing.
-- **Reliability**: Kubernetes with Docker provides automated failure recovery and high availability by distributing containers across different nodes in a cluster.
-- **Portability**: Docker containers are portable and can run on different platforms and infrastructures, allowing for greater flexibility and interoperability.
+* **Scalability**: Kubernetes with Docker allows users to scale applications quickly and easily for high availability and better load balancing.
+* **Reliability**: Kubernetes with Docker provides automated failure recovery and high availability by distributing containers across different nodes in a cluster.
+* **Portability**: Docker containers are portable and can run on different platforms and infrastructures, allowing for greater flexibility and interoperability.
 
-[![Werbebanner Kubernetes plus Docker und Terraform.](images/Copy-of-GDN-Kampange-Quadratisch2-1-1024x1024.webp)](https://thinkport.digital/cloud-trainings-workshops/)
+[![Werbebanner Kubernetes plus Docker und Terraform.](images/Copy-of-GDN-Kampange-Quadratisch2-1-1024x1024.png)](https://thinkport.digital/cloud-trainings-workshops/)
 
 In many cases, Terraform can be used as a complement to Kubernetes and Docker to automate and manage the infrastructure running Kubernetes clusters and Docker containers. The choice between Terraform and Kubernetes with Docker depends on the specific requirements and preferences of the user.
 

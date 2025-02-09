@@ -48,7 +48,7 @@ Prüfen Sie mit uns Ihre Cloud Architektur. Dabei berücksichtigen wir die Herau
 
 Ihr Projekt ist komplex, Ihre IT bereits am Limit? Und dann kommt das unvorhergesehene Problem dazu. [Thinkport unterstützt Sie flexibel und kurzfristig mit der Cloud-Soforthilfe. Mehr Infos](https://thinkport.digital/cloud-soforthilfe/)
 
-![Databricks logo](images/Databricks-Training-1-e1713438853679.webp)
+![Databricks logo](images/Databricks-Training-1-e1713438853679.png)
 
 ### Databricks MLOps
 
@@ -70,7 +70,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

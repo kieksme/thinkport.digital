@@ -2,7 +2,7 @@
 title: 'Cloud Consulting for development'
 publishDate: 2023-03-30T10:00:00Z
 categories: + "cloud-general"
-coverImage: 'Streaming-Services-8.webp'
+coverImage: 'Streaming-Services-8.png'
 ---
 
 [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
@@ -35,7 +35,7 @@ Use this checklist for Lift and Shift:
 * Optimize cloud infrastructure to reduce costs and improve performance.
 * Ensure security and compliance requirements are met during the migration process.
 
-[![Werbebanner mit Gökhan und dem Schriftzug Cloud Trainings & Workshops](images/Copy-of-GDN-Kampange-Querformat-3-1024x536.webp)](https://thinkport.digital/cloud-trainings-workshops/)
+[![Werbebanner mit Gökhan und dem Schriftzug Cloud Trainings & Workshops](images/Copy-of-GDN-Kampange-Querformat-3-1024x536.png)](https://thinkport.digital/cloud-trainings-workshops/)
 
 ## Modernization
 
@@ -67,7 +67,7 @@ Checklist Cloud Optimization:
 * Automate cloud management processes to improve efficiency and reduce the risk of human error.
 * Continuously monitor and optimize cloud resources to ensure they meet the needs of the business.
 
-[![Werbebanner mit Janina mit dem Schriftzug Cloud Architecture Review Workshop](images/Copy-of-GDN-Kampange-Querformat-2-1024x536.webp)](https://thinkport.digital/cloud-architecture-review/)
+[![Werbebanner mit Janina mit dem Schriftzug Cloud Architecture Review Workshop](images/Copy-of-GDN-Kampange-Querformat-2-1024x536.png)](https://thinkport.digital/cloud-architecture-review/)
 
 ## Cloud-Native
 

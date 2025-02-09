@@ -27,7 +27,7 @@ Viele Unternehmen gerade in der Finanzbranche arbeiten mit Daten, die nicht einf
 
 Der Betrieb und die Nutzung der LLMs muss aber selbstverständlich regulatorischen Anforderungen wie der DSGVO entsprechen – das sollte aber nicht generell vom Einsatz von LLMs abraten, die richtige Lösung ist entscheidend.
 
-![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.webp) ![LLMs](images/tpinnov_an_illustration_for_a_whitepaper_cover_on_.png)
+![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.png) ![LLMs](images/tpinnov_an_illustration_for_a_whitepaper_cover_on_.png)
 
 ## Auch im Whitepaper: Die Vorteile der Cloud bei der LLM-Nutzung
 
@@ -41,7 +41,7 @@ Selbstverständlich können Sie sich auch direkt an unsere Expert:innen wenden u
 
 ## Autor
 
-![Portrat Phillip](images/AnyConv.com__Philipp-DAngelo-300x300.webp)
+![Portrat Phillip](images/AnyConv.com__Philipp-DAngelo-300x300.png)
 
 Philipp D‘Angelo
 
@@ -73,7 +73,7 @@ _Business Unit Lead - Finance_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/), [Company Value](https://thinkport.digital/category/company-value/)
 
-[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3')](https://thinkport.digital/datenstrategie_fuer_ki/)
+[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.png 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3')](https://thinkport.digital/datenstrategie_fuer_ki/)
 
 ### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ 'Datenstrategie für KI Revolution')
 
@@ -83,7 +83,7 @@ _Business Unit Lead - Finance_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
@@ -93,7 +93,7 @@ _Business Unit Lead - Finance_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
+[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.png 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 

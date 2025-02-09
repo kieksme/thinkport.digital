@@ -14,55 +14,55 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 [](#linksection)[All](#)[AWS Cloud](# 'View all items filed under AWS Cloud')[Azure Cloud](# 'View all items filed under Azure Cloud')[Big Data](# 'View all items filed under Big Data')[Cloud General](# 'View all items filed under Cloud General')[Disrupt](# 'View all items filed under Disrupt')[Frontend](# 'View all items filed under Frontend')[IaC](# 'View all items filed under IaC')[News](# 'View all items filed under News')[Streaming](# 'View all items filed under Streaming')
 
-![rolle consul teaser](images/7-1024x683.webp 'rolle consul teaser')
+![rolle consul teaser](images/7-1024x683.png 'rolle consul teaser')
 
 ### [Setup Hashicorp Nomad Ansible Consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/ 'Setup Hashicorp Nomad Ansible Consul')
 
 ### [Setup Hashicorp Nomad Ansible Consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/ 'Setup Hashicorp Nomad Ansible Consul')
 
-![rolle nomad teaser](images/6-1024x683.webp 'rolle nomad teaser')
+![rolle nomad teaser](images/6-1024x683.png 'rolle nomad teaser')
 
 ### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
 
 ### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
 
-![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')
+![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
-![ufw teaser](images/5-1024x683.webp 'ufw teaser')
+![ufw teaser](images/5-1024x683.png 'ufw teaser')
 
 ### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 
 ### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 
-![ansible teaser](images/ansible-1024x683.webp 'ansible teaser')
+![ansible teaser](images/ansible-1024x683.png 'ansible teaser')
 
 ### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 
 ### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 
-![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')
+![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
-![nomad setup teaser](images/nomad-setup-1024x683.webp 'nomad setup teaser')
+![nomad setup teaser](images/nomad-setup-1024x683.png 'nomad setup teaser')
 
 ### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ 'Setup von Hashicorp Nomad')
 
 ### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ 'Setup von Hashicorp Nomad')
 
-![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')
+![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.png 'Post Was ist Databricks TRAINING')
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
-![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.webp 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')
+![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.png 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')
 
 ### [Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung](https://thinkport.digital/orthanc-und-kubernetes/ 'Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung')
 
@@ -78,7 +78,7 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ### [Grundlagen eines «AI Driven Software Development»-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ 'Grundlagen eines «AI Driven Software Development»-Trainings')
 
-![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')
+![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.png 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
@@ -88,7 +88,7 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
-![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')
+![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
@@ -100,37 +100,37 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ### [Was ist Azure](https://thinkport.digital/was-ist-azure/ 'Was ist Azure')
 
-![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')
+![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.png 'Solace vs Confuence Post (680 × 450 px)')
 
 ### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
 ### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
-![Big Data](images/Streaming-Services-11.webp "Im Hintergrund sieht man Berge mit den im Vordergrund der 3 Logos von "Spark", "Databricks" sowie "Trino"")
+![Big Data](images/Streaming-Services-11.png "Im Hintergrund sieht man Berge mit den im Vordergrund der 3 Logos von "Spark", "Databricks" sowie "Trino"")
 
 ### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ 'Spark, Databricks, Trino')
 
 ### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ 'Spark, Databricks, Trino')
 
-![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')
+![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
-![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')
+![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
-![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')
+![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
-![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")
+![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -502,7 +502,7 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ## Blog Kurator
 
-![Sara portrait](images/Sara-500-×-500-px.webp)
+![Sara portrait](images/Sara-500-×-500-px.png)
 
 ### Sara Vázquez Hevia
 
@@ -512,6 +512,6 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ## [svhevia@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](http://www.linkedin.com/in/sara-vazquez-hevia)
+* [](http://www.linkedin.com/in/sara-vazquez-hevia)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

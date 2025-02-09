@@ -2,7 +2,7 @@
 title: 'Setup Hashcorp Nomad mit Terraform'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
-coverImage: 'terraform-verlinken.webp'
+coverImage: 'terraform-verlinken.png'
 ---
 
 # Setup von Hashicorp Nomad -
@@ -11,43 +11,43 @@ Schritt 1: Terraform
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)
+![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)
 
 Schritt 1:  
 Terraform
 
-[![ansible teaser](images/ansible-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 [Schritt 2:  
 Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
-[![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/%20)
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/%20)
 
 [Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-[![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
+[![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
-[![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/%20)
+[![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/%20)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 ## Ansible in Terraform einbinden und Playbook schreiben
 
-![Screenshot nomad x terraform 1](images/image-20230822-094434.webp)
+![Screenshot nomad x terraform 1](images/image-20230822-094434.png)
 
 Zuerst erstellen wir eine neuen Ordner für Ansible damit wir den Überblick später nicht verlieren, danach sollte unsere Ordnerstruktur wie auf dem Screenshot aussehen.
 
@@ -55,7 +55,7 @@ Die `ansible.cfg` platzieren wir im Terraform Ordner, denn von dort aus wird sp�
 
 In der `ansible.cfg` fügen wir folgenden Code ein:
 
-`[defaults] host_key_checking = False`
+ `[defaults] host_key_checking = False`
 
 Da unsere VMs beim Herunter- und Hochfahren an verschiedenen Tagen immer neue öffentliche IPs bekommen, wird immer nachgefragt ob diese neuen Maschinen vertrauenswürdig sind. Um dies nicht jedes mal mit `yes` bestätigen zu müssen setzen wir den Wert für Host-Key-Checking auf `false` .
 
@@ -98,7 +98,7 @@ Dazu fügen wir eine `null_resource` ein, diese benennen wir in diesem Fall ansi
     				 `# Ausführen des Ansible Playbooks um die virtuellen Maschinen zu konfigurieren resource "null_resource" "ansible_playbook" {     triggers = {         always_run = "${timestamp()}"     }     provisioner "local-exec" {         command = "ansible-playbook -i ${var.ansible_dir}inventory.yml ${var.ansible_dir}playbook.yml'     }     depends_on = [null_resource.ansible_inventory] }`
 
 Der `triggers` Block sorgt hierbei für eine Ausführung bei jedem Terraform-Apply, denn Terraform kann bei einer `null_resource` nicht wie bei anderen Ressourcen den Stand in der `terraform.tfstate` Datei mit dem in der Cloud vergleichen. Da wir hier nur einen Command ausführen und Terraform nicht genau über den Ausgang dieses Commands Bescheid weiß, müssen wir also jedes mal die Ausführung erneut starten, das machen wir über die integrierte Timestamp Variable.  
-Anschließend führt der `local-exec` `provisioner` den Command `ansible-playbook -i /pfad/zum/inventar playbook.yml` aus.  
+Anschließend führt der `local-exec`  `provisioner` den Command `ansible-playbook -i /pfad/zum/inventar playbook.yml` aus.  
 Da wir erstellen am besten eine Variable die vom Terraform Ordner zum Ansible Ordner zeigt. Dazu erstellen wir in der `variables.tf` eine neue Variable namens `var.ansible_dir` und fügen diese dann auch in der Datei `terraform.tfvars` hinzu.
 
     				 `variable "ansible_dir" {     type        = string     description = "Pfad zum Verzeichnis der Ansible Skripte"     default     = "./ansible/" }`
@@ -119,7 +119,7 @@ Das Resultat sollte wie folgt aussehend:
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -135,7 +135,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -163,7 +163,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
@@ -183,7 +183,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.webp 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
+[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.png 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
 
 ### [Thinkport ausgezeichnet als “AWS Advanced Tier Services”](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/ 'Thinkport ausgezeichnet als “AWS Advanced Tier Services”')
 
@@ -193,7 +193,7 @@ _Cloud Engineer_
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![ufw teaser](images/5-1024x683.webp 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 ### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 

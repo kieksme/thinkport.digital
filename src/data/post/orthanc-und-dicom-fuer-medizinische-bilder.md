@@ -4,7 +4,7 @@ publishDate: 2023-11-10T10:00:00Z
 categories: + "cloud-general"
   + "disrupt"
   + "streaming"
-coverImage: 'website-pictures.webp'
+coverImage: 'website-pictures.png'
 ---
 
 # Orthanc, DICOM und PACS-Server: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder
@@ -27,7 +27,7 @@ PACS nutzt den DICOM-Standard, um ein effizientes System zur Speicherung, Verwal
 
 Die Verbindung zwischen DICOM und PACS zeigt sich im Workflow des Gesundheitswesens: Ein im DICOM-Format gespeichertes Bild wird auf den PACS-Server übertragen, von wo aus autorisierte Gesundheitsdienstleister darauf zugreifen können. Hierbei kommen PACS-Clients zum Einsatz – Softwareanwendungen, die es ermöglichen, die Bilder zu visualisieren, zu bearbeiten und für diagnostische oder therapeutische Zwecke zu teilen.
 
-![white icon of workflow between 3 phases over a blue gradient background](images/PACS_-Zentrales-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.webp) ![white icon of a conexion over blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-1024x683.webp)
+![white icon of workflow between 3 phases over a blue gradient background](images/PACS_-Zentrales-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.png) ![white icon of a conexion over blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-1024x683.png)
 
 ### Bedeutung von standardisierten Datenelementen
 
@@ -43,7 +43,7 @@ In der Welt der medizinischen Bildgebung spielt der PACS-Server eine entscheiden
 
 Cloud-basierte PACS-Server bieten Flexibilität und Skalierbarkeit und ermöglichen den Zugriff auf medizinische Bilder von praktisch überall, solange eine Internetverbindung besteht. Diese Modelle sind oft kosteneffizienter, da sie die Notwendigkeit, eigene Server zu warten und zu aktualisieren, eliminieren. Cloud-Lösungen können besonders vorteilhaft sein, wenn der schnelle und einfache Zugriff auf Bilder aus verschiedenen Standorten erforderlich ist.
 
-![icon of computer cloud in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.webp) ![icon of cloud server in blue over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-3-1024x683.webp)
+![icon of computer cloud in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.png) ![icon of cloud server in blue over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-3-1024x683.png)
 
 ### On-Premise PACS-Server
 
@@ -53,7 +53,7 @@ Auf der anderen Seite stehen On-Premise-PACS-Server, die physisch in den Einrich
 
 Wenn man über On-Premise-PACS-Server spricht, gibt es kommerzielle Angebote, die oft mit umfangreichen Funktionen und Support kommen, aber auch mit hohen Kosten verbunden sind. Als Alternative gibt es Open-Source-Lösungen, die den Einrichtungen ermöglichen, die Kosten zu senken und eine größere Flexibilität und Anpassungsfähigkeit zu genießen.
 
-![icon of half a house and half a business building in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-4-1024x683.webp) ![](images/Orthanc-Logo.png)
+![icon of half a house and half a business building in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-4-1024x683.png) ![](images/Orthanc-Logo.png)
 
 ## Unsere Wahl: Orthanc
 
@@ -105,7 +105,7 @@ Dieser Beitrag hat die zentrale Rolle von DICOM und PACS in der medizinischen Bi
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
@@ -115,7 +115,7 @@ Dieser Beitrag hat die zentrale Rolle von DICOM und PACS in der medizinischen Bi
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 

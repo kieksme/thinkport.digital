@@ -16,7 +16,7 @@ Als Hybrid Cloud Consulting Partner bieten wir Ihnen den kompletten Full Service
 Gerne unterstützen wir Sie individuell. Und entwickeln mit Ihnen die zukunftsfähige Cloud Strategie  
 Ihres Unternehmens sowie deren Umsetzung.
 
-![Samir vor einem türkisen Quadrat.](images/Samir-6-862x1024.webp)
+![Samir vor einem türkisen Quadrat.](images/Samir-6-862x1024.png)
 
 ## Hybrid Cloud & Thinkport
 
@@ -27,14 +27,14 @@ Termin vereinbaren[](#linksection)
 
 ## Hybrid Cloud Stärken
 
-- Flexibilität
-- Kontrolle und Sicherheit
-- Kostenoptimierung
-- Nahtlose Integration
-- Disaster Recovery und Business Continuity
-- Skalierbarkeit und Agilität
+* Flexibilität
+* Kontrolle und Sicherheit
+* Kostenoptimierung
+* Nahtlose Integration
+* Disaster Recovery und Business Continuity
+* Skalierbarkeit und Agilität
 
-![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
+![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.png)[](#linksection)
 
 ## Thinkport's Kernkompetenzen für ihr Hybrid Cloud Projekt
 
@@ -76,7 +76,7 @@ ParcIT
 
 ## Partnerschaften
 
-[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png)](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
+[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png)](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.png) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
 
 ## Unsere Top 3:
 
@@ -132,7 +132,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

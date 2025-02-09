@@ -88,7 +88,7 @@ Why: Databricks provides a unified platform for analytics, supports Apache Spark
 
 Why: Synapse Analytics is optimized for structured analytics, offers a massively parallel processing architecture for performance |
 
-![Portrait Alex](images/alex-2-300x300.webp)
+![Portrait Alex](images/alex-2-300x300.png)
 
 ## Alex Ortner
 
@@ -108,7 +108,7 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
@@ -118,7 +118,7 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 

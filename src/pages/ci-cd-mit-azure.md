@@ -10,10 +10,10 @@ Werden Sie Experte in
 
 ## Auf einen Blick
 
-- 1 Tag
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 1 Tag
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie mit CI/CD Azure robuste und hochverfügbare Pipelines zu entwickeln. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -41,17 +41,17 @@ Fast keine Anwendungen werden heutzutage ohne CI/CD (Continuous Integration / Co
 
 Teilnehmer können nach Abschluss...
 
-- Architektur und Aufbau ausgereifter und moderner CI/CD Pipelines mit Azure
-- Schlüsselkomponente einbeziehen
-- Effektive Kombination aus Azure-Berechnungen und -Services nutzen
+* Architektur und Aufbau ausgereifter und moderner CI/CD Pipelines mit Azure
+* Schlüsselkomponente einbeziehen
+* Effektive Kombination aus Azure-Berechnungen und -Services nutzen
 
 ## Zielgruppe
 
 ## Der Kurs ist geeignet für Personen mit...
 
-- Kenntnissen und Erfahrung in Azure-Entwicklung und -Architektur
-- Kenntnissen in DevOps
-- die Anwendungen mit Azure erstellen
+* Kenntnissen und Erfahrung in Azure-Entwicklung und -Architektur
+* Kenntnissen in DevOps
+* die Anwendungen mit Azure erstellen
 
 ## Aufbau
 
@@ -59,15 +59,15 @@ Teilnehmer können nach Abschluss...
 
 ### CI/CD Tag I
 
-- Einführung: Was ist CI/CD und warum sie das brauchen
-- Azure DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
-- Integration mit Git: CodeCommit & GitHub
-- Erstellen und Bereitstellen einer Hello-World Anwendung
+* Einführung: Was ist CI/CD und warum sie das brauchen
+* Azure DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
+* Integration mit Git: CodeCommit & GitHub
+* Erstellen und Bereitstellen einer Hello-World Anwendung
 
-- Einführung: Was ist CI/CD und warum sie das brauchen
-- Azure DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
-- Integration mit Git: CodeCommit & GitHub
-- Erstellen und Bereitstellen einer Hello-World Anwendung
+* Einführung: Was ist CI/CD und warum sie das brauchen
+* Azure DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
+* Integration mit Git: CodeCommit & GitHub
+* Erstellen und Bereitstellen einer Hello-World Anwendung
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -79,7 +79,7 @@ Die Lerninhalte unseres CI CD Azure Training werden von unseren Experten spannen
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
 
 ## Kontakt
 

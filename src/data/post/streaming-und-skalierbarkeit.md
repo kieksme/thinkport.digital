@@ -4,7 +4,7 @@ publishDate: 2024-07-11T10:00:00Z
 categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-coverImage: 'Skalierbarkeit01.webp'
+coverImage: 'Skalierbarkeit01.png'
 ---
 
 # Event-getriebene Anwendungen effektiv betreiben
@@ -25,13 +25,13 @@ Skalierungsmethoden, die auf CPU- oder RAM-Auslastung basieren, reichen nicht im
 
 Azure Container Apps können beispielsweise auf Grundlage von HTTP-Anfragen, Eventing oder benutzerdefinierten Metriken skalieren. Dies macht es besonders geeignet für Anwendungen, die stark schwankende Lasten bewältigen müssen. KEDA kann ebenfalls auf eine Vielzahl von Event-Quellen reagieren, einschließlich Kafka, Azure Queues, HTTP-Anfragen und vielen anderen. Dies eignet sich besonders für Anwendungen, die auf externe Ereignisse reagieren müssen.
 
-![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.webp)
+![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.png)
 
 ## Auch im Whitepaper: Ein Vergleich zwischen Quarkus und Spring
 
 Beim Vergleich von Quarkus und Spring (mit Docker) zeigen sich deutliche Unterschiede in Bezug auf Leistung und Ressourcenverbrauch. Betrachtet werden Startzeiten, Speicherverbrauch und auch das sogenannte Hot Reloading.
 
-![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.webp)
+![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.png)
 
 ## Mit dem kostenlosen Whitepaper die richten Technologien für das Skalieren von Streaming-Anwendungen finden
 
@@ -59,7 +59,7 @@ Streaming_Skalier_Whitepaper_Download Name \* First Last Name \* Last Email \* C
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
@@ -69,7 +69,7 @@ Streaming_Skalier_Whitepaper_Download Name \* First Last Name \* Last Email \* C
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
 
-[![ufw teaser](images/5-1024x683.webp 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 ### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 
@@ -79,7 +79,7 @@ Streaming_Skalier_Whitepaper_Download Name \* First Last Name \* Last Email \* C
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
@@ -109,7 +109,7 @@ Streaming_Skalier_Whitepaper_Download Name \* First Last Name \* Last Email \* C
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![rolle nomad teaser](images/6-1024x683.webp 'rolle nomad teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
+[![rolle nomad teaser](images/6-1024x683.png 'rolle nomad teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
 ### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
 

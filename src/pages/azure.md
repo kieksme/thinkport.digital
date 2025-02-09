@@ -28,13 +28,13 @@ Termin vereinbaren[](#linksection)
 
 ## Azure Stärken
 
-- Erfüllen regulatorische und Security-Anforderungen am besten
-- Ausgereifte und innovative Lösungen
-- Gute Analytics- und KI-Funktionen
-- Haben die meisten Erfahrungswerte
-- Marktführer
-- Zuverlässiger Partner
-- Gute Debugging-Tools
+* Erfüllen regulatorische und Security-Anforderungen am besten
+* Ausgereifte und innovative Lösungen
+* Gute Analytics- und KI-Funktionen
+* Haben die meisten Erfahrungswerte
+* Marktführer
+* Zuverlässiger Partner
+* Gute Debugging-Tools
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf drei Azure Wolken](images/Group-6-1024x902.png)[](#linksection)
 
@@ -54,7 +54,7 @@ Entwicklung Unser Entwicklerteam setzt modernste Cloud-Technologien ein, um zuku
 
 <figure>
 
-[![Im Hintergrund ist ein Gemüseregal im Supermarkt zu sehen mit dem Logo von Edeka plus gelbes Edeka-Herz.](images/2.webp)](https://thinkport.digital/reta-award-winning-cooperation/)
+[![Im Hintergrund ist ein Gemüseregal im Supermarkt zu sehen mit dem Logo von Edeka plus gelbes Edeka-Herz.](images/2.png)](https://thinkport.digital/reta-award-winning-cooperation/)
 
 <figcaption>
 
@@ -66,7 +66,7 @@ Event Streaming Projekt
 
 <figure>
 
-[![Teilstück eines fiktionären Quantencomputer mit dem AQT-Logo im Vordergrund.](images/3-1.webp)](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer/)
+[![Teilstück eines fiktionären Quantencomputer mit dem AQT-Logo im Vordergrund.](images/3-1.png)](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer/)
 
 <figcaption>
 
@@ -78,7 +78,7 @@ Quantencomputer
 
 <figure>
 
-[![Ein Flugzeugflügel über den Wolken wird von der untergehende Sonne angestrahlt. Darüber im Vordergrund das LSGgroup Logo.](images/1.webp)](https://thinkport.digital/azure-data-analytics-infrastruktur-fur-lsg/)
+[![Ein Flugzeugflügel über den Wolken wird von der untergehende Sonne angestrahlt. Darüber im Vordergrund das LSGgroup Logo.](images/1.png)](https://thinkport.digital/azure-data-analytics-infrastruktur-fur-lsg/)
 
 <figcaption>
 
@@ -98,7 +98,7 @@ Die Lerninhalte unserer vielfältigen [Azure](https://thinkport.digital/was-ist-
 
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
-[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![](images/Terraform-1024x463.png) ](https://thinkport.digital/terraform-fuer-azure-lernen/)[![Man sieht Hände eines Mannes der etwas erklärt und vor einem Laptop sitzt. Davor ist auf türkisem Hintergrund der Schriftzug "Apache Airflow in Azure" zu lesen.](images/Apache-Airflow-in-Azure-1024x463.webp) ](https://thinkport.digital/airflow-in-der-cloud/)[![](images/Apache-Airflow-in-Azure-2-1024x463.webp)](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)
+[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![](images/Terraform-1024x463.png) ](https://thinkport.digital/terraform-fuer-azure-lernen/)[![Man sieht Hände eines Mannes der etwas erklärt und vor einem Laptop sitzt. Davor ist auf türkisem Hintergrund der Schriftzug "Apache Airflow in Azure" zu lesen.](images/Apache-Airflow-in-Azure-1024x463.png) ](https://thinkport.digital/airflow-in-der-cloud/)[![](images/Apache-Airflow-in-Azure-2-1024x463.png)](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)
 
 ## Wissen & Kompetenz: Unsere erfahrenen Cloud Experten.
 
@@ -136,7 +136,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

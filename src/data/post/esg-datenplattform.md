@@ -28,7 +28,7 @@ Anfang 2023 hat die EU das ESG-Reporting für bestimmte Unternehmen zur Pflicht
 
 Für viele Unternehmen, insbesondere für Unternehmen mit einem breiten Wirtschafts- und Wirkungsfeld, bedeutet das große Herausforderungen, da die dafür notwendigen ESG-Kennzahlen oft über die ganze Datenlandschaft verteilt sind.
 
-![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.webp) ![Eine Person steht mittig in einem futuristischen Raum, an dem auf der einen Wand eine Art Bildschirm mit Daten projiziert wird. Außerhalb der Raumes wirkt alles sehr spacig.](images/Titelbild-Bild-2.png)
+![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.png) ![Eine Person steht mittig in einem futuristischen Raum, an dem auf der einen Wand eine Art Bildschirm mit Daten projiziert wird. Außerhalb der Raumes wirkt alles sehr spacig.](images/Titelbild-Bild-2.png)
 
 ## Auch im Whitepaper: Ein beispielhaftes Architektur-Konzept für eine ESG-Datenplattform
 
@@ -46,7 +46,7 @@ Selbstverständlich können Sie sich auch direkt an unsere Expert:innen wenden u
 
 ## Autor
 
-![Tim Portrait](images/tim-_mejorada-e1712303866982-300x296.webp)
+![Tim Portrait](images/tim-_mejorada-e1712303866982-300x296.png)
 
 Tim Amme
 
@@ -60,7 +60,7 @@ _ESG | Data Experte_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.webp 'Skalierbarkeit01')](https://thinkport.digital/streaming-und-skalierbarkeit/)
+[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.png 'Skalierbarkeit01')](https://thinkport.digital/streaming-und-skalierbarkeit/)
 
 ### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ 'Event-getriebene Anwendungen effektiv betreiben')
 
@@ -78,7 +78,7 @@ _ESG | Data Experte_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.png 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
 ### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
@@ -88,7 +88,7 @@ _ESG | Data Experte_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
@@ -108,7 +108,7 @@ _ESG | Data Experte_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 

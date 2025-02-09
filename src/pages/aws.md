@@ -14,7 +14,7 @@ Als AWS Consulting Partner bieten wir Ihnen den kompletten Full Service der AWS 
 Gerne unterstützen wir Sie individuell. Und entwickeln mit Ihnen die zukunftsfähige Cloud Strategie  
 Ihres Unternehmens sowie deren Umsetzung.
 
-![kristian_Circlelead Bild](images/kristian_Circlelead-768x1024.webp)
+![kristian_Circlelead Bild](images/kristian_Circlelead-768x1024.png)
 
 ## AWS & Thinkport
 
@@ -25,11 +25,11 @@ Termin vereinbaren[](#linksection)
 
 ## AWS Stärken
 
-- Der marktführende und ausgereifteste Cloud-Anbieter
-- AWS unterstützt mehr Sicherheitsstandards und Compliance-Zertifizierungen als jedes andere Angebot, einschließlich PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2 und NIST 800-171
-- Drittanbieter-Validierung für 1.000 globale Anforderungen
-- Große Anzahl von Regionen und Edge-Standorten, die es ermöglichen, Daten in Ihrer Region zu speichern oder sie näher an Ihre Kunden zu liefern
-- Größte Entwicklergemeinschaft auf der Welt
+* Der marktführende und ausgereifteste Cloud-Anbieter
+* AWS unterstützt mehr Sicherheitsstandards und Compliance-Zertifizierungen als jedes andere Angebot, einschließlich PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2 und NIST 800-171
+* Drittanbieter-Validierung für 1.000 globale Anforderungen
+* Große Anzahl von Regionen und Edge-Standorten, die es ermöglichen, Daten in Ihrer Region zu speichern oder sie näher an Ihre Kunden zu liefern
+* Größte Entwicklergemeinschaft auf der Welt
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf drei AWS Wolken](images/Group-5-6-1024x902.png)[](#linksection)
 
@@ -83,7 +83,7 @@ API für einen 360° Kunden-Dialog
 
 </figure>
 
-[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp)](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)
+[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.png)](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)
 
 ## Unsere Top 3
 
@@ -143,7 +143,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

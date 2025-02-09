@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-- 3 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 3 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie mit diesem Terraform GCP (Google Cloud Platform) Training hands-on ganze Infrastrukturen mit IaC im Handumdrehen bereitzustellen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -41,17 +41,17 @@ Dem Zeitgeist entsprechend setzen zunehmend viele Unternehmen auf Infrastructure
 
 Teilnehmer können nach Abschluss...
 
-- Ganze Architekturen mit Terraform aufsetzen
-- Skalierbare und sichere GCP Architekturen definieren
-- Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
+* Ganze Architekturen mit Terraform aufsetzen
+* Skalierbare und sichere GCP Architekturen definieren
+* Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-- Grundlegendem Verständnis in den Bereichen GCP Cloud und Systemadministration
-- Mittleren Scripting Kenntnissen
-- Interesse, Infrastructure as Code zu lernen
+* Grundlegendem Verständnis in den Bereichen GCP Cloud und Systemadministration
+* Mittleren Scripting Kenntnissen
+* Interesse, Infrastructure as Code zu lernen
 
 ## Aufbau
 
@@ -59,33 +59,33 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Grundlagen Tag I
 
-- Installation und Einführung in Terraform
-- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-- Erstellen von Terraform Modulen
-- Lab: Planung einer ersten GCP-Architektur mit Terraform
+* Installation und Einführung in Terraform
+* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+* Erstellen von Terraform Modulen
+* Lab: Planung einer ersten GCP-Architektur mit Terraform
 
 ### GCP Infrastruktur Tag II
 
-- Kennenlernen von wichtigen GCP-Services wie Paas, Saas, Iaas, Gateways und mehr
-- Lab: Entwicklung von GCP-Architekturen mit Terraform
+* Kennenlernen von wichtigen GCP-Services wie Paas, Saas, Iaas, Gateways und mehr
+* Lab: Entwicklung von GCP-Architekturen mit Terraform
 
 ### DevOps Tag III
 
-- Einführung in GitLab und Erstellen einer Pipeline
-- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren GCP Technologien
-- Dieser Teil des Kurses ist optional
+* Einführung in GitLab und Erstellen einer Pipeline
+* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren GCP Technologien
+* Dieser Teil des Kurses ist optional
 
-- Installation und Einführung in Terraform
-- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-- Erstellen von Terraform Modulen
-- Lab: Planung einer ersten GCP-Architektur mit Terraform
+* Installation und Einführung in Terraform
+* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+* Erstellen von Terraform Modulen
+* Lab: Planung einer ersten GCP-Architektur mit Terraform
 
-- Kennenlernen von wichtigen GCP-Services wie Paas, Saas, Iaas, Gateways und mehr
-- Lab: Entwicklung von GCP-Architekturen mit Terraform
+* Kennenlernen von wichtigen GCP-Services wie Paas, Saas, Iaas, Gateways und mehr
+* Lab: Entwicklung von GCP-Architekturen mit Terraform
 
-- Einführung in GitLab und Erstellen einer Pipeline
-- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren GCP Technologien
-- Dieser Teil des Kurses ist optional
+* Einführung in GitLab und Erstellen einer Pipeline
+* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren GCP Technologien
+* Dieser Teil des Kurses ist optional
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -97,7 +97,7 @@ Die Lerninhalte von "Terraform GCP Training" werden von unseren Trainern spannen
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in Cheatsheets zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Terraform cheatsheet klein bild](images/Terraform-2-1024x341.webp)](https://thinkport.digital/wp-content/uploads/2023/10/Terraform_Cheatsheet.pdf)[![GCP cheatsheet klein bild](images/Google-Cloud-2-1-1024x341.webp)](https://thinkport.digital/wp-content/uploads/2023/11/GoogleCloud_Cheatsheet.pdf)
+[![Terraform cheatsheet klein bild](images/Terraform-2-1024x341.png)](https://thinkport.digital/wp-content/uploads/2023/10/Terraform_Cheatsheet.pdf)[![GCP cheatsheet klein bild](images/Google-Cloud-2-1-1024x341.png)](https://thinkport.digital/wp-content/uploads/2023/11/GoogleCloud_Cheatsheet.pdf)
 
 ## Kontakt
 

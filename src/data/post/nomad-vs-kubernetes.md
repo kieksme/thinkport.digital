@@ -3,7 +3,7 @@ title: 'Nomad vs Kubernetes'
 publishDate: 2023-11-17T10:00:00Z
 categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: 'Frische-Informationen-_1_.webp'
+coverImage: 'Frische-Informationen-_1_.png'
 ---
 
 # Nomad vs Kubernetes
@@ -52,7 +52,7 @@ Insgesamt ist Nomad eine umfassende Lösung für die Bereitstellung und Verwaltu
 
 Kubernetes ist die marktführende Open-Source-Plattform für die Automatisierung, Bereitstellung und Skalierung von Anwendungen in Containerumgebungen. Es ermöglicht die effiziente Verwaltung von Containeranwendungen, wodurch Entwickler und IT-Teams flexibler und skalierbarer arbeiten können. Kubernetes bietet Funktionen wie automatische Lastverteilung, Selbstheilung und Deklarativität für die Orchestrierung von Containerdiensten.
 
-![kubernetes logo](images/Frische-Informationen-1-1024x683.webp)
+![kubernetes logo](images/Frische-Informationen-1-1024x683.png)
 
 ## 3\. Wie schneidet Nomad versus Kubernetes ab?
 
@@ -65,7 +65,7 @@ Kubernetes ist die marktführende Open-Source-Plattform für die Automatisierung
 
 Insgesamt bietet Nomad erstaunlich vorteilhafte Lösungen für die Container-Orchestrierung. Jedoch mit zum Teil unterschiedlichen Schwerpunkten und Anwendungsbereichen. Die Wahl zwischen den beiden hängt letztendlich von den spezifischen Anforderungen und den vorhandenen Ressourcen ab.
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -105,7 +105,7 @@ _Senior Cloud Architect & Circle Lead Azure_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -125,7 +125,7 @@ _Senior Cloud Architect & Circle Lead Azure_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 

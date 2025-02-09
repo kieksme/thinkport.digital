@@ -3,7 +3,7 @@ title: 'Setup Hashicorp Nomad Ansible nomad'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: '6.webp'
+coverImage: '6.png'
 ---
 
 # Setup von Hashicorp -
@@ -12,24 +12,24 @@ Schritt 3: Ansible - nomad
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
-Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.webp) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
-Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/) [![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
+Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.png) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
+Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/) [![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)[Schritt 2.2:  
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)[Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-![rolle nomad teaser](images/6-1024x683.webp)
+![rolle nomad teaser](images/6-1024x683.png)
 
 Schritt 3:  
-Ansible - nomad [![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+Ansible - nomad [![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
@@ -102,7 +102,7 @@ Wir benutzen diesmal eine template Task, wir verweisen auf ein Jinja2 Template i
 
 Da wir ggf. später noch andere Dateien für nomad brauchen legen wir am besten direkt einen Ordner in unserer Struktur an, wir brauchen am Ende 5 Ordner wie auf dem folgenden Bild zu sehen:
 
-![](images/1f2f2471-6c3a-422a-baa7-9ae5adfe6d31.webp)
+![](images/1f2f2471-6c3a-422a-baa7-9ae5adfe6d31.png)
 
 In dem Nomad Ordner legen wir auch direkt die Template-Datei für Nomad an. Wir benennen sie hier `config.hcl.j2` (j2 steht hierbei für jinja2). In der Datei legen wir nun die nötigen Konfigurationen für Nomad an damit es später auch im Cluster funktioniert und als Server und Client ausgeführt wird.
 
@@ -112,15 +112,11 @@ Die Variable aus Ansible referenzieren wir hier genauso wie auch in Ansible selb
 
     				 `data_dir = "{{ nomad_data_dir }}"`
 
-
-
-
-
     				 `server {     enabled             = true     bootstrap_expect    = {{ nomad_bootstrap_expect }}     start_join = ["{{ groups['azure_nomad_vms'] | map('extract', hostvars, ['ansible_default_ipv4', 'address']) | join('","') }}"] }`
 
 Wir setzen also den Server Block auf `enabled = true` , danach geben wir die Anzahl der zu erwartenden Server im Cluster an, diese Anzahl vergeben wir auch wieder mit einer Variable die wir später im `playbook.yml` festlegen. Danach müssen wir eine Liste aller privaten IP-Adressen erstellen die im Cluster sein sollen. Die Funktion liest aus den Facts von Ansible (siehe Funktion `gather_facts: true` ) nun jede private IP-Adresse und verbindet diese zu einer Liste die so aussieht:
 
-`start_join = ["10.0.1.4","10.0.1.5","10.0.1.6"]`
+ `start_join = ["10.0.1.4","10.0.1.5","10.0.1.6"]`
 
 Dadurch sucht dann jeder Server nach den anderen und bildet ein Cluster.
 
@@ -163,25 +159,25 @@ Nun können wir auch schon terraform apply ausführen und sollten so Nomad auf d
 
 Das Interface sollte nun beim zugreifen so aussehen:
 
-![](images/e4585363-0973-4824-b769-a934c95f842b-1536x480.webp)
+![](images/e4585363-0973-4824-b769-a934c95f842b-1536x480.png)
 
 Auf der “Clients” Seite sollten wir folgendes sehen:
 
-![](images/f2e3cb0d-576b-4ecf-8c39-f451bf36f67e-1024x338.webp)
+![](images/f2e3cb0d-576b-4ecf-8c39-f451bf36f67e-1024x338.png)
 
 Wenn du auf einen der Clients klickst, solltest du auch unter Driver Status das Plugin `raw_exec` als Healthy sehen, dieses Plugin haben wir vorhin in der `config.hcl.j2` Datei enabled.
 
-![](images/7a78df05-8ce0-403b-8f17-b000ff6e0fa5-1024x296.webp)
+![](images/7a78df05-8ce0-403b-8f17-b000ff6e0fa5-1024x296.png)
 
 Auf der “Server” Seite sollten wir nun auch die gewünschte Anzahl an VMs sehen:
 
-![](images/5fcf1baf-9fea-4860-8f56-918bf8bea9bb-1024x332.webp)
+![](images/5fcf1baf-9fea-4860-8f56-918bf8bea9bb-1024x332.png)
 
 Im nächsten Schritt fügen wir auch schon Consul hinzu!
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -197,7 +193,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -217,7 +213,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![ansible teaser](images/ansible-1024x683.webp 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 ### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 
@@ -245,7 +241,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
+[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.png 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
@@ -255,7 +251,7 @@ _Cloud Engineer_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 

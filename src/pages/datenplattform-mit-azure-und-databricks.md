@@ -12,10 +12,10 @@ und Databricks Training
 
 ## Auf einen Blick
 
-- 2 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 2 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie mit unserem Training, individuelle Datenplattformen zu entwerfen und einen Proof of Concept zu definieren. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -44,9 +44,9 @@ Thinkport hat bereits bei verschiedenen Großunternehmen die Entstehung von Date
 
 Der Kurs ist geeignet für...
 
-- [Projekte / Teams in der Azure Cloud eine Datenplattform aufbauen wollen](https://thinkport.digital/was-ist-azure/)
-- Architekten und Entscheidungsträger mit grundlegendem IT Verständnis
-- Unternehmen mit einer Cloud Strategie
+* [Projekte / Teams in der Azure Cloud eine Datenplattform aufbauen wollen](https://thinkport.digital/was-ist-azure/)
+* Architekten und Entscheidungsträger mit grundlegendem IT Verständnis
+* Unternehmen mit einer Cloud Strategie
 
 ## Referenz
 
@@ -60,27 +60,27 @@ Die Agenda kann individuell angepasst werden
 
 ### Status Quo Tag I
 
-- Grundlagen und Konzepte von Datenplattformen
-- Vorstellung von Referenzarchitekturen
-- Bestandsaufnahme des IST Zustands des Unternehmen
-- Sammeln und bewerten von individuellen Use Cases
+* Grundlagen und Konzepte von Datenplattformen
+* Vorstellung von Referenzarchitekturen
+* Bestandsaufnahme des IST Zustands des Unternehmen
+* Sammeln und bewerten von individuellen Use Cases
 
 ### Zielbild Tag II
 
-- Analyse der Liefersysteme und Datenstrukturen
-- Auswahl von Cloud Services und Komponenten
-- Entwicklung einer Zielarchitektur
-- Definition von weiteren Schritten
+* Analyse der Liefersysteme und Datenstrukturen
+* Auswahl von Cloud Services und Komponenten
+* Entwicklung einer Zielarchitektur
+* Definition von weiteren Schritten
 
-- Grundlagen und Konzepte von Datenplattformen
-- Vorstellung von Referenzarchitekturen
-- Bestandsaufnahme des IST Zustands des Unternehmen
-- Sammeln und bewerten von individuellen Use Cases
+* Grundlagen und Konzepte von Datenplattformen
+* Vorstellung von Referenzarchitekturen
+* Bestandsaufnahme des IST Zustands des Unternehmen
+* Sammeln und bewerten von individuellen Use Cases
 
-- Analyse der Liefersysteme und Datenstrukturen
-- Auswahl von Cloud Services und Komponenten
-- Entwicklung einer Zielarchitektur
-- Definition von weiteren Schritten
+* Analyse der Liefersysteme und Datenstrukturen
+* Auswahl von Cloud Services und Komponenten
+* Entwicklung einer Zielarchitektur
+* Definition von weiteren Schritten
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -93,7 +93,7 @@ von Architektur bis zur Produktion.
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
 
 ## Kontakt
 
@@ -123,13 +123,13 @@ Welche Vorteile bringt Databricks?
 
 Databricks bietet viele Vorteile, darunter:
 
-- Skalierbarkeit
-- Leistungsstarke und schnelle Verarbeitung
-- Einfachheit (benutzerfreundliche Oberfläche)
-- Zusammenarbeit in Teams möglich
-- Integration (in eine Vielzahl von Datenquellen und Tools)
-- Sicherheit
-- Kosten (flexible, pay-as-you-go Preisgestaltung)
+* Skalierbarkeit
+* Leistungsstarke und schnelle Verarbeitung
+* Einfachheit (benutzerfreundliche Oberfläche)
+* Zusammenarbeit in Teams möglich
+* Integration (in eine Vielzahl von Datenquellen und Tools)
+* Sicherheit
+* Kosten (flexible, pay-as-you-go Preisgestaltung)
 
 Insgesamt bietet Databricks eine leistungsstarke, skalierbare und benutzerfreundliche Plattform für die Verarbeitung von Big Data, die von vielen Unternehmen und Organisationen in verschiedenen Anwendungsbereichen genutzt wird.
 

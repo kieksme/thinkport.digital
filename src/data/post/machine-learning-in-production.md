@@ -18,14 +18,14 @@ Mit MLOps (Machine Learning Operations) schaffen Sie die Grundlage für einen re
 
 Unser kostenloses Whitepaper bietet Ihnen einen umfassenden Überblick, wie MLOps Unternehmen dabei unterstützt, aus Machine Learning echten Business Value zu generieren. Neben den Grundlagen und Vorteilen von MLOps zeigen wir Ihnen:
 
-- Schlüsselkriterien für eine erfolgreiche und wertschöpfende Implementierung von KI-Lösungen in ihrem Unternehmen
-- Strategien zur Bewältigung der häufigsten Herausforderungen in Produktion
-- Einen inkrementellen Prozess, der ihnen erlaubt, MLOps schrittweise in Ihrem Unternehmen einzuführen
-- Meinungen von führenden Unternehmen
+* Schlüsselkriterien für eine erfolgreiche und wertschöpfende Implementierung von KI-Lösungen in ihrem Unternehmen
+* Strategien zur Bewältigung der häufigsten Herausforderungen in Produktion
+* Einen inkrementellen Prozess, der ihnen erlaubt, MLOps schrittweise in Ihrem Unternehmen einzuführen
+* Meinungen von führenden Unternehmen
 
 [Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
 
-![Es sind mehrere Zahnräder zu sehen, die ineinandergreifen](images/image-13.webp)
+![Es sind mehrere Zahnräder zu sehen, die ineinandergreifen](images/image-13.png)
 
 ## Warum Thinkport? Ihr Partner für den Erfolg mit MLOps
 
@@ -45,11 +45,11 @@ Ob kontinuierliche Verbesserung durch Monitoring, die Automatisierung von Pipeli
 
 Laden Sie jetzt unser Whitepaper herunter und erfahren Sie, wie Ihr Unternehmen mit MLOps datengetriebene Innovationen realisieren kann:
 
-![](images/image-14-1024x1024.webp) [Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
+![](images/image-14-1024x1024.png) [Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
 
 ## Autor
 
-![Portrait Julius](images/Julius-300x300.webp)
+![Portrait Julius](images/Julius-300x300.png)
 
 Julius Taylor
 
@@ -63,7 +63,7 @@ _Business Unit Lead - Data und KI_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3')](https://thinkport.digital/datenstrategie_fuer_ki/)
+[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.png 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3')](https://thinkport.digital/datenstrategie_fuer_ki/)
 
 ### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ 'Datenstrategie für KI Revolution')
 
@@ -73,7 +73,7 @@ _Business Unit Lead - Data und KI_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp 'nomad setup teaser')](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png 'nomad setup teaser')](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 ### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ 'Setup von Hashicorp Nomad')
 
@@ -103,7 +103,7 @@ _Business Unit Lead - Data und KI_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.png 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 

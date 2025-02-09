@@ -14,21 +14,21 @@ a complex cloud environment
 
 As professional cloud consultants, we often recommend Apache Kafka as a scalable, high-throughput messaging system for real-time data streaming applications. When optimizing Apache Kafka in the cloud, there are a few best practices that organizations can follow. These include:
 
-- Properly setting up the Kafka cluster
-- Sizing the Kafka cluster based on the data volume and throughput requirements
-- Monitoring and tuning the Kafka system to ensure optimal performance
-- Implementing backup and recovery measures to prevent data loss
-- Choosing the right cloud provider based on pricing and features
-- Evaluating the cost implications and potential cost optimization strategies, such as using reserved instances or integrating with cost-effective storage solutions
+* Properly setting up the Kafka cluster
+* Sizing the Kafka cluster based on the data volume and throughput requirements
+* Monitoring and tuning the Kafka system to ensure optimal performance
+* Implementing backup and recovery measures to prevent data loss
+* Choosing the right cloud provider based on pricing and features
+* Evaluating the cost implications and potential cost optimization strategies, such as using reserved instances or integrating with cost-effective storage solutions
 
 ## Setting up a cluster on AWS
 
 Setting up a Kafka cluster typically involves the following steps:
 
-- Provisioning the necessary resources such as compute and storage
-- Installing and configuring the Kafka software on the provisioned resources
-- Setting up the necessary networking and security infrastructure
-- Loading data into the Kafka cluster
+* Provisioning the necessary resources such as compute and storage
+* Installing and configuring the Kafka software on the provisioned resources
+* Setting up the necessary networking and security infrastructure
+* Loading data into the Kafka cluster
 
 First, it's important to consider the cloud provider. Both AWS and Azure offer managed Kafka services, but they differ in terms of pricing and features. For example, AWS MSK allows for seamless scaling and integrates with other AWS services like S3 and Lambda, while Azure HDInsight offers the option to deploy on Azure Virtual Machines for more control. Additionally, AWS MSK offers integrations with popular streaming platforms like Kinesis and Elasticsearch, while Azure HDInsight integrates with Azure Stream Analytics and Azure Functions.
 
@@ -96,7 +96,7 @@ Do you have further questions about Kafka optimization or need a training semina
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -126,7 +126,7 @@ Do you have further questions about Kafka optimization or need a training semina
 
 [Azure Cloud](https://thinkport.digital/category/azure-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 

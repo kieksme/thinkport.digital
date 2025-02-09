@@ -10,10 +10,10 @@ Legen Sie mit uns die Basis für Eventstreaming mit unserem
 
 ## Auf einen Blick
 
-- 3 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 3 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Echtzeit Eventstreaming Plattformen kennenlernen und erste Lernerfahrungen gewinnen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -41,19 +41,19 @@ Anhand von Apache Kafka ist es möglich, Data Streams über eine verteilte Platt
 
 Teilnehmer können nach Abschluss...
 
-- Gute Kenntnisse über Kafkas wichtigste Konzepte
-- Einen guten Überblick über die Kafka-betriebene Event Streaming Plattform Confluent
-- Eine hervorragende Grundlage, um fortgeschrittene Kafka Workshops zu belegen
-- Eine Plattform für automatische Analysen in Microsoft Azure bauen
+* Gute Kenntnisse über Kafkas wichtigste Konzepte
+* Einen guten Überblick über die Kafka-betriebene Event Streaming Plattform Confluent
+* Eine hervorragende Grundlage, um fortgeschrittene Kafka Workshops zu belegen
+* Eine Plattform für automatische Analysen in Microsoft Azure bauen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-- Grobem Verständnis des Linux OS
-- Allerersten Erfahrungen mit einer Shell wie bash
-- Der Absicht, in Zukunft weiterführende Kafka Trainings zu besuchen
-- Dem Willen, mehr über eine mit Kafka betriebene Echtzeit-Event-Streaming-Plattform zu lernen
+* Grobem Verständnis des Linux OS
+* Allerersten Erfahrungen mit einer Shell wie bash
+* Der Absicht, in Zukunft weiterführende Kafka Trainings zu besuchen
+* Dem Willen, mehr über eine mit Kafka betriebene Echtzeit-Event-Streaming-Plattform zu lernen
 
 ## Aufbau
 
@@ -61,33 +61,33 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Grundlagen Tag I
 
-- Motivation und Use Cases: Wieso Event-Driven?
-- Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
-- Wie funktioniert Kafka? Sicherheit und Herangehensweise​
+* Motivation und Use Cases: Wieso Event-Driven?
+* Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
+* Wie funktioniert Kafka? Sicherheit und Herangehensweise​
 
 ### Streaming Tag II
 
-- Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
-- Lab: Datenformate beibehalten und Kompatibilität sichern​
-- Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
+* Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
+* Lab: Datenformate beibehalten und Kompatibilität sichern​
+* Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
 
 ### Confluent Tag III
 
-- Data Streaming Plattform als Zentrales Nervensystem​
-- Verschiedene Deployment Modelle
-- Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
+* Data Streaming Plattform als Zentrales Nervensystem​
+* Verschiedene Deployment Modelle
+* Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
 
-- Motivation und Use Cases: Wieso Event-Driven?
-- Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
-- Wie funktioniert Kafka? Sicherheit und Herangehensweise
+* Motivation und Use Cases: Wieso Event-Driven?
+* Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
+* Wie funktioniert Kafka? Sicherheit und Herangehensweise
 
-- Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
-- Lab: Datenformate beibehalten und Kompatibilität sichern
-- Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
+* Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
+* Lab: Datenformate beibehalten und Kompatibilität sichern
+* Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
 
-- Data Streaming Plattform als Zentrales Nervensystem
-- Verschiedene Deployment Modelle
-- Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
+* Data Streaming Plattform als Zentrales Nervensystem
+* Verschiedene Deployment Modelle
+* Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -99,7 +99,7 @@ Die Lerninhalte des Kafka Fundamentals Workshops werden von unseren Trainern spa
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Kafka-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/kafka-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/Kafka_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Kafka-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/kafka-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/Kafka_Cheatsheet.pdf)
 
 ## Kontakt
 
@@ -135,7 +135,7 @@ Welche Vorteile bringt Apache Kafka?
 
 Apache Kafka bietet viele Vorteile, darunter:
 
-- - Skalierbarkeit
+* - Skalierbarkeit
     - Echtzeitdatenverarbeitung
     - Robuste Architektur
     - Flexibilität

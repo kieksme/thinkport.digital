@@ -69,13 +69,13 @@ It was also shown that a merge from monolithic SAP Retail systems to lightweight
 
 Providing data changes for several hundred thousend products per store creates a gigabit scale of data flow containing 90 million events per day.
 
-[![](images/Badge.webp)](https://www.reta-europe.com/best-connected-retail-solution-2023-edeka-digital/)
+[![](images/Badge.png)](https://www.reta-europe.com/best-connected-retail-solution-2023-edeka-digital/)
 
 ## Results with vision
 
 Our experts work on innovative solutions to make German companies fit for the future.
 
-![](images/Bild-23.02.23-um-14.50-1024x575.webp)
+![](images/Bild-23.02.23-um-14.50-1024x575.png)
 
 <iframe width="560" height="530" src="https://www.youtube-nocookie.com/embed/MwnDL1ICDGU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ tdrechsel@thinkport.digital
 
 +49 151 63417156
 
-- [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
+* [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
 
 ### [More Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

@@ -74,7 +74,7 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -84,7 +84,7 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
@@ -104,7 +104,7 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -126,4 +126,4 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)

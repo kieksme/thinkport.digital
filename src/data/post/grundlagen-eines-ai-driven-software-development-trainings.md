@@ -14,7 +14,7 @@ Die digitale Revolution hat die Softwareentwicklung in eine Ära des dynamischen
 
 Die Zielsetzung ist klar formuliert. Es gilt, das Verständnis für die Integration von künstlicher Intelligenz in den Softwareentwicklungsprozess zu vertiefen. Hierbei spielen auch die Erwartungen der Teilnehmer eine entscheidende Rolle, um eine maßgeschneiderte und zielgerichtete Wissensvermittlung zu gewährleisten. Der Trainings-Leiter, ein Experte auf dem Gebiet der AI im Software Development, gibt einen Überblick über die Struktur des Workshops.
 
-[![](images/AI-Software-artikel-bilder-post-1-1024x683.webp)](https://thinkport.digital/ai-driven-software-development/)
+[![](images/AI-Software-artikel-bilder-post-1-1024x683.png)](https://thinkport.digital/ai-driven-software-development/)
 
 ## Grundlagen von AI im Software Development
 
@@ -54,7 +54,7 @@ Der Workshop neigt sich dem Ende zu, doch Raum für interaktive Diskussionen und
 
 Der Workshop schließt mit einer Zusammenfassung der wichtigsten Erkenntnisse. Ein Ausblick auf zukünftige Entwicklungen im Bereich AI-driven Software Development rundet den Workshop ab. Die Teilnehmer verlassen den Workshop nicht nur mit einem vertieften Verständnis für AI im Softwareentwicklungsprozess, sondern auch mit konkreten Ansätzen für die Integration von AI in ihre eigenen Projekte. Der Workshop legt somit den Grundstein für eine erfolgreiche und zukunftsweisende Anwendung von künstlicher Intelligenz in der Softwareentwicklung.
 
-![Portrait Tobias](images/AnyConv.com__Tobi-300x300.webp)
+![Portrait Tobias](images/AnyConv.com__Tobi-300x300.png)
 
 ## Tobias Drechsel
 
@@ -64,7 +64,7 @@ _CEO & Senior Cloud Consultant_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -82,7 +82,7 @@ _CEO & Senior Cloud Consultant_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 

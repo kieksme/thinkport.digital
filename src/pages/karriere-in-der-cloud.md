@@ -10,7 +10,7 @@ Ein Platz für Cloud Experten und die, die es werden wollen
 
 [Alle Jobs hier!](https://thinkport-gmbh.jobs.personio.de/)
 
-![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.webp)
+![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.png)
 
 ## [Thinkport unter den Top 3 der besten Arbeitgeber in Frankfurt am Main.
 
@@ -126,7 +126,7 @@ Für Berufserfahrene mit vorzugsweise Hintergrund zu Beratung oder Entwicklung
 
 Geschlecht, Herkunft und Religion egal, Hauptsache Du passt zu uns!
 
-[Alle Jobs hier! ](https://thinkport-gmbh.jobs.personio.de/)[![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.webp) ](https://news.kununu.com/beste-arbeitgeber-frankfurt/)"Das Beste ist der umfangreiche Einsatz neuester Technologien, die Möglichkeit mit großen Unternehmen zusammenzuarbeiten und echte Probleme zu lösen." Kristian NikolicCloud Architect
+[Alle Jobs hier! ](https://thinkport-gmbh.jobs.personio.de/)[![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.png) ](https://news.kununu.com/beste-arbeitgeber-frankfurt/)"Das Beste ist der umfangreiche Einsatz neuester Technologien, die Möglichkeit mit großen Unternehmen zusammenzuarbeiten und echte Probleme zu lösen." Kristian NikolicCloud Architect
 
 ![Kristian Nikolic](images/Kristian-1.png) „Together we work. Together we laugh. Together we grow." Gökhan YildirimSenior Cloud Engineer ![Gökhan Yildirim](images/Goekhan_small.jpg) "I really like to learn new things and to be challenged in my work, to evolve and not stay in the same state forever. Thinkport brings all of this together with an awesome team that supports me whenever I need." Alice ReznickovaCloud Engineer ![Alice Reznickova](images/PA030137-2.jpg) "Bei Thinkport habe ich ein Umfeld gefunden, das mich Tag für Tag weiter fördert und fordert." Samir HamianiSenior Cloud Engineer ![Samir Hamiani](images/Samir_edited_small.png) "Thinkport ist ein Team aus jungen und erfahrenen Talenten auf diversen Themengebieten. Es macht Spaß mit einem Team zusammenzuarbeiten, das stets offen für neue Ideen und Gedanken ist." Keith SchuijlenburgSenior Cloud Architect ![Keith Schuijlenburg](images/Keith.png)
 
@@ -186,7 +186,7 @@ Circle Lead - People & Culture
 
 +49 15111105017
 
-- [](https://www.linkedin.com/in/sabrina-norrenbrock-0688a22/)
-- [](https://www.xing.com/profile/Sabrina_Norrenbrock/cv)
+* [](https://www.linkedin.com/in/sabrina-norrenbrock-0688a22/)
+* [](https://www.xing.com/profile/Sabrina_Norrenbrock/cv)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

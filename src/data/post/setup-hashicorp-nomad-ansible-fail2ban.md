@@ -2,7 +2,7 @@
 title: 'Setup Hashicorp Nomad Ansible fail2ban'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
-coverImage: '4.webp'
+coverImage: '4.png'
 ---
 
 # Setup von Hashicorp Nomad -
@@ -11,28 +11,28 @@ Schritt 2.2: Ansible - fail2ban
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)
+![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)
 
 [Schritt 1:  
-Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.webp) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
-Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/) [![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.png) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
+Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/) [![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-![fail2bail teaser](images/4-1024x683.webp)
+![fail2bail teaser](images/4-1024x683.png)
 
 Schritt 2.2:  
-Ansible - fail2ban [![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
+Ansible - fail2ban [![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
-[![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+[![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
@@ -62,7 +62,7 @@ Durch diese Einstellung wird ein Angreifer für 1 Minute gesperrt, sofern er 5 m
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -78,7 +78,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -108,7 +108,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
@@ -118,7 +118,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -128,7 +128,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
@@ -138,7 +138,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![rolle nomad teaser](images/6-1024x683.webp 'rolle nomad teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
+[![rolle nomad teaser](images/6-1024x683.png 'rolle nomad teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
 ### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
 

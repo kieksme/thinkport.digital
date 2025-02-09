@@ -3,7 +3,7 @@ title: 'Setup Hashicorp Nomad Ansible ufw'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
   + "streaming"
-coverImage: '5.webp'
+coverImage: '5.png'
 ---
 
 # Setup von Hashicorp -
@@ -12,32 +12,32 @@ Schritt 2.1: Ansible - ufw
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)
+![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)
 
 [Schritt 1:  
-Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.webp) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
+Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) [![ansible teaser](images/ansible-1024x683.png) ](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)[Schritt 2:  
 Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
-![ufw teaser](images/5-1024x683.webp)
+![ufw teaser](images/5-1024x683.png)
 
 Schritt 2.1:  
 Ansible - ufw
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 [Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-[![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
+[![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
-[![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+[![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
@@ -60,7 +60,7 @@ In der `handlers/main.yml` Datei können wir später Services auf der virtuellen
 In der `meta/main.yml` Datei können wir noch Details zu dieser UFW Rolle angeben.  
 Den Rest der Struktur brauchen wir für diese Rolle nicht.
 
-![screenshot rolle-ufw 1](images/image-20230823-080526-458x1024.webp)
+![screenshot rolle-ufw 1](images/image-20230823-080526-458x1024.png)
 
  
 
@@ -78,9 +78,9 @@ Andere States sind z. B.:
 
 Nun haben wird also die `ufw` installiert, danach wollen wir zuerst alle einkommenden Verbindungen verbieten und alle ausgehenden erlauben. Dazu fügen wir die folgenden beiden Blöcke ein:
 
-`- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
+ `- name: ufw deny incoming     ufw:    		direction: incoming    		proto: any    		policy: deny 	notify: 	- reload ufw`
 
-`- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
+ `- name: ufw allow outgoing     ufw:    		direction: outgoing    		proto: any    		policy: allow 	notify: 	- reload ufw`
 
 Wie du siehst sprechen wir hier nicht mehr die `apt` Task an, sondern die `ufw` Task - dies ist eine in Ansible eingebaute Task mit der wir die ufw sehr einfach konfigurieren können. Am Ende dieser Task verwenden wir noch einen Handler um den ufw Dienst neuzustarten. Dazu geben wir den Namen des Handlers ein (hier `reload ufw` ). Da wir den Handler noch nicht angelegt haben machen wir das nun.
 
@@ -124,7 +124,7 @@ Sobald du nun also `terraform apply` ausführst, wird die Infrastruktur bereitge
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -140,7 +140,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -188,7 +188,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![ufw teaser](images/5-1024x683.webp 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 ### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 

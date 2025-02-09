@@ -3,7 +3,7 @@ title: 'Setup von Hashicorp Nomad mit Ansible'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
   + "streaming"
-coverImage: 'ansible.webp'
+coverImage: 'ansible.png'
 ---
 
 # Setup von Hashicorp Nomad -
@@ -12,34 +12,34 @@ Schritt 2: Ansible
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
 Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform)
 
-![ansible teaser](images/ansible-1024x683.webp)
+![ansible teaser](images/ansible-1024x683.png)
 
 Schritt 2:  
 Ansible
 
-[![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/%20)
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/%20)
 
 [Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-[![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
+[![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/%20)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
-[![rolle consul teaser](images/7-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/%20)
+[![rolle consul teaser](images/7-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/%20)
 
 [Schritt 4:  
 Ansible - consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
@@ -56,15 +56,15 @@ Um mit Ansible Maschinen zu konfigurieren müssen wir erstmal alle IP-Adressen d
 
 Wir erstellen eine `inventory.yml` Datei, schreiben in eckige Klammern den gewählten Gruppennamen und schreiben dann darunter die öffentlichen IP-Adressen der virtuellen Maschinen.
 
-![ansible screenshot of nodes](images/5d4bb2b9-cff5-4645-96d4-87610907a1fd.webp)
+![ansible screenshot of nodes](images/5d4bb2b9-cff5-4645-96d4-87610907a1fd.png)
 
 Da wir per SSH auf die VMs zugreifen, müssen wir nun einen SSH Benutzer sowie den privaten Schlüssel als Variable für die VMs angeben.
 
-![screenshot 2 for ansible article](images/11647e9f-4050-41a0-b361-6b319f0e238d.webp)
+![screenshot 2 for ansible article](images/11647e9f-4050-41a0-b361-6b319f0e238d.png)
 
 ## Ansible Playbook
 
-![ansible playbook screenshot](images/dc68ae79-b307-4bdc-abe2-999f18f48260.webp)
+![ansible playbook screenshot](images/dc68ae79-b307-4bdc-abe2-999f18f48260.png)
 
 In diesem Abschnitt schauen wir uns den typischen Aufbau eines Ansible Playbooks an. Playbooks werden immer im YAML Format beschrieben. Hier ist ein Beispiel eines Playbooks:
 
@@ -78,7 +78,7 @@ In diesem Abschnitt schauen wir uns den typischen Aufbau eines Ansible Playbooks
 
 So sieht dann der Output des ausgeführten Playbooks aus:
 
-![ansible screenshot 4](images/image-20230821-121250-1024x263.webp)
+![ansible screenshot 4](images/image-20230821-121250-1024x263.png)
 
 Wir könnten dieses Playbook nun 100 mal ausführen, es würde immer das gleiche machen (sofern keine VM abgestellt wird). Wenn wir bald eigene Playbooks schrieben, wollen wir immer den Ansatz der Idempotenz verfolgen:
 
@@ -88,7 +88,7 @@ Denn meistens werden Ansible-Playbooks dann alle X Stunden oder Tage ausgeführt
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -104,7 +104,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -114,7 +114,7 @@ _Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -142,7 +142,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
@@ -152,7 +152,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.png 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
 ### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 

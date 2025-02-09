@@ -2,7 +2,7 @@
 title: 'Spark, Databricks, Trino- EN'
 publishDate: 2023-04-20T10:00:00Z
 categories: + "uncategorized-en"
-coverImage: 'Streaming-Services-11.webp'
+coverImage: 'Streaming-Services-11.png'
 ---
 
 # Spark, Databricks, Trino –
@@ -19,7 +19,7 @@ To use [**Spark**](https://thinkport.digital/spark-fuer-big-data-lernen/), you n
 
 One of the **strengths** of **Spark** is its **ability** to handle **large volumes** of data. It can process data in **parallel** across multiple nodes, which allows it to **scale** to handle **petabytes** of data. Spark also has a **rich set** of **APIs** and **libraries** that make it easy to perform common data processing tasks such as **filtering**, **sorting**, and **aggregating**.
 
-[![Werbebanner mit Janina und dem Schriftzug Spark Training für Big Data](images/Copy-of-GDN-Kampange-Querformat-5-1024x536.webp)](https://thinkport.digital/spark-fuer-big-data-lernen/)
+[![Werbebanner mit Janina und dem Schriftzug Spark Training für Big Data](images/Copy-of-GDN-Kampange-Querformat-5-1024x536.png)](https://thinkport.digital/spark-fuer-big-data-lernen/)
 
 However, Spark has some weaknesses as well. It can be complex to set up and manage a Spark cluster, and it can be resource-intensive. Additionally, Spark's performance can be affected by network latency and other factors, which can slow down data processing.
 
@@ -31,7 +31,7 @@ To use **Databricks**, you need to create a **Databricks workspace**, which is a
 
 One of the **strengths** of **Databricks** is its **ease of use**. It provides a **user-friendly interface** for developing and running data processing pipelines, and it handles the **complex task** of managing Spark clusters **behind the scenes**. Databricks also has a **rich set** of **features** for data science and machine learning, including support for **deep learning frameworks** such as **TensorFlow** and **PyTorch**.
 
-[![Werbebanner mit Gökhan und dem Schriftzug Databricks Training](images/Copy-of-GDN-Kampange-Querformat-6-1024x536.webp)](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)
+[![Werbebanner mit Gökhan und dem Schriftzug Databricks Training](images/Copy-of-GDN-Kampange-Querformat-6-1024x536.png)](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)
 
 However, Databricks has some weaknesses as well. It can be expensive compared to other cloud-based platforms, and it may not be suitable for organizations that have strict security and compliance requirements. Additionally, Databricks is a proprietary platform, which means that users may be locked into using Databricks and may not have access to the underlying Spark APIs and libraries.
 
@@ -47,13 +47,13 @@ One of the **strengths** of **Trino** is its **ability** to query large amounts 
 
 When evaluating **Spark**, **Databricks**, and **Trino** for **big data processing**, there are several **critical aspects** to consider in order to find the **most suitable solution** for your specific use case. These aspects include:
 
-- **Scalability:** Consider the size of your data and the expected growth in data volume. Spark and Trino are both designed to scale horizontally to handle large volumes of data, while Databricks provides a cloud-based environment that can be easily scaled up or down based on demand.
-- **Ease of use:** Consider the skill level of your team and the ease of adoption. Databricks provides a user-friendly interface and requires minimal configuration, while Spark and Trino require more technical expertise and setup.
-- **Performance:** Consider the speed and efficiency of data processing. Trino is known for its fast and efficient distributed SQL query engine, while Spark has a rich set of APIs and libraries that can improve performance for specific data processing tasks.
+* **Scalability:** Consider the size of your data and the expected growth in data volume. Spark and Trino are both designed to scale horizontally to handle large volumes of data, while Databricks provides a cloud-based environment that can be easily scaled up or down based on demand.
+* **Ease of use:** Consider the skill level of your team and the ease of adoption. Databricks provides a user-friendly interface and requires minimal configuration, while Spark and Trino require more technical expertise and setup.
+* **Performance:** Consider the speed and efficiency of data processing. Trino is known for its fast and efficient distributed SQL query engine, while Spark has a rich set of APIs and libraries that can improve performance for specific data processing tasks.
 
-- **Data Sources:** Consider the data sources and formats used in your organization. Trino is designed to work with a wide variety of data sources, including Hadoop, S3, and MySQL, while Spark has a specific set of APIs and libraries for certain data sources.
-- **Advanced Features:** Consider the advanced features required for your data processing tasks. Databricks provides a rich set of features for data science and machine learning, while Spark and Trino provide advanced features such as support for window functions and joins.
-- **Cost:** Consider the cost of each solution. Databricks is a cloud-based platform that requires a subscription, while Spark and Trino are open-source and can be run on-premise or in the cloud.
+* **Data Sources:** Consider the data sources and formats used in your organization. Trino is designed to work with a wide variety of data sources, including Hadoop, S3, and MySQL, while Spark has a specific set of APIs and libraries for certain data sources.
+* **Advanced Features:** Consider the advanced features required for your data processing tasks. Databricks provides a rich set of features for data science and machine learning, while Spark and Trino provide advanced features such as support for window functions and joins.
+* **Cost:** Consider the cost of each solution. Databricks is a cloud-based platform that requires a subscription, while Spark and Trino are open-source and can be run on-premise or in the cloud.
 
 By evaluating these critical aspects, you can determine which tool is best suited for your organization's specific needs and requirements. It is important to keep in mind that there is no one-size-fits-all solution, and it may be necessary to use a combination of tools to achieve your desired outcomes.
 
@@ -81,7 +81,7 @@ Entdecken Sie weiterhin die Welt von Big Data mit unserem Artikel **[Entscheidun
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 

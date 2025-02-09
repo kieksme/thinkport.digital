@@ -18,7 +18,7 @@ Sie prüfen eine Migration in die moderne Cloud-Welt von AWS, Azure oder GCP und
 
 [](#linksection)
 
-![Alex vor einem türkisen Quadrat.](images/Alex-7-981x1024.webp)
+![Alex vor einem türkisen Quadrat.](images/Alex-7-981x1024.png)
 
 ## Cloud Consulting & Thinkport
 
@@ -52,14 +52,14 @@ Wir reduzieren erfolgreich den Vendor Lock-in, indem wir Ihre Infrastruktur auf 
 
 ## Thinkport's Stärken
 
-- 100% Cloud fokussiert
-- Startup Spirit
-- Zertifizierter Partner von AWS, Azure und GCP
-- Arbeiten Lösungsorientiert
-- Expertise durch permanentes Lernen
-- Starkes, sich unterstützendes Team
+* 100% Cloud fokussiert
+* Startup Spirit
+* Zertifizierter Partner von AWS, Azure und GCP
+* Arbeiten Lösungsorientiert
+* Expertise durch permanentes Lernen
+* Starkes, sich unterstützendes Team
 
-![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
+![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.png)[](#linksection)
 
 ## Thinkport's Kernkompetenzen für ihr Cloud Projekt
 
@@ -67,7 +67,7 @@ Sie benötigen eine Beratung zur Cloud-Architektur? Oder eine neue Anwendung in 
 oder für beliebige Zwecke? Oder Unterstützung für die bestehende Infrastruktur?  
 Wir teilen gerne unser Wissen und unsere Erfahrung mit Ihnen.
 
-![](images/Icon-Kompetenz.png) ![](images/Linien.png) ![icons bereiche illustriert](images/Icons-Bereiche-new-scaled.webp)
+![](images/Icon-Kompetenz.png) ![](images/Linien.png) ![icons bereiche illustriert](images/Icons-Bereiche-new-scaled.png)
 
 ## Unsere Erfolge - Success Stories
 
@@ -167,7 +167,7 @@ Für das Fintech SparkView entwickeln Thinkport Consultants ausgefeilte Machine 
 
 Thinkport Experten bauen für den Betreiber eines Quantencomputers eine umfassende IT Infrastruktur in der Azure Cloud. Die innovative Architektur vereint zahlreiche Azure Services in einem zentralen, hocheffizienten Cloudsystem mit einem personalisierten Zugangsportal.
 
-[Zur Success Story ](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
+[Zur Success Story ](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.png) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
 
 ## Unsere Top 3:
 
@@ -177,7 +177,7 @@ Die Inhalte unserer vielfältigen Cloud Workshops werden von unseren Experten ga
 
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
-[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Schriftzug Disruption Days im Vordergrund vor einer Draufsicht auf einen Tisch an dem gearbeitet wird](images/Disruption-Days-1024x463.webp) ](https://thinkport.digital/disruption-days-mit-futury/)[![](images/Cloud-Architecture-Review-4-1024x463.webp) ](https://thinkport.digital/hybrid-cloud-strategie/)[![](images/Cloud-Architecture-Review-1024x463.webp)](https://thinkport.digital/cloud-architecture-review/)
+[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Schriftzug Disruption Days im Vordergrund vor einer Draufsicht auf einen Tisch an dem gearbeitet wird](images/Disruption-Days-1024x463.png) ](https://thinkport.digital/disruption-days-mit-futury/)[![](images/Cloud-Architecture-Review-4-1024x463.png) ](https://thinkport.digital/hybrid-cloud-strategie/)[![](images/Cloud-Architecture-Review-1024x463.png)](https://thinkport.digital/cloud-architecture-review/)
 
 ## Wissen & Kompetenz: Unsere erfahrenen Cloud Experten.
 
@@ -225,7 +225,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

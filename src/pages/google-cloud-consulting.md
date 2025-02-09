@@ -16,7 +16,7 @@ Als Google Cloud Consulting Partner bieten wir Ihnen den kompletten Full Service
 Gerne unterstützen wir Sie individuell. Und entwickeln mit Ihnen die zukunftsfähige Cloud Strategie  
 Ihres Unternehmens sowie deren Umsetzung.
 
-![bild von Richard für die Google Cloud Seite](images/richard-for-GCP-731x1024.webp)
+![bild von Richard für die Google Cloud Seite](images/richard-for-GCP-731x1024.png)
 
 ## Google Cloud & Thinkport
 
@@ -36,13 +36,13 @@ Termin vereinbaren[](#linksection)
 
 ## Google Cloud Stärken
 
-- Ausgezeichnete Data & Analytics Services
-- Gute Integration mit anderen Google Services
-- Hohe Benutzerfreundlichkeit und trotzdem tiefe Kontrollmöglichkeiten
-- Hervorragende first party client libraries und APIs
-- Umfangreiche Dokumentation zu Services mit Beispielen und Best Practices
+* Ausgezeichnete Data & Analytics Services
+* Gute Integration mit anderen Google Services
+* Hohe Benutzerfreundlichkeit und trotzdem tiefe Kontrollmöglichkeiten
+* Hervorragende first party client libraries und APIs
+* Umfangreiche Dokumentation zu Services mit Beispielen und Best Practices
 
-![Bild von Wolken mit GCP logo und zwei Cloud Architecs](images/gcp3_wolke-1024x902.webp)[](#linksection)
+![Bild von Wolken mit GCP logo und zwei Cloud Architecs](images/gcp3_wolke-1024x902.png)[](#linksection)
 
 ## Thinkport's Kernkompetenzen für ihr Google Cloud Projekt
 
@@ -104,7 +104,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

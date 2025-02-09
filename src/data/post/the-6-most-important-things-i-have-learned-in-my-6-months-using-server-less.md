@@ -39,9 +39,9 @@ DynamoDB is on a whole new level. Among the benefits of getting the NoSQL databa
 
 After several attempts and finally succeeding with DynamoDB, I learned that:
 
-- Do not just jump into it without getting the facts right. Understand how it works first, lest you get disappointed and move back to RDMS.
-- It has extremely powerful tools. You can use streams to attach code to table events.
-- It can feed other storage systems. It can also be used to protect other databases from enormous data volumes.
+* Do not just jump into it without getting the facts right. Understand how it works first, lest you get disappointed and move back to RDMS.
+* It has extremely powerful tools. You can use streams to attach code to table events.
+* It can feed other storage systems. It can also be used to protect other databases from enormous data volumes.
 
 ![](images/6-2.png)
 
@@ -49,16 +49,16 @@ After several attempts and finally succeeding with DynamoDB, I learned that:
 
 Traditionally, you only had to authenticate yourself and then track them by following a session ID. The session ID controlled access. This was time-saving as you only needed to do the hard work once. But there are problems associated with this approach. First, it only works if the server is in the middle. In this case, the server has been burned to the ground. Second, it exposes you to malicious attacks like CSRF. It also makes passing identity to other services very difficult.
 
-Nobody likes the CSRF attacks. This is where the JWT token comes in. Here is an illustration of how it works;
+Nobody likes the CSRF attacks. This is where the JWT token comes in. Here is an illustration of how it works; 
 
-- **Step 1:** get a JWT. You are awarded a JWT token after the authorization process.
-- **Step 2:** use it to communicate with the service you writeBelow are some reasons why you should use JWT;
+* **Step 1:** get a JWT. You are awarded a JWT token after the authorization process.
+* **Step 2:** use it to communicate with the service you writeBelow are some reasons why you should use JWT; 
 
-  - The client can talk to more than one serverless activity
-  - Every request is authenticated
-  - It is secure.
-  - It is anti-monolith,
-  - It is CSRF-free
+  + The client can talk to more than one serverless activity
+  + Every request is authenticated
+  + It is secure.
+  + It is anti-monolith, 
+  + It is CSRF-free
 
   The only thing needed from your serveless code is a Custom Authorizer to determine if the header is valid.
 
@@ -80,13 +80,13 @@ People using Python will boast about the impressive language features, but that 
 
 5. **Enjoy the Vue while it lasts**
 
-I was introduced to React when I entered the world of Single Page Applications. React is the most popular approach to developing user interfaces. It is great, but some of its drawbacks include a learning curve that is too steep, Webpack set up and JSX introduction. We chose to explore alternatives since it was too heavyweight for our immediate use.
+I was introduced to React when I entered the world of Single Page Applications. React is the most popular approach to developing user interfaces. It is great, but some of its drawbacks include a learning curve that is too steep, pngack set up and JSX introduction. We chose to explore alternatives since it was too heavyweight for our immediate use.
 
 I soon discovered  Vue.js and my life using serverless turned around. You can learn all about Vue in just a few days. Other significant advantages of Vue include:
 
-- Everything is a component which manages its own content, design, and code. This makes it easy to manage our clients’ projects, which are quite a huge number.
-- You are provided with powerful debugging tools, a Webpack and great organization from the open-source JavaScript framework.
-- Vue allows you to develop a desktop application within the browser. This way, you can improve the user experience.
+* Everything is a component which manages its own content, design, and code. This makes it easy to manage our clients’ projects, which are quite a huge number.
+* You are provided with powerful debugging tools, a pngack and great organization from the open-source JavaScript framework.
+* Vue allows you to develop a desktop application within the browser. This way, you can improve the user experience.
 
 In the old world, we would be deploying apps through Elastic Beanstalk. We would then monitor them for utilization and manage infrastructure. In SPAs, however, when you deploy an application, you are copying index.html, bundle.js, and some file dependencies to an s3 bucket which is front-ended by a CloudFront distribution. This grants you steady loading and distribution behavior. It also enables multi-version management.
 
@@ -182,4 +182,4 @@ We have commenced on a journey of building SPA apps which use serverless infrast
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
--  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

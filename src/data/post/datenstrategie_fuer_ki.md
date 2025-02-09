@@ -4,7 +4,7 @@ publishDate: 2024-06-20T10:00:00Z
 categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-coverImage: 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp'
+coverImage: 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.png'
 ---
 
 # Eine Datenstrategie als Fundament Ihres KI-Erfolgs
@@ -27,7 +27,7 @@ Wie wird mit fehlenden Daten umgegangen? Was tun bei unvollständigen Datensätz
 
 Diese und viele weitere Fragen müssen beantwortet werden, um eine Datenqualität zu erreichen, die KI-Lösungen auf höchstem Niveau ermöglicht. Aber nicht jede dieser Fragen ist für jedes Unternehmen und jeden Anwendungsfall gleich wichtig. Ob es beispielsweise eine Strategie für den Umgang mit fehlenden Daten braucht, hängt ganz davon ab, ob die KI-Lösung überhaupt vollständige Daten benötigt. Das zeigt, wie wichtig eine individuell abgestimmte Datenstrategie ist.
 
-![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.webp) ![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp)
+![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.png) ![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.png)
 
 ## Entwicklung einer Datenstrategie als nächster Schritt für KI-Lösungen
 
@@ -37,7 +37,7 @@ Es braucht einen Prozess, mit dem nicht nur eine fundierte Datenstrategie defini
 
 Mit einer Datenstrategie für KI-Anwendungen können Sie Ihr Unternehmen für die Zukunft wettbewerbsfähig aufstellen und ungeahnte Potenziale ausschöpfen. In unserem Whitepaper finden Sie viele weitere spannende Informationen, die Sie auf dem Weg zur Datenstrategie unterstützen.
 
-![open magazine showing the white paper](images/Option_1-1-300x300.webp) [Jetzt Whitepaper Herunterladen](#Jetzt%20Whitepaper%20Herunterladen)
+![open magazine showing the white paper](images/Option_1-1-300x300.png) [Jetzt Whitepaper Herunterladen](#Jetzt%20Whitepaper%20Herunterladen)
 
 Selbstverständlich können Sie sich auch direkt an unsere Innovationsberater: Innen wenden und sich noch heute einen Termin zum direkten Austausch ausmachen. Thinkport liefert immer eine individuelle und maßgeschneiderte Lösung, um Ihr Unternehmen voranzubringen.
 
@@ -45,7 +45,7 @@ Selbstverständlich können Sie sich auch direkt an unsere Innovationsberater: I
 
 ## Autor
 
-![Tim Portrait](images/tim-_mejorada-e1712303866982-300x296.webp)
+![Tim Portrait](images/tim-_mejorada-e1712303866982-300x296.png)
 
 Tim Amme
 
@@ -59,7 +59,7 @@ Download_Form_KI_und_Datenstrategie_Whitepaper Name \* First Last Name \* Last E
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.png 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
@@ -69,7 +69,7 @@ Download_Form_KI_und_Datenstrategie_Whitepaper Name \* First Last Name \* Last E
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 

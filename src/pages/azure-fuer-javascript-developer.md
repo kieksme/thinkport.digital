@@ -10,10 +10,10 @@ Werden Sie Experte in
 
 ## Auf einen Blick
 
-- 2 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 2 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Lernen Sie im Azure Development Training die Entwicklung von modernen Backend- und Frontend-Anwendungen.  
 Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
@@ -42,16 +42,16 @@ Die Azure Cloud ist beliebt für ihre belastbaren und robusten Backend-Services,
 
 Teilnehmer können nach Abschluss...
 
-- An einem Tag eine Anwendung erstellen können, wofür Sie früher Monate gebraucht haben
-- Mit einer Sprache und Azure-Services große Anwendungen entwickeln
+* An einem Tag eine Anwendung erstellen können, wofür Sie früher Monate gebraucht haben
+* Mit einer Sprache und Azure-Services große Anwendungen entwickeln
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-- Personen mit Erfahrung in der Web-, Backend-, Frontendentwicklung
-- Personen, mit Erfahrung als JavaScript- und Node.js-, API- und Mobile-Entwickler sowie Azure Architekten
-- Unternehmen, die Anwendungen mit Azure erstellen
+* Personen mit Erfahrung in der Web-, Backend-, Frontendentwicklung
+* Personen, mit Erfahrung als JavaScript- und Node.js-, API- und Mobile-Entwickler sowie Azure Architekten
+* Unternehmen, die Anwendungen mit Azure erstellen
 
 ## Aufbau
 
@@ -59,27 +59,27 @@ Der Kurs ist geeignet für...
 
 ### Einführung Tag I
 
-- Frontend
-- App Service: der zentrale Punkt von Azure Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
+* Frontend
+* App Service: der zentrale Punkt von Azure Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
 
 ### Use Case Tag II
 
-- Backend
-- Was ist Serverless?
-- Azure Functions: Kern der Serverless Architektur
-- Azure Active Directory: Authentifizierung in Minuten
-- Azure Logic Apps: neue Generation API bauen
-- Erstellen einer Hello World-Anwendung
+* Backend
+* Was ist Serverless?
+* Azure Functions: Kern der Serverless Architektur
+* Azure Active Directory: Authentifizierung in Minuten
+* Azure Logic Apps: neue Generation API bauen
+* Erstellen einer Hello World-Anwendung
 
-- Frontend
-- App Service: der zentrale Punkt von Azure Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
+* Frontend
+* App Service: der zentrale Punkt von Azure Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
 
-- Backend
-- Was ist Serverless?
-- Azure Functions: Kern der Serverless Architektur
-- Azure Active Directory: Authentifizierung in Minuten
-- Azure Logic Apps: neue Generation API bauen
-- Erstellen einer Hello World-Anwendung
+* Backend
+* Was ist Serverless?
+* Azure Functions: Kern der Serverless Architektur
+* Azure Active Directory: Authentifizierung in Minuten
+* Azure Logic Apps: neue Generation API bauen
+* Erstellen einer Hello World-Anwendung
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -91,7 +91,7 @@ Die Lerninhalte dieses Azure Development Trainings werden von unseren Experten s
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Azure-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/Azure-3-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/Azure_Cheatsheet.pdf)
 
 ## Kontakt
 
@@ -113,7 +113,7 @@ Welche Möglichkeiten bringt Azure für JavaScript Entwickler?
 
 Es gibt eine Vielzahl von Möglichkeiten, wie man Microsoft Azure und JavaScript kombinieren kann. Hier sind einige Beispiele:
 
-- - Azure Functions
+* - Azure Functions
     - Web-Apps
     - Mobile Apps
     - Datenbanken
@@ -125,7 +125,7 @@ Welche Vorteile bringt Azure einem JavaScript Developer?
 
 Für einen JavaScript-Entwickler gibt es eine Vielzahl von Vorteilen, die Azure bietet. Hier sind einige der wichtigsten Vorteile:
 
-- - Skalierbarkeit
+* - Skalierbarkeit
     - Cloud-Integration
     - Breite Palette von Diensten
     - DevOps-Integration

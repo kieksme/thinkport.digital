@@ -4,7 +4,7 @@ publishDate: 2024-07-10T10:00:00Z
 categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-coverImage: 'Stammdaten01-1.webp'
+coverImage: 'Stammdaten01-1.png'
 ---
 
 # Synchrone Stammdaten für Tochterunternehmen als strategischer Wettbewerbsvorteil
@@ -27,7 +27,7 @@ Zunächst führen synchrone Stammdaten zu einer Reduktion der Komplexität und d
 
 Gleichzeitig wird die Datenqualität, die Transparenz und schlussendlich auch die Effizienz durch synchrone Stammdaten für alle Tochterunternehmen gesteigert. Richtig ausgenutzt, kann am Ende auch die Kund:innenzufriedenheit gesteigert werden.
 
-![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.webp) ![Stammdaten01 (1)](images/Stammdaten01-1-1024x1022.webp)
+![](images/tpinnov_A_lighthouse_in_dark_blue_and_red_in_a_Big_Data_Lake__3853164e-6644-4458-820e-6e9ffa7dc26b_3.png) ![Stammdaten01 (1)](images/Stammdaten01-1-1024x1022.png)
 
 ## Eine Lösungsoption mit Kafka und Confluent
 
@@ -61,7 +61,7 @@ Stammdaten-Artikel_Paper_Download Name \* First Last Name \* Last Email \* Compa
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![rolle consul teaser](images/7-1024x683.webp 'rolle consul teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
+[![rolle consul teaser](images/7-1024x683.png 'rolle consul teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/)
 
 ### [Setup Hashicorp Nomad Ansible Consul](https://thinkport.digital/setup-hashicorp-nomad-ansible-consul/ 'Setup Hashicorp Nomad Ansible Consul')
 
@@ -71,7 +71,7 @@ Stammdaten-Artikel_Paper_Download Name \* First Last Name \* Last Email \* Compa
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.webp 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')](https://thinkport.digital/orthanc-und-kubernetes/)
+[![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.png 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')](https://thinkport.digital/orthanc-und-kubernetes/)
 
 ### [Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung](https://thinkport.digital/orthanc-und-kubernetes/ 'Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung')
 
@@ -81,7 +81,7 @@ Stammdaten-Artikel_Paper_Download Name \* First Last Name \* Last Email \* Compa
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.webp 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
+[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.png 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
 
 ### [Thinkport ausgezeichnet als «AWS Advanced Tier Services»](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/ 'Thinkport ausgezeichnet als «AWS Advanced Tier Services»')
 
@@ -91,7 +91,7 @@ Stammdaten-Artikel_Paper_Download Name \* First Last Name \* Last Email \* Compa
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.png 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
 ### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 

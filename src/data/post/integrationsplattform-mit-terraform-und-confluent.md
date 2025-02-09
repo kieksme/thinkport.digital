@@ -131,7 +131,7 @@ _Cloud Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.webp 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
+[![AWS TIer Partner Porti](images/Cloud-Strategien-im-Wandel-1024x683.png 'AWS TIer Partner Porti')](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/)
 
 ### [Thinkport ausgezeichnet als “AWS Advanced Tier Services”](https://thinkport.digital/thinkport-ausgezeichnet-als-aws-advanced-tier-services-ihr-cloud-exzellenzpartner/ 'Thinkport ausgezeichnet als “AWS Advanced Tier Services”')
 
@@ -161,7 +161,7 @@ _Cloud Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.webp 'Skalierbarkeit01')](https://thinkport.digital/streaming-und-skalierbarkeit/)
+[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.png 'Skalierbarkeit01')](https://thinkport.digital/streaming-und-skalierbarkeit/)
 
 ### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ 'Event-getriebene Anwendungen effektiv betreiben')
 
@@ -171,7 +171,7 @@ _Cloud Architect_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 ### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 

@@ -3,7 +3,7 @@ title: 'Was ist Databricks Training?'
 publishDate: 2024-01-10T10:00:00Z
 categories: + "big-data"
   + "cloud-general"
-coverImage: 'Post-Was-ist-Databricks-TRAINING.webp'
+coverImage: 'Post-Was-ist-Databricks-TRAINING.png'
 ---
 
 # Was ist Databricks Training?
@@ -16,29 +16,29 @@ Am dritten Tag liegt der Fokus auf Data Engineering, DevOps und fortgeschrittene
 
 ## Module 1: Databricks Intro
 
-- Delta Lake: Grundlagen und Konzepte von Delta Lake, einschließlich Transaktionen und Versionierung.
+* Delta Lake: Grundlagen und Konzepte von Delta Lake, einschließlich Transaktionen und Versionierung.
 
-- Data Engineering: Überblick über Datenengineering in Databricks, einschließlich grundlegender Transformationen und Operationen.
+* Data Engineering: Überblick über Datenengineering in Databricks, einschließlich grundlegender Transformationen und Operationen.
 
-- Data Streaming: Einführung in die Verarbeitung von Echtzeitdaten und Streaming mit Databricks.
+* Data Streaming: Einführung in die Verarbeitung von Echtzeitdaten und Streaming mit Databricks.
 
-- Data Warehousing: Konzepte und Anwendungen von Data Warehousing in Databricks.
+* Data Warehousing: Konzepte und Anwendungen von Data Warehousing in Databricks.
 
-- Data Sharing: Methoden und Werkzeuge zum Teilen von Daten in Databricks.
+* Data Sharing: Methoden und Werkzeuge zum Teilen von Daten in Databricks.
 
-- Machine Learning / Data Science: Grundlagen der maschinellen Lern- und Datenwissenschaftsanwendungen in Databricks.
+* Machine Learning / Data Science: Grundlagen der maschinellen Lern- und Datenwissenschaftsanwendungen in Databricks.
 
-- Data Governance: Überblick über die Datenverwaltung und -kontrolle in Databricks.
+* Data Governance: Überblick über die Datenverwaltung und -kontrolle in Databricks.
 
 ## Module 2: Databricks Architektur
 
-- Control plane and data plane: Unterscheidung zwischen Steuerungsebene und Datenebene in der Databricks-Architektur.
+* Control plane and data plane: Unterscheidung zwischen Steuerungsebene und Datenebene in der Databricks-Architektur.
 
-- Data plane: Cluster- und SQL-Warehouse-Konzepte, einschließlich serverloser Implementierungen.
+* Data plane: Cluster- und SQL-Warehouse-Konzepte, einschließlich serverloser Implementierungen.
 
 ## Module 3: Unity Catalog
 
-- - Intro: Einführung in den Unity Catalog und seine Rolle in der Datenorganisation.
+* - Intro: Einführung in den Unity Catalog und seine Rolle in der Datenorganisation.
 
     - Setup: Einrichtung des Unity Catalog in einer Cloud-Umgebung mit einem Data Lake.
 
@@ -56,53 +56,53 @@ Am dritten Tag liegt der Fokus auf Data Engineering, DevOps und fortgeschrittene
 
 ## Module 4: Data Integration
 
-- Intro: Einführung in die Datenintegration in Databricks.
+* Intro: Einführung in die Datenintegration in Databricks.
 
-- Hands-on Lab: Praktische Übungen zum Abrufen von CSV-Daten über eine API.
+* Hands-on Lab: Praktische Übungen zum Abrufen von CSV-Daten über eine API.
 
-- Optional: On-prem Integration, Databricks Partner Connect: Erweiterungsmöglichkeiten für Datenintegration.
+* Optional: On-prem Integration, Databricks Partner Connect: Erweiterungsmöglichkeiten für Datenintegration.
 
 ## Module 5: Data Engineering
 
-- Delta Lake Features: Fortgeschrittene Funktionen von Delta Lake.
+* Delta Lake Features: Fortgeschrittene Funktionen von Delta Lake.
 
-- History and "Time Travel": Historische Datenansichten und Zeitreisen in Delta Lake.
+* History and "Time Travel": Historische Datenansichten und Zeitreisen in Delta Lake.
 
-- Vacuuming: Bereinigung und Verwaltung von Daten in Delta Lake.
+* Vacuuming: Bereinigung und Verwaltung von Daten in Delta Lake.
 
-- Hands-on Lab: Datenverarbeitung mit PySpark auf einem Spark-Cluster.
+* Hands-on Lab: Datenverarbeitung mit PySpark auf einem Spark-Cluster.
 
-- Hands-on Lab: Datenverarbeitung mit SQL auf einem SQL-Warehouse.
+* Hands-on Lab: Datenverarbeitung mit SQL auf einem SQL-Warehouse.
 
-- Intro Databricks Jobs (Workflows): Überblick über Workflows in Databricks.
+* Intro Databricks Jobs (Workflows): Überblick über Workflows in Databricks.
 
-- Hands-on Lab: Workflow zur Orchestrierung von Datenverarbeitungspipelines.
+* Hands-on Lab: Workflow zur Orchestrierung von Datenverarbeitungspipelines.
 
-- Good Practices: Best Practices für Cluster- und SQL-Warehouse-Konfiguration, Tabellepartitionierung und ODBC-Zugriff auf Databricks.
+* Good Practices: Best Practices für Cluster- und SQL-Warehouse-Konfiguration, Tabellepartitionierung und ODBC-Zugriff auf Databricks.
 
 ## Module 6: DevOps
 
-- Repositories in Databricks: Nutzung von Repositories für die Codeverwaltung in Databricks.
+* Repositories in Databricks: Nutzung von Repositories für die Codeverwaltung in Databricks.
 
-- Introduce CI/CD with dbx: Einführung in Continuous Integration und Continuous Deployment mit dbx.
+* Introduce CI/CD with dbx: Einführung in Continuous Integration und Continuous Deployment mit dbx.
 
-- Optional: Hands-on Lab: Praktische Einrichtung von Workflow CI/CD mit dbx.
+* Optional: Hands-on Lab: Praktische Einrichtung von Workflow CI/CD mit dbx.
 
 ## Module 7: Structured Streaming and ML
 
-- Intro: Einführung in die strukturierte Datenverarbeitung und maschinelles Lernen.
+* Intro: Einführung in die strukturierte Datenverarbeitung und maschinelles Lernen.
 
-- Hands-on Lab: Datenverarbeitung mit der Structured Streaming API.
+* Hands-on Lab: Datenverarbeitung mit der Structured Streaming API.
 
-- Delta Live Tables Introduction: Konzepte und Anwendungen von Delta Live Tables.
+* Delta Live Tables Introduction: Konzepte und Anwendungen von Delta Live Tables.
 
-- Hands-on Lab: Beispiel für Delta Live Tables.
+* Hands-on Lab: Beispiel für Delta Live Tables.
 
-- ML and ML-Ops Introduction: Überblick über maschinelles Lernen und ML Operations.
+* ML and ML-Ops Introduction: Überblick über maschinelles Lernen und ML Operations.
 
-- Hands-on Lab: Beispiel für maschinelles Lernen.
+* Hands-on Lab: Beispiel für maschinelles Lernen.
 
-![Portrait Alex](images/alex-2-300x300.webp)
+![Portrait Alex](images/alex-2-300x300.png)
 
 ## Alex Ortner
 
@@ -122,7 +122,7 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -142,7 +142,7 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -152,7 +152,7 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.png 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
 ### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 

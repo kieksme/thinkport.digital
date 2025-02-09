@@ -3,7 +3,7 @@ title: 'Setup Hashicorp Nomad Ansible Consul'
 publishDate: 2024-01-19T10:00:00Z
 categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: '7.webp'
+coverImage: '7.png'
 ---
 
 # Setup von Hashcorp Nomad -
@@ -12,43 +12,43 @@ Schritt 4: Ansible - consul
 
 Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickgebenden Einführungstext, gefolgt von einer konkreten Folge von Schritten, die in einzelnen Blockartikeln inklusive exakter Anweisungen beschrieben werden.  Die Artikel bauen aufeinander auf,   können allerdings je nach Bedarf auch übersprungen werden.
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp)](https://thinkport.digital/setup-von-hashicorp-nomad/)
+[![nomad setup teaser](images/nomad-setup-1024x683.png)](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.png)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
 [Schritt 1:  
 Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform)
 
-[![ansible teaser](images/ansible-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 [Schritt 2:  
 Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
-[![ufw teaser](images/5-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+[![ufw teaser](images/5-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
 [Schritt 2.1:  
 Ansible - ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
 
-[![fail2bail teaser](images/4-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 [Schritt 2.2:  
 Ansible - fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-[![rolle nomad teaser](images/6-1024x683.webp)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
+[![rolle nomad teaser](images/6-1024x683.png)](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
 [Schritt 3:  
 Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
-![rolle consul teaser](images/7-1024x683.webp)
+![rolle consul teaser](images/7-1024x683.png)
 
 Schritt 4:  
 Ansible - consul
 
 Um Consul zu installieren müssen wir nicht viel anders machen als bei Nomad, daher können wir den nomad Rollen-Ordner einmal kopieren und in consul umbenennen, danach bearbeiten wir zuerst die `tasks/main.yml` Datei. In VS Code drücken wir Command+F um anschließend alle in der Datei vorhandenen nomad Wörter gegen consul auszutauschen.
 
-![](images/68245a56-2543-4bf2-a935-465367cb34f8-1024x222.webp)
+![](images/68245a56-2543-4bf2-a935-465367cb34f8-1024x222.png)
 
 Um mit Command+F zu ersetzen statt zu suchen müssen wir den Pfeil links ausklappen. Anschließend gehen wir auf das markierte Symbol um alle Wörter auszutauschen!
 
@@ -106,11 +106,11 @@ Nun können wir wieder `terraform apply` ausführen und sollten dann auf die UI 
 
 Das Interface von Consul sollte dann so aussehen, du siehst auch direkt die erkannten Services: `nomad, nomad-client`
 
-![](images/3b3a4b23-9b58-428e-beb0-ffff8d67ecb9-1536x454.webp)
+![](images/3b3a4b23-9b58-428e-beb0-ffff8d67ecb9-1536x454.png)
 
 Auf der “Clients” Seite sollten wir folgendes sehen:
 
-![](images/58d35c4c-4187-499f-9007-0572766d1705-1024x555.webp)
+![](images/58d35c4c-4187-499f-9007-0572766d1705-1024x555.png)
 
 Unter dem Reiter Nodes kannst du dann auch erkennen, dass Consul einen Leader und 2 andere Cluster-Teilnehmer hat!
 
@@ -118,7 +118,7 @@ Nun haben wir auch Consul installiert und zum Laufen gebracht. Jetzt können wir
 
 ## Autoren:
 
-![Portrait Keith](images/keith-1-1-300x300.webp)
+![Portrait Keith](images/keith-1-1-300x300.png)
 
 ## Keith Schuijlenburg
 
@@ -134,7 +134,7 @@ _Cloud Engineer_
 
 [](https://www.linkedin.com/in/jonas-budde/)
 
-![Aleksandra Portrait](images/aleksandra-2-300x300.webp)
+![Aleksandra Portrait](images/aleksandra-2-300x300.png)
 
 ## Aleksandra Bury
 
@@ -144,7 +144,7 @@ _Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.png 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
@@ -154,7 +154,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -174,7 +174,7 @@ _Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![ansible teaser](images/ansible-1024x683.webp 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.png 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
 ### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 

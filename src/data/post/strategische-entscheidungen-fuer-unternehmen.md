@@ -16,13 +16,13 @@ Aktuell führt die Competition and Markets Authority (CMA) im Vereinigten König
 
 Die CMA richtet ihr Augenmerk auf verschiedene kritische Aspekte, die auch für den deutschen Markt von Bedeutung sind:
 
-- **Technische Barrieren und Kundenbindung:** Es wird untersucht, ob technische Hürden den Wechsel zwischen Cloud-Anbietern erschweren und zur Kundenbindung an einen einzelnen Anbieter beitragen.
+* **Technische Barrieren und Kundenbindung:** Es wird untersucht, ob technische Hürden den Wechsel zwischen Cloud-Anbietern erschweren und zur Kundenbindung an einen einzelnen Anbieter beitragen.
 
-- **Egress-Gebühren:** Die Untersuchung beleuchtet, ob Egress-Gebühren (Gebühren für ausgehenden Traffic) ein Hindernis für den Anbieterwechsel darstellen und den Wettbewerb einschränken.
+* **Egress-Gebühren:** Die Untersuchung beleuchtet, ob Egress-Gebühren (Gebühren für ausgehenden Traffic) ein Hindernis für den Anbieterwechsel darstellen und den Wettbewerb einschränken.
 
-- **Rabattstrukturen und Markteintrittsbarrieren:** Es wird analysiert, ob Rabattstrukturen langfristig den Wettbewerb schädigen und Markteintrittsbarrieren errichten.
+* **Rabattstrukturen und Markteintrittsbarrieren:** Es wird analysiert, ob Rabattstrukturen langfristig den Wettbewerb schädigen und Markteintrittsbarrieren errichten.
 
-- **Software-Lizenzierungspraktiken:** Überprüft wird, ob Lizenzierungspraktiken Kunden davon abhalten, konkurrierende Cloud-Anbieter zu nutzen.
+* **Software-Lizenzierungspraktiken:** Überprüft wird, ob Lizenzierungspraktiken Kunden davon abhalten, konkurrierende Cloud-Anbieter zu nutzen.
 
 Diese Untersuchung könnte in Deutschland zu ähnlichen Initiativen führen und eine stärkere Regulierung sowie mehr Transparenz im Cloud-Markt bewirken.
 
@@ -34,29 +34,29 @@ Warum wählen so viele Unternehmen derzeit diesen Ansatz? Welche Vor- und Nachte
 
 ### Vorteile von Single-Cloud-Strategien:
 
-- **Vereinfachte Verwaltung:** Die Nutzung eines einzigen Cloud-Anbieters vereinfacht die Verwaltung und Wartung erheblich. Da weniger Tools, Schulungen und Ressourcen benötigt werden, reduziert sich die Komplexität deutlich.
+* **Vereinfachte Verwaltung:** Die Nutzung eines einzigen Cloud-Anbieters vereinfacht die Verwaltung und Wartung erheblich. Da weniger Tools, Schulungen und Ressourcen benötigt werden, reduziert sich die Komplexität deutlich.
 
-- **Bessere Integration:** In einer Single-Cloud-Umgebung sind Integrationen und Schnittstellen oft nahtloser, da sie speziell für die Plattform entwickelt wurden. Dies kann die Effizienz und Leistung von Anwendungen verbessern.
+* **Bessere Integration:** In einer Single-Cloud-Umgebung sind Integrationen und Schnittstellen oft nahtloser, da sie speziell für die Plattform entwickelt wurden. Dies kann die Effizienz und Leistung von Anwendungen verbessern.
 
-- **Konsistente Abrechnung:** Die Abrechnung und Kostenverfolgung sind einfacher, da alle Dienste von einem Anbieter stammen. Dies ermöglicht eine bessere Budgetierung und Kostenkontrolle.
+* **Konsistente Abrechnung:** Die Abrechnung und Kostenverfolgung sind einfacher, da alle Dienste von einem Anbieter stammen. Dies ermöglicht eine bessere Budgetierung und Kostenkontrolle.
 
-- **Gebündelte Unterstützung:** Bei Single-Cloud-Strategien gibt es einen zentralen Ansprechpartner für technischen Support und Service-Level-Vereinbarungen, was die Problemlösung und den Support erleichtern kann.
+* **Gebündelte Unterstützung:** Bei Single-Cloud-Strategien gibt es einen zentralen Ansprechpartner für technischen Support und Service-Level-Vereinbarungen, was die Problemlösung und den Support erleichtern kann.
 
-- **Einfache Personalsuche:** Die Rekrutierung von IT-Personal mit spezifischer Expertise ist heute bereits eine Herausforderung. Eine Single-Cloud-Strategie kann das Team-Staffing erleichtern, da man sich auf eine Plattform und damit verbundene Fähigkeiten konzentrieren können.
+* **Einfache Personalsuche:** Die Rekrutierung von IT-Personal mit spezifischer Expertise ist heute bereits eine Herausforderung. Eine Single-Cloud-Strategie kann das Team-Staffing erleichtern, da man sich auf eine Plattform und damit verbundene Fähigkeiten konzentrieren können.
 
 ![cloud mit smiley](images/Vorteile-von-Single-Cloud-Strategien-1024x683.png) ![traurige cloud](images/Nachteile-von-Single-Cloud-Strategien-1024x683.png)
 
 ### Nachteile von Single-Cloud-Strategien:
 
-- **Vendor Lock-In:** Ein entscheidender Nachteil ist die Gefahr des Vendor Lock-In. Wenn sich das Unternehmen stark in die Dienste eines Anbieters investiert, kann ein Wechsel zu einem anderen Anbieter schwierig und kostspielig sein, was die Flexibilität und Verhandlungsmacht einschränkt.
+* **Vendor Lock-In:** Ein entscheidender Nachteil ist die Gefahr des Vendor Lock-In. Wenn sich das Unternehmen stark in die Dienste eines Anbieters investiert, kann ein Wechsel zu einem anderen Anbieter schwierig und kostspielig sein, was die Flexibilität und Verhandlungsmacht einschränkt.
 
-- **Eingeschränkte Auswahl:** Single-Cloud-Strategien beschränken auf die Dienste und Features des ausgewählten Anbieters, was bedeuten kann, dass möglicherweise nicht die besten Lösungen für die spezifischen Anforderungen genutzt werden können.
+* **Eingeschränkte Auswahl:** Single-Cloud-Strategien beschränken auf die Dienste und Features des ausgewählten Anbieters, was bedeuten kann, dass möglicherweise nicht die besten Lösungen für die spezifischen Anforderungen genutzt werden können.
 
-- **Preisänderungen:** Cloud-Anbieter können die Preise erhöhen, und Unternehmen haben möglicherweise begrenzte Möglichkeiten, dies zu beeinflussen. Dies kann langfristig zu höheren Betriebskosten führen.
+* **Preisänderungen:** Cloud-Anbieter können die Preise erhöhen, und Unternehmen haben möglicherweise begrenzte Möglichkeiten, dies zu beeinflussen. Dies kann langfristig zu höheren Betriebskosten führen.
 
-- **Ausfallsicherheit:** In einer Single-Cloud-Umgebung besteht das Risiko, dass ein Ausfall beim Anbieter die gesamte IT-Infrastruktur beeinträchtigt, was je nach Anwendungsfall äußerst schwerwiegend sein kann. Dies erfordert zusätzliche Maßnahmen zur Gewährleistung der Ausfallsicherheit.
+* **Ausfallsicherheit:** In einer Single-Cloud-Umgebung besteht das Risiko, dass ein Ausfall beim Anbieter die gesamte IT-Infrastruktur beeinträchtigt, was je nach Anwendungsfall äußerst schwerwiegend sein kann. Dies erfordert zusätzliche Maßnahmen zur Gewährleistung der Ausfallsicherheit.
 
-- **Abhängigkeit von Anbieter-Strategien:** Eine Abhängigkeit von den strategischen Entscheidungen des Cloud-Anbieters kann sich als äußerst problematisch erweisen. Änderungen in der Dienstleistungsstruktur oder der Geschäftsstrategie des Anbieters haben das Potenzial, erhebliche Auswirkungen auf Pläne und Investitionen zu haben, was in vielen Fällen äußerst nachteilig sein kann.
+* **Abhängigkeit von Anbieter-Strategien:** Eine Abhängigkeit von den strategischen Entscheidungen des Cloud-Anbieters kann sich als äußerst problematisch erweisen. Änderungen in der Dienstleistungsstruktur oder der Geschäftsstrategie des Anbieters haben das Potenzial, erhebliche Auswirkungen auf Pläne und Investitionen zu haben, was in vielen Fällen äußerst nachteilig sein kann.
 
 ## Die strategische Bedeutung der Cloud-Diversifizierung für deutsche Unternehmen
 
@@ -70,15 +70,15 @@ Multi-Cloud-Strategien beziehen sich auf die Implementierung von Cloud-Lösungen
 
 **Vorteile:**
 
-- **Erweiterte Flexibilität und Risikominimierung:** Die Nutzung mehrerer Cloud-Anbieter ermöglicht es Unternehmen, Dienste optimal auszuwählen und Ausfallrisiken zu streuen.
+* **Erweiterte Flexibilität und Risikominimierung:** Die Nutzung mehrerer Cloud-Anbieter ermöglicht es Unternehmen, Dienste optimal auszuwählen und Ausfallrisiken zu streuen.
 
-- **Verbesserte Verhandlungsmacht:** Durch die Auswahlmöglichkeit zwischen verschiedenen Anbietern können Unternehmen bessere Preise und Servicebedingungen aushandeln.
+* **Verbesserte Verhandlungsmacht:** Durch die Auswahlmöglichkeit zwischen verschiedenen Anbietern können Unternehmen bessere Preise und Servicebedingungen aushandeln.
 
 **Herausforderungen:**
 
-- **Komplexität in der Verwaltung:** Die Steuerung mehrerer Cloud-Umgebungen erhöht den Verwaltungsaufwand und die Komplexität.
+* **Komplexität in der Verwaltung:** Die Steuerung mehrerer Cloud-Umgebungen erhöht den Verwaltungsaufwand und die Komplexität.
 
-- **Spezifisches Fachwissen erforderlich:** Unterschiedliche Plattformen erfordern spezifische Kenntnisse und Fähigkeiten, was die Personalanforderungen erhöht.
+* **Spezifisches Fachwissen erforderlich:** Unterschiedliche Plattformen erfordern spezifische Kenntnisse und Fähigkeiten, was die Personalanforderungen erhöht.
 
 ![network of clouds](images/Multi-Cloud-Strategien-1024x683.png)
 
@@ -88,15 +88,15 @@ Hybrid-Cloud-Strategien kombinieren die Vorteile öffentlicher Clouds, wie Skali
 
 **Vorteile:**
 
-- **Optimale Balance zwischen Flexibilität und Kontrolle:** Hybrid-Cloud-Modelle kombinieren die Skalierbarkeit öffentlicher Clouds mit der Sicherheit und Kontrolle privater Clouds.
+* **Optimale Balance zwischen Flexibilität und Kontrolle:** Hybrid-Cloud-Modelle kombinieren die Skalierbarkeit öffentlicher Clouds mit der Sicherheit und Kontrolle privater Clouds.
 
-- **Compliance und Datensouveränität:** Unternehmen können sensible Daten lokal vorhalten, während sie die Vorteile der Cloud-Nutzung beibehalten.
+* **Compliance und Datensouveränität:** Unternehmen können sensible Daten lokal vorhalten, während sie die Vorteile der Cloud-Nutzung beibehalten.
 
 **Herausforderungen:**
 
-- **Integration und Kompatibilität:** Die nahtlose Integration zwischen privaten und öffentlichen Cloud-Umgebungen kann technisch herausfordernd sein.
+* **Integration und Kompatibilität:** Die nahtlose Integration zwischen privaten und öffentlichen Cloud-Umgebungen kann technisch herausfordernd sein.
 
-- **Komplexe Sicherheitsanforderungen:** Die Aufrechterhaltung eines hohen Sicherheitsniveaus über beide Umgebungen hinweg erfordert umfassende Maßnahmen.
+* **Komplexe Sicherheitsanforderungen:** Die Aufrechterhaltung eines hohen Sicherheitsniveaus über beide Umgebungen hinweg erfordert umfassende Maßnahmen.
 
 ![cloud puzzle](images/Hybrid-Cloud-Strategien-1024x683.png)
 
@@ -106,15 +106,15 @@ Edge-Computing-Strategien zielen darauf ab, Daten am Rand des Netzwerks zu verar
 
 **Vorteile:**
 
-- **Niedrige Latenzzeiten:** Durch die Verarbeitung von Daten am Rand des Netzwerks, näher am Ursprungsort, können Anwendungen schneller reagieren.
+* **Niedrige Latenzzeiten:** Durch die Verarbeitung von Daten am Rand des Netzwerks, näher am Ursprungsort, können Anwendungen schneller reagieren.
 
-- **Bandbreiteneffizienz:** Die lokale Datenverarbeitung reduziert die zu übertragende Datenmenge und kann Netzwerkengpässe verringern.
+* **Bandbreiteneffizienz:** Die lokale Datenverarbeitung reduziert die zu übertragende Datenmenge und kann Netzwerkengpässe verringern.
 
 **Herausforderungen:**
 
-- **Sicherheitsrisiken:** Edge-Geräte können neue Angriffsvektoren darstellen, die gesondert geschützt werden müssen.
+* **Sicherheitsrisiken:** Edge-Geräte können neue Angriffsvektoren darstellen, die gesondert geschützt werden müssen.
 
-- **Wartung und Management:** Die physische Verteilung von Edge-Geräten kann Wartungs- und Managementherausforderungen mit sich bringen.
+* **Wartung und Management:** Die physische Verteilung von Edge-Geräten kann Wartungs- und Managementherausforderungen mit sich bringen.
 
 ![cloud too close to Berlin](images/Edge-Computing-Strategien-1024x683.png)
 
@@ -126,17 +126,17 @@ Diese Vorgehensweise erstreckt sich über verschiedene Cloud-Dienste und -Plattf
 
 **Vorteile dieses Ansatzes:**
 
-- **Erleichterte Verwaltung:** Ein einziges Authentifizierungssystem zu nutzen, reduziert den administrativen Aufwand und vereinfacht das Benutzer- und Berechtigungsmanagement über verschiedene Cloud-Plattformen hinweg.
+* **Erleichterte Verwaltung:** Ein einziges Authentifizierungssystem zu nutzen, reduziert den administrativen Aufwand und vereinfacht das Benutzer- und Berechtigungsmanagement über verschiedene Cloud-Plattformen hinweg.
 
-- **Verbesserte Sicherheit:** Zentrale Sicherheitsrichtlinien und Authentifizierungsprotokolle erhöhen die Sicherheit, indem sie konsistente Zugriffskontrollen und Überwachung ermöglichen.
+* **Verbesserte Sicherheit:** Zentrale Sicherheitsrichtlinien und Authentifizierungsprotokolle erhöhen die Sicherheit, indem sie konsistente Zugriffskontrollen und Überwachung ermöglichen.
 
-- **Erhöhte Flexibilität:** Unternehmen können die besten Cloud-Dienste und -Angebote auswählen, ohne durch Authentifizierungs- und Berechtigungsprobleme eingeschränkt zu sein.
+* **Erhöhte Flexibilität:** Unternehmen können die besten Cloud-Dienste und -Angebote auswählen, ohne durch Authentifizierungs- und Berechtigungsprobleme eingeschränkt zu sein.
 
 **Herausforderungen:**
 
-- **Abhängigkeit von einem Anbieter:** Die zentrale Rolle von Microsoft AD kann zu einer Abhängigkeit von Microsoft-Technologien führen, die sorgfältig bewertet werden sollte.
+* **Abhängigkeit von einem Anbieter:** Die zentrale Rolle von Microsoft AD kann zu einer Abhängigkeit von Microsoft-Technologien führen, die sorgfältig bewertet werden sollte.
 
-- **Komplexität bei der Integration:** Die Einrichtung der Integration zwischen Microsoft AD und anderen Cloud-Diensten kann technische Herausforderungen mit sich bringen, die spezifisches Know-how erfordern.
+* **Komplexität bei der Integration:** Die Einrichtung der Integration zwischen Microsoft AD und anderen Cloud-Diensten kann technische Herausforderungen mit sich bringen, die spezifisches Know-how erfordern.
 
 ![Vorteile dieses Ansatzes](images/Vorteile-dieses-Ansatzes-qkiy1upys6drodfhv80xmjopstdzhsxju0va18vp3g.png 'Vorteile dieses Ansatzes')
 
@@ -206,7 +206,7 @@ _Senior Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -236,7 +236,7 @@ _Senior Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.webp 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')](https://thinkport.digital/orthanc-und-kubernetes/)
+[![orthanc-und-kubernetes](images/orthanc-und-kubernetes-1024x683.png 'Fachkräfte arbeiten in einem hochtechnisierten Gesundheitswesen zusammen und betonen die Bedeutung der Datensicherheit vor Ort.')](https://thinkport.digital/orthanc-und-kubernetes/)
 
 ### [Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung](https://thinkport.digital/orthanc-und-kubernetes/ 'Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung')
 
@@ -246,7 +246,7 @@ _Senior Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 

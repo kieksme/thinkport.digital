@@ -3,7 +3,7 @@ title: 'Snowflake vs. Databricks'
 publishDate: 2024-05-17T10:00:00Z
 categories: + "big-data"
   + "cloud-general"
-coverImage: 'Snowflake-vs.-Databricks-artikel-bilder-1.webp'
+coverImage: 'Snowflake-vs.-Databricks-artikel-bilder-1.png'
 ---
 
 # Snowflake vs. Databricks
@@ -28,7 +28,7 @@ Bei Snowflake gibt es vier verschiedene Editionen: Standard, Enterprise, Busines
 
 Die Kosten von Snowflake werden in Credits berechnet, ein Maß um verwendete Ressourcen abzubilden. Für die Rechenleistung, das Speichern von Daten und je nach dem auch der Transfer von Daten in andere Regionen oder andere Cloud Provider fallen abhängig von der Edition unterschiedliche Preise an.
 
-![snowflake logo in weiß auf blaue Gradient hintergrund](images/1-1024x683.webp) ![snowflake logo in weißuber blue Gradient Hintergrund](images/2-1-1024x683.webp)
+![snowflake logo in weiß auf blaue Gradient hintergrund](images/1-1024x683.png) ![snowflake logo in weißuber blue Gradient Hintergrund](images/2-1-1024x683.png)
 
 ### Databricks
 
@@ -51,36 +51,36 @@ Letztendlich ist es schwer zu sagen, ob Snowflake oder Databricks günstiger ist
 | Unterstützte Entwicklungsumgebungen | UI: Worksheets Snowpark: alle IDEs                                                                   | UI: Notebooks Databricks Connect: alle IDEs                 |
 | AI & ML                             |
 
-- AI unterstützte Entwicklung (Snowflake Copilot)
+* AI unterstützte Entwicklung (Snowflake Copilot)
 
-- Vortrainierte Modelle
+* Vortrainierte Modelle
 
-- ML Warehouses (Snowpark)
+* ML Warehouses (Snowpark)
 
-- Interaktion mit Modellen als Apps (Streamlit)
+* Interaktion mit Modellen als Apps (Streamlit)
 
-- Entwicklung von eigenen Modellen mit verschiedenen ML Libraries oder Snowpark ML
+* Entwicklung von eigenen Modellen mit verschiedenen ML Libraries oder Snowpark ML
 
 |
 
-- AI unterstützte Entwicklung
+* AI unterstützte Entwicklung
 
-- Feature Store
+* Feature Store
 
-- AutoML
+* AutoML
 
-- Vektordatenbank
+* Vektordatenbank
 
-- ML Cluster
+* ML Cluster
 
-- Entwicklung von eigenen Modellen mit verschiedenen ML Libraries
+* Entwicklung von eigenen Modellen mit verschiedenen ML Libraries
 
 |
 | Pipelines | Hauptsächlich SQL Tasks in einem Task Graph |
 
 Tasks in einem Job
 
-- Die Tasks können Notebooks, SQL, Python Skripte, JARs, usw.
+* Die Tasks können Notebooks, SQL, Python Skripte, JARs, usw.
 
 |
 
@@ -98,7 +98,7 @@ Beide Plattformen bieten Dashboards an zur Visualisierung von Daten, entweder ba
 
 Data Engineering ist bei beiden Plattformen stark ausgeprägt und ist letztendlich eine Frage der Präferenz. Wer jedoch viele und komplexe Queries ausführt und nicht viel Zeit in Optimieren stecken möchte, sollte Snowflake wählen. Wer sich mit Spark gut auskennt, ist mit Databricks gut bedient und könnte bessere Ergebnisse erzielen.
 
-[![timea databricks MLOps quadratich](images/Screenshot-2024-05-16-at-11.50.39.webp)](https://thinkport.digital/databricks-mlops-workshop/)
+[![timea databricks MLOps quadratich](images/Screenshot-2024-05-16-at-11.50.39.png)](https://thinkport.digital/databricks-mlops-workshop/)
 
 ### Data Science
 
@@ -108,7 +108,7 @@ Im Gegensatz zu Snowflake ist in Databricks die ML-Sektion viel ausgeprägter. N
 
 Wer stark auf ML setzt, sollte Databricks wählen. Mit dem Feature Store, der Vektordatenbank und der Bereitstellung der Modelle als Endpoints wird die Entwicklung und auch die Bereitstellung besser unterstützt. Snowflake ist hingegen für diejenigen interessant, die die LLM-Funktionen ausnutzen wollen.
 
-![orientirung bild](images/Snowflake-vs.-Databricks-artikel-bilder-1-1024x683.webp)
+![orientirung bild](images/Snowflake-vs.-Databricks-artikel-bilder-1-1024x683.png)
 
 ### Orchestrierung
 
@@ -126,7 +126,7 @@ Wem die Analyse und die einfache Verarbeitung von Daten wichtig ist, sollte Snow
 
 Autor
 
-![Mai Ly portrait](images/Mai-Ly-1-300x300.webp)
+![Mai Ly portrait](images/Mai-Ly-1-300x300.png)
 
 Mai Ly Tran
 
@@ -136,7 +136,7 @@ _Senior Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.png 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
 ### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
@@ -176,7 +176,7 @@ _Senior Cloud Engineer_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
+[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.png 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
 
 ### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
@@ -186,7 +186,7 @@ _Senior Cloud Engineer_
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.png 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 

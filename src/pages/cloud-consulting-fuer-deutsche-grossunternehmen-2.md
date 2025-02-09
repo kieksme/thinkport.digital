@@ -16,7 +16,7 @@ Sie prüfen eine Migration in die moderne Cloud-Welt von AWS, Azure oder GCP und
 
 [](#linksection)
 
-![Alex vor einem türkisen Quadrat.](images/Alex-7-981x1024.webp)
+![Alex vor einem türkisen Quadrat.](images/Alex-7-981x1024.png)
 
 ## Cloud Consulting & Thinkport
 
@@ -42,14 +42,14 @@ Wir reduzieren erfolgreich den Vendor Lock-in, indem wir Ihre Infrastruktur auf 
 
 ## Thinkport Stärken
 
-- 100% Cloud fokussiert
-- Startup Spirit
-- Zertifizierter Partner von AWS, Azure und GCP
-- Arbeiten Lösungsorientiert
-- Expertise durch permanentes Lernen
-- Starkes, sich unterstützendes Team
+* 100% Cloud fokussiert
+* Startup Spirit
+* Zertifizierter Partner von AWS, Azure und GCP
+* Arbeiten Lösungsorientiert
+* Expertise durch permanentes Lernen
+* Starkes, sich unterstützendes Team
 
-![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
+![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.png)[](#linksection)
 
 ## Thinkport's Kernkompetenzen für ihr Cloud Projekt
 
@@ -151,7 +151,7 @@ Für das Fintech SparkView entwickeln Thinkport Consultants ausgefeilte Machine 
 
 Thinkport Experten bauen für den Betreiber eines Quantencomputers eine umfassende IT Infrastruktur in der Azure Cloud. Die innovative Architektur vereint zahlreiche Azure Services in einem zentralen, hocheffizienten Cloudsystem mit einem personalisierten Zugangsportal.
 
-[Zur Success Story ](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)
+[Zur Success Story ](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.png) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)
 
 ## Unsere Top 3:
 
@@ -161,7 +161,7 @@ Die Inhalte unserer vielfältigen Cloud Workshops werden von unseren Experten ga
 
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
-[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Schriftzug Disruption Days im Vordergrund vor einer Draufsicht auf einen Tisch an dem gearbeitet wird](images/Disruption-Days-1024x463.webp) ](https://thinkport.digital/disruption-days-mit-futury/)[![](images/Cloud-Architecture-Review-4-1024x463.webp) ](https://thinkport.digital/hybrid-cloud-strategie/)[![](images/Cloud-Architecture-Review-1024x463.webp)](https://thinkport.digital/cloud-architecture-review/)
+[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Schriftzug Disruption Days im Vordergrund vor einer Draufsicht auf einen Tisch an dem gearbeitet wird](images/Disruption-Days-1024x463.png) ](https://thinkport.digital/disruption-days-mit-futury/)[![](images/Cloud-Architecture-Review-4-1024x463.png) ](https://thinkport.digital/hybrid-cloud-strategie/)[![](images/Cloud-Architecture-Review-1024x463.png)](https://thinkport.digital/cloud-architecture-review/)
 
 ## Wissen & Expertise: Unsere erfahrenen Cloud Coaches.
 
@@ -213,4 +213,4 @@ Director Sales
 
 +49 175 5386808
 
--  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)
+*  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)

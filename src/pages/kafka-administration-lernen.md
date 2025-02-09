@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-- 2 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 2 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Im Kafka Administration Training lernen Sie, in Echtzeit Eventstreaming Plattformen zu verwalten, zu überwachen und zu tunen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -41,17 +41,17 @@ Anhand von Apache Kafka ist es möglich, Data Streams über eine verteilte Platt
 
 Teilnehmer können nach Abschluss...
 
-- Verstehen, wie Kafka und die Confluent Plattform funktionieren und wie deren Subsysteme interagieren
-- Cluster aufsetzen, verwalten, überwachen, und tunen
-- Kafka Best Practices aus der Industrie sauber umsetzen
+* Verstehen, wie Kafka und die Confluent Plattform funktionieren und wie deren Subsysteme interagieren
+* Cluster aufsetzen, verwalten, überwachen, und tunen
+* Kafka Best Practices aus der Industrie sauber umsetzen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-- Grundlegendem Verständnis über die Kafka Architektur (z. B. Kafka Fundamentals Workshop Ableger)
-- Sicherheit im Umgang mit Linux/Unix
-- Grundlegendem Verständnis für TCP/IP Netzwerke und eventuell Erfahrung mit Java Virtual Machine (JVM)
+* Grundlegendem Verständnis über die Kafka Architektur (z. B. Kafka Fundamentals Workshop Ableger)
+* Sicherheit im Umgang mit Linux/Unix
+* Grundlegendem Verständnis für TCP/IP Netzwerke und eventuell Erfahrung mit Java Virtual Machine (JVM)
 
 ## Aufbau
 
@@ -59,27 +59,27 @@ Der Kurs ist geeignet für...
 
 ### Kafka Cluster Tag I
 
-- Kafka Grundlagen Auffrischen
-- Kafka Architektur
-- Nachhaltigkeit & Langlebigkeit
-- Verwaltung von Clustern
+* Kafka Grundlagen Auffrischen
+* Kafka Architektur
+* Nachhaltigkeit & Langlebigkeit
+* Verwaltung von Clustern
 
 ### Kafka in Action Tag II
 
-- Kafka Performance optmieren
-- Kafka Sicherheit
-- Data Pipelines mit Kafka Connect
-- Kafka in Production​
+* Kafka Performance optmieren
+* Kafka Sicherheit
+* Data Pipelines mit Kafka Connect
+* Kafka in Production​
 
-- Kafka Grundlagen Auffrischen
-- Kafka Architektur
-- Nachhaltigkeit & Langlebigkeit
-- Verwaltung von Clustern
+* Kafka Grundlagen Auffrischen
+* Kafka Architektur
+* Nachhaltigkeit & Langlebigkeit
+* Verwaltung von Clustern
 
-- Kafka Performance optmieren
-- Kafka Sicherheit
-- Data Pipelines mit Kafka Connect
-- Kafka in Production
+* Kafka Performance optmieren
+* Kafka Sicherheit
+* Data Pipelines mit Kafka Connect
+* Kafka in Production
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -91,7 +91,7 @@ Die Lerninhalte unseres Kafka Administration Trainings werden von unseren Expert
 
 Wir haben die von unseren Entwicklern am häufigsten verwendeten Befehle in einem Cheatsheet zusammengefasst, das während der Schulung und nach deren Abschluss verwendet werden kann. Wenn Sie sich damit vertraut machen wollen, können Sie es hier herunterladen.
 
-[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Kafka-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/kafka-1024x683.webp)](https://thinkport.digital/wp-content/uploads/2023/11/Kafka_Cheatsheet.pdf)
+[![Bild mit dem Hintergrund eines Bildschirms mit Programmiersprache und einem Farbverlauf von Dunkelblau zu Türkis, mit dem Kafka-Logo in Weiß, dem Wort Cheatsheet und einer Schaltfläche zum Herunterladen.](images/kafka-1024x683.png)](https://thinkport.digital/wp-content/uploads/2023/11/Kafka_Cheatsheet.pdf)
 
 ## Kontakt
 
@@ -123,7 +123,7 @@ Confluent ist ein Unternehmen, das sich auf die Entwicklung von Daten-Streaming-
 
 Confluent bietet eine breite Palette von Lösungen, darunter:
 
-- - Confluent Platform (integrierte Streaming-Plattform)
+* - Confluent Platform (integrierte Streaming-Plattform)
     - Confluent Cloud (Kafka-as-a-Service-Plattform in der Cloud)
     - Confluent Enterprise (erweiterte Version der Confluent Platform)
     - Confluent Hub (ein Marktplatz für Kafka-Connectoren, -Tools und -Anwendungen)

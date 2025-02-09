@@ -3,7 +3,7 @@ title: 'Vom Kafka Cluster zum Event Mesh'
 publishDate: 2023-08-22T10:00:00Z
 categories: + "cloud-general"
   + "streaming"
-coverImage: 'Solace-vs-Confuence-Post-680-×-450-px.webp'
+coverImage: 'Solace-vs-Confuence-Post-680-×-450-px.png'
 ---
 
 # Vom Kafka Cluster zum Event Mesh:
@@ -16,55 +16,55 @@ Die Welt der Event-Driven Architekturen ist voller neuer Innovationen. Während 
 
 ### Confluent Cluster Linking:
 
-- **Architektur**: Confluent, auf Apache Kafka aufbauend, verwendet Cluster Linking, um Kafka-Cluster in verschiedene Umgebungen zu spiegeln.
-- **Kafka-zentrierte Architektur**: Confluent, tief in Apache Kafka verwurzelt, bietet leistungsstarkes Daten-Streaming und gilt daher als beste Lösung im Rahmen eines auf Apache Kafka-zentrierten Ansatzes.
-- **Skalierbarkeit**: Es bietet lineare Skalierbarkeit, erfordert jedoch eine intensivere Broker-Verwaltung für optimale Leistung. Die Skalierung kann durch Anpassung von Fetcher-Threads, Brokern oder Quoten in Confluent Cloud erfolgen.
-- **Stabiles Daten-Streaming**: Confluent ist optimiert für das Streaming großer Datenmengen und gewährleistet hohe Durchsatzraten und geringe Latenzzeiten.
-- **Einfach & Schnell**: Ermöglicht eine direkte Verbindung und Spiegelung von Topics zwischen Kafka- oder Confluent-Clustern.
-- **Spiegelung/Mirroring**: Bietet eine Byte-für-Byte-Replikation von Topics und stellt so eine global konsistente Offsetpositionierung sicher.
-- **Best Replica**: Bietet Vorteile gegenüber anderen Apache Kafka-Replikationsoptionen, wie beispielsweise die Integration in Confluent Server und Cloud, exakte Spiegelungserstellung, dynamische Aktualisierungen und höhere Durchsatzraten für komprimierte Nachrichten.
-- **Herausforderungen in hybriden Clouds**: Confluent Cluster Linking steht vor Herausforderungen bei der Verbindung privater Clouds mit öffentlichen Clouds oder lokalen Umgebungen und erfordert sorgfältige Konfiguration und sichere Verbindungen.
-- **Festplatte vs. Netzwerk**: Confluent mit Apache Kafka ist dank seiner festplattenbasierten Architektur super schnell und hat Vorteile gegenüber dem netzwerkbasierten Ansatz von Solace, wenn es darum geht, ein Cluster in einer instabilen Netzwerkumgebung zu verbinden.
+* **Architektur**: Confluent, auf Apache Kafka aufbauend, verwendet Cluster Linking, um Kafka-Cluster in verschiedene Umgebungen zu spiegeln.
+* **Kafka-zentrierte Architektur**: Confluent, tief in Apache Kafka verwurzelt, bietet leistungsstarkes Daten-Streaming und gilt daher als beste Lösung im Rahmen eines auf Apache Kafka-zentrierten Ansatzes.
+* **Skalierbarkeit**: Es bietet lineare Skalierbarkeit, erfordert jedoch eine intensivere Broker-Verwaltung für optimale Leistung. Die Skalierung kann durch Anpassung von Fetcher-Threads, Brokern oder Quoten in Confluent Cloud erfolgen.
+* **Stabiles Daten-Streaming**: Confluent ist optimiert für das Streaming großer Datenmengen und gewährleistet hohe Durchsatzraten und geringe Latenzzeiten.
+* **Einfach & Schnell**: Ermöglicht eine direkte Verbindung und Spiegelung von Topics zwischen Kafka- oder Confluent-Clustern.
+* **Spiegelung/Mirroring**: Bietet eine Byte-für-Byte-Replikation von Topics und stellt so eine global konsistente Offsetpositionierung sicher.
+* **Best Replica**: Bietet Vorteile gegenüber anderen Apache Kafka-Replikationsoptionen, wie beispielsweise die Integration in Confluent Server und Cloud, exakte Spiegelungserstellung, dynamische Aktualisierungen und höhere Durchsatzraten für komprimierte Nachrichten.
+* **Herausforderungen in hybriden Clouds**: Confluent Cluster Linking steht vor Herausforderungen bei der Verbindung privater Clouds mit öffentlichen Clouds oder lokalen Umgebungen und erfordert sorgfältige Konfiguration und sichere Verbindungen.
+* **Festplatte vs. Netzwerk**: Confluent mit Apache Kafka ist dank seiner festplattenbasierten Architektur super schnell und hat Vorteile gegenüber dem netzwerkbasierten Ansatz von Solace, wenn es darum geht, ein Cluster in einer instabilen Netzwerkumgebung zu verbinden.
 
 Umfassende Zusatz-Informationen zu Apache Kafka von Confluent finden Sie auch **[hier](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/apache-kafka/)**.
 
 ### Solace Event Mesh:
 
-- **Architektur**: Solace verfügt über eine dynamische Mesh-Architektur, die Event-Broker miteinander verbindet und nahtlose Kommunikation in verschiedenen Umgebungen ermöglicht.
-- **Protokollagnostisch**: Es unterstützt eine Vielzahl von Protokollen, darunter MQTT, AMQP, REST und WebSocket, was Flexibilität und Kompatibilität mit verschiedenen Systemen bietet.
-- **Verteilter Charakter**: Solace zeichnet sich durch die Schaffung eines selbststeuernden und selbstreparierendem "Mesh" über geografisch verteilte, hybride und Multi-Cloud-Umgebungen aus.
-- **Nahtlose Integration**: Solace integriert sich nahtlos in zahlreiche Technologien und Plattformen und ist daher eine vielseitige Wahl für komplexe Architekturen.
-- **Verteiltes Tracing**: Mit seinem neuesten Update unterstützt Solace jetzt verteiltes Tracing, das eine vollständige Sichtbarkeit von Event-Streaming über das Mesh ermöglicht. Dies ist besonders in hybriden Cloud-Umgebungen von großem Nutzen, wo das Verständnis der Kommunikation zwischen internen Diensten entscheidend ist.
-- **Wildcards**: Das dynamische erkennen von Topics, Edge-Fanout und Unterstützung für Wildcards in Topic-Abonnements.
-- **Kafka Mesh**: Die Kafka Mesh-Funktion von Solace ermöglicht eine reibungslose Integration mit Apache Kafka und erleichtert die Kommunikation zwischen Kafka-Anwendungen und dem Event Mesh.
-- **Partitionierte Queues**: Das neueste Update von Solace umfasst partitionierte Queues, die eine effiziente und skalierbare Verarbeitung von Events gewährleisten. Es ist, als würde man seinen Datenkuchen intelligent aufteilen, sodass jeder blitzschnell ein Stück erhält.
-- **Kompetenz in hybriden Clouds**: Die Fähigkeit, eine dynamische Mesh-Architektur über lokale, private Cloud- und öffentliche Cloud-Umgebungen zu erstellen, macht Solace zu einem geschickten Navigator auf den Wogen der hybriden Cloud.
+* **Architektur**: Solace verfügt über eine dynamische Mesh-Architektur, die Event-Broker miteinander verbindet und nahtlose Kommunikation in verschiedenen Umgebungen ermöglicht.
+* **Protokollagnostisch**: Es unterstützt eine Vielzahl von Protokollen, darunter MQTT, AMQP, REST und WebSocket, was Flexibilität und Kompatibilität mit verschiedenen Systemen bietet.
+* **Verteilter Charakter**: Solace zeichnet sich durch die Schaffung eines selbststeuernden und selbstreparierendem "Mesh" über geografisch verteilte, hybride und Multi-Cloud-Umgebungen aus.
+* **Nahtlose Integration**: Solace integriert sich nahtlos in zahlreiche Technologien und Plattformen und ist daher eine vielseitige Wahl für komplexe Architekturen.
+* **Verteiltes Tracing**: Mit seinem neuesten Update unterstützt Solace jetzt verteiltes Tracing, das eine vollständige Sichtbarkeit von Event-Streaming über das Mesh ermöglicht. Dies ist besonders in hybriden Cloud-Umgebungen von großem Nutzen, wo das Verständnis der Kommunikation zwischen internen Diensten entscheidend ist.
+* **Wildcards**: Das dynamische erkennen von Topics, Edge-Fanout und Unterstützung für Wildcards in Topic-Abonnements.
+* **Kafka Mesh**: Die Kafka Mesh-Funktion von Solace ermöglicht eine reibungslose Integration mit Apache Kafka und erleichtert die Kommunikation zwischen Kafka-Anwendungen und dem Event Mesh.
+* **Partitionierte Queues**: Das neueste Update von Solace umfasst partitionierte Queues, die eine effiziente und skalierbare Verarbeitung von Events gewährleisten. Es ist, als würde man seinen Datenkuchen intelligent aufteilen, sodass jeder blitzschnell ein Stück erhält.
+* **Kompetenz in hybriden Clouds**: Die Fähigkeit, eine dynamische Mesh-Architektur über lokale, private Cloud- und öffentliche Cloud-Umgebungen zu erstellen, macht Solace zu einem geschickten Navigator auf den Wogen der hybriden Cloud.
 
 ## Unterschiede:
 
-- **Solace Event Mesh** hat jetzt das Konzept eines Kafka-Mesh übernommen, die Event-Broker und dynamisches Routing beinhaltet, während **Confluent Cluster Linking** direkt Topics zwischen Clustern verbindet und spiegelt.
-- **Confluent Cluster Linking** konzentriert sich auf eine Byte-für-Byte-Replikation und Leistungsvorteile, während **Solace Event Mesh** die Vorteile intelligenter Event-Broker mit eingebauter Intelligenz im Mesh betont.
-- **Confluent Cluster Linking** zielt auf Anwendungsfälle wie Notfallwiederherstellung, globale Replikation und Datenaustausch ab, während **Solace Event Mesh** Herausforderungen wie Echtzeitkonnektivität zu Edge-Geräten, Datenstreaming und -filterung bewältigt.
+* **Solace Event Mesh** hat jetzt das Konzept eines Kafka-Mesh übernommen, die Event-Broker und dynamisches Routing beinhaltet, während **Confluent Cluster Linking** direkt Topics zwischen Clustern verbindet und spiegelt.
+* **Confluent Cluster Linking** konzentriert sich auf eine Byte-für-Byte-Replikation und Leistungsvorteile, während **Solace Event Mesh** die Vorteile intelligenter Event-Broker mit eingebauter Intelligenz im Mesh betont.
+* **Confluent Cluster Linking** zielt auf Anwendungsfälle wie Notfallwiederherstellung, globale Replikation und Datenaustausch ab, während **Solace Event Mesh** Herausforderungen wie Echtzeitkonnektivität zu Edge-Geräten, Datenstreaming und -filterung bewältigt.
 
-![](images/Solace-vs-Confuence-Post-680-×-450-px.webp)
+![](images/Solace-vs-Confuence-Post-680-×-450-px.png)
 
 ## Ähnlichkeiten:
 
-- Beide Lösungen zielen darauf ab, Echtzeitkonnektivität und Datenbewegung zu ermöglichen und beinhalten auch Kafka-Cluster.
-- Sie bieten Lösungen für hybride Cloud-Bereitstellungen und die Verbindung verschiedener Kafka-Cluster.
-- Beide betonen die Bedeutung der Spiegelung und Replikation von Topics.
+* Beide Lösungen zielen darauf ab, Echtzeitkonnektivität und Datenbewegung zu ermöglichen und beinhalten auch Kafka-Cluster.
+* Sie bieten Lösungen für hybride Cloud-Bereitstellungen und die Verbindung verschiedener Kafka-Cluster.
+* Beide betonen die Bedeutung der Spiegelung und Replikation von Topics.
 
 ## Praktische Beispiele:
 
 ### Confluent Cluster Linking:
 
-- **Anwendungsfall**: Eine große Einzelhandelskette möchte ein Echtzeit-Analytics-Dashboard zur Überwachung von Verkäufen und Kundenverhalten erstellen. Die Datenströme sind enorm und erfordern eine robuste Handhabung.
-- **Herausforderung in hybriden Clouds**: Confluent glänzt bei der Bewältigung großer Datenströme mit seinen Wurzeln in Apache Kafka. Wenn die Einzelhandelskette jedoch versucht, ihr lokales Inventarsystem über eine private Cloud mit cloud-basierter Analytik zu integrieren, stößt Confluent Cluster Linking auf Hindernisse aufgrund seiner Komplexität bei der Verbindung privater Clouds.
+* **Anwendungsfall**: Eine große Einzelhandelskette möchte ein Echtzeit-Analytics-Dashboard zur Überwachung von Verkäufen und Kundenverhalten erstellen. Die Datenströme sind enorm und erfordern eine robuste Handhabung.
+* **Herausforderung in hybriden Clouds**: Confluent glänzt bei der Bewältigung großer Datenströme mit seinen Wurzeln in Apache Kafka. Wenn die Einzelhandelskette jedoch versucht, ihr lokales Inventarsystem über eine private Cloud mit cloud-basierter Analytik zu integrieren, stößt Confluent Cluster Linking auf Hindernisse aufgrund seiner Komplexität bei der Verbindung privater Clouds.
 
 ### Solace Event Mesh:
 
-- **Anwendungsfall**: Stellen Sie sich einen globalen Einzelhandelsriesen mit physischen Geschäften, Online-Präsenz und einer umfangreichen Lieferkette vor. Der Einzelhändler benötigt eine Echtzeit-Inventarverwaltung, eine Analyse des Kundenverhaltens und einen effizienten Datenfluss zwischen verschiedenen Systemen in verschiedenen Regionen und Clouds.
-- **Stärke mit Updates**: Das Distributed Tracing von Solace ermöglicht eine vollständige Sichtbarkeit der Daten in hybriden Umgebungen. Kafka Mesh gewährleistet eine nahtlose Integration mit bestehenden Inventarverwaltungssystemen. Partitioned Queues erleichtern die effiziente Verarbeitung von Verkaufsdaten mit hoher Volumen während Spitzenzeiten wie dem Black Friday. Darüber hinaus gewährleistet die Kompetenz von Solace in hybriden Clouds einen harmonischen Datenfluss zwischen Lagern, physischen Geschäften und E-Commerce-Plattformen.
+* **Anwendungsfall**: Stellen Sie sich einen globalen Einzelhandelsriesen mit physischen Geschäften, Online-Präsenz und einer umfangreichen Lieferkette vor. Der Einzelhändler benötigt eine Echtzeit-Inventarverwaltung, eine Analyse des Kundenverhaltens und einen effizienten Datenfluss zwischen verschiedenen Systemen in verschiedenen Regionen und Clouds.
+* **Stärke mit Updates**: Das Distributed Tracing von Solace ermöglicht eine vollständige Sichtbarkeit der Daten in hybriden Umgebungen. Kafka Mesh gewährleistet eine nahtlose Integration mit bestehenden Inventarverwaltungssystemen. Partitioned Queues erleichtern die effiziente Verarbeitung von Verkaufsdaten mit hoher Volumen während Spitzenzeiten wie dem Black Friday. Darüber hinaus gewährleistet die Kompetenz von Solace in hybriden Clouds einen harmonischen Datenfluss zwischen Lagern, physischen Geschäften und E-Commerce-Plattformen.
 
 Siehe auch den Award Winning Case von Thinkport für Edeka Digital mit der Technologie von Solace. Die Cloud-basierte Event-Streaming- und Management-Lösung hilft bei der Verteilung von Stammdaten an die Märkte, Rechenzentren und Cloud-Dienste in Echtzeit. Weitere Details erfahren Sie **[hier](https://thinkport.digital/reta-award-winning-cooperation/)**.
 
@@ -290,7 +290,7 @@ Obwohl Confluent Cluster Linking immer noch von Vorteil sein kann, ist dies mög
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
@@ -300,7 +300,7 @@ Obwohl Confluent Cluster Linking immer noch von Vorteil sein kann, ist dies mög
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.png 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
 ### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
@@ -320,7 +320,7 @@ Obwohl Confluent Cluster Linking immer noch von Vorteil sein kann, ist dies mög
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 

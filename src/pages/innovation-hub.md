@@ -1,7 +1,7 @@
 ---
 title: 'Digital Innovation Hub'
 date: '2023-09-08'
-coverImage: 'Quantum-background-scaled.webp'
+coverImage: 'Quantum-background-scaled.png'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -83,7 +83,7 @@ Consulting Partner - Select
 
 Consulting Partner - Gold
 
-![](images/Untitled-design-3-e1736938164808.webp)
+![](images/Untitled-design-3-e1736938164808.png)
 
 ### Google Cloud
 
@@ -93,7 +93,7 @@ Partner
 
 <figure>
 
-[![Im Hintergrund ist ein Gemüseregal im Supermarkt zu sehen mit dem Logo von Edeka plus gelbes Edeka-Herz.](images/2-1024x651.webp)](https://thinkport.digital/reta-award-winning-cooperation/)
+[![Im Hintergrund ist ein Gemüseregal im Supermarkt zu sehen mit dem Logo von Edeka plus gelbes Edeka-Herz.](images/2-1024x651.png)](https://thinkport.digital/reta-award-winning-cooperation/)
 
 <figcaption>
 
@@ -105,7 +105,7 @@ Thinkport awarded “Top Supplier Retail 2023” for EDEKA DIGITAL Event Streami
 
 <figure>
 
-[![bild eines grauen bmw-autos mit wolken im hintergrund](images/1.webp)](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
+[![bild eines grauen bmw-autos mit wolken im hintergrund](images/1.png)](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
 
 <figcaption>
 
@@ -117,7 +117,7 @@ Echzeit Streaming von Auto-Daten in der Cloud
 
 <figure>
 
-[![ausgestreckte Hand mit einer über der Handfläche schwebenden Lichtkugel und dem Bayer Logo](images/2.webp)](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/)
+[![ausgestreckte Hand mit einer über der Handfläche schwebenden Lichtkugel und dem Bayer Logo](images/2.png)](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/)
 
 <figcaption>
 
@@ -129,7 +129,7 @@ Bildanalyse in der Cloud für Bayer
 
 <figure>
 
-[![eine Frau, die eine Zufriedenheitsumfrage auf einem transparenten Bildschirm schreibt](images/3.webp)](https://thinkport.digital/api-fuer-einen-360-kunden-dialog-der-deutschen-telekom/)
+[![eine Frau, die eine Zufriedenheitsumfrage auf einem transparenten Bildschirm schreibt](images/3.png)](https://thinkport.digital/api-fuer-einen-360-kunden-dialog-der-deutschen-telekom/)
 
 <figcaption>
 
@@ -153,11 +153,11 @@ Gemeinsam mit Ihnen entwickeln wir Cloud-Strategien, die flexibel auf Ihre beste
 
 Wir identifizieren gemeinsam bestehende Challenges und entwickeln skalierbare Lösungen, die sowohl den heutigen Anforderungen als auch den zukünftigen Zielen unserer Kunden gerecht werden.
 
-![](images/hub_light-1536x1536.webp)
+![](images/hub_light-1536x1536.png)
 
 ## Unsere Partner für Cloud Technologien
 
-[![badge mit die google cloud und graue Text](https://thinkport.digital/wp-content/uploads/2023/09/Google_Cloud_Partner_no_outline_vertical.svg)](https://cloud.google.com/?hl=de)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partner.microsoft.com/de-de/partnership/solutions-partner)[![](images/Google_Cloud_Partner_no_outline_vertical.webp) ](https://aws.amazon.com/de/?nc2=h_lg)[![hashicorp logo over white background](images/Hashi-Badges-1024x1024.webp) ](https://www.hashicorp.com/)[![apache spark logo in gray over white background](images/Spark-Badges-1024x1024.webp) ](https://spark.apache.org/)[![confluent logo in blue over a white background](images/confluence-Badges-1024x1024.webp) ](https://www.confluent.io/de-de/)[![solace logo in green over white background](images/solace-Badges-1024x1024.webp) ](https://solace.com/)[![apalache kafka logo in black over white background](images/Kafka-Badges-1024x1024.webp)](https://kafka.apache.org/)
+[![badge mit die google cloud und graue Text](https://thinkport.digital/wp-content/uploads/2023/09/Google_Cloud_Partner_no_outline_vertical.svg)](https://cloud.google.com/?hl=de)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partner.microsoft.com/de-de/partnership/solutions-partner)[![](images/Google_Cloud_Partner_no_outline_vertical.png) ](https://aws.amazon.com/de/?nc2=h_lg)[![hashicorp logo over white background](images/Hashi-Badges-1024x1024.png) ](https://www.hashicorp.com/)[![apache spark logo in gray over white background](images/Spark-Badges-1024x1024.png) ](https://spark.apache.org/)[![confluent logo in blue over a white background](images/confluence-Badges-1024x1024.png) ](https://www.confluent.io/de-de/)[![solace logo in green over white background](images/solace-Badges-1024x1024.png) ](https://solace.com/)[![apalache kafka logo in black over white background](images/Kafka-Badges-1024x1024.png)](https://kafka.apache.org/)
 
 ## Unsere Innovationspartner
 

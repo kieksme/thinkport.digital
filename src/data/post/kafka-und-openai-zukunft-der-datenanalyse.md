@@ -3,7 +3,7 @@ title: 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse'
 publishDate: 2023-11-10T10:00:00Z
 categories: + "cloud-general"
   + "streaming"
-coverImage: 'Was-bedeutet-das-für-die-Industrie-scaled.webp'
+coverImage: 'Was-bedeutet-das-für-die-Industrie-scaled.png'
 ---
 
 ## Kafka und OpenAI sind die Zukunft der Datenanalyse
@@ -20,7 +20,7 @@ Echtzeitdaten aus Kafka können KI-Systeme erheblich verbessern, indem sie ihnen
 
 **Dynamische Anpassung:** KI-Modelle können sich an veränderte Umstände anpassen, wenn Daten in Echtzeit eingegeben werden. Zeigt die Dateneingabe eine plötzliche Veränderung oder Anomalie, kann die KI ihr Verhalten oder ihre Vorhersagen entsprechend anpassen. Beispielsweise können im Bereich der vorbeugenden Wartung Echtzeit-Sensordaten Wartungsalarme auslösen, die auf unmittelbaren Veränderungen im Geräteverhalten beruhen.
 
-![Symbol eines Rotors, umgeben von verschiedenen geometrischen Figuren, die die Anpassungsfähigkeit in Weiß auf einem blauen Hintergrund mit Farbverlauf darstellen](images/Dynamische-Anpassung-1024x683.webp)
+![Symbol eines Rotors, umgeben von verschiedenen geometrischen Figuren, die die Anpassungsfähigkeit in Weiß auf einem blauen Hintergrund mit Farbverlauf darstellen](images/Dynamische-Anpassung-1024x683.png)
 
 ## Warum Apache Kafka die optimale Datenplattform für KI Anwendungen ist?
 
@@ -72,7 +72,7 @@ OpenAI bietet schnell entwickelnde Technologien, die aktuelle Daten erhalten mü
 
 ## Weitere Beiträge
 
-[![Kubernetes und Docker](images/Streaming-Services-6.webp) "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
+[![Kubernetes und Docker](images/Streaming-Services-6.png) "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
 ### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
@@ -100,7 +100,7 @@ OpenAI bietet schnell entwickelnde Technologien, die aktuelle Daten erhalten mü
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.png 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
 ### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
@@ -110,7 +110,7 @@ OpenAI bietet schnell entwickelnde Technologien, die aktuelle Daten erhalten mü
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.png 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
 ### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
