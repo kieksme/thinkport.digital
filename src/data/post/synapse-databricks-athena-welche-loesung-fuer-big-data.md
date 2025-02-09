@@ -59,9 +59,6 @@ Die Auswahl der richtigen Datenplattform für Big Data-Anwendungen ist entscheid
 
 3. **Datenberechtigungen:**  
     Umfassende Kontrolle über Datenberechtigungen, einschließlich feingranularer Zugriffskontrollen, um sicherzustellen, dass sensible Daten angemessen geschützt sind.
-    
-
-![diagram showing ballance between different elements](images/Frische-Informationen-2-1024x683.webp) ![conexion between diferent systems](images/Kontextuelles-Verständnis-1-1024x683.webp)
 
 ## Randbedingungen
 

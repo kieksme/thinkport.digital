@@ -68,8 +68,6 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ### [Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung](https://thinkport.digital/orthanc-und-kubernetes/ "Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung")
 
-![databricks 2](images/Kontextuelles-Verständnis-1-1024x683.webp "conexion between diferent systems")
-
 ### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ "Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?")
 
 ### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ "Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?")

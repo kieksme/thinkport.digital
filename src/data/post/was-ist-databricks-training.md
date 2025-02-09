@@ -199,8 +199,6 @@ _Cloud & Big Data Architect_
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![databricks 2](images/Kontextuelles-Verständnis-1-1024x683.webp "conexion between diferent systems")](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/)
-
 ### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ "Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?")
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
