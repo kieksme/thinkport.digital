@@ -41,8 +41,6 @@ In der Welt der medizinischen Bildgebung spielt der PACS-Server eine entscheiden
 
 Cloud-basierte PACS-Server bieten Flexibilität und Skalierbarkeit und ermöglichen den Zugriff auf medizinische Bilder von praktisch überall, solange eine Internetverbindung besteht. Diese Modelle sind oft kosteneffizienter, da sie die Notwendigkeit, eigene Server zu warten und zu aktualisieren, eliminieren. Cloud-Lösungen können besonders vorteilhaft sein, wenn der schnelle und einfache Zugriff auf Bilder aus verschiedenen Standorten erforderlich ist.
 
-![icon of computer cloud in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.png) ![icon of cloud server in blue over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-3-1024x683.png)
-
 ### On-Premise PACS-Server
 
 Auf der anderen Seite stehen On-Premise-PACS-Server, die physisch in den Einrichtungen der Organisation vorhanden sind. Diese Modelle werden oft von wissenschaftlichen Forschungseinrichtungen bevorzugt, die strikte Datenrichtlinien haben, die das Speichern sensibler Daten in der Cloud verbieten. On-Premise-Server bieten eine größere Kontrolle über die Daten und werden oft als sicherer angesehen, obwohl sie in der Regel mit höheren Vorabkosten und Wartungsanforderungen verbunden sind.
@@ -50,8 +48,6 @@ Auf der anderen Seite stehen On-Premise-PACS-Server, die physisch in den Einrich
 ### Kommerzielle vs. Open-Source-Lösungen
 
 Wenn man über On-Premise-PACS-Server spricht, gibt es kommerzielle Angebote, die oft mit umfangreichen Funktionen und Support kommen, aber auch mit hohen Kosten verbunden sind. Als Alternative gibt es Open-Source-Lösungen, die den Einrichtungen ermöglichen, die Kosten zu senken und eine größere Flexibilität und Anpassungsfähigkeit zu genießen.
-
-![icon of half a house and half a business building in white over a blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-4-1024x683.png) ![](images/Orthanc-Logo.png)
 
 ## Unsere Wahl: Orthanc
 
