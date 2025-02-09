@@ -1,6 +1,6 @@
 ---
 title: "Workshop ChatGPT"
-date: "2023-09-12"
+publishDate: "2023-09-12T10:00:00Z"
 coverImage: "tpinnov_computer_training_with_femal_chatbot_fb5ee801-2e22-42ae-9b19-18e97b1eb05d.png"
 layout: '~/layouts/MarkdownLayout.astro'
 ---

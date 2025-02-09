@@ -1,6 +1,6 @@
 ---
 title: "Cloud Soforthilfe"
-date: "2022-05-16"
+publishDate: "2022-05-16T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

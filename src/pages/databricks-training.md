@@ -1,6 +1,6 @@
 ---
 title: "Databricks Training"
-date: "2023-12-13"
+publishDate: "2023-12-13T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

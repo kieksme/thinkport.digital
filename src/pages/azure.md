@@ -1,7 +1,7 @@
 ---
 layout: '~/layouts/MarkdownLayout.astro'
 title: "Azure-Consulting"
-date: "2023-02-27"
+publishDate: "2023-02-27T10:00:00Z"
 ---
 
 Wir machen Sie fit für die Azure - Cloud!

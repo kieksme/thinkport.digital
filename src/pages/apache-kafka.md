@@ -1,6 +1,6 @@
 ---
 title: "Apache Kafka Consulting"
-date: "2023-01-13"
+publishDate: "2023-01-13T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

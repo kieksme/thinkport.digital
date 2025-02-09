@@ -1,6 +1,6 @@
 ---
 title: "Cloud Consulting Partner"
-date: "2019-05-23"
+publishDate: "2019-05-23T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

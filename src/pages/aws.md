@@ -1,6 +1,6 @@
 ---
 title: "AWS-Consulting"
-date: "2022-11-30"
+publishDate: "2022-11-30T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

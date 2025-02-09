@@ -1,6 +1,6 @@
 ---
 title: "Google Cloud -Consulting"
-date: "2024-02-29"
+publishDate: "2024-02-29T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

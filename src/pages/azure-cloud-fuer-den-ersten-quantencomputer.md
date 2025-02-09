@@ -1,11 +1,12 @@
 ---
 title: "Azure Cloud Infrastruktur für den allerersten Quantencomputer"
-date: "2020-04-25"
+publishDate: "2020-04-25T10:00:00Z"
 ---
 
  [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
 
 # Azure Cloud Infrastruktur für  
+
 den weltweit ersten all-purpose Quanten-computer
 
 0 + Aktive Nutzer 0 Azure Services 0 % Cloud Gehostetes Backend
@@ -55,6 +56,7 @@ Das Monitoring Dashboard baut auf Azure Application Insights auf. Hier werden Nu
 Das Frontend wurde mit CSS, HTML, Javascript und jQuery auf die Beine gestellt. Ein großer Vorteil ist hierbei, dass das gesamte Interface visuell an die bestehenden Systeme und das Corporate Design des Kunden angepasst werden konnte. Das gesamte System fühlt sich für den Nutzer für eine einzige Software an, obwohl im Hintergrund eine Vielzahl an Anwendungen den Service realisiert.
 
 ## Herausragende  
+
 Technologien
 
 Moderne Azure  
@@ -75,6 +77,7 @@ Die Anmeldung für das Portal sowie der Zugriff zum Quantencomputer sind dank de
 Das eingebaute Payment-Modell ermöglicht es AQT die Leistung des Quantencomputers zu verwirtschaftlichen. Anhand der Nutzerdaten, die in dem Cloud-System gesammelt und ausgewertet werden, kann die Nutzung der Quantenpower für jeden Nutzer quantifiziert und in Rechnung gestellt werden.
 
 ### Automatisierte  
+
 Smart-Verwaltung  
 
 Der Einsatz von modernen Technologien sorgt für lückenlose Sicherheit und starke Leistung ohne hohen wiederkehrenden Arbeitsaufwand. Zahlungsabwicklung, Datenauswertung und Performance-Management erfolgen entsprechend den modernsten Standards automatisiert.
@@ -93,7 +96,7 @@ kschuijlenburg@thinkport.digital
 
 +49 151 63417156
 
-- [](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
+* [](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

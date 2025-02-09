@@ -1,6 +1,6 @@
 ---
 title: "AI Driven Software Development"
-date: "2023-12-12"
+publishDate: "2023-12-12T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

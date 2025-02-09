@@ -1,6 +1,6 @@
 ---
 title: "Cloud Architecture Review"
-date: "2022-05-06"
+publishDate: "2022-05-06T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -48,7 +48,7 @@ Abhängig von der Exponiert-heit Ihres Unternehmens, der Sensitivität seiner Da
 
 Wir entwickeln ein Konzept, wie Sie die vielfältigen Arten von Kosten (fix, variabel, initial, laufend) optimal kombinieren.
 
-[](https://thinkport.digital/wp-content/uploads/2021/09/IMG_1859.png)[](https://thinkport.digital/wp-content/uploads/2022/03/Karriere4.png)[](https://thinkport.digital/wp-content/uploads/2021/08/Screen-Shot-2021-08-20-at-9.08.55-AM.png)
+[](https://thinkport.digital/wp-content/uploads/2021/09/IMG_1859.png)[](https://thinkport.digital/wp-content/uploads/2022/03/Karriere4.png)[](https://thinkport.digital/wp-content/uploads/2021/08/Screen-Shot-2021-08-20T10:00:00Z-at-9.08.55-AM.png)
 
 Das Cloud Architektur Review basiert auf den gesammelten Best Practices der letzten Jahre. Im Fokus sind insbesondere  
 \- Data Plattformen (AWS/Azure)  

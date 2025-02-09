@@ -1,6 +1,6 @@
 ---
 title: "CI/CD mit AWS"
-date: "2021-06-04"
+publishDate: "2021-06-04T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

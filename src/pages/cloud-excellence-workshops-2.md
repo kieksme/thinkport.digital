@@ -1,6 +1,6 @@
 ---
 title: "ALT: Cloud Excellence Workshops von Thinkport"
-date: "2020-04-19"
+publishDate: "2020-04-19T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

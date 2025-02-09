@@ -1,6 +1,6 @@
 ---
 title: "Cloud Trainings & Workshops"
-date: "2022-07-08"
+publishDate: "2022-07-08T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

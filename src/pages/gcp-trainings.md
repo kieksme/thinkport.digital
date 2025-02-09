@@ -1,6 +1,6 @@
 ---
 title: "GCP Trainings"
-date: "2024-02-20"
+publishDate: "2024-02-20T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

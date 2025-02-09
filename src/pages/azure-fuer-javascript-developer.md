@@ -1,6 +1,6 @@
 ---
 title: "Azure für JavaScript Developer"
-date: "2022-09-28"
+publishDate: "2022-09-28T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

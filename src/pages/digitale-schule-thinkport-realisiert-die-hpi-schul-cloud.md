@@ -1,6 +1,6 @@
 ---
 title: "Digitale Schule: Thinkport realisiert die HPI Schul-Cloud"
-date: "2020-08-18"
+publishDate: "2020-08-18T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Airflow in der Cloud"
-date: "2021-05-03"
+publishDate: "2021-05-03T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

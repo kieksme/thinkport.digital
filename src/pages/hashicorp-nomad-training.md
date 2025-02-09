@@ -1,6 +1,6 @@
 ---
 title: "HashiCorp Nomad Training"
-date: "2024-05-06"
+publishDate: "2024-05-06T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

@@ -1,3 +1,4 @@
+import { get } from './pages/members/[hash].astro';
 import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 
 export const headerData = {
@@ -31,35 +32,36 @@ export const headerData = {
       text: 'Trainings',
       links: [
         {
-          text: 'Features (Anchor Link)',
-          href: getPermalink('/#features'),
+          text: 'AWS Trainings',
+          href: getPermalink('#'),
         },
         {
-          text: 'Services',
-          href: getPermalink('/services'),
+          text: 'Azure Trainings',
+          href: getPermalink('#'),
         },
         {
-          text: 'Pricing',
-          href: getPermalink('/pricing'),
+          text: 'Cloud Workshops',
+          href: getPermalink('#'),
         },
         {
-          text: 'About us',
-          href: getPermalink('/about'),
+          text: 'Event-Streaming Kafka Trainings',
+          href: getPermalink('#'),
         },
         {
-          text: 'Contact',
-          href: getPermalink('/contact'),
+          text: 'GCP Trainings',
+          href: getPermalink('#'),
         },
         {
-          text: 'Terms',
-          href: getPermalink('/terms'),
+          text: 'Hybrid Cloud Trainings',
+          href: getPermalink('#'),
         },
         {
-          text: 'Privacy policy',
-          href: getPermalink('/privacy'),
+          text: 'Terraform Trainings',
+          href: getPermalink('#'),
         },
       ],
     },
+
     {
       text: 'Karriere',
       links: [
@@ -115,8 +117,37 @@ export const headerData = {
       ],
     },
     {
-      text: 'Widgets',
-      href: '#',
+      text: 'Beispielseiten',
+      links: [
+        {
+          text: 'Features (Anchor Link)',
+          href: getPermalink('/#features'),
+        },
+        {
+          text: 'Services',
+          href: getPermalink('/services'),
+        },
+        {
+          text: 'Pricing',
+          href: getPermalink('/pricing'),
+        },
+        {
+          text: 'About us',
+          href: getPermalink('/about'),
+        },
+        {
+          text: 'Contact',
+          href: getPermalink('/contact'),
+        },
+        {
+          text: 'Terms',
+          href: getPermalink('/terms'),
+        },
+        {
+          text: 'Privacy policy',
+          href: getPermalink('/privacy'),
+        },
+      ],
     },
   ],
   actions: [{ text: 'Kontakt', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],

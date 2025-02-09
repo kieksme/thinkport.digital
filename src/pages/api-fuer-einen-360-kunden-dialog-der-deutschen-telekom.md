@@ -1,6 +1,6 @@
 ---
 title: "API für einen 360° Kunden-Dialog der Deutschen Telekom"
-date: "2022-03-18"
+publishDate: "2022-03-18T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

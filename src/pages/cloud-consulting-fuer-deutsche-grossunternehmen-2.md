@@ -1,6 +1,6 @@
 ---
 title: "Cloud - Consulting für deutsche Großunternehmen"
-date: "2023-08-24"
+publishDate: "2023-08-24T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

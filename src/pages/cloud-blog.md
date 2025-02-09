@@ -1,6 +1,6 @@
 ---
 title: "Cloud Blog"
-date: "2019-04-02"
+publishDate: "2019-04-02T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

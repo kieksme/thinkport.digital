@@ -1,6 +1,6 @@
 ---
 title: "Cloud Transformation im Management"
-date: "2024-04-18"
+publishDate: "2024-04-18T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

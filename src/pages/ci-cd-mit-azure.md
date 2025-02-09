@@ -1,6 +1,6 @@
 ---
 title: "CI/CD mit Azure"
-date: "2022-09-27"
+publishDate: "2022-09-27T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

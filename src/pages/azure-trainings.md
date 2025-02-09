@@ -1,6 +1,6 @@
 ---
 title: "Azure Trainings"
-date: "2022-07-07"
+publishDate: "2022-07-07T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

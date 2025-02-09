@@ -1,6 +1,6 @@
 ---
 title: "Hybrid Cloud Strategie"
-date: "2021-07-14"
+publishDate: "2021-07-14T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

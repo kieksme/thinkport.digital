@@ -1,6 +1,6 @@
 ---
 title: "Azure Data Analytics Infrastruktur für LSG"
-date: "2020-09-10"
+publishDate: "2020-09-10T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

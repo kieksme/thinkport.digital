@@ -1,6 +1,6 @@
 ---
 title: "Datenplattform mit Azure und Databricks"
-date: "2021-05-11"
+publishDate: "2021-05-11T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
