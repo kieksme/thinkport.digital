@@ -4,9 +4,7 @@ date: "2019-04-02"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
-# Unser Unternehmen
+## Unser Unternehmen
 
 Cloud Consulting with Startup Spirit
 
@@ -153,26 +151,31 @@ Team
 ![Tobi](images/AnyConv.com__Tobi.webp "Portrait Tobias")    Tobias CEO    ![alex](images/alex-2.webp "Portrait Alex")
 
     Alex Business Unit Lead  
+
 Transportation & Logistic 
 
 ![Keith](images/keith-1-1.webp "Portrait Keith")
 
     Keith Business Unit Lead  
+
 Retail 
 
 ![Samir](images/Samir.png "Samir")
 
     Samir Business Team Lead  
+
 Transportation 
 
 ![Philipp D’Angelo](images/AnyConv.com__Philipp-DAngelo.webp "Portrat Phillip")
 
     Philipp Business Unit Lead  
+
 Finance 
 
 ![Patrick](images/Patrick.png "Patrick")    Patrick Cloud Architect    ![Laszlo](images/Laszlo.png "Laszlo")
 
     Laszlo Business Unit Lead  
+
 Streaming 
 
 ![Wladislaw](images/Wladislaw.png "Wladislaw")    Wladislaw Cloud Engineer    ![Steffen](images/Steffen.png "Steffen")    Steffen Cloud Engineer    ![Vanessa](images/Vanessa.png "Vanessa")    Vanessa Business Development    ![Joshua](images/Ohne-Titel-500-x-500-px-2.png "portrait Joshua")    Joshua Senior Cloud Engineer    ![Philipp3](images/Philipp3.png "portrait Philipp")    Philipp Innovation Manager    ![Björn](images/Björn.png "portrait björn")
@@ -182,6 +185,7 @@ Streaming
 ![Sabrina](images/Sabrina-1.png "portrait Sabrine")
 
     Sabrina Team Lead  
+
 People & Culture 
 
 ![moritz](images/moritz-2.png "portrait moritz")
@@ -191,6 +195,7 @@ People & Culture
 ![Julius](images/Julius-1.png "portrait julius")
 
     Julius Business Unit Lead  
+
 Data 
 
 ![Tobias Hau](images/Tobias-1.png "portrait tobias hau")
@@ -242,11 +247,13 @@ Data
 ![Philipp](images/Philipp-1.png "portrait Philipp")
 
     Philipp Business Unit Lead  
+
 General 
 
 ![clemens](images/clemens-2.webp "Clemens Portrait")
 
     Clemens Business Unit Lead  
+
 Biotech & Chemicals 
 
 ![Jonas](images/Jonas-1.png "Jonas portrait")
@@ -262,6 +269,7 @@ Leipzig
 ![Dominik](images/Dominik-3.png "Dominik portrait")    Dominik CTO    ![markus (1)](images/markus-1-1.webp "Markus portrait")    Markus Senior Cloud Architect    ![Mathias](images/AnyConv.com__Mathias.webp "Mathias Portrait")    Mathias Senior Cloud Architect    ![Tilman](images/AnyConv.com__Tilman.webp "Tilman Portrait")    Tilman Cloud Engineer    ![Lukas](images/Lukas.png "portrait Lukas")    Lukas Senior Cloud Engineer    ![Martin](images/AnyConv.com__Martin.webp "Martin Portrait")    Martin Cloud Architect    ![Christina](images/Christina.png "portrait Christina")
 
     Christina Business Unit Lead  
+
 Zero 
 
 ![filipp](images/filipp-2.webp "Filipp portrait")    Filipp Senior Cloud Engineer    ![chris-ulpinnis](images/chris-ulpinnis-2.webp "Chris Portrait")    Chris Cloud Architect    ![Evelina](images/Evelina-2.webp "Evelina portrait")    Evelina Cloud Developer    ![Coming Soon](images/Design-ohne-Titel-7.png "Coming Soon Icon")    Stephan Senior Cloud Engineer    ![André](images/André-1.webp "André portrait")    André Senior Cloud Engineer    ![Annemarie](images/Annemarie-1.webp "portrait Annemarie")    Annemarie Dual Computer Science Student    ![Frank](images/Frank.webp "portrait Frank")    Frank Cloud Engineer    ![Martin Gutwin](images/Martin-Gutwin-3.webp "portrait Martin Gutwin")

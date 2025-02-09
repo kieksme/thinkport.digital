@@ -33,31 +33,31 @@ export const headerData = {
       links: [
         {
           text: 'AWS Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/aws-training'),
         },
         {
           text: 'Azure Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/azure-trainings'),
         },
         {
           text: 'Cloud Workshops',
-          href: getPermalink('#'),
+          href: getPermalink('/cloud-workshops'),
         },
         {
           text: 'Event-Streaming Kafka Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/event-streaming-kafka-trainings'),
         },
         {
           text: 'GCP Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/gcp-trainings'),
         },
         {
           text: 'Hybrid Cloud Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/hybrid-cloud-trainings'),
         },
         {
           text: 'Terraform Trainings',
-          href: getPermalink('#'),
+          href: getPermalink('/terraform-trainings'),
         },
       ],
     },
@@ -66,28 +66,8 @@ export const headerData = {
       text: 'Karriere',
       links: [
         {
-          text: 'Lead Generation',
-          href: getPermalink('/landing/lead-generation'),
-        },
-        {
-          text: 'Long-form Sales',
-          href: getPermalink('/landing/sales'),
-        },
-        {
-          text: 'Click-Through',
-          href: getPermalink('/landing/click-through'),
-        },
-        {
-          text: 'Product Details (or Services)',
-          href: getPermalink('/landing/product'),
-        },
-        {
-          text: 'Coming Soon or Pre-Launch',
-          href: getPermalink('/landing/pre-launch'),
-        },
-        {
-          text: 'Subscription',
-          href: getPermalink('/landing/subscription'),
+          text: 'Das Team',
+          href: getPermalink('/team'),
         },
       ],
     },
@@ -146,6 +126,30 @@ export const headerData = {
         {
           text: 'Privacy policy',
           href: getPermalink('/privacy'),
+        },
+        {
+          text: 'Landing - Lead Generation',
+          href: getPermalink('/landing/lead-generation'),
+        },
+        {
+          text: 'Landing - Long-form Sales',
+          href: getPermalink('/landing/sales'),
+        },
+        {
+          text: 'Landing - Click-Through',
+          href: getPermalink('/landing/click-through'),
+        },
+        {
+          text: 'Landing - Product Details (or Services)',
+          href: getPermalink('/landing/product'),
+        },
+        {
+          text: 'Landing - Coming Soon or Pre-Launch',
+          href: getPermalink('/landing/pre-launch'),
+        },
+        {
+          text: 'Landing - Subscription',
+          href: getPermalink('/landing/subscription'),
         },
       ],
     },

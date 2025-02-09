@@ -4,8 +4,6 @@ publishDate: "2020-08-18T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
-
 # Digitale Schule: Thinkport realisiert die HPI Schul-Cloud
 
 0 K+ Nutzer allein in Brandenburg 0 Pilotschulen 0 Cloudsysteme

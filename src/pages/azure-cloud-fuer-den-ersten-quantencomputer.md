@@ -3,8 +3,6 @@ title: "Azure Cloud Infrastruktur für den allerersten Quantencomputer"
 publishDate: "2020-04-25T10:00:00Z"
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
-
 # Azure Cloud Infrastruktur für  
 
 den weltweit ersten all-purpose Quanten-computer

@@ -20,18 +20,18 @@ const groupedMembers = membersData.members.reduce((acc, member) => {
 <Layout metadata={metadata}>
   <main class="container max-w-3xl mx-auto">
     <article class="py-6">
-      <h1 class="mb-2 text-3xl text-slate-800">Team</h1>
+      <h1 class="mb-2 text-3xl">Team</h1>
       {
         Object.keys(groupedMembers).map((position) => (
-          <section class="mb-6 text-slate-800" key={position}>
+          <section class="mb-6" key={position}>
             <h2 class="mb-4 text-xl">{position}</h2>
             <ul class="grid grid-cols-1 gap-8 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
               {groupedMembers[position].map((member) => (
-                <li class="overflow-hidden bg-white shadow-md rounded-xs">
+                <li class="overflow-hidden bg-white rounded-sm shadow-md dark:bg-slate-900 dark:text-slate-300">
                   <img class="object-cover w-full h-48" src={member.avatar} alt={member.name} />
                   <div class="p-4">
                     <h3 class="text-xl font-semibold">{member.name}</h3>
-                    <p class="text-xs text-gray-600">{member.position}</p>
+                    <p class="text-xs text-gray-600 dark:text-slate-500">{member.position}</p>
                   </div>
                 </li>
               ))}

@@ -85,7 +85,7 @@ API für einen 360° Kunden-Dialog
 
 [![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp)](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)
 
-## Unsere Top 3:  
+## Unsere Top 3
 
 AWS Trainings & Workshops
 

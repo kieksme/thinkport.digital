@@ -4,8 +4,6 @@ date: "2025-01-16"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
 Werden Sie Experte mit dem
 
 # Microsoft Fabric Training

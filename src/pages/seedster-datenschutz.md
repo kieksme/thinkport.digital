@@ -4,8 +4,6 @@ date: "2023-04-27"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
-
 App
 
 # SEEDster

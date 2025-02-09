@@ -4,9 +4,7 @@ publishDate: "2019-05-23T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
-# Cloud Consulting Partner
+## Cloud Consulting Partner
 
 Weil gemeinsame Ideen heller leuchten
 

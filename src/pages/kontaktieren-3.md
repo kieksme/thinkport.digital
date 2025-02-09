@@ -4,9 +4,7 @@ date: "2021-07-06"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
-# Kontakt zu Thinkport
+## Kontakt zu Thinkport
 
 Cloud Experten kennenlernen  
 Ansprechpartner für alle Themen auf einen Blick

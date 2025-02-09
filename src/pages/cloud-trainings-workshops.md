@@ -4,8 +4,6 @@ publishDate: "2022-07-08T10:00:00Z"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
 Wir machen Sie fit für die Cloud!
 
 # Cloud Trainings & Workshops für Ihren Erfolg
@@ -277,13 +275,11 @@ Cloud-Beratung mit Start-Up Mentalität
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
-Dominik Fries
+### Dominik Fries
 
 CTO & Lead Cloud Architect
 
-[dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-
-+49 151 63417156
-
-* [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

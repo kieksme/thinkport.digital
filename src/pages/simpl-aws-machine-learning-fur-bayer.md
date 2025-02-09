@@ -4,8 +4,6 @@ date: "2021-07-02"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
-
 # Bildanalyse für Bayer AG - Machine Learning Pipeline in der Cloud
 
 0 Labore 0 k+ Bilder 0 x Schnellere Ergebnisse 
