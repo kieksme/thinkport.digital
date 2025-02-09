@@ -16,8 +16,6 @@ Der sichere Hafen für Daten​
 
 Die Bewahrung sensibler medizinischer Daten vor Ort (on-premise) bietet eine solide Lösung, um die Datenschutzanforderungen zu erfüllen. Orthanc ermöglicht dies durch seine leichtgewichtige und eigenständige Architektur, die die Einfachheit und Effizienz im DICOM-Datenmanagement betont. Durch die Integration von Technologien wie Kubernetes kann Orthanc effektiv implementiert werden, wobei Projekte wie Korthweb den Weg für eine on-premise-Nutzung ebnen. Diese Strategie ermöglicht es, mit der eskalierenden Flut von Bilddaten umzugehen, und gewährleistet gleichzeitig eine sichere Datenhaltung.
 
-![Bild einer Feile mit Ketten und dem Orthank-Logo, in Weiß auf einem blauen Hintergrund mit Farbverlauf](images/Der-sichere-Hafen-für-Daten-1024x683.webp) ![Bild einer Api Cloud mit Orthank-Logo, in Weiß auf einem blauen Hintergrund mit Farbverlauf](images/Einfluss-der-REST-API-1024x683.webp)
-
 ## Einfluss der REST API
 
 Orthanc's RESTful API ist ein Schlüsselmerkmal, das es ermöglicht, dass verschiedene Systeme und Anwendungen leicht mit DICOM-Daten interagieren können. Dies erleichtert die Integration und das Training von Machine-Learning-Modellen direkt in einer on-premise-Umgebung, und gewährleistet, dass sensible Daten sicher und geschützt bleiben.
