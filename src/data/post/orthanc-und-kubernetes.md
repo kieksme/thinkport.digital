@@ -28,8 +28,6 @@ Die Multi-Cloud-Strategie, ermöglicht durch die Flexibilität von Kubernetes, �
 
 Dies erlaubt die nahtlose Nutzung verschiedener Public Cloud-Anbieter wie Azure oder Google Cloud, um die operativen Möglichkeiten und die Widerstandsfähigkeit des Systems zu erweitern.
 
-![Bild einer Cloud Cyclus mit unterschiedene Arten Clouds, und ein Symbol der Unendlichkeit mit Orthank-Logo, in Weiß auf einem blauen Hintergrund mit Farbverlauf](images/Multicloud-und-Flexibilität-1024x683.png)
-
 ## Korthweb: Effizientes Kubernetes-Deployment von Orthanc
 
 Korthweb stellt eine innovative Lösung dar, um Orthanc, eine Open-Source-Anwendung zum Verarbeiten, Speichern, Anzeigen und Verteilen medizinischer Bilder, effektiv auf Kubernetes zu deployen. Als Schwesterprojekt von Orthweb, das sich auf die Bereitstellung von Orthanc auf AWS konzentriert, fokussiert sich Korthweb auf die Implementierung von Orthanc in Kubernetes-Umgebungen. Dies bietet eine flexible und skalierbare Option für das Management von DICOM-Daten und Web-Workloads.
