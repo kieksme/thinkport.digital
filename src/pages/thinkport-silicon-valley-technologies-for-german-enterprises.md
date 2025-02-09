@@ -84,10 +84,6 @@ Wie können wir Ihnen helfen? Gerne stellen wir Ihnen das Experten - Team mit Be
 
 [](https://thinkport.digital/kontaktieren-3/)
 
-## Erstklassige Kunden
-
-[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![enbw Cloud Consulting Projekt Thinkport](images/enbw_logo-q79jvm38dt9d0bw52ozusjyi9bqdprfvr80k4ue3nc.png 'enbw_logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
-
 ## Weitere Informationen
 
 Gerne unterstützen wir Sie bei der Migration oder Neuentwicklung von innovativen Anwendungen in der Cloud. Setzen Sie sich dazu unverbindlich und unkompliziert mit unseren Cloud Experten in Verbindung.

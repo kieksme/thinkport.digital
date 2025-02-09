@@ -74,10 +74,6 @@ Die Teilnehmerzahl ist begrenzt!
 
 \[formidable id=13\] _„Patrick Polster präsentiert das komplexe Deep-Tech-Thema „Kafka-Integrationsplattform“ auf eine spannende und unterhaltsame Weise. Sein Ziel ist es, dass alle relevanten Stakeholder von Echtzeit-Datenplattformen in Unternehmen wertvolle und praxisnahe Erkenntnisse mitnehmen können.“_ Özgür DumluConfluent _„Dank unserer Integrationsplattform mit ihren umfassenden Selfservice-Möglichkeiten für Entwickler konnten wir die Aufwände für das Betriebsteam deutlich reduzieren."_
 
-## Erstklassige Kunden
-
-[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![NetComBW_Logo](https://thinkport.digital/wp-content/uploads/2025/01/NetComBW_Logo.svg 'NetComBW_Logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
-
 ## FAQs
 
 Hier finden Sie eine kurze Zusammenstellung von oft gestellten Fragen und den dazugehörigen Antworten.
