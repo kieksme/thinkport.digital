@@ -44,13 +44,13 @@ Hybrid bedeutet die Kombination beziehungsweise die Verbindung zumindest einer P
 
 Viele Unternehmen entscheiden sich - aus einem oder mehreren der folgenden 7 – guten Gründe für die hybride IT-Cloud:
 
-- Regulierung und Compliance
-- Kein Vendor Lock-In
-- Kosten
-- Erweiterte Aufgaben zur bestehenden IT
-- Skalierung, Flexibilität und Erreichbarkeit
-- Schutz vor Cyber-Bedrohungen
-- Automatisierung durch KI
+* Regulierung und Compliance
+* Kein Vendor Lock-In
+* Kosten
+* Erweiterte Aufgaben zur bestehenden IT
+* Skalierung, Flexibilität und Erreichbarkeit
+* Schutz vor Cyber-Bedrohungen
+* Automatisierung durch KI
 
 ## Die Cloud aus regulatorischer und Compliance Sicht
 
@@ -218,4 +218,4 @@ Nutzen Sie zum Thema Hybrid Cloud den eintägigen Workshop **[Hybrid Cloud Strat
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
--  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
