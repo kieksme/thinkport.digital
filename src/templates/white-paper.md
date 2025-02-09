@@ -1,12 +1,10 @@
 ---
-layout: ../layouts/Page.astro
-title: Thinkport - Cloud and b
+layout: '~/layouts/MarkdownLayout.astro'
+title: White Paper in a yellow envelope
 description: Lorem ipsum dolor sit amet
 pubDate: Jul 08 2024
 heroImage: /blog-placeholder-3.jpg
-moo: jojo
 ---
-
 
 ## Yellow white-paper
 

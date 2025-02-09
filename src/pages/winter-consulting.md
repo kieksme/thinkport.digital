@@ -1,10 +1,16 @@
 ---
-title: Thinkport Lego Leuchtturm
-date: 2022-03-14T10:00:00.000Z
 layout: '~/layouts/MarkdownLayout.astro'
+title: Winter Consulting
+date: '2020-11-19'
+description: Lorem ipsum dolor sit amet
+heroImage: /blog-placeholder-3.jpg
+tags: [Winter, Consulting]
+aliases:
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+## Winter Consulting
+
+Das ist ein Beispiel von einem Template
 
 ## SupportUkraine
 
@@ -36,21 +42,3 @@ Unser Kollege Lars Herwegh entwarf den Turm und begleitete die Produktion bis in
 
 Die Menschen der Ukraine sind einer humanitären Katastrophe ausgeliefert. Über 1, 5 Millionen Menschen haben bereits die internationalen Grenzen überquert. Zusätzlich rechnet der UNHCR mit hunderttausenden Menschen, die innerhalb der Ukraine auf der Flucht sind. Sie brauchen dringend unsere Hilfe und  
 lebensrettenden Schutz.
-
-## Deine Unterstützung
-
-[Du kannst gleich hier über die Seite der UNO-Flüchtlingshilfe spenden:](https://www.hashicorp.com/)
-
-[Hier spenden](https://www.uno-fluechtlingshilfe.de/spenden-ukraine)
-
-Oder mit normaler Überweisung auf das gleiche Spendenkonto
-
-    				 `BIC: COLSDE33 IBAN: DE78 3705 0198 0020 0088 50 Sparkasse KölnBonn Kontonummer: 2000 88 50 BLZ: 370 501 98`
-
-DANKE.
-
-![Leuchtturm](images/Lego_n7.png)![Leuchtturm Verpackung](images/Lego_n8.png)![Lars und die Lego Leuchttürme](images/Lego_n6.png)![Leuchtturm vor der Verpackung](images/Lego_n5.png)![Leuchtturm Bauanleitung](images/Lego_n4.png)![Leuchtturm hinter weißem Grund](images/Lego_n3.png)![Verpackung des Leuchtturms](images/Lego_n2.png)![Leuchtturm auf Leuchtturm Stapel](images/Lego_n1.png)
-
-Zurück Weiter
-
-## So geht's weiter, damit du den Lego Leuchtturm erhältst. Und wir deine Spende verdoppeln können
