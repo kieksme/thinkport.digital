@@ -5,7 +5,7 @@ author: 'Dominik Fries'
 categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-image: 'https://thinkport.digital/wp-content/uploads/2024/08/Titelbild-Bild-2-768x768.png'
+cimage: 'https://thinkport.digital/wp-content/uploads/2024/08/Titelbild-Bild-2-768x768.png'
 ---
 
 ## Die maßgeschneiderte Lösung für das automatisierte ESG-Reporting

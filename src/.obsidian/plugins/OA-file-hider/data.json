@@ -1,0 +1,13 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "utils",
+    "layouts",
+    "components",
+    "pages/[...blog]",
+    "types.d.ts",
+    "env.d.ts",
+    "pages/dogs",
+    "pages/homes"
+  ]
+}

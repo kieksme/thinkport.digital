@@ -4,7 +4,7 @@ publishDate: 2024-10-11T10:00:00Z
 categories: + "azure-cloud"
   + "iac"
   + "streaming"
-image: 'https://ix-marketing.imgix.net/autotagging.png?auto=format,compress&w=1446'
+cimage: 'https://ix-marketing.imgix.net/autotagging.png?auto=format,compress&w=1446'
 ---
 
 ## Eine State-of-the-Art Integrationsplattform mit Terraform und Confluent Cloud
