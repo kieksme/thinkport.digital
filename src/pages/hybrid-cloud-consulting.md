@@ -27,12 +27,12 @@ Termin vereinbaren[](#linksection)
 
 ## Hybrid Cloud Stärken
 
-- Flexibilität
-- Kontrolle und Sicherheit
-- Kostenoptimierung
-- Nahtlose Integration
-- Disaster Recovery und Business Continuity
-- Skalierbarkeit und Agilität
+* Flexibilität
+* Kontrolle und Sicherheit
+* Kostenoptimierung
+* Nahtlose Integration
+* Disaster Recovery und Business Continuity
+* Skalierbarkeit und Agilität
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
 
@@ -86,8 +86,6 @@ Die Lerninhalte unserer vielfältigen Hybrid Cloud Trainings werden von unseren 
 
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
-[Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Im Vordergrund sieht man das Kubernetes & Docker Logo sowie Schriftzug, und im Hintergrund sitzen Personen am Schreibtisch vor dem Laptop und Monitoren](images/Kubernetes-Docker-1024x463.webp) ](https://thinkport.digital/docker-und-kubernetes-lernen/)[![Im Vordergrund sieht man das Apache Spark Logo sowie Schriftzug, und im Hintergrund sitzen Personen am Schreibtisch vor dem Laptop und Monitoren.](images/Spark-für-Big-Data-1024x463.webp) ](https://thinkport.digital/spark-fuer-big-data-lernen/)[![Im Vordergrund sieht man das Airflow Logo und Schriftzug vor dem im Hintergrund zusehenden Gruppe an Menschen, die an einem Laptop herum diskutieren.](images/Airflow-in-der-Cloud-1024x463.webp)](https://thinkport.digital/airflow-in-der-cloud/)
-
 ## Wissen & Kompetenz: Unsere erfahrenen Cloud Experten.
 
 ### Alex
@@ -134,7 +132,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-- [+49 151 63417156](tel:+4915163417156)
-- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
