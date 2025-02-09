@@ -4,13 +4,9 @@ date: "2024-02-29"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+## Ihr Google Cloud Consulting Partner für die bessere Cloud
 
-Wir machen Sie fit für die Google - Cloud!
-
-# Ihr Google Cloud Consulting Partner  
-
-für die bessere Cloud
+> Wir machen Sie fit für die Google - Cloud!
 
 0 Google Cloud Zertifikate 0 Erfolgreiche Projekte 0 Qualifizierte Mitarbeiter [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
 
@@ -46,7 +42,7 @@ Richard Markgraf
 * Hervorragende first party client libraries und APIs
 * Umfangreiche Dokumentation zu Services mit Beispielen und Best Practices
 
-![bild von Wolken mit GCP logo und zwei Cloud Architecs](images/gcp3_wolke-1024x902.webp)[](#linksection)
+![Bild von Wolken mit GCP logo und zwei Cloud Architecs](images/gcp3_wolke-1024x902.webp)[](#linksection)
 
 ## Thinkport's Kernkompetenzen für ihr Google Cloud Projekt
 
@@ -104,13 +100,11 @@ Cloud-Beratung mit Start-Up Mentalität
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
-Dominik Fries
+### Dominik Fries
 
 CTO & Lead Cloud Architect
 
-[dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-
-+49 151 63417156
-
-* [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

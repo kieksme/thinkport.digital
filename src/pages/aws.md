@@ -4,15 +4,9 @@ date: "2022-11-30"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+## Ihr AWS Consulting Partner für die bessere Cloud
 
-Wir machen Sie fit für die AWS - Cloud!
-
-# Ihr AWS Consulting Partner für  
-
-die bessere Cloud
-
-0 AWS Zertifikate 0 Erfolgreiche Projekte 0 Qualifizierte Mitarbeiter [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
+> Wir machen Sie fit für die AWS - Cloud!
 
 Sie prüfen eine Migration in die moderne AWS-Welt und planen Ihre zukünftige Architektur und Services?  
 Oder nutzen Sie bereits AWS und sind unsicher über die nächsten Entwicklungsschritte?  
@@ -145,13 +139,11 @@ Cloud-Beratung mit Start-Up Mentalität
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
-Dominik Fries
+### Dominik Fries
 
 CTO & Lead Cloud Architect
 
-[dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-
-+49 151 63417156
-
-* [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

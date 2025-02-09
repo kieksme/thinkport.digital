@@ -4,13 +4,7 @@ date: "2023-01-13"
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
-
-# Apache Kafka Consulting:  
-
-High-Performance-Lösungen von Thinkport
-
-0 Kafka Zertifikate 0 Erfolgreiche Projekte 0 Qualifizierte Mitarbeiter [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
+## High-Performance-Lösungen von Thinkport
 
 Das Apache Kafka Consulting von Thinkport unterstützt Sie und Ihr Team bei der Implementierung von Apache Kafka® für ein **einfaches und effizientes Datenstreaming**. Nutzen Sie die Anwendung außerdem als Zwischenspeicher: Confluent, gegründet von den ursprünglichen Entwicklern von Apache Kafka, verarbeitet Daten in Echtzeit und bietet sowohl Daten-Streaming Pipelines als auch **APIs für weitere Systeme und Anwendungen**. Verwalten Sie Echtzeitdaten problemlos und skalieren Sie sie einfach und schnell für jede Art von IT-Infrastruktur. Mit Confluent wurde Kafka enterprise ready!  
   
@@ -136,13 +130,11 @@ Cloud-Beratung mit Start-Up Mentalität
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
-Dominik Fries
+### Dominik Fries
 
 CTO & Lead Cloud Architect
 
-[dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-
-+49 151 63417156
-
-* [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+* [+49 151 63417156](tel:+4915163417156)
+* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

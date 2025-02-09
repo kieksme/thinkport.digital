@@ -3,28 +3,32 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
-      text: 'Homes',
+      text: 'Consulting',
       links: [
         {
-          text: 'SaaS',
-          href: getPermalink('/homes/saas'),
+          text: 'Azure-Consulting',
+          href: getPermalink('/azure'),
         },
         {
-          text: 'Startup',
-          href: getPermalink('/homes/startup'),
+          text: 'Aws-Consulting',
+          href: getPermalink('/aws'),
         },
         {
-          text: 'Mobile App',
-          href: getPermalink('/homes/mobile-app'),
+          text: 'Appacha-Kakfka-Consulting',
+          href: getPermalink('/apache-kafka'),
         },
         {
-          text: 'Personal',
-          href: getPermalink('/homes/personal'),
+          text: 'Google-Cloud-Consulting',
+          href: getPermalink('/google-cloud-consulting'),
+        },
+        {
+          text: 'Hybrid-Cloud-Consulting',
+          href: getPermalink('/hybrid-cloud-consulting'),
         },
       ],
     },
     {
-      text: 'Pages',
+      text: 'Trainings',
       links: [
         {
           text: 'Features (Anchor Link)',
@@ -57,7 +61,7 @@ export const headerData = {
       ],
     },
     {
-      text: 'Landing',
+      text: 'Karriere',
       links: [
         {
           text: 'Lead Generation',
@@ -86,10 +90,10 @@ export const headerData = {
       ],
     },
     {
-      text: 'Blog',
+      text: 'News',
       links: [
         {
-          text: 'Blog List',
+          text: 'News List',
           href: getBlogPermalink(),
         },
         {
@@ -115,66 +119,58 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
+  actions: [{ text: 'Kontakt', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
 
 export const footerData = {
   links: [
     {
-      title: 'Product',
+      title: 'Das Unternehmen',
       links: [
-        { text: 'Features', href: '#' },
-        { text: 'Security', href: '#' },
-        { text: 'Team', href: '#' },
-        { text: 'Enterprise', href: '#' },
-        { text: 'Customer stories', href: '#' },
-        { text: 'Pricing', href: '#' },
-        { text: 'Resources', href: '#' },
+        { text: 'Karriere', href: '#' },
+        { text: 'News', href: '#' },
+        { text: 'Partner', href: '#' },
       ],
     },
     {
-      title: 'Platform',
+      title: 'Consuling',
       links: [
-        { text: 'Developer API', href: '#' },
-        { text: 'Partners', href: '#' },
-        { text: 'Atom', href: '#' },
-        { text: 'Electron', href: '#' },
-        { text: 'AstroWind Desktop', href: '#' },
+        { text: 'Azure', href: '#' },
+        { text: 'AWS', href: '#' },
+        { text: 'Google Cloud', href: '#' },
+        { text: 'Streaming', href: '#' },
       ],
     },
     {
-      title: 'Support',
+      title: 'Partners',
       links: [
-        { text: 'Docs', href: '#' },
-        { text: 'Community Forum', href: '#' },
-        { text: 'Professional Services', href: '#' },
-        { text: 'Skills', href: '#' },
-        { text: 'Status', href: '#' },
+        { text: 'Solace', href: '#' },
+        { text: 'MongoDB', href: '#' },
+        { text: 'Kafka', href: '#' },
+        { text: 'Azure', href: '#' },
       ],
     },
     {
-      title: 'Company',
+      title: 'Inhalte',
       links: [
-        { text: 'About', href: '#' },
+        { text: 'Kontakt', href: '#' },
         { text: 'Blog', href: '#' },
-        { text: 'Careers', href: '#' },
-        { text: 'Press', href: '#' },
-        { text: 'Inclusion', href: '#' },
-        { text: 'Social Impact', href: '#' },
-        { text: 'Shop', href: '#' },
+        { text: 'Karriere', href: '#' },
+        { text: 'Presse', href: '#' },
       ],
     },
   ],
   secondaryLinks: [
-    { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'Privacy Policy', href: getPermalink('/privacy') },
+    { text: 'Impressumg', href: getPermalink('/terms') },
+    { text: 'Dataenschutzerklärung', href: getPermalink('/privacy') },
+    { text: 'Kontakt', href: '#' },
   ],
   socialLinks: [
     { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
     { ariaLabel: 'Instagram', icon: 'tabler:brand-instagram', href: '#' },
     { ariaLabel: 'Facebook', icon: 'tabler:brand-facebook', href: '#' },
     { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
+    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/ThinkportRepo' },
   ],
   footNote: `
     <img class="w-5 h-5 md:w-6 md:h-6 md:-mt-0.5 bg-cover mr-1.5 rtl:mr-0 rtl:ml-1.5 float-left rtl:float-right rounded-sm" src="https://onwidget.com/favicon/favicon-32x32.png" alt="onWidget logo" loading="lazy"></img>
