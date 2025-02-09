@@ -23,12 +23,10 @@ Zwischen den Versionen V2.0 und V3.0 liegen buchstäblich Welten. Die Akzeptanz 
 
 Da wir hier nicht auf jede Neuerung eingehen können, haben wir uns auf die großen ausschlaggebenden Änderungen der Version 3.0 fokussiert. Im Folgenden wollen wir näher auf die Punkte eingehen:
 
-- 1\. Neue Datenquellen und Ressourcen für App Service und Function Apps
-- 2\. Soft Delete Wiederherstellung/Bereinigung für Zertifikate, Keys und Secrets
-- 3\. Umstellung auf Microsoft Authentication Library (MSAL)
-- 4\. Aktualisierungen bestehender Features für Application Gateway, API Management, Ressourcengruppen, Speicherung, u.a.
-
-![Collage Terraform und Azure](images/Zeichenfläche-1.png)
+* 1\. Neue Datenquellen und Ressourcen für App Service und Function Apps
+* 2\. Soft Delete Wiederherstellung/Bereinigung für Zertifikate, Keys und Secrets
+* 3\. Umstellung auf Microsoft Authentication Library (MSAL)
+* 4\. Aktualisierungen bestehender Features für Application Gateway, API Management, Ressourcengruppen, Speicherung, u.a.
 
 ## Neuerungen im Detail
 
@@ -52,11 +50,11 @@ Mit der Version 3.0 gibt es auch eine Umstellung hinsichtlich der genutzten Bibl
 
 Eine umfassende Auflistung aller aktualisierten Punkte folgt unten im Link. Hier nur eine fokussierte Auswahl:
 
-- Alle Ressourcen: Um sicherzustellen, dass die richtige Ressource importiert wird, überprüft Version3.0 die Ressourcen-ID direkt beim Import. Bei einer Abweichung gibt es das erwartete Format zurück. Dadurch wird sichergestellt, dass z. B. eine ID für eine virtuelle Maschine angegeben wird und nicht die VM-Erweiterungs-ID.
-- Application-Gateway: Durch die Änderung verschachtelter Elemente von List auf Set spielt die Reihenfolge der Elemente nun keine Rolle mehr. Dies kann bei der Referenzierung zu bestehenden verschachtelten Elementen in Ihrer Terraform-Konfiguration einige Codeänderungen erforderlich machen.
+* Alle Ressourcen: Um sicherzustellen, dass die richtige Ressource importiert wird, überprüft Version3.0 die Ressourcen-ID direkt beim Import. Bei einer Abweichung gibt es das erwartete Format zurück. Dadurch wird sichergestellt, dass z. B. eine ID für eine virtuelle Maschine angegeben wird und nicht die VM-Erweiterungs-ID.
+* Application-Gateway: Durch die Änderung verschachtelter Elemente von List auf Set spielt die Reihenfolge der Elemente nun keine Rolle mehr. Dies kann bei der Referenzierung zu bestehenden verschachtelten Elementen in Ihrer Terraform-Konfiguration einige Codeänderungen erforderlich machen.
 
-- API-Management: Wie es bei anderen Terraform-Providern bereits der Fall ist, entfernt Terraform mit der AzureRM 3.0 Version auch hier die Standard-API und die Produkte für das API-Management, wenn eine neue API-Management-Instanz erstellt wird.
-- Firewall: Anders als bei den Application Gateways werden die verschachtelten Elemente, wo nötig, von Sets auf List geändert. Das bedeutet wiederum, dass die Reihenfolge dieser Elemente eine zu beachtende Rolle spielt. Auch hier wird es einige Anpassungen an Ihrem bestehenden Code erfordern, wenn Sie diese verschachtelten Elemente in Ihrer Terraform-Konfiguration referenzieren.
+* API-Management: Wie es bei anderen Terraform-Providern bereits der Fall ist, entfernt Terraform mit der AzureRM 3.0 Version auch hier die Standard-API und die Produkte für das API-Management, wenn eine neue API-Management-Instanz erstellt wird.
+* Firewall: Anders als bei den Application Gateways werden die verschachtelten Elemente, wo nötig, von Sets auf List geändert. Das bedeutet wiederum, dass die Reihenfolge dieser Elemente eine zu beachtende Rolle spielt. Auch hier wird es einige Anpassungen an Ihrem bestehenden Code erfordern, wenn Sie diese verschachtelten Elemente in Ihrer Terraform-Konfiguration referenzieren.
 
 ![Werbungsbanner](images/Advertiser1.png)
 
@@ -64,8 +62,8 @@ Eine umfassende Auflistung aller aktualisierten Punkte folgt unten im Link. Hier
 
 [](https://thinkport.digital/cloud-excellence-workshops/)
 
-- Ressourcengruppen: Vor dem Löschen einer Ressourcengruppe, prüft Terraform mit der Version3.0 nun, ob diese verschachtelt ist. Und löst einen Fehler aus, sofern ein Element gefunden wurde. Dieses Verhalten ist im Funktionsblock konfigurierbar und ist standardmäßig auf aktiv gesetzt. Es kann aber, wie bisher, auch wieder deaktiviert werden.
-- Speicherung: Auch in diesem Bereich gab es Änderungen. Zum Beispiel wurde das field “allow_blob_public_access” in “allow_nested_items_to_be_public” umbenannt. In der Vergangenheit führte die bisherige (etwas ungenaue) Bezeichnung oft zu Verwirrungen. “allow_nested_items_to_be_public” gibt an, was die Bezeichnung verspricht: Elemente innerhalb eines Speicherkontos der Öffentlichkeit können zugänglich gemacht werden. Und eben nicht, dass alle Ressourcen innerhalb dieses Speicherkontos standardmäßig öffentlich werden.
+* Ressourcengruppen: Vor dem Löschen einer Ressourcengruppe, prüft Terraform mit der Version3.0 nun, ob diese verschachtelt ist. Und löst einen Fehler aus, sofern ein Element gefunden wurde. Dieses Verhalten ist im Funktionsblock konfigurierbar und ist standardmäßig auf aktiv gesetzt. Es kann aber, wie bisher, auch wieder deaktiviert werden.
+* Speicherung: Auch in diesem Bereich gab es Änderungen. Zum Beispiel wurde das field “allow_blob_public_access” in “allow_nested_items_to_be_public” umbenannt. In der Vergangenheit führte die bisherige (etwas ungenaue) Bezeichnung oft zu Verwirrungen. “allow_nested_items_to_be_public” gibt an, was die Bezeichnung verspricht: Elemente innerhalb eines Speicherkontos der Öffentlichkeit können zugänglich gemacht werden. Und eben nicht, dass alle Ressourcen innerhalb dieses Speicherkontos standardmäßig öffentlich werden.
 
 Des Weiteren wurde mit der neuen Version 3.0 ebenfalls eine große Anzahl von veralteten Ressourcen, Datenquellen und Feldern entfernt. Auf diese sind wir in diesem Artikel nicht eingegangen. Eine vollständige Liste der veralteten Ressourcen und Felder sowie eine Upgrade-Anleitung sind unter dem folgendem **[Link](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/guides/3.0-upgrade-guide#removal-of-deprecated-fields-data-sources-and-resources)** verfügbar.
 
@@ -139,4 +137,4 @@ Des Weiteren wurde mit der neuen Version 3.0 ebenfalls eine große Anzahl von ve
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
