@@ -66,8 +66,6 @@ Azure qualifiziert sich für eine Vielzahl von Unternehmen und Organisationen, u
 * **2\. Mittelständische Unternehmen**: Azure bietet mittelständischen Unternehmen die Möglichkeit, ihre bestehenden Anwendungen und Systeme zu modernisieren und von den Vorteilen der Cloud zu profitieren. Sie können ihre Infrastruktur in Azure migrieren, um Kosten zu reduzieren, die Skalierbarkeit zu verbessern und Innovationen voranzutreiben.
 * **3\. Großunternehmen**: Azure ist auch für große Unternehmen geeignet, die eine skalierbare und flexible Cloud-Plattform benötigen, um ihre geschäftskritischen Anwendungen und Workloads zu betreiben. Azure bietet umfangreiche Funktionen für Sicherheit, Compliance und Governance, die den Anforderungen großer Organisationen gerecht werden.
 
-![Vor blauen Hintergrund sieht man in weiß Icons von einem Einfamilienhaus, einer großen Fabrik und einer Person am Laptop.](images/Für-wen-eignet-sich-Azure-1-1024x463.png)
-
 * **4\. Entwicklern und IT-Profis** wird eine Vielzahl von Diensten und Tools geboten, um Anwendungen zu erstellen, zu implementieren und zu verwalten. Azure unterstützt alle gängigen Programmiersprachen, Frameworks und Entwicklungsmodelle und bietet DevOps-Funktionen, die die Zusammenarbeit und die kontinuierliche Bereitstellung erleichtern.
 * **5\. Branchen- und spezialisierte Lösungen**: Azure bietet auch branchen-spezifische Lösungen an für z. B. Gesundheitswesen, Finanzdienstleistungen, Einzelhandel, Fertigung und öffentlicher Sektor. Diese Branchenlösungen umfassen vorgefertigte Vorlagen, Best Practices und spezifische Dienste, die auf die Bedürfnisse der jeweiligen Branche zugeschnitten sind.
 
