@@ -21,15 +21,15 @@ Um in der modernen Geschäftswelt wettbewerbsfähig und innovativ zu bleiben, si
 
 ### Geschäftliche Anwendungen
 
-- Kundenverwaltung
-- Vertragsmanagement
-- Produktinformationen
+* Kundenverwaltung
+* Vertragsmanagement
+* Produktinformationen
 
 ### Operative Anwendungen
 
-- Standortverwaltung
-- Equipment-Management
-- Ausbau- und Entwicklungsstatus
+* Standortverwaltung
+* Equipment-Management
+* Ausbau- und Entwicklungsstatus
 
 Darüber hinaus müssen diese Plattformen eine nahtlose Anbindung von Services und Applikationen für interne Abteilungen sowie externe Partner und Lieferanten ermöglichen. Ein weiterer kritischer Aspekt ist die strenge Standardisierung der Daten mittels Schemas zur Sicherung der Datenqualität und Interoperabilität für eine reibungslose Integration unterschiedlicher Systeme.
 
@@ -41,10 +41,10 @@ Um diese Herausforderungen zu meistern, haben wir eine technische Basis geschaff
 
 ### Technische Basis
 
-- **Kafka Cluster und Schema Registry auf Basis von Confluent Cloud**: Diese bietet eine robuste und skalierbare Grundlage für die Echtzeit-Datenintegration. 
-- **„Infrastructure-as-Code“** mit **HashiCorp Terraform**: Terraform ermöglicht die automatisierte Bereitstellung und Verwaltung der Infrastruktur. 
-- **Microsoft Azure**: Hier werden verschiedene Dienste genutzt, um die Infrastruktur zu unterstützen: 
-  - - Confluent Kafka Cluster 
+* **Kafka Cluster und Schema Registry auf Basis von Confluent Cloud**: Diese bietet eine robuste und skalierbare Grundlage für die Echtzeit-Datenintegration. 
+* **„Infrastructure-as-Code“** mit **HashiCorp Terraform**: Terraform ermöglicht die automatisierte Bereitstellung und Verwaltung der Infrastruktur. 
+* **Microsoft Azure**: Hier werden verschiedene Dienste genutzt, um die Infrastruktur zu unterstützen: 
+  + - Confluent Kafka Cluster 
       - Cloud Storage für Terraform State
       - Key Vault für API Keys und BYOK Keys
       - DevOps Repositories für “Infrastructure-as-Code” 
@@ -55,7 +55,7 @@ Um diese Herausforderungen zu meistern, haben wir eine technische Basis geschaff
 
 Einzelne Use Cases werden analysiert und separat als “Projekte” auf die Plattform gebracht. Beispiele hierfür sind das Veröffentlichen und Abonnieren von:
 
-- - Vertragsdatenänderungen 
+* - Vertragsdatenänderungen 
     - Telemetriedaten 
     - Ausbaustufen 
 
@@ -75,39 +75,39 @@ Ein "Projekt" in diesem Kontext bezeichnet eine sehr übersichtliche Konfigurati
 
 ### Infrastrukturkonfiguration
 
-- Auswahl einer Zielumgebung und eines Ziel-Clusters
-- Kafka Schemas, die bestimmten Topics zugeordnet werden
-- Kafka Topics, die ggf. auch von anderen Projekten verwendet werden dürfen
-- Service Accounts, die berechtigt werden, auf Projekt-eigene Topics oder Topics anderer Projekte zuzugreifen 
-- Einladung und Berechtigung von Benutzern der Confluent Cloud Web Console
-- Rotation und sicherer Austausch von Zugangs-Token
-- Tags und Business Metadata für Stream Governance 
+* Auswahl einer Zielumgebung und eines Ziel-Clusters
+* Kafka Schemas, die bestimmten Topics zugeordnet werden
+* Kafka Topics, die ggf. auch von anderen Projekten verwendet werden dürfen
+* Service Accounts, die berechtigt werden, auf Projekt-eigene Topics oder Topics anderer Projekte zuzugreifen 
+* Einladung und Berechtigung von Benutzern der Confluent Cloud Web Console
+* Rotation und sicherer Austausch von Zugangs-Token
+* Tags und Business Metadata für Stream Governance 
 
 ### Zugriffsbeschränkungen und Authentifizierung
 
-- Zugriffsbeschränkungen auf spezifische Umgebungen, Cluster und Topics
-- Confluent Service Accounts für Zugriffe auf Confluent Kafka Ressourcen durch Apps/Services
-- Confluent User Invitations sowie Azure Entra ID Single Sign-On für Zugriffe durch natürliche Personen
-- Microsoft Azure Entra ID Service Principals für Zugriffe auf rotierende Zugangs-Token/API Keys  
+* Zugriffsbeschränkungen auf spezifische Umgebungen, Cluster und Topics
+* Confluent Service Accounts für Zugriffe auf Confluent Kafka Ressourcen durch Apps/Services
+* Confluent User Invitations sowie Azure Entra ID Single Sign-On für Zugriffe durch natürliche Personen
+* Microsoft Azure Entra ID Service Principals für Zugriffe auf rotierende Zugangs-Token/API Keys  
 
 ### Kontinuierliche Integration und Bereitstellung (CI/CD)
 
-- Die Infrastruktur wird als „Infrastructure-as-Code“ konfiguriert und kontinuierlich mit Terraform in Azure DevOps Pipelines ausgerollt.
-- Der Infrastruktur-Code ist in Azure DevOps Repositories transparent abgelegt und unterliegt einer Versionsverwaltung.
-- Entwickler:innen tragen Konfigurations-Code bei, der im Rahmen von Pull Requests Reviews unterzogen wird.
-- Während der Pull Request Reviews werden nicht nur die Einhaltung von Konventionen, sondern auch von Zugriffsbeschränkungen geprüft. 
-- Nach erfolgreichem Review und Freigabe einer Änderung am Konfigurations-Code wird die Wunschkonfiguration automatisch umgesetzt. 
+* Die Infrastruktur wird als „Infrastructure-as-Code“ konfiguriert und kontinuierlich mit Terraform in Azure DevOps Pipelines ausgerollt.
+* Der Infrastruktur-Code ist in Azure DevOps Repositories transparent abgelegt und unterliegt einer Versionsverwaltung.
+* Entwickler:innen tragen Konfigurations-Code bei, der im Rahmen von Pull Requests Reviews unterzogen wird.
+* Während der Pull Request Reviews werden nicht nur die Einhaltung von Konventionen, sondern auch von Zugriffsbeschränkungen geprüft. 
+* Nach erfolgreichem Review und Freigabe einer Änderung am Konfigurations-Code wird die Wunschkonfiguration automatisch umgesetzt. 
 
 Durch diesen strukturierten und automatisierten Ansatz wird eine effiziente und standardisierte Anbindung von Use Cases an die Integrationsplattform ermöglicht. Dies stellt sicher, dass der Weg für eine schnelle und zuverlässige Implementierung von Geschäftsanwendungen und Prozessen geebnet ist. 
 
-- Einfache Skalierung auf eine beliebige Anzahl von Use Cases durch die Entwickler:innen mittels Pull Requests
-- Transparente, homogene und schnell sowie sicher zu reproduzierende Konfiguration der Infrastruktur durch Infrastructure as Code
-- Vermeidung von Fehlern beim Anlegen von Accounts, Ressourcen sowie Berechtigungen
-- Minimierung des Aufwands beim Betriebsteam durch weitgehenden Self-Service für die Entwickler:innen 
+* Einfache Skalierung auf eine beliebige Anzahl von Use Cases durch die Entwickler:innen mittels Pull Requests
+* Transparente, homogene und schnell sowie sicher zu reproduzierende Konfiguration der Infrastruktur durch Infrastructure as Code
+* Vermeidung von Fehlern beim Anlegen von Accounts, Ressourcen sowie Berechtigungen
+* Minimierung des Aufwands beim Betriebsteam durch weitgehenden Self-Service für die Entwickler:innen
 
 ## Autoren
 
-![Portrait René](images/René-300x300.webp)
+![Portrait René](images/Renee.webp)
 
 René Korth
 
