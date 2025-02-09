@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "name": "Cloud-Strategie & Beratung",
+      "description": "Beratung zur Cloud-Transformation, Architekturplanung und Migrationsstrategien."
+    },
+    {
+      "name": "Cloud-Sicherheit & Compliance",
+      "description": "Sicherheitslösungen, DSGVO-Konformität, Identity & Access Management."
+    },
+    {
+      "name": "Multi- & Hybrid-Cloud-Lösungen",
+      "description": "Integration und Verwaltung von Multi-Cloud- und Hybrid-Cloud-Umgebungen."
+    },
+    {
+      "name": "DevOps & Automatisierung",
+      "description": "CI/CD-Pipelines, Infrastruktur als Code (IaC), Containerisierung mit Kubernetes und Docker."
+    },
+    {
+      "name": "Daten & KI in der Cloud",
+      "description": "Datenanalyse, Big Data, Künstliche Intelligenz und Machine Learning in der Cloud."
+    },
+    {
+      "name": "Managed Cloud Services",
+      "description": "Betrieb, Monitoring und Support für Cloud-Infrastrukturen und -Anwendungen."
+    },
+    {
+      "name": "Kosteneffizienz & FinOps",
+      "description": "Optimierung von Cloud-Kosten, Abrechnungstransparenz und Budgetkontrolle."
+    },
+    {
+      "name": "Cloud-native Entwicklung",
+      "description": "Entwicklung von skalierbaren und resilienten Cloud-Anwendungen mit modernen Technologien."
+    },
+    {
+      "name": "Microsoft Azure Beratung",
+      "description": "Beratung und Implementierung von Lösungen auf Microsoft Azure."
+    },
+    {
+      "name": "AWS Beratung",
+      "description": "Beratung und Implementierung von Lösungen auf Amazon Web Services (AWS)."
+    },
+    {
+      "name": "Google Cloud Beratung",
+      "description": "Beratung und Implementierung von Lösungen auf Google Cloud Platform (GCP)."
+    },
+    {
+      "name": "Cloud Migration",
+      "description": "Planung und Durchführung von Cloud-Migrationen, Lift & Shift, Replatforming und Refactoring."
+    }
+  ]
+}

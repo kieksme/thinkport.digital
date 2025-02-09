@@ -3,13 +3,11 @@ title: 'Azure Trainings'
 publishDate: '2022-07-07T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
-
 ## Azure Trainings für Ihren Erfolg
 
 > Gemeinsam machen wir Sie und Ihr Team fit für die Azure Cloud!
 
 Wunsch-Termin vereinbaren 0 Exzellenz-Workshops 0 + Erfolgreiche Teilnehmer 0 Zertifizierte Trainer
-
 ## Azure Trainings
 
 Ganz nach Ihren Bedürfnissen.
@@ -42,9 +40,7 @@ Cloud-Beratung mit Start-Up Mentalität
 ## Ihr Ansprechpartner
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
-
 ### Dominik Fries
-
 CTO & Lead Cloud Architect
 
 - [dfries@thinkport.digital](mailto:dfries@thinkport.digital)

@@ -3,10 +3,8 @@ layout: '~/layouts/MarkdownLayout.astro'
 title: 'Azure-Consulting'
 publishDate: '2023-02-27T10:00:00Z'
 ---
-
-Wir machen Sie fit für die Azure - Cloud!
-
 ## Ihr Azure Consulting Partner für die bessere Cloud
+>Wir machen Sie fit für die Azure - Cloud!
 
 0 + Azure Zertifikate 0 Erfolgreiche Projekte 0 Qualifizierte Mitarbeiter [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
 

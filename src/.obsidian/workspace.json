@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/winter-consulting.md",
+                "file": "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "winter-consulting"
+              "title": "azure-cloud-fuer-den-ersten-quantencomputer"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "399038dfb6d287e9",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/winter-consulting.md",
+                "file": "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for winter-consulting"
+              "title": "Backlinks for azure-cloud-fuer-den-ersten-quantencomputer"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/winter-consulting.md",
+                "file": "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from winter-consulting"
+              "title": "Outgoing links from azure-cloud-fuer-den-ersten-quantencomputer"
             }
           },
           {
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/winter-consulting.md",
+                "file": "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of winter-consulting"
+              "title": "Outline of azure-cloud-fuer-den-ersten-quantencomputer"
             }
           }
         ]
@@ -172,17 +171,25 @@
   },
   "active": "219bedd6d6f64489",
   "lastOpenFiles": [
-    "templates/page.md",
-    "pages/winter-consulting.md",
-    "Hallo Welt.md",
+    "data/categories.json",
+    "data/team copy.json",
+    "pages/api/categories.ts",
+    "pages/api/team.js.ts",
+    "pages/api/team.ts",
+    "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
+    "pages/azure.md",
+    "pages/azure-trainings.md",
+    "pages/aws-training.md",
+    "navigation.ts",
     "README.md",
+    "pages/winter-consulting.md",
+    "templates/page.md",
+    "Hallo Welt.md",
     "templates/white-paper.md",
     "templates/blog.md",
     "templates",
     "pages/airflow-in-der-cloud.md",
     "env.d.ts",
-    "types.d.ts",
-    "navigation.ts",
-    "pages/api/team.json.ts"
+    "types.d.ts"
   ]
 }

@@ -2,19 +2,13 @@
 title: 'Azure Cloud Infrastruktur für den allerersten Quantencomputer'
 publishDate: '2020-04-25T10:00:00Z'
 ---
-
-# Azure Cloud Infrastruktur für
-
-den weltweit ersten all-purpose Quanten-computer
-
-0 + Aktive Nutzer 0 Azure Services 0 % Cloud Gehostetes Backend
+## Azure Cloud Infrastruktur für den weltweit ersten all-purpose Quanten-computer
 
 ## AWS Azure Cloud Computing AQT Cloud Beratung Development Innovative Infrastruktur
 
-## der kunde
+## Der Kunde
 
 [Alpine Quantum Technologies GmbH](https://www.aqt.eu/)
-
 ![](images/AQT-Logo.png)
 
 Thinkport Experten bauen eine Azure Cloud Infrastruktur für AQT, dem österreichischen Forschungsunternehmen das den weltweit ersten all-purpose Quantencomputer bereitstellt.
@@ -30,7 +24,6 @@ Experten für einzigartige
 ## Konzepte
 
 Ob Performance, Kosteneinsparung oder Skalierung. 
-
 Wir bieten pragmatische Lösungen für den individuellen Projektfokus jedes unserer Kunden.
 
 [Experten Kontaktieren](https://thinkport.digital/kontaktieren)
@@ -85,17 +78,9 @@ Cloud-Beratung mit Start-Up Mentalität
 ## Ihr Ansprechpartner
 
 ![](images/Keith_edited_small-1.png)
-
-Keith Schuijlenburg
-
+*Keith Schuijlenburg*
 Cloud Architect
 
-kschuijlenburg@thinkport.digital
-
-+49 151 63417156
-
-- [](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
-
-## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
-
-## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)
+- [Keith auf LinkedIn](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
+- +49 151 63417156
+- kschuijlenburg@thinkport.digital
