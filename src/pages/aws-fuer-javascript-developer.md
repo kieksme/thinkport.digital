@@ -1,6 +1,6 @@
 ---
-title: "AWS für JavaScript Developer"
-publishDate: "2021-06-04T10:00:00Z"
+title: 'AWS für JavaScript Developer'
+publishDate: '2021-06-04T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 2 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 2 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie im AWS Development Training die Entwicklung von modernen Backend- und Frontend-Anwendungen.  
 Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
@@ -42,16 +42,16 @@ Die AWS Cloud ist beliebt für ihre belastbaren und robusten Backend-Services, m
 
 Teilnehmer können nach Abschluss...
 
-* An einem Tag eine Anwendung erstellen können, wofür Sie früher Monate gebraucht haben
-* Mit einer Sprache und AWS-Services große Anwendungen entwickeln
+- An einem Tag eine Anwendung erstellen können, wofür Sie früher Monate gebraucht haben
+- Mit einer Sprache und AWS-Services große Anwendungen entwickeln
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-* Personen mit Erfahrung in der Web-, Backend-, Frontendentwicklung
-* Personen, mit Erfahrung als JavaScript- und Node.js-, API- und Mobile-Entwickler sowie AWS Architekten
-* Unternehmen, die Anwendungen mit AWS erstellen
+- Personen mit Erfahrung in der Web-, Backend-, Frontendentwicklung
+- Personen, mit Erfahrung als JavaScript- und Node.js-, API- und Mobile-Entwickler sowie AWS Architekten
+- Unternehmen, die Anwendungen mit AWS erstellen
 
 ## Aufbau
 
@@ -59,29 +59,29 @@ Der Kurs ist geeignet für...
 
 ### Einführung Tag I
 
-* Frontend
-* Amplify: der zentrale Punkt von AWS Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
+- Frontend
+- Amplify: der zentrale Punkt von AWS Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
 
 ### Use Case Tag II
 
-* Backend
-* Was ist Serverless?
-* Lambda: Kern der Serverless Architektur
-* Internet Gateway - eine eigene HTTP/Socket Applikation bauen
-* Cognito: Authentifizierung in Minuten
-* AppSync: neue Generation API bauen
-* Erstellen einer Hello World-Anwendung
+- Backend
+- Was ist Serverless?
+- Lambda: Kern der Serverless Architektur
+- Internet Gateway - eine eigene HTTP/Socket Applikation bauen
+- Cognito: Authentifizierung in Minuten
+- AppSync: neue Generation API bauen
+- Erstellen einer Hello World-Anwendung
 
-* Frontend
-* Amplify: der zentrale Punkt von AWS Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
+- Frontend
+- Amplify: der zentrale Punkt von AWS Frontend-Development (Admin UI, API, REST, GraphQL, Storage and Analytics)
 
-* Backend
-* Was ist Serverless?
-* Lambda: Kern der Serverless Architektur
-* Internet Gateway - eine eigene HTTP/Socket Applikation bauen
-* Cognito: Authentifizierung in Minuten
-* AppSync: neue Generation API bauen
-* Erstellen einer Hello World-Anwendung
+- Backend
+- Was ist Serverless?
+- Lambda: Kern der Serverless Architektur
+- Internet Gateway - eine eigene HTTP/Socket Applikation bauen
+- Cognito: Authentifizierung in Minuten
+- AppSync: neue Generation API bauen
+- Erstellen einer Hello World-Anwendung
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -101,7 +101,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -115,7 +115,7 @@ Welche Möglichkeiten bringt AWS für JavaScript Entwickler?
 
 AWS (Amazon Web Services) bietet für JavaScript-Entwickler eine Vielzahl von Möglichkeiten, um skalierbare und zuverlässige Anwendungen zu erstellen und bereitzustellen. Einige dieser Möglichkeiten sind:
 
-* - AWS Lambda
+- - AWS Lambda
     - Amazon S3
     - Amazon DynamoDB
     - Amazon API Gateway
@@ -129,7 +129,7 @@ Welche Vorteile bringt AWS einem JavaScript Developer?
 
 Für einen JavaScript-Entwickler gibt es eine Vielzahl von Vorteilen, die AWS bietet. Hier sind einige der wichtigsten Vorteile:
 
-* - Skalierbarkeit
+- - Skalierbarkeit
     - Zuverlässigkeit
     - Schnelle Bereitstellung
     - Flexibilität

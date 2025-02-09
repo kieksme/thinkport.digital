@@ -1,10 +1,10 @@
 ---
-title: "Echtzeit Streaming von Auto-Daten in die Cloud für BMW"
-date: "2022-06-08"
+title: 'Echtzeit Streaming von Auto-Daten in die Cloud für BMW'
+date: '2022-06-08'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-# Echtzeit Streaming von Auto-Daten  
+# Echtzeit Streaming von Auto-Daten
 
 in die Cloud für BMW
 
@@ -50,18 +50,18 @@ Ob Performance, Kosteneinsparung oder Skalierung. Wir bieten pragmatische Lösun
 
 ## Das Lösungs-Konzept
 
-Erste Überlegungen gingen in die Richtung einer klassischen Micro-Service Architektur mit Rest APIs, HTTP Kommunikation und Datenbank Cluster, um die Daten vorrätig zu halten.  
-  
+Erste Überlegungen gingen in die Richtung einer klassischen Micro-Service Architektur mit Rest APIs, HTTP Kommunikation und Datenbank Cluster, um die Daten vorrätig zu halten.
+
 Dies wäre jedoch nachteilig geworden, da die Services voneinander abhängen und nicht unabhängig hätten weiterentwickelt werden können. Manche Services können zudem zu Engpässen führen und damit die Performance negativ beeinflussen. So ist HTTP ist eine Blocking Art von Kommunikation, wo der ein Service erst auf die Antwort wartet, bis es neue Anfragen verschickt. Eine schlechte Latenz wäre die Folge. Eine unerwartete Eventual Consistency kann dort auftreten, wo Services auf noch nicht gespeicherte Daten zugreifen wollen und dadurch Requests fehlschlagen. Services müssen für Daten „pollen“, solange bis die verfügbar sind. Das kostet Zeit und verschwendet Ressourcen. Alles würde führt zu einer unakzeptabel hohen Latenz führen.
 
 ![](images/BMW_Advantages-1024x574.jpg)
 
-Wir haben uns stattdessen für eine Event Driven Architektur-Lösung entschieden. Hier erfolgt die Kommunikation über einen Event Broker, der die Services entkoppelt und keine Bottlenecks entstehen lässt.  
-  
+Wir haben uns stattdessen für eine Event Driven Architektur-Lösung entschieden. Hier erfolgt die Kommunikation über einen Event Broker, der die Services entkoppelt und keine Bottlenecks entstehen lässt.
+
 Eventual Consistency ist normal für diese Art von Architektur. Daten werden auf reaktive Weise veröffentlicht. Das bedeutet, Services stellen die Daten zu Verfügung und jeder Service, der daran interessiert ist, kann diese abonnieren – und muss weder pollen noch blocking Anfragen schicken. Services bekommen die Daten “gepusht” und prozessieren nur “on-demand”. Das spart Ressourcen. Somit minimieren alle diese Punkte die Latenz.
 
-In einer Event Driven Architektur gibt es Producer (hier die Autos), Consumer (hier die Vendoren) und das Event Broker Cluster (hier Kafka).  
-  
+In einer Event Driven Architektur gibt es Producer (hier die Autos), Consumer (hier die Vendoren) und das Event Broker Cluster (hier Kafka).
+
 Producer publizieren Events an Kafka. Kafka speichert die unterschiedlichen Events in unterschiedlichen Topics. Diese werden auf Broker repliziert für Resilienz. Consumer wiederum abonnieren Topics, um die Events zu erhalten. Diese kommen zuerst aus Datenschutzgründen an einem on-prem Cluster in Deutschland an. Die Daten haben hier ein raw Format, welches von dem jeweiligen Sensor abhängt. Und erhalten noch zusätzlich sensible Informationen wie genaue GPS Koordinaten.
 
 ![Topics and Brokers Slide - BMW](images/Bildschirmfoto-2022-06-14-um-13.13.54-1024x576.png) ![](images/Bildschirmfoto-2022-06-08-um-23.27.46-1024x576.png)
@@ -96,12 +96,12 @@ Alle Abläufe erfolgen near-real-time. Die jeweils neuesten Daten sind die wertv
 
 Die definierten Ziele wurden in der vereinbarten Zeit erreicht:
 
-* Die realisierte Lösung erreicht bei mehr als 1 Million Nachrichten/Sekunde eine Latenz von 1 Sekunde.
-* Die Daten können von dem Kunden sehr unterschiedlich verwendet werden: Für statistische Auswertungen, Wartungs-Vorhersage, Flottenkommunikation, Navigation, Rettungsdienste, etc.
-* Die Applikation ist vorbereitet für eine einfache Erweiterung mit neue Sensoren (dank der Abstraktion in den Fassaden Services).
-* Neue Daten-Empfänger können ebenso einfach hinzugefügt werden (dank der Konfigurierbarkeit von Distribution Services). Skalierung ist kein Problem (dank AWS Cloud und Kafka).
-* Terraform - als Infrastructure as Code – ermöglicht es, die Cloud Deployments und unterschiedliche Environments bequem zu verwalten.
-* Datadog ermöglicht flexiblen Dashboards und Trendanalyse ein robustes Monitoring sowie ein gutes Alarm-System.
+- Die realisierte Lösung erreicht bei mehr als 1 Million Nachrichten/Sekunde eine Latenz von 1 Sekunde.
+- Die Daten können von dem Kunden sehr unterschiedlich verwendet werden: Für statistische Auswertungen, Wartungs-Vorhersage, Flottenkommunikation, Navigation, Rettungsdienste, etc.
+- Die Applikation ist vorbereitet für eine einfache Erweiterung mit neue Sensoren (dank der Abstraktion in den Fassaden Services).
+- Neue Daten-Empfänger können ebenso einfach hinzugefügt werden (dank der Konfigurierbarkeit von Distribution Services). Skalierung ist kein Problem (dank AWS Cloud und Kafka).
+- Terraform - als Infrastructure as Code – ermöglicht es, die Cloud Deployments und unterschiedliche Environments bequem zu verwalten.
+- Datadog ermöglicht flexiblen Dashboards und Trendanalyse ein robustes Monitoring sowie ein gutes Alarm-System.
 
 Cloud-Beratung mit Start-Up Mentalität
 
@@ -117,8 +117,8 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-* [](https://www.xing.com/profile/Tobias_Drechsel3)
+- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+- [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

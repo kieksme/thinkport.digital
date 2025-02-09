@@ -1,9 +1,8 @@
 ---
-title: "16 Things to Avoid When Writing For Your UI"
+title: '16 Things to Avoid When Writing For Your UI'
 publishDate: 2018-12-01T10:00:00Z
-categories: 
-  + "frontend"
-coverImage: "Kopie-von-Hack-with-4.png"
+categories: + "frontend"
+coverImage: 'Kopie-von-Hack-with-4.png'
 ---
 
 ## Don'ts in UI Design
@@ -16,7 +15,7 @@ coverImage: "Kopie-von-Hack-with-4.png"
 
 You write for your UI with an intention of making it useful to people, right? Therefore, you should ensure that it is simple, clear, and concise to enhance usability. Below are **16 things to avoid when writing.**
 
-01. **Technical Terms and Specific Words**
+1.  **Technical Terms and Specific Words**
 
 Use of words that are meant for specific professions should be avoided. Words that are specifically meant to describe certain things should also be left out since the reader will not be able to understand them easily. Therefore, use simple terms that all users can understand without any difficulty. By doing so, you will be catering for all readers, whether beginners or advanced users.
 
@@ -28,23 +27,20 @@ It's hard to tell the targeted audience in the above statements, right? Is it sy
 
 However, if your audience is familiar with the terms you intend to use, it is okay. If not, avoid them.
 
-02. **Use of Future Tense to Describe The Action** Avoid using any other tense to explain product behavior. Use simple verb form whenever you want to write in the past or future. **Avoid** : " _Information has been received"_ **Use** : " _Information received"_  
-      
-      
-    
+2.  **Use of Future Tense to Describe The Action** Avoid using any other tense to explain product behavior. Use simple verb form whenever you want to write in the past or future. **Avoid** : " _Information has been received"_ **Use** : " _Information received"_
 
-03. **Avoid Long Detailed Information**
+3.  **Avoid Long Detailed Information**
 
 There is no need to explain every detail in the initial stages of interaction. It is more important to disclose information on features.
 
 Empirical tips:
 
-* Put down segments that can be scanned to enhance easy finding. Keep statements under 30 words.
-* In each message, always ask yourself if the user really needs to know it.
+- Put down segments that can be scanned to enhance easy finding. Keep statements under 30 words.
+- In each message, always ask yourself if the user really needs to know it.
 
 ![](images/1.png)
 
-04. **Usage of Pronoun "We"**
+4.  **Usage of Pronoun "We"**
 
 Rather than focusing on the user and what they are doing with their app.
 
@@ -58,7 +54,7 @@ This rule can be exempted when a person does an action for a user. A good exampl
 
 **Use** : " _We want to review your application and give the feedback within a few hours."_
 
-05. **Combining Pronouns**
+5.  **Combining Pronouns**
 
 "Me" / "My" and "You" / "Your" are usually confused because they are in a similar scenario.
 
@@ -66,7 +62,7 @@ This rule can be exempted when a person does an action for a user. A good exampl
 
 **Use** : " _Edit choices in My Portal."_
 
-06. **Replacing Numbers with Words**
+6.  **Replacing Numbers with Words**
 
 Avoid replacing numbers with words.
 
@@ -74,7 +70,7 @@ Avoid replacing numbers with words.
 
 **Use:** _"I have_ **_7_** _templates"_
 
-07. **Avoid Capitalizing All Letters**
+7.  **Avoid Capitalizing All Letters**
 
 As Miles Tinker puts it in his work: Legacy of Print, written in all-capital letters. However, when a normal sentence case is used, readers read fast saving time. Capital letters should only be used in logos and acronyms. It is advisable to use sentence-style capital letters for titles, headings, labels, and menus.
 
@@ -90,7 +86,7 @@ Avoid using exclamations as they appear as shouting. Instead, use polite words.
 
 **Use:** _“Welcome”_
 
-09. **Avoid Totality and Over-promising**
+9.  **Avoid Totality and Over-promising**
 
 **Avoid:** _“We’ll_ **_never_** _give you irrelevant information”_
 
@@ -174,64 +170,61 @@ Avoid culturally specific language as it may be hard to understand, therefore, i
 
 When writing text in your app, it should complement your visual UI. Therefore, ensure simplicity, conciseness, directness, and efficiency. Everyone, regardless of culture, geographical location and language should be able to understand the writing without any struggle.
 
-  
-  
-
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam-2/)
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam-2/)
 
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png "Kopie von Hack with (1)")](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[Frontend](https://thinkport.digital/category/frontend/)
+[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png 'Kopie von Hack with (1)')](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
-
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Kopie von Hack with (3)](images/Kopie-von-Hack-with-3.png "Kopie von Hack with (3)")](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/ "Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
+
+[Frontend](https://thinkport.digital/category/frontend/)
+
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
+
+[Frontend](https://thinkport.digital/category/frontend/)
+
+[![Kopie von Hack with (3)](images/Kopie-von-Hack-with-3.png 'Kopie von Hack with (3)')](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/)
+
+### [Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/ 'Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/ "Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning")
+### [Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning](https://thinkport.digital/cheat-sheets-for-ai-machine-learning-neural-networks-big-data-deep-learning/ 'Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -247,4 +240,4 @@ When writing text in your app, it should complement your visual UI. Therefore, e
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

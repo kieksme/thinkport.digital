@@ -1,12 +1,11 @@
 ---
-title: "Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning"
+title: 'Cheat Sheets for AI, Machine Learning, Neural Networks, Big Data & Deep Learning'
 publishDate: 2018-12-03T10:00:00Z
-categories: 
-  + "disrupt"
-coverImage: "Kopie-von-Hack-with-3.png"
+categories: + "disrupt"
+coverImage: 'Kopie-von-Hack-with-3.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## Tech Cheat Sheets
 
@@ -42,9 +41,8 @@ Scikit-learn (previously know as scikits.learn) is a [free software machine lear
 
 **MACHINE LEARNING: ALGORITHM CHEAT SHEET**
 
-The below machine learning cheat is from Microsoft Azure. It will help you choose the appropriate machine learning algorithms for your predictive analytics solution. To start with, the cheat sheet will ask you about the nature of the data and then suggest the best algorithm for the job.  
+The below machine learning cheat is from Microsoft Azure. It will help you choose the appropriate machine learning algorithms for your predictive analytics solution. To start with, the cheat sheet will ask you about the nature of the data and then suggest the best algorithm for the job.
 
-  
 ![](images/4.png)
 
 **Neural Network**
@@ -163,61 +161,61 @@ _PySpark Cheat Sheet_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Hack with (1)](images/Hack-with-1.png "Hack with (1)")](https://thinkport.digital/aws-s3-2/)
+[![Hack with (1)](images/Hack-with-1.png 'Hack with (1)')](https://thinkport.digital/aws-s3-2/)
 
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png "Partnership Announcement_Thinkport (2)")](https://thinkport.digital/thinkport-solace-partnership/)
-
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png 'Partnership Announcement_Thinkport (2)')](https://thinkport.digital/thinkport-solace-partnership/)
+
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam-2/)
-
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam-2/)
+
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![OpenMaps](images/OpenMaps-1024x696.png "picture blog post testdata open maps")](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
-
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+[![OpenMaps](images/OpenMaps-1024x696.png 'picture blog post testdata open maps')](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -233,4 +231,4 @@ _PySpark Cheat Sheet_
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

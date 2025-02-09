@@ -1,12 +1,11 @@
 ---
-title: "Clutch Leader 2022"
+title: 'Clutch Leader 2022'
 publishDate: 2022-03-14T10:00:00Z
-categories: 
-  + "news"
-coverImage: "clutch.png"
+categories: + "news"
+coverImage: 'clutch.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Clutch Leader 2022 - Top IT Services
 
@@ -28,63 +27,63 @@ Share on facebook Share on linkedin Share on twitter Share on xing
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
+
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Reasons Why (2)](images/Reasons-Why-2.png "Reasons Why (2)")](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+[![Reasons Why (2)](images/Reasons-Why-2.png 'Reasons Why (2)')](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png "Partnership Announcement_Thinkport (2)")](https://thinkport.digital/thinkport-solace-partnership/)
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+[Big Data](https://thinkport.digital/category/big-data/)
 
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png 'Partnership Announcement_Thinkport (2)')](https://thinkport.digital/thinkport-solace-partnership/)
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png "Kopie von Hack with (2)")](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png 'Kopie von Hack with (2)')](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
@@ -100,4 +99,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

@@ -1,4 +1,3 @@
-import { get } from './pages/members/[hash].astro';
 import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 
 export const headerData = {

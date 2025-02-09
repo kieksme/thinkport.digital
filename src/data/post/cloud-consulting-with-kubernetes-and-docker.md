@@ -1,12 +1,11 @@
 ---
-title: "Cloud Consulting with Kubernetes and Docker"
+title: 'Cloud Consulting with Kubernetes and Docker'
 publishDate: 2023-03-14T10:00:00Z
-categories: 
-  + "cloud-general"
-coverImage: "Streaming-Services-6.webp"
+categories: + "cloud-general"
+coverImage: 'Streaming-Services-6.webp'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Cloud Consulting for architectures with Kubernetes and Docker
 
@@ -32,15 +31,15 @@ Another alternative is to use Infrastructure-as-Code tools such as Terraform to 
 
 Terraform and Kubernetes with Docker are two different technologies with different purposes that can complement each other in many aspects. Terraform is a tool that allows users to define and deploy infrastructure in different cloud platforms such as AWS, GCP and Azure. It offers many advantages such as.
 
-* **Declarative syntax**: Terraform allows users to describe the desired infrastructure in a simple declarative syntax that is easy to understand and maintain.
-* **Automation**: Terraform automates infrastructure deployment and can also integrate continuous integration and deployment (CI/CD) with other tools such as GitLab or Jenkins.
-* **Platform independence**: Terraform is platform independent and supports many cloud platforms, allowing users to deploy consistent infrastructure across different cloud platforms.
+- **Declarative syntax**: Terraform allows users to describe the desired infrastructure in a simple declarative syntax that is easy to understand and maintain.
+- **Automation**: Terraform automates infrastructure deployment and can also integrate continuous integration and deployment (CI/CD) with other tools such as GitLab or Jenkins.
+- **Platform independence**: Terraform is platform independent and supports many cloud platforms, allowing users to deploy consistent infrastructure across different cloud platforms.
 
 Kubernetes with Docker, on the other hand, is a technology designed for orchestrating containers in production environments. It offers many advantages, such as:
 
-* **Scalability**: Kubernetes with Docker allows users to scale applications quickly and easily for high availability and better load balancing.
-* **Reliability**: Kubernetes with Docker provides automated failure recovery and high availability by distributing containers across different nodes in a cluster.
-* **Portability**: Docker containers are portable and can run on different platforms and infrastructures, allowing for greater flexibility and interoperability.
+- **Scalability**: Kubernetes with Docker allows users to scale applications quickly and easily for high availability and better load balancing.
+- **Reliability**: Kubernetes with Docker provides automated failure recovery and high availability by distributing containers across different nodes in a cluster.
+- **Portability**: Docker containers are portable and can run on different platforms and infrastructures, allowing for greater flexibility and interoperability.
 
 [![Werbebanner Kubernetes plus Docker und Terraform.](images/Copy-of-GDN-Kampange-Quadratisch2-1-1024x1024.webp)](https://thinkport.digital/cloud-trainings-workshops/)
 
@@ -58,62 +57,62 @@ Thinkport will be happy to answer any further questions you may have. You can fi
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png "Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.")](https://thinkport.digital/was-ist-cloud-consulting/)
+[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png 'Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.')](https://thinkport.digital/was-ist-cloud-consulting/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
+
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Optimizing Kafka](images/Optimizing-Kafka.png "Vor dem rotem Hintergrundbild eines Zahnrads steht der Schriftzug "Optimizing Kafka".")](https://thinkport.digital/optimizing-kafka/)
 
-### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ "Optimizing Kafka")
+### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ 'Optimizing Kafka')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ "Optimizing Kafka")
+### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ 'Optimizing Kafka')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

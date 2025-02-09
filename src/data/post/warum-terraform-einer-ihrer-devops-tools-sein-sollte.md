@@ -1,13 +1,12 @@
 ---
-title: "Warum Terraform eines Ihrer DevOps Tools sein sollte"
+title: 'Warum Terraform eines Ihrer DevOps Tools sein sollte'
 publishDate: 2021-01-08T10:00:00Z
-categories: 
-  + "aws-cloud"
+categories: + "aws-cloud"
   + "iac"
-coverImage: "Terrafrom-eines-der-besten-DvOps-Tools-1.png"
+coverImage: 'Terrafrom-eines-der-besten-DvOps-Tools-1.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 DevOps Tools - Terraform
 
@@ -33,8 +32,6 @@ Das Ziel von DevOps ist es, die Zusammenarbeit über den gesamten Wertstrom hin
 
 Und genau hier helfen Tools wie Terraform Unternehmen mit Infrastructure-as-Code und Automatisierung. Während  Technologien wie Ansible, Chef oder Puppet Software automatisieren und bereitstellen, konzentriert sich Terraform auf die Automatisierung der Infrastruktur selbst. Die gesamte Cloud-Infrastruktur, einschließlich Instanzen, Volumes, Netzwerke und IPs, kann in Terraform einfach definiert werden.
 
-  
-
 **Im Folgenden nennen wir 6 Gründe, warum jeder Terraform als eines seiner DevOps-Tools verwenden sollte:**
 
 **1\.** Terraform ermöglicht es, die Infrastruktur im In-Code zu definieren , sowie Änderungen an der Infrastruktur einfach wiederherzustellen und zu verfolgen. Außerdem liefert es eine High-Level-Beschreibung der Infrastruktur.
@@ -57,69 +54,67 @@ CloudFormation.
 
 Die Thinkport GmbH, welche auch offizieller Partner von HashiCorp ist, gründete und sponserte die erste Terraform User Group in Frankfurt. Mittlerweile ist die Community zu einer größeren angewachsen und trifft sich regelmäßig, um die neuesten Themen rund um Terraform zu diskutieren.
 
-Mehr über die Community erfahren: [HashiCorp User Group](https://www.meetup.com/de-DE/Frankfurt-HashiCorp-User-Group/)   
+Mehr über die Community erfahren: [HashiCorp User Group](https://www.meetup.com/de-DE/Frankfurt-HashiCorp-User-Group/) 
 
-  
+Schauen Sie sich unseren **[Terraform Workshop](https://thinkport.digital/terraform-fur-azure-lernen/)** an, wenn Sie individuell von unseren besten Experten Terraform kennenlernen möchten.
 
-Schauen Sie sich unseren **[Terraform Workshop](https://thinkport.digital/terraform-fur-azure-lernen/)** an, wenn Sie individuell von unseren besten Experten Terraform kennenlernen möchten.  
-  
-Mehr über unsere Projekte erfahren: [**Our Success Stories**](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)   
+Mehr über unsere Projekte erfahren: [**Our Success Stories**](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/) 
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Hack with (5)](images/Hack-with-5.png "Hack with (5)")](https://thinkport.digital/aws-elastic-beanstalk-2/)
+[![Hack with (5)](images/Hack-with-5.png 'Hack with (5)')](https://thinkport.digital/aws-elastic-beanstalk-2/)
 
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (2)](images/Reasons-Why-2.png "Reasons Why (2)")](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Reasons Why (2)](images/Reasons-Why-2.png 'Reasons Why (2)')](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
+
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
@@ -135,4 +130,4 @@ Mehr über unsere Projekte erfahren: [**Our Success Stories**](https://thinkport
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

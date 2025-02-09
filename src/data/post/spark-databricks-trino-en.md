@@ -1,12 +1,11 @@
 ---
-title: "Spark, Databricks, Trino- EN"
+title: 'Spark, Databricks, Trino- EN'
 publishDate: 2023-04-20T10:00:00Z
-categories: 
-  + "uncategorized-en"
-coverImage: "Streaming-Services-11.webp"
+categories: + "uncategorized-en"
+coverImage: 'Streaming-Services-11.webp'
 ---
 
-# Spark, Databricks, Trino –  
+# Spark, Databricks, Trino –
 
 what to use for Big Data and when
 
@@ -48,13 +47,13 @@ One of the **strengths** of **Trino** is its **ability** to query large amounts 
 
 When evaluating **Spark**, **Databricks**, and **Trino** for **big data processing**, there are several **critical aspects** to consider in order to find the **most suitable solution** for your specific use case. These aspects include:
 
-* **Scalability:** Consider the size of your data and the expected growth in data volume. Spark and Trino are both designed to scale horizontally to handle large volumes of data, while Databricks provides a cloud-based environment that can be easily scaled up or down based on demand.
-* **Ease of use:** Consider the skill level of your team and the ease of adoption. Databricks provides a user-friendly interface and requires minimal configuration, while Spark and Trino require more technical expertise and setup.
-* **Performance:** Consider the speed and efficiency of data processing. Trino is known for its fast and efficient distributed SQL query engine, while Spark has a rich set of APIs and libraries that can improve performance for specific data processing tasks.
+- **Scalability:** Consider the size of your data and the expected growth in data volume. Spark and Trino are both designed to scale horizontally to handle large volumes of data, while Databricks provides a cloud-based environment that can be easily scaled up or down based on demand.
+- **Ease of use:** Consider the skill level of your team and the ease of adoption. Databricks provides a user-friendly interface and requires minimal configuration, while Spark and Trino require more technical expertise and setup.
+- **Performance:** Consider the speed and efficiency of data processing. Trino is known for its fast and efficient distributed SQL query engine, while Spark has a rich set of APIs and libraries that can improve performance for specific data processing tasks.
 
-* **Data Sources:** Consider the data sources and formats used in your organization. Trino is designed to work with a wide variety of data sources, including Hadoop, S3, and MySQL, while Spark has a specific set of APIs and libraries for certain data sources.
-* **Advanced Features:** Consider the advanced features required for your data processing tasks. Databricks provides a rich set of features for data science and machine learning, while Spark and Trino provide advanced features such as support for window functions and joins.
-* **Cost:** Consider the cost of each solution. Databricks is a cloud-based platform that requires a subscription, while Spark and Trino are open-source and can be run on-premise or in the cloud.
+- **Data Sources:** Consider the data sources and formats used in your organization. Trino is designed to work with a wide variety of data sources, including Hadoop, S3, and MySQL, while Spark has a specific set of APIs and libraries for certain data sources.
+- **Advanced Features:** Consider the advanced features required for your data processing tasks. Databricks provides a rich set of features for data science and machine learning, while Spark and Trino provide advanced features such as support for window functions and joins.
+- **Cost:** Consider the cost of each solution. Databricks is a cloud-based platform that requires a subscription, while Spark and Trino are open-source and can be run on-premise or in the cloud.
 
 By evaluating these critical aspects, you can determine which tool is best suited for your organization's specific needs and requirements. It is important to keep in mind that there is no one-size-fits-all solution, and it may be necessary to use a combination of tools to achieve your desired outcomes.
 
@@ -72,62 +71,62 @@ Entdecken Sie weiterhin die Welt von Big Data mit unserem Artikel **[Entscheidun
 
 ## Weitere Artikel
 
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp "modern technology applied to medicine, to transfer data and pictures --v 5.2")](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
-### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ "Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+
+### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ "Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder")
+### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png "Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.")](https://thinkport.digital/was-ist-cloud-consulting/)
+[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png 'Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.')](https://thinkport.digital/was-ist-cloud-consulting/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
+
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)

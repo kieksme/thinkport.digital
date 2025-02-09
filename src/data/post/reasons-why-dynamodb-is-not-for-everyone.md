@@ -1,12 +1,11 @@
 ---
-title: "Reasons Why DynamoDB is Not for Everyone"
+title: 'Reasons Why DynamoDB is Not for Everyone'
 publishDate: 2018-12-15T10:00:00Z
-categories: 
-  + "big-data"
-coverImage: "reasons.png"
+categories: + "big-data"
+coverImage: 'reasons.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## DynamoDB
 
@@ -68,15 +67,15 @@ First, Let us look at the advantages and disadvantages of using DynamoDB
 
 **Pros**
 
-* Handles huge amounts of workloads.
-* Enables you to redesign many applications.
-* Enables you to store state in a K/V table.
-* Enables use of event-driven architecture to suit your desires.
+- Handles huge amounts of workloads.
+- Enables you to redesign many applications.
+- Enables you to store state in a K/V table.
+- Enables use of event-driven architecture to suit your desires.
 
 **Cons**
 
-* Only suitable for small scale.
-* You can’t redesign all the applications.
+- Only suitable for small scale.
+- You can’t redesign all the applications.
 
 Just because you can use DynamoDB does not mean you should use it. Using Dynamo without fully understanding will make you end up spinning your wheels through several code rewrites before you land on a solution that works .
 
@@ -94,59 +93,59 @@ Amazon will at some point announce the release of WhynamoDB. The decision tree b
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Hack with (1)](images/Hack-with-1.png "Hack with (1)")](https://thinkport.digital/aws-s3-2/)
+[![Hack with (1)](images/Hack-with-1.png 'Hack with (1)')](https://thinkport.digital/aws-s3-2/)
 
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Hack with (5)](images/Hack-with-5.png "Hack with (5)")](https://thinkport.digital/aws-elastic-beanstalk-2/)
+[![Hack with (5)](images/Hack-with-5.png 'Hack with (5)')](https://thinkport.digital/aws-elastic-beanstalk-2/)
 
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Airflow on AWS](images/Kafka-1-1024x696.png "picture blog post Airflow")](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
-
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+[![Airflow on AWS](images/Kafka-1-1024x696.png 'picture blog post Airflow')](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
+
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -162,4 +161,4 @@ Amazon will at some point announce the release of WhynamoDB. The decision tree b
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

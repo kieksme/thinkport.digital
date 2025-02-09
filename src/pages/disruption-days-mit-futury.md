@@ -1,6 +1,6 @@
 ---
-title: "Disruption Days mit Futury"
-date: "2021-07-08"
+title: 'Disruption Days mit Futury'
+date: '2021-07-08'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Disruption Days ist für Ihr Unternehmen ein
 
 ## Auf einen Blick
 
-* 3 Tage
-* Individuell
-* Workshop
-* Vor Ort
+- 3 Tage
+- Individuell
+- Workshop
+- Vor Ort
 
 Neuartige Ideen haben oft ein Umsetzungsproblem. Es gibt zahlreiche Bedenken, ungeklärte Ziele und noch kein Konzept. Hier setzt Ihr individueller Innovation Workshop an, der in einer moderierten Struktur die mutige Vision zur konkreten Lösung führt – bis hin zum greifbaren Prototyp. Ihr Experte: Thinkport. Ihr Moderator: Futury. Für wen ist das ideal? Für IT Entscheider in mittelständischen bis großen DAX-Unternehmen. Jetzt Termin sichern.
 
@@ -29,18 +29,18 @@ Neuartige Ideen haben oft ein Umsetzungsproblem. Es gibt zahlreiche Bedenken, un
 
 Teilnehmer haben nach Abschluss...
 
-* Klarheit über Kundengruppen und Probleme
-* Priorisierung sowie Validierung von Anforderungen und Lösungen
-* Erstellung eines ersten Prototypens
-* Erstellung einer konkreten Roadmap für die Umsetzung
+- Klarheit über Kundengruppen und Probleme
+- Priorisierung sowie Validierung von Anforderungen und Lösungen
+- Erstellung eines ersten Prototypens
+- Erstellung einer konkreten Roadmap für die Umsetzung
 
 ## Teilnehmer
 
 Der Kurs ist geeignet für Personen mit...
 
-* Kundenfokus und Verständnis der Use Cases
-* Strategen und Visionäre
-* Überblick über bestehende technische Systeme
+- Kundenfokus und Verständnis der Use Cases
+- Strategen und Visionäre
+- Überblick über bestehende technische Systeme
 
 ![Logo Futury](images/5e4c32c6aa26cb915dd7bc42_Ohne-Titel-768x188.png)
 
@@ -54,31 +54,31 @@ Futury ist eine Innovations- und Venture-Plattform, die unternehmerische Talente
 
 ### Ideation Tag I
 
-* Introduction Round
-* Customer Definition and Journey
-* Lunch Break
-* Definition of customer pain points
-* Brainstorming and Ideation
-* Wrap up
+- Introduction Round
+- Customer Definition and Journey
+- Lunch Break
+- Definition of customer pain points
+- Brainstorming and Ideation
+- Wrap up
 
 ### Validation Tag II
 
-* Warm Up
-* Ideation Makeover
-* Prioritization Matrix
-* Lunch Break
-* Market Analysis
-* Technical Feasibility and Validation
-* Summarize - Longlist and Shortlist
+- Warm Up
+- Ideation Makeover
+- Prioritization Matrix
+- Lunch Break
+- Market Analysis
+- Technical Feasibility and Validation
+- Summarize - Longlist and Shortlist
 
 ### Prototyping Tag III
 
-* Setting the Scope
-* Prototyping
-* Lunch Break
-* Prototyping
-* Presentation
-* Sum up and Roadmap
+- Setting the Scope
+- Prototyping
+- Lunch Break
+- Prototyping
+- Presentation
+- Sum up and Roadmap
 
 ## Design Thinking
 
@@ -96,6 +96,6 @@ Erfahren Sie mehr zu diesem Workshop in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## Weitere Workshops

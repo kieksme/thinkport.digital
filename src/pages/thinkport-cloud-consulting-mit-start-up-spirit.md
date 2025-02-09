@@ -1,10 +1,10 @@
 ---
-title: "Thinkport - Cloud Consulting mit Start-up Spirit"
-date: "2022-07-12"
+title: 'Thinkport - Cloud Consulting mit Start-up Spirit'
+date: '2022-07-12'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours") ](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours') ](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Cloud Consulting
 
@@ -12,7 +12,7 @@ mit Startup Spirit
 
 Wir bringen Deutschland in die Cloud.
 
-[Kontaktieren](https://thinkport.digital/kontaktieren) 
+[Kontaktieren](https://thinkport.digital/kontaktieren)
 
 ![](images/Logos.png) ![](images/TobiasDominik-1.png) [![](images/Group-5-3.png)](#innovationsection)
 
@@ -28,7 +28,7 @@ Wir bringen Deutschland in die Cloud.
 
 ### [Innovative Lösungen, die passgenau an Ihre Vorstellungen andocken. Wir optimieren Ihre IT für die Migration und richten on-premise Anwendungen in der Cloud ein.](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)
 
-![computing-cloud](images/computing-cloud-prnstybfgddeg2fi3oi9wi2j4z8l7biao3x9fmoru0.png "computing-cloud")
+![computing-cloud](images/computing-cloud-prnstybfgddeg2fi3oi9wi2j4z8l7biao3x9fmoru0.png 'computing-cloud')
 
 ### [2.](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)
 
@@ -36,7 +36,7 @@ Wir bringen Deutschland in die Cloud.
 
 ### [Technische Umsetzung brandneuer Ideen. Von Front- bis Backend. Wir implementieren Ihren Use Case skalierbar in die Cloud Umgebung, die am besten zu Ihnen passt.](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)
 
-![computing-cloud (2)](images/computing-cloud-2-prny1dcy55xld271poyc27h74rh9ypjl3qok7ssv6w.png "computing-cloud (2)")
+![computing-cloud (2)](images/computing-cloud-2-prny1dcy55xld271poyc27h74rh9ypjl3qok7ssv6w.png 'computing-cloud (2)')
 
 ### [3.](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)
 
@@ -44,7 +44,7 @@ Wir bringen Deutschland in die Cloud.
 
 ### [Wir bringen nicht nur Systeme, sondern auch Ihr Team in die Cloud. Durch professionelle Workshops bauen wir in Ihrem Unternehmen gezielt Fachwissen auf.](https://thinkport.digital/cloud-consulting-fur-deutsche-grosunternehmen/)
 
-![computing-cloud (1)](images/computing-cloud-1-prny1cf3ybwb1g8ev6jphppqjdlwr0furm12qiu9d4.png "computing-cloud (1)")
+![computing-cloud (1)](images/computing-cloud-1-prny1cf3ybwb1g8ev6jphppqjdlwr0furm12qiu9d4.png 'computing-cloud (1)')
 
 ## Unsere Strategie für Ihren Erfolg
 
@@ -86,7 +86,7 @@ Wir bringen Deutschland in die Cloud.
 
 ## Thinkport ist ein IT-Beratung mit dem Fokus auf Cloud, gegründet 2017 in Frankfurt am Main. Wir beraten und entwickeln Softwarelösungen für große Unternehmen und DAX Konzerne in Amazon oder Microsoft Cloud. Unser Fokus liegt hauptsächlich auf der Architektur und Umsetzung dieser sowie dem Trainer Ihrer Mitarbeiter.
 
-[Mehr](https://thinkport.digital/disruption-days-mit-futury/) 
+[Mehr](https://thinkport.digital/disruption-days-mit-futury/)
 
 ![](images/Bild.png) ![](images/Bild.png)
 

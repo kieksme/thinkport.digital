@@ -1,6 +1,6 @@
 ---
-title: "AWS CDK Essentials"
-publishDate: "2021-06-04T10:00:00Z"
+title: 'AWS CDK Essentials'
+publishDate: '2021-06-04T10:00:00Z'
 ---
 
 Werden Sie Experte mit dem
@@ -9,10 +9,10 @@ Werden Sie Experte mit dem
 
 ### Auf einen Blick
 
-* 1 Tag
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 1 Tag
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie im AWS CDK Training, die Cloud-Infrastruktur mit vorhandenen Kenntnissen und vertrauter Programmiersprache aufzubauen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -24,33 +24,33 @@ Infrastructure as Code ist ein Muss für moderne Anwendungen, die Cloud-Services
 
 ## Termine
 
-18.06.24 AWS CDK Essentials Training  
+18.06.24 AWS CDK Essentials Training
 
-15.07.24 AWS CDK Essentials Training  
+15.07.24 AWS CDK Essentials Training
 
-21.08.24 AWS CDK Essentials Training  
+21.08.24 AWS CDK Essentials Training
 
 \* individuelle Termine möglich
 
 ## Preis
 
-700 € zzgl. MwSt.  
+700 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Neue CDK-Anwendungen erstellen
-* IaC mit Programmiersprachen schreiben
-* Mit dem Cloud Development-Kit entwickeln
+- Neue CDK-Anwendungen erstellen
+- IaC mit Programmiersprachen schreiben
+- Mit dem Cloud Development-Kit entwickeln
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-* Personen mit DevOps Erfahrung
-* Personen, mit Erfahrung als AWS- und Cloudformation-Entwickler und AWS-Architekten
-* Unternehmen, die Anwendungen mit AWS erstellen
+- Personen mit DevOps Erfahrung
+- Personen, mit Erfahrung als AWS- und Cloudformation-Entwickler und AWS-Architekten
+- Unternehmen, die Anwendungen mit AWS erstellen
 
 ## Aufbau
 
@@ -58,33 +58,33 @@ Der Kurs ist geeignet für...
 
 ### Übersicht über IaC Modul I
 
-* Was ist IaC?
-* Vorstellung und Vergleich Cloudformation, Terraform und CDK
-* Konzeptionelle Unterschiede zwischen den Frameworks
+- Was ist IaC?
+- Vorstellung und Vergleich Cloudformation, Terraform und CDK
+- Konzeptionelle Unterschiede zwischen den Frameworks
 
 ### Cloudformation Essentials Modul II
 
-* Stacks: Stacks Lifecycle & Stack Sets
-* Import/Export
-* Nutzung der vorhandenen Ressourcen
+- Stacks: Stacks Lifecycle & Stack Sets
+- Import/Export
+- Nutzung der vorhandenen Ressourcen
 
 ### Cloud Development Kit Modul III
 
-* Architektur des CDK
-* Abstraktion mir Konstrukten
-* Wie starte ich mit dem CDK?
+- Architektur des CDK
+- Abstraktion mir Konstrukten
+- Wie starte ich mit dem CDK?
 
 ### Entwicklungsablauf Modul IV
 
-* Initialisierung
-* Projektstart
-* Teststufen
+- Initialisierung
+- Projektstart
+- Teststufen
 
 ### VPC und IAM mit dem CDK Modul V
 
-* Netzinfrastruktur mit dem CDK erstellen
-* Rechteverwaltung
-* EC2 Instanzen
+- Netzinfrastruktur mit dem CDK erstellen
+- Rechteverwaltung
+- EC2 Instanzen
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -104,7 +104,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -122,7 +122,7 @@ Welche Vorteile bringt AWS CDK?
 
 AWS CDK (Cloud Development Kit) bietet eine Reihe von Vorteilen für Entwickler, die AWS-Infrastruktur bereitstellen und verwalten müssen. Einige der wichtigsten Vorteile sind:
 
-* - Schnelle Bereitstellung
+- - Schnelle Bereitstellung
     - Einfache Verwaltung
     - Wiederverwendbarkeit
     - Unterstützung für eine Reihe von Programmiersprachen und Frameworks

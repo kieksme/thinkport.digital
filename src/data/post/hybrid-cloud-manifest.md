@@ -1,13 +1,12 @@
 ---
-title: "Hybrid-Cloud-Manifest"
+title: 'Hybrid-Cloud-Manifest'
 publishDate: 2022-08-10T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "hybrid-cloud"
-coverImage: "laptop_server_maintenance_1080x720-min.png"
+coverImage: 'laptop_server_maintenance_1080x720-min.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Das Hybrid-Cloud Manifest 2022
 
@@ -45,13 +44,13 @@ Hybrid bedeutet die Kombination beziehungsweise die Verbindung zumindest einer P
 
 Viele Unternehmen entscheiden sich - aus einem oder mehreren der folgenden 7 – guten Gründe für die hybride IT-Cloud:
 
-* Regulierung und Compliance
-* Kein Vendor Lock-In
-* Kosten
-* Erweiterte Aufgaben zur bestehenden IT
-* Skalierung, Flexibilität und Erreichbarkeit
-* Schutz vor Cyber-Bedrohungen
-* Automatisierung durch KI
+- Regulierung und Compliance
+- Kein Vendor Lock-In
+- Kosten
+- Erweiterte Aufgaben zur bestehenden IT
+- Skalierung, Flexibilität und Erreichbarkeit
+- Schutz vor Cyber-Bedrohungen
+- Automatisierung durch KI
 
 ## Die Cloud aus regulatorischer und Compliance Sicht
 
@@ -147,63 +146,63 @@ Im Hinblick auf Cybersicherheit bieten die Cloud Provider sogar das bessere Konz
 
 ## Weitere Informationen
 
-Nutzen Sie zum Thema Hybrid Cloud den eintägigen Workshop **[Hybrid Cloud Strategie](https://thinkport.digital/hybridcloud-strategie )** von Thinkport. Und besuchen Sie uns am 6. Oktober 2022 auf der Hybrid Cloud Summit in Frankfurt am Main. Nähere Informationen dazu erhalten Sie unter dem folgenden **[Link](https://hybridcloud.digital/)**.
+Nutzen Sie zum Thema Hybrid Cloud den eintägigen Workshop **[Hybrid Cloud Strategie](https://thinkport.digital/hybridcloud-strategie)** von Thinkport. Und besuchen Sie uns am 6. Oktober 2022 auf der Hybrid Cloud Summit in Frankfurt am Main. Nähere Informationen dazu erhalten Sie unter dem folgenden **[Link](https://hybridcloud.digital/)**.
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png "Kopie von Hack with (1)")](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+[Big Data](https://thinkport.digital/category/big-data/)
+
+[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png 'Kopie von Hack with (1)')](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam/)
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam/)
 
-### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ "AWS Identity and Access Management")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ "AWS Identity and Access Management")
+### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ 'AWS Identity and Access Management')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png "Eine Frau arbeitet am Server")](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ 'AWS Identity and Access Management')
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png 'Eine Frau arbeitet am Server')](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -219,4 +218,4 @@ Nutzen Sie zum Thema Hybrid Cloud den eintägigen Workshop **[Hybrid Cloud Strat
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

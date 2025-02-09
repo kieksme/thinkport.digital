@@ -1,12 +1,11 @@
 ---
-title: "Managed Security für AWS-Umgebungen"
+title: 'Managed Security für AWS-Umgebungen'
 publishDate: 2020-03-27T10:00:00Z
-categories: 
-  + "aws-cloud"
-coverImage: "Managed-Security-AWS-1.png"
+categories: + "aws-cloud"
+coverImage: 'Managed-Security-AWS-1.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## Sicherheit in AWS
 
@@ -50,61 +49,61 @@ Unternehmen sollten Cyber-Bedrohungen nicht missachten. Potenzielle Cyber-Angrif
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kafka](images/Kafka-1024x696.png "blog post kafka 2.7")](https://thinkport.digital/kafka-2-7-update/)
+[![Kafka](images/Kafka-1024x696.png 'blog post kafka 2.7')](https://thinkport.digital/kafka-2-7-update/)
 
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (3)](images/Reasons-Why-3.png "Reasons Why (3)")](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Reasons Why (3)](images/Reasons-Why-3.png 'Reasons Why (3)')](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam-2/)
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam-2/)
 
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -120,4 +119,4 @@ Unternehmen sollten Cyber-Bedrohungen nicht missachten. Potenzielle Cyber-Angrif
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

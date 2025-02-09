@@ -1,11 +1,10 @@
 ---
-title: "Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder"
+title: 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder'
 publishDate: 2023-11-10T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "disrupt"
   + "streaming"
-coverImage: "website-pictures.webp"
+coverImage: 'website-pictures.webp'
 ---
 
 # Orthanc, DICOM und PACS-Server: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder
@@ -70,20 +69,15 @@ Orthanc, eine innovative Lösung im Bereich der medizinischen Bildgebung, zielt 
 
 ### Orthanc in Kürze
 
-* **Vielseitigkeit und Einfachheit**: Orthanc kann jeden Computer, der Windows, Linux oder OS X ausführt, in einen DICOM-Speicher verwandeln, d.h., in ein mini-PACS-System. Dies macht es zu einer flexiblen Lösung, die leicht in verschiedenen Umgebungen implementiert werden kann.
-    
+- **Vielseitigkeit und Einfachheit**: Orthanc kann jeden Computer, der Windows, Linux oder OS X ausführt, in einen DICOM-Speicher verwandeln, d.h., in ein mini-PACS-System. Dies macht es zu einer flexiblen Lösung, die leicht in verschiedenen Umgebungen implementiert werden kann.
 
-* **Leichtgewichtige Architektur**: Die Architektur von Orthanc ist leichtgewichtig und eigenständig. Es erfordert keine komplizierte Datenbankadministration und keine Installation von Abhängigkeiten Dritter. Dies erleichtert die Einrichtung und Wartung des Systems.
-    
+- **Leichtgewichtige Architektur**: Die Architektur von Orthanc ist leichtgewichtig und eigenständig. Es erfordert keine komplizierte Datenbankadministration und keine Installation von Abhängigkeiten Dritter. Dies erleichtert die Einrichtung und Wartung des Systems.
 
-* **RESTful API**: Eines der herausragenden Merkmale von Orthanc ist seine RESTful API, die es ermöglicht, Orthanc aus jeder Programmiersprache heraus zu steuern. Dies eröffnet immense Möglichkeiten für Anpassungen und die Integration in verschiedene Workflows und Systeme.
-    
+- **RESTful API**: Eines der herausragenden Merkmale von Orthanc ist seine RESTful API, die es ermöglicht, Orthanc aus jeder Programmiersprache heraus zu steuern. Dies eröffnet immense Möglichkeiten für Anpassungen und die Integration in verschiedene Workflows und Systeme.
 
-* **Zugänglichkeit der Daten**: Mit Orthanc können die DICOM-Tags der gespeicherten medizinischen Bilder im JSON-Dateiformat heruntergeladen werden, und es können standardmäßig PNG-Bilder aus den DICOM-Instanzen on-the-fly generiert werden. Dies verbessert die Zugänglichkeit und Nutzbarkeit der medizinischen Bilder.
-    
+- **Zugänglichkeit der Daten**: Mit Orthanc können die DICOM-Tags der gespeicherten medizinischen Bilder im JSON-Dateiformat heruntergeladen werden, und es können standardmäßig PNG-Bilder aus den DICOM-Instanzen on-the-fly generiert werden. Dies verbessert die Zugänglichkeit und Nutzbarkeit der medizinischen Bilder.
 
-* **Plugin-Mechanismus**: Orthanc verfügt über einen Plugin-Mechanismus, der das Hinzufügen neuer Module ermöglicht, die die Kernfunktionen seiner REST-API erweitern. Plugins, wie ein Webviewer, PostgreSQL-Datenbank-Backend, MySQL-Datenbank-Backend und eine Referenzimplementierung von DICOMweb, sind aktuell frei verfügbar und erweitern die Funktionalität und Anpassungsfähigkeit von Orthanc weiter.
-    
+- **Plugin-Mechanismus**: Orthanc verfügt über einen Plugin-Mechanismus, der das Hinzufügen neuer Module ermöglicht, die die Kernfunktionen seiner REST-API erweitern. Plugins, wie ein Webviewer, PostgreSQL-Datenbank-Backend, MySQL-Datenbank-Backend und eine Referenzimplementierung von DICOMweb, sind aktuell frei verfügbar und erweitern die Funktionalität und Anpassungsfähigkeit von Orthanc weiter.
 
 Orthanc's einzigartiger Ansatz und Funktionsumfang machen es zu einer idealen Lösung für das effiziente Management von DICOM-Flüssen in Krankenhäusern sowie zur Unterstützung von Forschungsprojekten im Bereich der automatisierten Analyse medizinischer Bilder. Durch die Verbergung der Komplexität des DICOM-Formats und des DICOM-Protokolls ermöglicht Orthanc den Benutzern, sich auf den Inhalt der DICOM-Dateien zu konzentrieren und so die Effizienz und Produktivität in der medizinischen Bildverarbeitung zu steigern.
 
@@ -93,62 +87,62 @@ Dieser Beitrag hat die zentrale Rolle von DICOM und PACS in der medizinischen Bi
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp "modern technology applied to medicine, to transfer data and pictures --v 5.2")](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
+[![Analyse medizinischer Bilder](images/website-pictures-1024x683.webp 'modern technology applied to medicine, to transfer data and pictures --v 5.2')](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/)
 
-### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ "Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder")
+### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ "Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder")
+### [Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder](https://thinkport.digital/orthanc-und-dicom-fuer-medizinische-bilder/ 'Orthanc und DICOM: Innovative Lösungen für die effiziente Verwaltung und Analyse medizinischer Bilder')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png "Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.")](https://thinkport.digital/hybrid-cloud-manifest/)
+[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png 'Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.')](https://thinkport.digital/hybrid-cloud-manifest/)
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
-
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
-
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
+
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
+
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)

@@ -1,20 +1,19 @@
 ---
-title: "Karriere in der Cloud"
-date: "2019-03-21"
+title: 'Karriere in der Cloud'
+date: '2019-03-21'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## Starte mit uns durch!
 
-Ein Platz für Cloud Experten und die, die es werden wollen  
+Ein Platz für Cloud Experten und die, die es werden wollen
 
-[Alle Jobs hier!](https://thinkport-gmbh.jobs.personio.de/) 
+[Alle Jobs hier!](https://thinkport-gmbh.jobs.personio.de/)
 
 ![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.webp)
 
-## [Thinkport unter den Top 3 der besten Arbeitgeber in Frankfurt am Main.  
+## [Thinkport unter den Top 3 der besten Arbeitgeber in Frankfurt am Main.
 
-  
 Das führende Portal zur Bewertung von Mitarbeiterzufriedenheit kununu hat Thinkport in der Kategorie Mittelstand als zweitbester Arbeitgeber der Finanzmetropole ausgewählt. Mehr dazu findest Du](https://news.kununu.com/beste-arbeitgeber-frankfurt/?utm_source=LinkedIn&utm_campaign=linkedin_blog&utm_medium=social) **[hier](https://thinkport.digital/kununu-2022/)** und bei **[kununu](https://www.kununu.com/de/thinkport1)**.
 
 ![](images/Logo-NF-ohne-Text.png)
@@ -25,10 +24,10 @@ Das führende Portal zur Bewertung von Mitarbeiterzufriedenheit kununu hat Think
 
 Be part of the cloud evolution - Let's develop together!
 
-Wir treiben Deutschlands Digitalisierung voran. Hierfür brauchen wir Deine Begeisterung und Unterstützung. Wir bieten Dir ein Umfeld, dass Kreativität, den Austausch von innovativen Ideen und die Zusammenarbeit zwischen unseren Teams fördert. Du bekommst Entwicklungsmöglichkeiten, die Dich inspirieren werden, mit den modernsten Technologien vielfältige Lösungen für unsere Kunden zu finden und umzusetzen.  
-  
-Wir sind eine IT Beratung mit dem Fokus auf Cloud-Technologien, gegründet 2018 in Frankfurt am Main. Wir beraten und entwickeln Softwarelösungen für große Unternehmen und DAX Konzerne in der Amazon, Microsoft oder Google Cloud. Unser Fokus liegt dabei hauptsächlich auf der Architektur und Umsetzung. Power Point Folien werden also selten erstellt.  
-  
+Wir treiben Deutschlands Digitalisierung voran. Hierfür brauchen wir Deine Begeisterung und Unterstützung. Wir bieten Dir ein Umfeld, dass Kreativität, den Austausch von innovativen Ideen und die Zusammenarbeit zwischen unseren Teams fördert. Du bekommst Entwicklungsmöglichkeiten, die Dich inspirieren werden, mit den modernsten Technologien vielfältige Lösungen für unsere Kunden zu finden und umzusetzen.
+
+Wir sind eine IT Beratung mit dem Fokus auf Cloud-Technologien, gegründet 2018 in Frankfurt am Main. Wir beraten und entwickeln Softwarelösungen für große Unternehmen und DAX Konzerne in der Amazon, Microsoft oder Google Cloud. Unser Fokus liegt dabei hauptsächlich auf der Architektur und Umsetzung. Power Point Folien werden also selten erstellt.
+
 Aktuell sind unsere Teams in Frankfurt a. M, Leipzig, Hamburg und Berlin verteilt. Remote ist jedoch auch möglich und weitere Standorte sind in Planung.
 
 [Die ganze Geschichte](https://thinkport.digital/thinkport-cloud-experten-uber-uns/)
@@ -127,11 +126,11 @@ Für Berufserfahrene mit vorzugsweise Hintergrund zu Beratung oder Entwicklung
 
 Geschlecht, Herkunft und Religion egal, Hauptsache Du passt zu uns!
 
-[Alle Jobs hier! ](https://thinkport-gmbh.jobs.personio.de/)[![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.webp) ](https://news.kununu.com/beste-arbeitgeber-frankfurt/)"Das Beste ist der umfangreiche Einsatz neuester Technologien, die Möglichkeit mit großen Unternehmen zusammenzuarbeiten und echte Probleme zu lösen." Kristian NikolicCloud Architect 
+[Alle Jobs hier! ](https://thinkport-gmbh.jobs.personio.de/)[![Kununu Badge - Top Company 2024](images/dd-kununu_TopCompany-Siegel-228x300.webp) ](https://news.kununu.com/beste-arbeitgeber-frankfurt/)"Das Beste ist der umfangreiche Einsatz neuester Technologien, die Möglichkeit mit großen Unternehmen zusammenzuarbeiten und echte Probleme zu lösen." Kristian NikolicCloud Architect
 
 ![Kristian Nikolic](images/Kristian-1.png) „Together we work. Together we laugh. Together we grow." Gökhan YildirimSenior Cloud Engineer ![Gökhan Yildirim](images/Goekhan_small.jpg) "I really like to learn new things and to be challenged in my work, to evolve and not stay in the same state forever. Thinkport brings all of this together with an awesome team that supports me whenever I need." Alice ReznickovaCloud Engineer ![Alice Reznickova](images/PA030137-2.jpg) "Bei Thinkport habe ich ein Umfeld gefunden, das mich Tag für Tag weiter fördert und fordert." Samir HamianiSenior Cloud Engineer ![Samir Hamiani](images/Samir_edited_small.png) "Thinkport ist ein Team aus jungen und erfahrenen Talenten auf diversen Themengebieten. Es macht Spaß mit einem Team zusammenzuarbeiten, das stets offen für neue Ideen und Gedanken ist." Keith SchuijlenburgSenior Cloud Architect ![Keith Schuijlenburg](images/Keith.png)
 
- Voriger Nächster
+Voriger Nächster
 
 ## Einblicke in den Alltag
 
@@ -187,7 +186,7 @@ Circle Lead - People & Culture
 
 +49 15111105017
 
-* [](https://www.linkedin.com/in/sabrina-norrenbrock-0688a22/)
-* [](https://www.xing.com/profile/Sabrina_Norrenbrock/cv)
+- [](https://www.linkedin.com/in/sabrina-norrenbrock-0688a22/)
+- [](https://www.xing.com/profile/Sabrina_Norrenbrock/cv)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

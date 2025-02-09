@@ -1,10 +1,10 @@
 ---
-title: "Integrationsplattform mit Confluent Cloud und Terraform"
-date: "2024-12-19"
+title: 'Integrationsplattform mit Confluent Cloud und Terraform'
+date: '2024-12-19'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png 'Logo Bright Colours')](https://thinkport.digital)
 
 Webinar "Event Streming"
 
@@ -20,14 +20,14 @@ Erfahren Sie in unserem exklusiven Webinar, wie eine **hochverfügbare** und **s
 
 ## Ihr Webinar auf einen Blick:
 
-* Aufbau und Vorteile einer vollautomatisierten Integrationsplattform mit Apache Kafka, Confluent-Cloud und Terraform
+- Aufbau und Vorteile einer vollautomatisierten Integrationsplattform mit Apache Kafka, Confluent-Cloud und Terraform
 
-* Donnerstag, 06. Februar 2025
-* 14:00 - 15:30 Uhr (CET)
+- Donnerstag, 06. Februar 2025
+- 14:00 - 15:30 Uhr (CET)
 
-* Online (Link wird nach Anmeldung bereitgestellt)
+- Online (Link wird nach Anmeldung bereitgestellt)
 
-* Kostenlos
+- Kostenlos
 
 [Anmelden](#Anmeldung)
 
@@ -35,10 +35,10 @@ Erfahren Sie in unserem exklusiven Webinar, wie eine **hochverfügbare** und **s
 
 Was nehmen Sie aus dem Webinar mit:
 
-* Roadmap für den Aufbau einer vollautomatisierten Kafka-Integrationsplattform in 6 Monaten
-* Technische Funktionsweise für den Self-Service-Ansatz zur effizienten und standardisierten Anbindung von Systemen
-* Direkte Einblicke in die Herausforderungen von KRITIS-Unternehmen
-* Inspiration und Lösungsansätze für Ihre eigenen Projekte durch Q&A Runde
+- Roadmap für den Aufbau einer vollautomatisierten Kafka-Integrationsplattform in 6 Monaten
+- Technische Funktionsweise für den Self-Service-Ansatz zur effizienten und standardisierten Anbindung von Systemen
+- Direkte Einblicke in die Herausforderungen von KRITIS-Unternehmen
+- Inspiration und Lösungsansätze für Ihre eigenen Projekte durch Q&A Runde
 
 ## Webinar-Agenda
 
@@ -46,19 +46,19 @@ Was nehmen Sie aus dem Webinar mit:
 
 ### Teil 1 - Integrationsplattform
 
-* Was ist eine Integrationsplattform
-* Welche Vorteile und Herausforderungen hat sie
-* Für wen erscheint diese Lösung nötig
+- Was ist eine Integrationsplattform
+- Welche Vorteile und Herausforderungen hat sie
+- Für wen erscheint diese Lösung nötig
 
 ### Teil 2 - Automatisierung
 
-* Warum und wie automatisiert man heute
-* Vorstellung der Lösungsarchitektur
-* Technische Implementierung in vier Stufen
+- Warum und wie automatisiert man heute
+- Vorstellung der Lösungsarchitektur
+- Technische Implementierung in vier Stufen
 
 ### Teil 3 - Ihre Fragen
 
-* Q&A Session zu Ihrer Integrationsplattform
+- Q&A Session zu Ihrer Integrationsplattform
 
 ![](images/Patrick-966x1024.png)
 
@@ -76,7 +76,7 @@ Die Teilnehmerzahl ist begrenzt!
 
 ## Erstklassige Kunden
 
- [![Edeka-logo](images/Edeka-logo.png)](https://digital.edeka/)[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png "Deutsche Börse") ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png "rio-logo") ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png "Commerzbank-Logo") ](https://www.commerzbank.de/)[![NetComBW_Logo](https://thinkport.digital/wp-content/uploads/2025/01/NetComBW_Logo.svg "NetComBW_Logo") ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png "db logo") ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png "merck_logo") ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
+[![Edeka-logo](images/Edeka-logo.png)](https://digital.edeka/)[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![NetComBW_Logo](https://thinkport.digital/wp-content/uploads/2025/01/NetComBW_Logo.svg 'NetComBW_Logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
 
 ## FAQs
 
@@ -94,7 +94,7 @@ Confluent ist ein Unternehmen, das sich auf die Entwicklung von Daten-Streaming-
 
 Confluent bietet eine breite Palette von Lösungen, darunter:
 
-* - Confluent Platform (integrierte Streaming-Plattform)
+- - Confluent Platform (integrierte Streaming-Plattform)
     - Confluent Cloud (Kafka-as-a-Service-Plattform in der Cloud)
     - Confluent Enterprise (erweiterte Version der Confluent Platform)
     - Confluent Hub (ein Marktplatz für Kafka-Connectoren, -Tools und -Anwendungen)

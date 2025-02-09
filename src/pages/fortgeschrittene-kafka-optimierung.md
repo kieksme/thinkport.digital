@@ -1,6 +1,6 @@
 ---
-title: "Fortgeschrittene Kafka Optimierung Lernen"
-date: "2020-09-29"
+title: 'Fortgeschrittene Kafka Optimierung Lernen'
+date: '2020-09-29'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Lernen Sie
 
 ## Auf einen Blick
 
-* 1 Tag
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 1 Tag
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Von Kafka-Profis lernen, wie Sie eine mit Kafka erstellte Echtzeit-Event-Streaming-Plattform überwachen, Fehler beheben und abstimmen können. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -25,32 +25,32 @@ Anhand von Apache Kafka ist es möglich, Data Streams über eine verteilte Platt
 
 ## Termine
 
-21.06.24 Kafka Optimierung Training  
+21.06.24 Kafka Optimierung Training
 
-12.07.24 Kafka Optimierung Training  
+12.07.24 Kafka Optimierung Training
 
-02.08.24 Kafka Optimierung Training  
+02.08.24 Kafka Optimierung Training
 
 \* individuelle Termine möglich
 
 ## Preis
 
-700 € zzgl. MwSt  
+700 € zzgl. MwSt
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Best Practices im Bereich Monitoring, Troubleshooting und Tuning von Kafka basierten Plattformen umsetzen, um eigene Event Streaming Anwendungen zu unterstützen
-* Native Tools wie z. B. Confluent Control Center und Werkzeuge von Drittanbietern nutzen
+- Best Practices im Bereich Monitoring, Troubleshooting und Tuning von Kafka basierten Plattformen umsetzen, um eigene Event Streaming Anwendungen zu unterstützen
+- Native Tools wie z. B. Confluent Control Center und Werkzeuge von Drittanbietern nutzen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-* Fortgeschrittenem Können und Erfahrung im Umgang mit Kafka
-* Solidem Verständnis von Komponenten von Echtzeit Event Streaming Plattformen wie Kafka Connect, ksqlDB und Kafka Streams
-* Erfahrung als Engineer, System Administrator oder Operations Beauftragter, die Verantwortung für das detaillierte Monitoring, Tuning und Troubleshooting von Kafka basierten Event Streaming Plattformen tragen
+- Fortgeschrittenem Können und Erfahrung im Umgang mit Kafka
+- Solidem Verständnis von Komponenten von Echtzeit Event Streaming Plattformen wie Kafka Connect, ksqlDB und Kafka Streams
+- Erfahrung als Engineer, System Administrator oder Operations Beauftragter, die Verantwortung für das detaillierte Monitoring, Tuning und Troubleshooting von Kafka basierten Event Streaming Plattformen tragen
 
 ## Aufbau
 
@@ -58,25 +58,25 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Hauptkomponenten Teil I
 
-* Monitoring, Tuning, Troubleshooting von:  
-    Brokers, Produces, Consumers, ZooKeeper, Kafka Streams, Kafka Connect, Confluent KSQL, Confluent Schema Registry
+- Monitoring, Tuning, Troubleshooting von:  
+   Brokers, Produces, Consumers, ZooKeeper, Kafka Streams, Kafka Connect, Confluent KSQL, Confluent Schema Registry
 
 ### Weiterführung Teil II
 
-* Business Needs & SLAs
-* Monitoring mit JMX Metrics, Confluent Control Center und Drittanbiertertools
-* Troubleshooting: Strategien und Kafka Tools
-* Kafka Log Files Analyse
-* Troubleshooting Post-mortem Analyse
+- Business Needs & SLAs
+- Monitoring mit JMX Metrics, Confluent Control Center und Drittanbiertertools
+- Troubleshooting: Strategien und Kafka Tools
+- Kafka Log Files Analyse
+- Troubleshooting Post-mortem Analyse
 
-* Monitoring, Tuning, Troubleshooting von:  
-    Brokers, Produces, Consumers, ZooKeeper, Kafka Streams, Kafka Connect, Confluent KSQL, Confluent Schema Registry
+- Monitoring, Tuning, Troubleshooting von:  
+   Brokers, Produces, Consumers, ZooKeeper, Kafka Streams, Kafka Connect, Confluent KSQL, Confluent Schema Registry
 
-* Business Needs & SLAs
-* Monitoring mit JMX Metrics, Confluent Control Center und Drittanbiertertools
-* Troubleshooting: Strategien und Kafka Tools
-* Kafka Log Files Analyse
-* Troubleshooting Post-mortem Analyse
+- Business Needs & SLAs
+- Monitoring mit JMX Metrics, Confluent Control Center und Drittanbiertertools
+- Troubleshooting: Strategien und Kafka Tools
+- Kafka Log Files Analyse
+- Troubleshooting Post-mortem Analyse
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -96,7 +96,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -112,7 +112,7 @@ Was versteht man unter Kafka Optimierung?
 
 Kafka Optimierung bezieht sich auf die Anpassung und Konfiguration von Apache Kafka-Clustern, um die Leistung und Effizienz zu verbessern und sicherzustellen, dass sie den Anforderungen der jeweiligen Anwendung entsprechen. Hier sind einige der häufigsten Optimierungsbereiche in Kafka:
 
-* - Speicher- und Ressourcenverwaltung
+- - Speicher- und Ressourcenverwaltung
     - Partitionierung
     - Konfiguration der Kafka-Server und -Clients
     - Überwachung und Fehlerbehebung
@@ -124,7 +124,7 @@ Welche Vorteile bringt die Kafka Optimierung?
 
 Durch die Optimierung von Apache Kafka können verschiedene Vorteile erzielt werden, darunter:
 
-* - Verbesserte Leistung (Latenzzeit reduzieren)
+- - Verbesserte Leistung (Latenzzeit reduzieren)
     - Skalierbarkeit
     - Reduzierte Betriebskosten
     - Bessere Fehlertoleranz

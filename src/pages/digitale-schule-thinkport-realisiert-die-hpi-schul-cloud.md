@@ -1,6 +1,6 @@
 ---
-title: "Digitale Schule: Thinkport realisiert die HPI Schul-Cloud"
-publishDate: "2020-08-18T10:00:00Z"
+title: 'Digitale Schule: Thinkport realisiert die HPI Schul-Cloud'
+publishDate: '2020-08-18T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -38,11 +38,11 @@ Da die Lastanforderungen der ausgerollten Lösung über den Tag hinweg sehr star
 
 ### Logging von Messwerten
 
-Durch den Aufbau eines hochfunktionalen Dashboards ist die Überwachung aller Maschinen im Cluster jederzeit gewährleistet. Jede Maschine schickt dafür verschiedene technische Metriken an den Monitoring Stack, welche dort aggregiert und visualisiert werden.  
+Durch den Aufbau eines hochfunktionalen Dashboards ist die Überwachung aller Maschinen im Cluster jederzeit gewährleistet. Jede Maschine schickt dafür verschiedene technische Metriken an den Monitoring Stack, welche dort aggregiert und visualisiert werden.
 
 Die Nutzer melden sich über das von Scalelite bereitgestellte Zugangsportal an. Sobald eine Session gestartet wird, kümmern sich der Scalelite Load Balancer um die Lastverteilung an verschiedene BigBlueButton Server. Ein Autoscaler skaliert zusätzlich die Performance der einzelnen Maschinen. Je nach Bedarf werden neue Server gestartet oder die Ressourcen bestehender Maschinen aufgestockt. Ein Node Exporter stellt verschiedene Metriken zum Messen der Serverleistung bereit. Diese Messwerte werden von Prometheus an Grafana weitergeleitet, welches die Daten anschaulich aufarbeitet und dem Autoscaler wieder zur Verfügung stellt. Als Sicherheitsstandard wurde das TLS Verschlüsselungsprotokoll gewählt. Die gesamte Infrastruktur wird in Form von Docker Containern mit Terraform automatisch deployed. So wird eine flexible, zuverlässige und zugleich sichere Plattform geschaffen.
 
-## Herausragende  
+## Herausragende
 
 Technologien
 
@@ -52,7 +52,7 @@ Technologien
 
 Unsere Experten arbeiten an innovativen Lösungen, um deutsche Unternehmen fit für die Zukunft zu machen.
 
-### Bequemes  
+### Bequemes
 
 Cloud Hosting
 
@@ -80,8 +80,8 @@ dfries@thinkport.digital
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/dominik-fries-497ab7107)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+- [](https://de.linkedin.com/in/dominik-fries-497ab7107)
+- [](https://www.xing.com/profile/Dominik_Fries5)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

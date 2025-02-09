@@ -1,10 +1,9 @@
 ---
-title: "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse"
+title: 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse'
 publishDate: 2023-11-10T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "Was-bedeutet-das-für-die-Industrie-scaled.webp"
+coverImage: 'Was-bedeutet-das-für-die-Industrie-scaled.webp'
 ---
 
 ## Kafka und OpenAI sind die Zukunft der Datenanalyse
@@ -79,60 +78,60 @@ OpenAI bietet schnell entwickelnde Technologien, die aktuelle Daten erhalten mü
 
 [![Kubernetes und Docker](images/Streaming-Services-6.webp) "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp "Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf")](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
+[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Disrupt](https://thinkport.digital/category/disrupt/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
-
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp "Streaming Services (8)")](https://thinkport.digital/cloud-consulting-for-development/)
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
+
+[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp "Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.")](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
-### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ "Terraform Consulting in a Multi Cloud Environment")
+### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
 
-### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ "Terraform Consulting in a Multi Cloud Environment")
+### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

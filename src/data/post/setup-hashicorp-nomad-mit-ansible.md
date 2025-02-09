@@ -1,13 +1,12 @@
 ---
-title: "Setup von Hashicorp Nomad mit Ansible"
+title: 'Setup von Hashicorp Nomad mit Ansible'
 publishDate: 2024-01-19T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "ansible.webp"
+coverImage: 'ansible.webp'
 ---
 
-# Setup von Hashicorp Nomad - 
+# Setup von Hashicorp Nomad -
 
 Schritt 2: Ansible
 
@@ -17,8 +16,8 @@ Der Artikel fokussiert auf das Setup von Nomad, beginnend mit einem überblickge
 
 [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)
 
- [![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
-Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform) 
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp)](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)[Schritt 1:  
+Terrafom](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform)
 
 ![ansible teaser](images/ansible-1024x683.webp)
 
@@ -115,60 +114,60 @@ _Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp "Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.")](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ "Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?")
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ 'Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ "Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?")
+### [Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?](https://thinkport.digital/synapse-databricks-athena-welche-loesung-fuer-big-data/ 'Synapse, Databricks, Glue, Athena – Welche Lösung für Big Data?')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp "terraform verlinken teaser")](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
 
-### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ "Setup Hashcorp Nomad mit Terraform")
+### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ "Setup Hashcorp Nomad mit Terraform")
+### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp "Solace vs Confuence Post (680 × 450 px)")](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
+
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)

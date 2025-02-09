@@ -1,11 +1,10 @@
 ---
-title: "Event-getriebene Anwendungen effektiv betreiben"
+title: 'Event-getriebene Anwendungen effektiv betreiben'
 publishDate: 2024-07-11T10:00:00Z
-categories: 
-  + "big-data"
+categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-coverImage: "Skalierbarkeit01.webp"
+coverImage: 'Skalierbarkeit01.webp'
 ---
 
 # Event-getriebene Anwendungen effektiv betreiben
@@ -56,66 +55,66 @@ _Senior Cloud Architect & Circle Lead Event-Streaming_
 
 ## Whitepaper anfordern
 
-Streaming\_Skalier\_Whitepaper\_Download       Name \*  First Last Name \*  Last Email \*  Company  Captcha Absenden  Si eres humano, deja este campo en blanco. 
+Streaming_Skalier_Whitepaper_Download Name \* First Last Name \* Last Email \* Company Captcha Absenden Si eres humano, deja este campo en blanco.
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Terraform Consulting](images/Streaming-Services-9.webp "Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.")](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
+[![Terraform Consulting](images/Streaming-Services-9.webp 'Vor einer weiß gestrichenen Ziegelwand sieht man links in türkise das Terraform Logo und rechts den Schriftzug Terraform Consulting.')](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/)
 
-### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ "Terraform Consulting in a Multi Cloud Environment")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
-
-### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ "Terraform Consulting in a Multi Cloud Environment")
+### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
 
-[![ufw teaser](images/5-1024x683.webp "ufw teaser")](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+### [Terraform Consulting in a Multi Cloud Environment](https://thinkport.digital/terraform-consulting-in-a-multi-cloud-environment/ 'Terraform Consulting in a Multi Cloud Environment')
 
-### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ "Setup Hashicorp Nomad Ansible ufw")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [IaC](https://thinkport.digital/category/iac/)
+
+[![ufw teaser](images/5-1024x683.webp 'ufw teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/)
+
+### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ "Setup Hashicorp Nomad Ansible ufw")
+### [Setup Hashicorp Nomad Ansible ufw](https://thinkport.digital/setup-hashicorp-nomad-ansible-ufw/ 'Setup Hashicorp Nomad Ansible ufw')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![fail2bail teaser](images/4-1024x683.webp "fail2bail teaser")](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
-
-[![rolle nomad teaser](images/6-1024x683.webp "rolle nomad teaser")](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
-
-### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ "Setup Hashicorp Nomad Ansible nomad")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ "Setup Hashicorp Nomad Ansible nomad")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
+
+[![rolle nomad teaser](images/6-1024x683.webp 'rolle nomad teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
+
+### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
+
+### [Setup Hashicorp Nomad Ansible nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/ 'Setup Hashicorp Nomad Ansible nomad')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)

@@ -1,6 +1,6 @@
 ---
-title: "ALT: Cloud Excellence Workshops von Thinkport"
-publishDate: "2020-04-19T10:00:00Z"
+title: 'ALT: Cloud Excellence Workshops von Thinkport'
+publishDate: '2020-04-19T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -32,25 +32,25 @@ Termin vereinbaren
 
 ### Disruption Days
 
-Von der Idee zum Prototypen. Wir erarbeiten mit Ihnen zusammen eine individuelle Lösung für Ihr Unternehmen. [Durch strukturierte Vorgehensweise entwickeln wir mit Ihnen in nur kurzer Zeit einen Prototypen. Nutzen Sie dabei die Praxiserfahrung unserer Trainer für Ihr Unternehmen. Mehr Infos](https://thinkport.digital/disruption-days-mit-futury/) 
+Von der Idee zum Prototypen. Wir erarbeiten mit Ihnen zusammen eine individuelle Lösung für Ihr Unternehmen. [Durch strukturierte Vorgehensweise entwickeln wir mit Ihnen in nur kurzer Zeit einen Prototypen. Nutzen Sie dabei die Praxiserfahrung unserer Trainer für Ihr Unternehmen. Mehr Infos](https://thinkport.digital/disruption-days-mit-futury/)
 
 ![Logo cloud computing](images/cloud-computing.png)
 
 ### Hybrid Cloud Strategie
 
-Erarbeiten Sie die Hybrid Cloud Strategie für Ihr Unternehmen und modernisieren Sie Ihre IT Infrastruktur. [Eine funktionierende Hybrid Cloud Strategie zu entwerfen erfordert Erfahrungen aus der Praxis. Nutzen Sie die Projektreferenzen unserer Trainer für Ihr Unternehmen. Mehr Infos](https://thinkport.digital/hybridcloud-strategie) 
+Erarbeiten Sie die Hybrid Cloud Strategie für Ihr Unternehmen und modernisieren Sie Ihre IT Infrastruktur. [Eine funktionierende Hybrid Cloud Strategie zu entwerfen erfordert Erfahrungen aus der Praxis. Nutzen Sie die Projektreferenzen unserer Trainer für Ihr Unternehmen. Mehr Infos](https://thinkport.digital/hybridcloud-strategie)
 
 ![Logo individuelle Workshops](images/cloud-teaching_logos-03.png)
 
 ### Individueller Workshop
 
-Was immer Sie in die Cloud bringen möchten, wir machen Ihre Herausforderung zu Unserer. [Nutzen Sie das umfangreiche Wissen und die Erfahrungen unserer Trainer in Theorie sowie in der Praxis für einen auf Ihr Unternehmen zugeschnittenen Workshop. E-Mail](mailto:tdrechsel@thinkport.digital) 
+Was immer Sie in die Cloud bringen möchten, wir machen Ihre Herausforderung zu Unserer. [Nutzen Sie das umfangreiche Wissen und die Erfahrungen unserer Trainer in Theorie sowie in der Praxis für einen auf Ihr Unternehmen zugeschnittenen Workshop. E-Mail](mailto:tdrechsel@thinkport.digital)
 
 ![icon für die suche](images/suche.png)
 
 ### Cloud Architecture Review - gratis -
 
-Prüfen Sie mit uns Ihre Cloud Architektur. Dabei berücksichtigen wir die Herausforderungen und Besonderheiten Ihres Unternehmens. [In dynamischen Märkten sind auch die Anforderungen an die Cloud ständig neuen Ansprüchen ausgesetzt. Nutzen Sie die Erfahrung unserer Experten, um Ihre Softwarelandschaft zukunftsfähig zu machen. Mehr Infos](https://thinkport.digital/cloud-architecture-review/) 
+Prüfen Sie mit uns Ihre Cloud Architektur. Dabei berücksichtigen wir die Herausforderungen und Besonderheiten Ihres Unternehmens. [In dynamischen Märkten sind auch die Anforderungen an die Cloud ständig neuen Ansprüchen ausgesetzt. Nutzen Sie die Erfahrung unserer Experten, um Ihre Softwarelandschaft zukunftsfähig zu machen. Mehr Infos](https://thinkport.digital/cloud-architecture-review/)
 
 ![icon error](images/error.png)
 
@@ -146,5 +146,5 @@ CTO & Lead Cloud Architect
 
 +49 151 63417156
 
-*  [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-*  [](https://www.xing.com/profile/Dominik_Fries5)
+-  [](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+-  [](https://www.xing.com/profile/Dominik_Fries5)

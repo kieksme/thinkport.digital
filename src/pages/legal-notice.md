@@ -1,6 +1,6 @@
 ---
-title: "Legal Notice"
-date: "2018-06-27"
+title: 'Legal Notice'
+date: '2018-06-27'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -153,7 +153,7 @@ Cookies, die zur Durchführung des elektronischen Kommunikationsvorgangs oder zu
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log-Dateien, die Ihr Browser automatisch an uns übermittelt. Dies sind:
 
-* - Browsertyp und Browserversion
+- - Browsertyp und Browserversion
     - verwendetes Betriebssystem
     - Referrer URL
     - Hostname des zugreifenden Rechners

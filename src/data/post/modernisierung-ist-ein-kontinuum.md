@@ -1,13 +1,12 @@
 ---
-title: "Modernisierung ist ein Kontinuum"
+title: 'Modernisierung ist ein Kontinuum'
 publishDate: 2022-06-30T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: "woman_server_technican_1060x720.png"
+coverImage: 'woman_server_technican_1060x720.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Warum die Modernisierung der Cloud-Architektur ein Kontinuum ist
 
@@ -15,8 +14,8 @@ coverImage: "woman_server_technican_1060x720.png"
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)[](#linksection)
 
-Heutzutage sind noch über 70 % der Unternehmensanwendungen monolithisch. Zumindest in Teilen. Das bedeutet, dass viele Unternehmen mit einem hohen Anteil an Legacy-Anwendungen nicht mehr von der notwendigen Agilität und technischen Geschwindigkeit profitieren. Die Bewältigung eines ehrgeizigen und längst überfälligen Modernisierungsprojekts kann überwältigend sein - insbesondere ohne die richtigen Fachkenntnisse. Deshalb kann es am Anfang verlockend sein, veraltete Workloads in die Cloud zu verschieben (lift & shift), ohne den Anwendungsbestand wirklich zu modernisieren. Dies scheint Zeit und Kosten zu sparen.  
-  
+Heutzutage sind noch über 70 % der Unternehmensanwendungen monolithisch. Zumindest in Teilen. Das bedeutet, dass viele Unternehmen mit einem hohen Anteil an Legacy-Anwendungen nicht mehr von der notwendigen Agilität und technischen Geschwindigkeit profitieren. Die Bewältigung eines ehrgeizigen und längst überfälligen Modernisierungsprojekts kann überwältigend sein - insbesondere ohne die richtigen Fachkenntnisse. Deshalb kann es am Anfang verlockend sein, veraltete Workloads in die Cloud zu verschieben (lift & shift), ohne den Anwendungsbestand wirklich zu modernisieren. Dies scheint Zeit und Kosten zu sparen.
+
 Nachher führt dies jedoch zu steigenden Kosten und eingeschränktem Nutzen. Und die eigentliche Modernisierung der Cloud-Architektur wird verzögert. Um den größtmöglichen Nutzen aus der Cloud zu ziehen, ist ein kontinuierlicher Modernisierungsansatz erforderlich, der sowohl kurzfristige als auch langfristige Pläne berücksichtigt. Mit einer Vision und einem Plan zur Zukunftssicherung (und zur Verhinderung des nächsten Monolithen!) können Unternehmen kritische Geschäftsprobleme verhindern. Hierzu zählen verzögerte Innovationen, verlangsamte Entwicklungsgeschwindigkeit, verlorene Wettbewerbsposition und Verluste durch technische Schulden.
 
 ## Modernisierung ist ein Kontinuum
@@ -29,17 +28,17 @@ Software veraltet im Laufe der Zeit - ähnlich einem Haus, dessen Zustand vernac
 
 ## Strategie der kontinuierlichen Modernisierung der Cloud-Architektur
 
-Da technische Schulden ähnlich wie Finanzschulden sind – sie können nicht ignoriert werden, da sie sich sonst im Laufe der Zeit weiter aufbauen –, wirken sie sich negativ aus. Negativ sowohl auf die Unternehmen als auch auf die Technologiemanager. Ohne Modernisierung wird es für das Unternehmen schwierig, Geschäftsziele zu erreichen und die Softwarequalität zu verbessern. Das Gegenteil von Schulden ist Innovation, und „schuldenfrei“ zu sein, ermöglicht es Unternehmen, Ressourcen für Forschung und Entwicklung umzuverteilen.  
-  
+Da technische Schulden ähnlich wie Finanzschulden sind – sie können nicht ignoriert werden, da sie sich sonst im Laufe der Zeit weiter aufbauen –, wirken sie sich negativ aus. Negativ sowohl auf die Unternehmen als auch auf die Technologiemanager. Ohne Modernisierung wird es für das Unternehmen schwierig, Geschäftsziele zu erreichen und die Softwarequalität zu verbessern. Das Gegenteil von Schulden ist Innovation, und „schuldenfrei“ zu sein, ermöglicht es Unternehmen, Ressourcen für Forschung und Entwicklung umzuverteilen.
+
 Die Entwicklung eines Prozesses und Ansatzes zur kontinuierlichen Modernisierung ist der erste Schritt zur Bewertung und Verwaltung technischer Schulden im Laufe der Zeit. Bei der Bewertung und Umsetzung von Modernisierungsmaßnahmen (wie z. B. mit Kubernetes und Containern) sollten Unternehmen Überlegungen zur kurz- und langfristigen Planung anstellen.
 
-Durch die Bewertung des technischen Schuldenstands und die Bestimmung der Gesamtbetriebskosten können Unternehmen die Grundursache für die Verlangsamung von Innovationszyklen und den Verlust von Wettbewerbsvorteilen identifizieren. Nach der Schätzung der technischen Schulden ist es entscheidend, den TCO (Total-Cost-of-Ownership)-Multiplikator für jede einzelne Anwendung zu bestimmen. Und diesen den Entscheidungsprozessen zu Grunde zu legen.  
-  
+Durch die Bewertung des technischen Schuldenstands und die Bestimmung der Gesamtbetriebskosten können Unternehmen die Grundursache für die Verlangsamung von Innovationszyklen und den Verlust von Wettbewerbsvorteilen identifizieren. Nach der Schätzung der technischen Schulden ist es entscheidend, den TCO (Total-Cost-of-Ownership)-Multiplikator für jede einzelne Anwendung zu bestimmen. Und diesen den Entscheidungsprozessen zu Grunde zu legen.
+
 Es ist entscheidend, den Zusammenhang zwischen der technischen Schuld einer Anwendung, der Qualität der Software und den Auswirkungen auf das Geschäft zu verstehen. Ist die technische Schuld zu groß, kann das Unternehmen seine Geschäftsziele nicht erreichen. Nachdem diese ersten Schritte durchlaufen sind und ein Erfolgsrezept gefunden wurde, ist es wichtig, einen Prozess für die kontinuierliche Modernisierung zu entwickeln. Dabei wird die Prüfung und Überwachung der technischen Schuld laufend evaluiert.
 
 ![Testbild Werbungsbanner](images/Advertiser1.png)
 
-### Workshop  
+### Workshop
 
 "Cloud Architecture Review"  
 sowie Training  
@@ -55,63 +54,63 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
-
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp "Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.")](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
-
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-[![Streaming Services (8)](images/Streaming-Services-8.webp "Streaming Services (8)")](https://thinkport.digital/cloud-consulting-for-development/)
-
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
-
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
+
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
+
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
@@ -127,4 +126,4 @@ Thinkport bietet passende Workshops zur **[Cloud-Architektur](https://thinkport.
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

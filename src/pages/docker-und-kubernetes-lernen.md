@@ -1,6 +1,6 @@
 ---
-title: "Docker und Kubernetes Lernen"
-date: "2020-08-26"
+title: 'Docker und Kubernetes Lernen'
+date: '2020-08-26'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 3 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 3 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Werden Sie Experte im Kubernetes Cluster Management und lernen Sie die Skalierbakeit ihrer Anwendungen zu maximieren. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -35,24 +35,24 @@ Kubernetes (griechisch für Steuermann) ist ein von Google entwickeltes System, 
 
 ## Preis
 
-2.200 € zzgl. MwSt.  
+2.200 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Die Einsatzmöglichkeiten von Docker und Kubernetes verstehen
-* Docker-Container für eine Python Anwendung erstellen und auf Kubernetes skalierbar bereitstellen
-* Anwendungscontainer mit Docker bauen
-* Ein Kubernetes-Cluster managen und die wichtigsten Ressourcen einsetzen
+- Die Einsatzmöglichkeiten von Docker und Kubernetes verstehen
+- Docker-Container für eine Python Anwendung erstellen und auf Kubernetes skalierbar bereitstellen
+- Anwendungscontainer mit Docker bauen
+- Ein Kubernetes-Cluster managen und die wichtigsten Ressourcen einsetzen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-* Solidem Linux-Können
-* Allgemeinen Kenntnissen in Bereich Softwareentwicklung von Webanwendungen (Konkrete Technologien sind nicht erforderlich
-* Interesse, Infrastructure as Code zu lernen
+- Solidem Linux-Können
+- Allgemeinen Kenntnissen in Bereich Softwareentwicklung von Webanwendungen (Konkrete Technologien sind nicht erforderlich
+- Interesse, Infrastructure as Code zu lernen
 
 ## Aufbau
 
@@ -60,43 +60,43 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Docker Tag I
 
-* Einführung in Docker
-* Kennenlernen von wichtigen Befehlen
-* Erzeugen von Docker Containern und Erstellen von Docker Images
-* Verwenden con Docker Compose
-* Team-Lab: Eizeugen eines Docker Image für die Python App
+- Einführung in Docker
+- Kennenlernen von wichtigen Befehlen
+- Erzeugen von Docker Containern und Erstellen von Docker Images
+- Verwenden con Docker Compose
+- Team-Lab: Eizeugen eines Docker Image für die Python App
 
 ### Kubernetes Tag II
 
-* Übersicht zu Kubernetes: Architektur, kubectl und yaml files
-* Grundlagen I: Erzeugung von Pods, Deployments und ReplicaSets
-* Grundlagen II: Nutzung von Services, Labels und Selectors
-* Team-Lab: Deployment der Python App
+- Übersicht zu Kubernetes: Architektur, kubectl und yaml files
+- Grundlagen I: Erzeugung von Pods, Deployments und ReplicaSets
+- Grundlagen II: Nutzung von Services, Labels und Selectors
+- Team-Lab: Deployment der Python App
 
 ### Kubernetes Tag III
 
-* Imperative versus deklarative Methoden
-* Management des Lebenszyklus von Applikationen
-* Logging und Monitoring
-* Cluster Maintenance
-* Team-Lab: Monitoring und Updating der Python App in Kubernetes
+- Imperative versus deklarative Methoden
+- Management des Lebenszyklus von Applikationen
+- Logging und Monitoring
+- Cluster Maintenance
+- Team-Lab: Monitoring und Updating der Python App in Kubernetes
 
-* Einführung in Docker
-* Kennenlernen von wichtigen Befehlen
-* Erzeugen von Docker Containern und Erstellen von Docker Images
-* Verwenden von Docker Compose
-* Team-Lab: Erzeugen eines Docker Image für die Python App
+- Einführung in Docker
+- Kennenlernen von wichtigen Befehlen
+- Erzeugen von Docker Containern und Erstellen von Docker Images
+- Verwenden von Docker Compose
+- Team-Lab: Erzeugen eines Docker Image für die Python App
 
-* Übersicht zu Kubernetes; Architektur, kubectl und yaml files
-* Grundlagen I: Erzeugung von Pods, Deployments und ReplicaSets
-* Grundlagen II: Nutzung von Services, Labels und Selectors
-* Team-Lab: Deployment der Python App
+- Übersicht zu Kubernetes; Architektur, kubectl und yaml files
+- Grundlagen I: Erzeugung von Pods, Deployments und ReplicaSets
+- Grundlagen II: Nutzung von Services, Labels und Selectors
+- Team-Lab: Deployment der Python App
 
-* Imperative versus deklarative Methoden
-* Management des Lebenszyklus von Applikationen
-* Logging und Monitoring
-* Cluster Maintenance (optional)
-* Team-Lab: Monitoring und Updating der Python App in Kubernetes
+- Imperative versus deklarative Methoden
+- Management des Lebenszyklus von Applikationen
+- Logging und Monitoring
+- Cluster Maintenance (optional)
+- Team-Lab: Monitoring und Updating der Python App in Kubernetes
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -110,7 +110,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -132,7 +132,7 @@ Welche Vorteile bietet Kubernetes mit Docker?
 
 Kubernetes bietet eine Vielzahl von Vorteilen in Kombination mit Docker-Containern, darunter:
 
-* - Automatisierung und Skalierung
+- - Automatisierung und Skalierung
     - Ausfallsicherheit
     - Effektives Ressourcenmanagement
     - Nahtlose Rollouts und Rollbacks von Anwendungen 

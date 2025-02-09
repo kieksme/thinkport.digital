@@ -1,6 +1,6 @@
 ---
-title: "Event Streaming Services auf AWS and Azure"
-date: "2021-04-16"
+title: 'Event Streaming Services auf AWS and Azure'
+date: '2021-04-16'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte in
 
 ## Auf einen Blick
 
-* 1 Tag
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 1 Tag
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Streaming Tools von AWS und Azure in Hinblick auf Performance und Kosteneffizienz lernen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -27,7 +27,7 @@ Haben Sie sich bei Ihrem neuen Cloudprojekt für Event Streaming entschieden ode
 
 14.06.24 Event Streaming Services Training
 
-19.07.24 Event Streaming Services Training  
+19.07.24 Event Streaming Services Training
 
 13.08.24 Event Streaming Services Training
 
@@ -35,23 +35,23 @@ Haben Sie sich bei Ihrem neuen Cloudprojekt für Event Streaming entschieden ode
 
 ## Preis
 
-700 € zzgl. MwSt.  
+700 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer haben nach Abschluss...
 
-* Einen guten Überblick über mögliche Cloud Streaming Services & Tools bei AWS und Azure und deren Stärken
-* Eine Übersicht welche Services und Tools am besten zum eigenen Anwendungsfall passen
-* Einen Lösungsansatz für Ihr eigenes Szenario Zielgruppe
+- Einen guten Überblick über mögliche Cloud Streaming Services & Tools bei AWS und Azure und deren Stärken
+- Eine Übersicht welche Services und Tools am besten zum eigenen Anwendungsfall passen
+- Einen Lösungsansatz für Ihr eigenes Szenario Zielgruppe
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-* Architekten oder Projektverantwortliche, die Cloud Streaming Dienste im Unternehmen einsetzen wollen
-* Personen mit einem Grundverständnis für Streaming Konzepte
-* Personen, welche vor der Entscheidung der richtigen Cloud Strategie für Streaming Services stehen
+- Architekten oder Projektverantwortliche, die Cloud Streaming Dienste im Unternehmen einsetzen wollen
+- Personen mit einem Grundverständnis für Streaming Konzepte
+- Personen, welche vor der Entscheidung der richtigen Cloud Strategie für Streaming Services stehen
 
 ## Aufbau
 
@@ -59,27 +59,27 @@ Der Kurs ist geeignet für...
 
 ### Übersicht Event Streaming Teil I
 
-* AWS Services & Tools (Kubernetes auf EC2, Kafka Brokers in Fargate, MSK, Kinesis)
-* Azure Cloud (Virtuelle Machinen, Event Hubs)
-* Vergleich (Übersicht der Stärken und Schwächen, Kostenvergleich)
+- AWS Services & Tools (Kubernetes auf EC2, Kafka Brokers in Fargate, MSK, Kinesis)
+- Azure Cloud (Virtuelle Machinen, Event Hubs)
+- Vergleich (Übersicht der Stärken und Schwächen, Kostenvergleich)
 
 ### Use Case Teil II
 
-* Erläuterung Ihres Anwendungsfall
-* Anforderungsanalyse
-* Identifizierung möglicher Technologien für die Umsetzung
-* Implementation-Szenario
-* Q&A
+- Erläuterung Ihres Anwendungsfall
+- Anforderungsanalyse
+- Identifizierung möglicher Technologien für die Umsetzung
+- Implementation-Szenario
+- Q&A
 
-* AWS Services & Tools (Kubernetes auf EC2, Kafka Brokers in Fargate, MSK, Kinesis)
-* Azure Cloud (Virtuelle Machinen, Event Hubs)
-* Vergleich (Übersicht der Stärken und Schwächen, Kostenvergleich)
+- AWS Services & Tools (Kubernetes auf EC2, Kafka Brokers in Fargate, MSK, Kinesis)
+- Azure Cloud (Virtuelle Machinen, Event Hubs)
+- Vergleich (Übersicht der Stärken und Schwächen, Kostenvergleich)
 
-* Erläuterung Ihres Anwendungsfall
-* Anforderungsanalyse
-* Identifizierung möglicher Technologien für die Umsetzung
-* Implementation-Szenario
-* Q&A
+- Erläuterung Ihres Anwendungsfall
+- Anforderungsanalyse
+- Identifizierung möglicher Technologien für die Umsetzung
+- Implementation-Szenario
+- Q&A
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -99,7 +99,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -113,16 +113,16 @@ Für was wird Event Streaming Services verwendet?
 
 Event Streaming Services können verwendet werden, um verschiedene Anwendungen und Szenarien zu unterstützen, wie z. B.:
 
-* Echtzeit-Analysen und -Berichte von Geschäftsvorgängen und Kundeninteraktionen möglich
-* Betrugserkennung und Sicherheit
-* Internet of Things (IoT)
-* Datenintegration aus verschiedenen Quellen in Echtzeit
+- Echtzeit-Analysen und -Berichte von Geschäftsvorgängen und Kundeninteraktionen möglich
+- Betrugserkennung und Sicherheit
+- Internet of Things (IoT)
+- Datenintegration aus verschiedenen Quellen in Echtzeit
 
 Welche Streaming-Tools gibt es bei AWS?
 
 AWS bietet eine Vielzahl von Streaming-Tools und -Diensten an, um die Verarbeitung von Ereignisdaten in Echtzeit zu ermöglichen. Hier sind einige der wichtigsten Tools und Dienste aufgelistet:
 
-* - **Amazon Kinesis Data Streams**: ein Echtzeit-Streaming-Service zum Erfassen und Verarbeiten von Datenströmen in großen Mengen.
+- - **Amazon Kinesis Data Streams**: ein Echtzeit-Streaming-Service zum Erfassen und Verarbeiten von Datenströmen in großen Mengen.
     - **Amazon Kinesis Data Firehose**: ein Service zum Laden und Transformieren von Streaming-Daten in andere AWS-Services und -Lösungen.
     - **Amazon Managed Streaming for Apache Kafka (Amazon MSK)**: ein verwalteter Apache Kafka-Service, der es ermöglicht, Streaming-Daten in Echtzeit zu verarbeiten.
     - **AWS Lambda**: ein serverloser Dienst, der es ermöglicht, Code auszuführen, wenn Daten in einem Datenstrom eintreffen.
@@ -134,7 +134,7 @@ Welche Streaming-Tools gibt es bei Azure?
 
 Azure bietet eine Vielzahl von Streaming-Tools und -Diensten an, um die Verarbeitung von Ereignisdaten in Echtzeit zu ermöglichen. Hier sind einige der wichtigsten Tools und Dienste aufgelistet:
 
-* - **Azure Event Hubs**: ein Echtzeit-Streaming-Service zum Erfassen und Verarbeiten von Datenströmen in großen Mengen.
+- - **Azure Event Hubs**: ein Echtzeit-Streaming-Service zum Erfassen und Verarbeiten von Datenströmen in großen Mengen.
     - **Azure Stream Analytics**: ein Streaming-Analyse-Service, der es ermöglicht, komplexe Abfragen und Transformationen auf Streaming-Daten durchzuführen.
     - **Azure Functions**: ein serverloser Dienst, der es ermöglicht, Code auszuführen, wenn Daten in einem Datenstrom eintreffen.
     - **Azure Event Grid**: ein Service zum Routing von Ereignissen zwischen Azure-Services, Anwendungen und externen SaaS-Anbietern.

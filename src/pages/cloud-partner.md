@@ -1,6 +1,6 @@
 ---
-title: "Cloud Consulting Partner"
-publishDate: "2019-05-23T10:00:00Z"
+title: 'Cloud Consulting Partner'
+publishDate: '2019-05-23T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -36,7 +36,7 @@ Consulting Partner - Select
 
 Consulting Partner - Gold
 
-## Technologie Partnerschaften  
+## Technologie Partnerschaften
 
 mit Vorreitern in der Cloud Entwicklung
 
@@ -66,7 +66,7 @@ Official Partner
 
 Wir arbeiten u.a. mit Starburst zusammen, da Starburst eine der schnellsten, effizientesten Analyse-Engine für Ihr Data Warehouse, Data Lake oder Data Mesh bietet.
 
-## Consulting Partner  
+## Consulting Partner
 
 für nachhaltige Strategien
 
@@ -100,25 +100,25 @@ Woodmark Consulting ist unser Partner für Data Analytics und Business Intellige
 
 [![](images/fom_thinkport_partner-300x300.png)](https://www.fom.de/)
 
-### FOM  
+### FOM
 
 Hochschule
 
 In Kooperation mit der Fachhochschule für Wirtschaft und Management bieten wir die Möglichkeit eines berufsbegleitenden Studiums. [![](images/accadis_thinkport_partner-300x300.png)](https://www.accadis.com/)
 
-### accadis  
+### accadis
 
 Hochschule
 
 In enger Zusammenarbeit mit der accadis Hochschule bilden wir junge Talente aus und bieten beispielsweise duale Studienplätze an. [![](images/wbh_thinkport_partner-300x300.png)](https://www.wb-fernstudium.de/)
 
-### Wilhelm Büchner  
+### Wilhelm Büchner
 
 Hochschule
 
 An der Wilhelm Büchner Hochschule in Pfungstadt bei Darmstadt sind wir regelmäßig präsent. [![Das Logo der Berufsakademie Sachsen als Schriftzug.](images/BA-300x300.png)](https://www.ba-leipzig.de/)
 
-### Berufsakademie  
+### Berufsakademie
 
 Leipzig
 
@@ -138,7 +138,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-* [](https://www.xing.com/profile/Tobias_Drechsel3)
+- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+- [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

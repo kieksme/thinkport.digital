@@ -1,12 +1,11 @@
 ---
-title: "Eröffnung Standort Berlin"
+title: 'Eröffnung Standort Berlin'
 publishDate: 2023-02-09T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Berlin.png"
+categories: + "news"
+coverImage: 'Berlin.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Thinkport eröffnet Hauptstadt-Büro - Potsdamer Platz ist das neue Zuhause
 
@@ -36,66 +35,66 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png "Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.")](https://thinkport.digital/hybrid-cloud-manifest/)
+[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png 'Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.')](https://thinkport.digital/hybrid-cloud-manifest/)
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
-
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png "Eine Frau arbeitet am Server")](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
+
+[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png 'Eine Frau arbeitet am Server')](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png "Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals")](https://thinkport.digital/kafka-fundamentals/)
+[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png 'Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals')](https://thinkport.digital/kafka-fundamentals/)
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
-
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
+
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

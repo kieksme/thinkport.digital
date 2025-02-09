@@ -1,6 +1,6 @@
 ---
-title: "Cloud Transformation im Management"
-publishDate: "2024-04-18T10:00:00Z"
+title: 'Cloud Transformation im Management'
+publishDate: '2024-04-18T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Erarbeiten Sie mit uns Ihre
 
 ## Auf einen Blick
 
-* 1 Tag
-* Individuell
-* Workshop
-* Remote und vor Ort
+- 1 Tag
+- Individuell
+- Workshop
+- Remote und vor Ort
 
 Die Einführung und Entwicklung der Cloud ändert in vielen Weisen die bisher bekannten Best Practises im Management. Es betrifft weit mehr als technische Aspekte. Dieser Workshop erarbeitet im kleinen Kreis die Grundlagen, wie Personal, Kultur und Arbeitsweisen in der Cloud neu zu denken sind.
 
@@ -41,17 +41,17 @@ Der Workshop startet mit einer Einführung in die Bedeutung der Cloud-Transforma
 
 Teilnehmer haben nach Abschluss…
 
-* … ein umfassendes Verständnis für die Cloud-Transformation
-* … die erforderlichen Kenntnissen, Werkzeugen und Ressourcen
-* … die Befähigung, befähigt werden, Cloud-Strategien zu entwickeln, Implementierungen vorzubereiten und Veränderungen zu managen.
+- … ein umfassendes Verständnis für die Cloud-Transformation
+- … die erforderlichen Kenntnissen, Werkzeugen und Ressourcen
+- … die Befähigung, befähigt werden, Cloud-Strategien zu entwickeln, Implementierungen vorzubereiten und Veränderungen zu managen.
 
 ## Zielgruppe
 
 Der Workshop ist geeignet für ...
 
-* Unternehmensführung und IT-Entscheider
-* Technologieinteressierte Führungskräfte
-* IT-Manager und Teamleiter
+- Unternehmensführung und IT-Entscheider
+- Technologieinteressierte Führungskräfte
+- IT-Manager und Teamleiter
 
 ## Aufbau
 
@@ -59,18 +59,18 @@ Der Workshop ist geeignet für ...
 
 ### Cloud Transformation im Management Tag I
 
-* Einführung
-* Grundlagen der Cloud
-* Cloud Center of Excellence (CoE) und Enablement
-* Cloud Enabling
+- Einführung
+- Grundlagen der Cloud
+- Cloud Center of Excellence (CoE) und Enablement
+- Cloud Enabling
 
 Lunchbreak
 
-* Arbeitsweisen in der Cloud
-* Motivation und Change Management
-* Wirtschaftliche Aspekte der Cloud
-* Interaktive Diskussion und Q&A
-* Abschluss und Ausblick
+- Arbeitsweisen in der Cloud
+- Motivation und Change Management
+- Wirtschaftliche Aspekte der Cloud
+- Interaktive Diskussion und Q&A
+- Abschluss und Ausblick
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -84,6 +84,6 @@ Erfahren Sie mehr zu diesem Workshop in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## Weitere Workshops

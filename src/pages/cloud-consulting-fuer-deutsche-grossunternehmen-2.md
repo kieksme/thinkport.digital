@@ -1,6 +1,6 @@
 ---
-title: "Cloud - Consulting für deutsche Großunternehmen"
-publishDate: "2023-08-24T10:00:00Z"
+title: 'Cloud - Consulting für deutsche Großunternehmen'
+publishDate: '2023-08-24T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -42,12 +42,12 @@ Wir reduzieren erfolgreich den Vendor Lock-in, indem wir Ihre Infrastruktur auf 
 
 ## Thinkport Stärken
 
-* 100% Cloud fokussiert
-* Startup Spirit
-* Zertifizierter Partner von AWS, Azure und GCP
-* Arbeiten Lösungsorientiert
-* Expertise durch permanentes Lernen
-* Starkes, sich unterstützendes Team
+- 100% Cloud fokussiert
+- Startup Spirit
+- Zertifizierter Partner von AWS, Azure und GCP
+- Arbeiten Lösungsorientiert
+- Expertise durch permanentes Lernen
+- Starkes, sich unterstützendes Team
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
 
@@ -63,43 +63,43 @@ Sie benötigen eine Beratung zur Cloud-Architektur? Oder eine neue Anwendung in 
 
 ### Reta Award Winning Cooperation
 
-Implementation of a innovative architecture using Solace Pub Sub+ hosted on Microsoft Azure [EDEKA DIGITAL decided to enable access to real-time changes in ERP systems to an instore mobile app solution used by EDEKA employees using an event streaming architecture to access changes to master data in real time. Success Story](https://thinkport.digital/reta-award-winning-cooperation) 
+Implementation of a innovative architecture using Solace Pub Sub+ hosted on Microsoft Azure [EDEKA DIGITAL decided to enable access to real-time changes in ERP systems to an instore mobile app solution used by EDEKA employees using an event streaming architecture to access changes to master data in real time. Success Story](https://thinkport.digital/reta-award-winning-cooperation)
 
 ![logo BMW](images/pngwing.com-4.png)
 
 ### Echtzeit Streaming von Auto-Daten in der Cloud
 
-Aufbau einer erweiterbaren Infrastruktur [Thinkport Experten bauen eine einfach zu erweiternde Infrastruktur um Daten der Automobile weltweit in Echt-Zeit zu empfangen, prozessieren, transformieren und an die Consumption-Points zu liefern. Zur Success Story](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/) 
+Aufbau einer erweiterbaren Infrastruktur [Thinkport Experten bauen eine einfach zu erweiternde Infrastruktur um Daten der Automobile weltweit in Echt-Zeit zu empfangen, prozessieren, transformieren und an die Consumption-Points zu liefern. Zur Success Story](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
 
 ![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg.png)
 
 ### Bildanalyse in der Cloud für Bayer
 
-Machine Learning Plattform für den Pflanzenschutz der Zukunft [Eine moderne, cloud-basierte Lösung, SIMPL (Small Molecules Imaging Plattform), die den gesamten Prozess rund um Analyse und Tests von Wirkstoffen komplett neugestaltet. Dieser innovative Ansatz ermöglicht Bayer neue Erkenntnisse über den zukünftigen Pflanzenschutz. Zur Success Story](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/) 
+Machine Learning Plattform für den Pflanzenschutz der Zukunft [Eine moderne, cloud-basierte Lösung, SIMPL (Small Molecules Imaging Plattform), die den gesamten Prozess rund um Analyse und Tests von Wirkstoffen komplett neugestaltet. Dieser innovative Ansatz ermöglicht Bayer neue Erkenntnisse über den zukünftigen Pflanzenschutz. Zur Success Story](https://thinkport.digital/simpl-aws-machine-learning-fur-bayer/)
 
 ![Das Logo der Telekom](images/Telekom-Logo.png)
 
 ### API für einen 360° Kunden-Dialog der Deutschen Telekom
 
-Hochskalierbar & alle IT-Sicherheitsanforderung erfüllend [Thinkport Experten unterstützten ein Team von internen Entwicklern von der Konzeption bis hin zum Produktivgang der Anwendung. Das Ergebnis ist eine performante, hochskalierbare, vollständig automatisierte Anwendung, die ein hohes Maß an Flexibilität und Kosteneffizienz bietet. Zur Success Story](https://thinkport.digital/api-fuer-einen-360-kunden-dialog-der-deutschen-telekom/) 
+Hochskalierbar & alle IT-Sicherheitsanforderung erfüllend [Thinkport Experten unterstützten ein Team von internen Entwicklern von der Konzeption bis hin zum Produktivgang der Anwendung. Das Ergebnis ist eine performante, hochskalierbare, vollständig automatisierte Anwendung, die ein hohes Maß an Flexibilität und Kosteneffizienz bietet. Zur Success Story](https://thinkport.digital/api-fuer-einen-360-kunden-dialog-der-deutschen-telekom/)
 
 ![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo.png)
 
 ### Azure Data Plattform ermöglicht Data Science für LSG
 
-Skalierbare und kosteneffiziente Datenstrukturen in der Cloud [Für die LSG Group entwickelt Thinkport in Zusammenarbeit mit der verpartnerten AI-Strategie Agentur Birds On Mars eine prototypische Data Analytics Infrastruktur für wichtige Unternehmenskennzahlen in der Azure Cloud.​ Zur Success Story](https://thinkport.digital/azure-data-analytics-infrastruktur-fur-lsg/) 
+Skalierbare und kosteneffiziente Datenstrukturen in der Cloud [Für die LSG Group entwickelt Thinkport in Zusammenarbeit mit der verpartnerten AI-Strategie Agentur Birds On Mars eine prototypische Data Analytics Infrastruktur für wichtige Unternehmenskennzahlen in der Azure Cloud.​ Zur Success Story](https://thinkport.digital/azure-data-analytics-infrastruktur-fur-lsg/)
 
 ![Sparkview AWS Cloud Machine Learning Thinkport Consulting](images/Sparkview-small.png)
 
 ### Machine Learning Architektur für SparkView
 
-Prototyp eines AI-Modells zur Umsatzprognose von Unternehmen [Für das Fintech SparkView entwickeln Thinkport Consultants ausgefeilte Machine Learning Modelle in der AWS Cloud. Dieses fortschrittliche Projekt automatisiert anhand einer modernen ETL-Pipeline und cutting edge KI-Technologien das Backend quasi vollständig. Zur Success Story](https://thinkport.digital/aws-machine-learning-infrastruktur-sparkview) 
+Prototyp eines AI-Modells zur Umsatzprognose von Unternehmen [Für das Fintech SparkView entwickeln Thinkport Consultants ausgefeilte Machine Learning Modelle in der AWS Cloud. Dieses fortschrittliche Projekt automatisiert anhand einer modernen ETL-Pipeline und cutting edge KI-Technologien das Backend quasi vollständig. Zur Success Story](https://thinkport.digital/aws-machine-learning-infrastruktur-sparkview)
 
 ![AQT Cloud Projekt Azure Thinkport Technologie](images/aqt-small.png)
 
 ### Quantencomputer Frontend für AQT
 
-Azure Architektur für den weltweit ersten Quantencomputer [Thinkport Experten bauen für den Betreiber eines Quantencomputers eine umfassende IT Infrastruktur in der Azure Cloud. Die innovative Architektur vereint zahlreiche Azure Services in einem zentralen, hocheffizienten Cloudsystem mit einem personalisierten Zugangsportal.​ Zur Success Story](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer) 
+Azure Architektur für den weltweit ersten Quantencomputer [Thinkport Experten bauen für den Betreiber eines Quantencomputers eine umfassende IT Infrastruktur in der Azure Cloud. Die innovative Architektur vereint zahlreiche Azure Services in einem zentralen, hocheffizienten Cloudsystem mit einem personalisierten Zugangsportal.​ Zur Success Story](https://thinkport.digital/azure-cloud-fuer-den-ersten-quantencomputer)
 
 ![HPI Cloud Projekt Technologie Thinkport](images/hpi-small.png)
 
@@ -215,4 +215,4 @@ Director Sales
 
 +49 175 5386808
 
-*  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)
+-  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)

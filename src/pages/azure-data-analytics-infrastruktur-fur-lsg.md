@@ -1,6 +1,6 @@
 ---
-title: "Azure Data Analytics Infrastruktur für LSG"
-publishDate: "2020-09-10T10:00:00Z"
+title: 'Azure Data Analytics Infrastruktur für LSG'
+publishDate: '2020-09-10T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -16,7 +16,7 @@ Die [LSG Group](https://www.lsg-group.com/news/press-release/lsg-group-caters-f
 
 Um das Angebot noch genauer auf die Kunden zuschneiden zu können, braucht LSG eine breit angelegte Infrastruktur für Data Analytics. Thinkport bietet eine Azure basierte Lösung, die modernste Technologien aus dem Fachbereich der Datenauswertung einsetzt und gleichzeitig den strikten Protokollen der Endkunden gerecht wird. 
 
-Thinkport hat dieses Projekt mit ihrem Partner Birds on Mars verwirklicht. In enger Zusammenarbeit wurde ein Proof of Concept für eine Data-Analytics-Plattform entwickelt. Hierbei lag der Schwerpunkt im Auswerten von wichtigen Unternehmenskennzahlen aus verschiedenen Source-Systemen. Die größte Herausforderung bestand dabei darin, dass der Kunde aufgrund interner Auflagen die Auswahl an Cloud Services und Tools stark einschränken musste. Trotz dieser restriktiven Ausgangslage konnte Birds on Mars zusammen mit Thinkports Cloud Experten eine innovative Strategie für den Use Case entwickeln. Die Birds haben hierbei ein einzigartiges Data-Lake-Konzept hervorgebracht, das von Thinkports Azure-Architekten realisiert wurde.  
+Thinkport hat dieses Projekt mit ihrem Partner Birds on Mars verwirklicht. In enger Zusammenarbeit wurde ein Proof of Concept für eine Data-Analytics-Plattform entwickelt. Hierbei lag der Schwerpunkt im Auswerten von wichtigen Unternehmenskennzahlen aus verschiedenen Source-Systemen. Die größte Herausforderung bestand dabei darin, dass der Kunde aufgrund interner Auflagen die Auswahl an Cloud Services und Tools stark einschränken musste. Trotz dieser restriktiven Ausgangslage konnte Birds on Mars zusammen mit Thinkports Cloud Experten eine innovative Strategie für den Use Case entwickeln. Die Birds haben hierbei ein einzigartiges Data-Lake-Konzept hervorgebracht, das von Thinkports Azure-Architekten realisiert wurde.
 
 ## [Der Partner](https://www.fairside.capital/)
 
@@ -54,7 +54,7 @@ Außerdem wurden verschiedene technische und fachliche Metriken an den Monitorin
 
 Die gesamte Infrastruktur wurde in Containern auf Kubernetes bereitgestellt.
 
-## Herausragende  
+## Herausragende
 
 Technologien
 
@@ -70,8 +70,8 @@ dfries@thinkport.digital
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/dominik-fries-497ab7107)
-* [](https://www.xing.com/profile/Dominik_Fries5)
+- [](https://de.linkedin.com/in/dominik-fries-497ab7107)
+- [](https://www.xing.com/profile/Dominik_Fries5)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

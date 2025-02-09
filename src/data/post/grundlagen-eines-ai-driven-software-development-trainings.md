@@ -1,10 +1,9 @@
 ---
-title: "Grundlagen eines \"AI Driven Software Development\"-Trainings"
+title: 'Grundlagen eines "AI Driven Software Development"-Trainings'
 publishDate: 2024-01-08T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: "2.png"
+coverImage: '2.png'
 ---
 
 # Grundlagen eines "AI Driven Software Development"-Trainings
@@ -65,62 +64,62 @@ _CEO & Senior Cloud Consultant_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Cloud migration to the cloud](images/Streaming-Services-3.webp "Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.")](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
+[![Cloud migration to the cloud](images/Streaming-Services-3.webp 'Eine Person läuft mit einem Getränkebecher und einem Koffer in der anderen Hand einen gepflasterten Weg entlang. Davor der Schriftzug Migration to the Cloud - Cloud Readiness Assessment -.')](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/)
 
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ "Cloud Consulting for Migration to the Cloud")
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp "Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf")](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
+### [Cloud Consulting for Migration to the Cloud](https://thinkport.digital/cloud-consulting-for-migration-to-the-cloud/ 'Cloud Consulting for Migration to the Cloud')
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
+
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Streaming Services (8)](images/Streaming-Services-8.webp "Streaming Services (8)")](https://thinkport.digital/cloud-consulting-for-development/)
+[![Streaming Services (8)](images/Streaming-Services-8.webp 'Streaming Services (8)')](https://thinkport.digital/cloud-consulting-for-development/)
 
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ "Cloud Consulting for development")
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
-
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Cloud Consulting for development](https://thinkport.digital/cloud-consulting-for-development/ 'Cloud Consulting for development')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
+
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![ai software development 2](images/2-1024x683.png "image of software development AI related")](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/)
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
-### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ "Grundlagen eines “AI Driven Software Development”-Trainings")
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![ai software development 2](images/2-1024x683.png 'image of software development AI related')](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/)
+
+### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ 'Grundlagen eines “AI Driven Software Development”-Trainings')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ "Grundlagen eines “AI Driven Software Development”-Trainings")
+### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ 'Grundlagen eines “AI Driven Software Development”-Trainings')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Azure Databricks](images/Azure-Databricks-2.png "Auf der Abbildung sind die zwei Logos von Azure und Databricks zu sehen")](https://thinkport.digital/azure-databricks/)
+[![Azure Databricks](images/Azure-Databricks-2.png 'Auf der Abbildung sind die zwei Logos von Azure und Databricks zu sehen')](https://thinkport.digital/azure-databricks/)
 
-### [Azure Databricks](https://thinkport.digital/azure-databricks/ "Azure Databricks")
+### [Azure Databricks](https://thinkport.digital/azure-databricks/ 'Azure Databricks')
 
 [Azure Cloud](https://thinkport.digital/category/azure-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Azure Databricks](https://thinkport.digital/azure-databricks/ "Azure Databricks")
+### [Azure Databricks](https://thinkport.digital/azure-databricks/ 'Azure Databricks')
 
 [Azure Cloud](https://thinkport.digital/category/azure-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)

@@ -1,11 +1,11 @@
 ---
-title: "Digital Innovation Hub"
-date: "2023-09-08"
-coverImage: "Quantum-background-scaled.webp"
+title: 'Digital Innovation Hub'
+date: '2023-09-08'
+coverImage: 'Quantum-background-scaled.webp'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png 'Logo Bright Colours')](https://thinkport.digital)
 
 ## Thinkport | Cloud Consulting
 
@@ -157,11 +157,11 @@ Wir identifizieren gemeinsam bestehende Challenges und entwickeln skalierbare L√
 
 ## Unsere Partner f√ºr Cloud Technologien
 
- [![badge mit die google cloud und graue Text](https://thinkport.digital/wp-content/uploads/2023/09/Google_Cloud_Partner_no_outline_vertical.svg)](https://cloud.google.com/?hl=de)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partner.microsoft.com/de-de/partnership/solutions-partner)[![](images/Google_Cloud_Partner_no_outline_vertical.webp) ](https://aws.amazon.com/de/?nc2=h_lg)[![hashicorp logo over white background](images/Hashi-Badges-1024x1024.webp) ](https://www.hashicorp.com/)[![apache spark logo in gray over white background](images/Spark-Badges-1024x1024.webp) ](https://spark.apache.org/)[![confluent logo in blue over a white background](images/confluence-Badges-1024x1024.webp) ](https://www.confluent.io/de-de/)[![solace logo in green over white background](images/solace-Badges-1024x1024.webp) ](https://solace.com/)[![apalache kafka logo in black over white background](images/Kafka-Badges-1024x1024.webp)](https://kafka.apache.org/)
+[![badge mit die google cloud und graue Text](https://thinkport.digital/wp-content/uploads/2023/09/Google_Cloud_Partner_no_outline_vertical.svg)](https://cloud.google.com/?hl=de)[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png) ](https://partner.microsoft.com/de-de/partnership/solutions-partner)[![](images/Google_Cloud_Partner_no_outline_vertical.webp) ](https://aws.amazon.com/de/?nc2=h_lg)[![hashicorp logo over white background](images/Hashi-Badges-1024x1024.webp) ](https://www.hashicorp.com/)[![apache spark logo in gray over white background](images/Spark-Badges-1024x1024.webp) ](https://spark.apache.org/)[![confluent logo in blue over a white background](images/confluence-Badges-1024x1024.webp) ](https://www.confluent.io/de-de/)[![solace logo in green over white background](images/solace-Badges-1024x1024.webp) ](https://solace.com/)[![apalache kafka logo in black over white background](images/Kafka-Badges-1024x1024.webp)](https://kafka.apache.org/)
 
 ## Unsere Innovationspartner
 
- [![das Logo von infomotion, bestehend aus einer Kugel in den Farben Rosa und Orange, mit dem Namen in Rosa](images/infomotion-logo-bild-text-weiss.png)](https://www.infomotion.de/)
+[![das Logo von infomotion, bestehend aus einer Kugel in den Farben Rosa und Orange, mit dem Namen in Rosa](images/infomotion-logo-bild-text-weiss.png)](https://www.infomotion.de/)
 
 ![portrait Philipp](images/Philipp3.png)
 

@@ -1,12 +1,11 @@
 ---
-title: "Thinkport and Solace announce Partnership"
+title: 'Thinkport and Solace announce Partnership'
 publishDate: 2021-03-15T10:00:00Z
-categories: 
-  + "aws-cloud"
-coverImage: "Partnership-Announcement_Thinkport-2.png"
+categories: + "aws-cloud"
+coverImage: 'Partnership-Announcement_Thinkport-2.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 # Thinkport and Solace announce collaborative partnership
 
@@ -34,59 +33,59 @@ Thinkport is a young, fast-growing cloud consulting company with offices in Fran
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
+
+[Frontend](https://thinkport.digital/category/frontend/)
+
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ "Kublr bringt Rolling-Updates für Kubernetes")
+### [Kublr bringt Rolling-Updates für Kubernetes](https://thinkport.digital/kublr-rolling-updates-fuer-kubernetes/ 'Kublr bringt Rolling-Updates für Kubernetes')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (4)](images/Hack-with-4.png "Hack with (4)")](https://thinkport.digital/aws-rds/)
+[![Hack with (4)](images/Hack-with-4.png 'Hack with (4)')](https://thinkport.digital/aws-rds/)
 
-### [AWS Relational Database Service](https://thinkport.digital/aws-rds/ "AWS Relational Database Service")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Relational Database Service](https://thinkport.digital/aws-rds/ "AWS Relational Database Service")
+### [AWS Relational Database Service](https://thinkport.digital/aws-rds/ 'AWS Relational Database Service')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png "Kopie von Hack with (2)")](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+### [AWS Relational Database Service](https://thinkport.digital/aws-rds/ 'AWS Relational Database Service')
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png 'Kopie von Hack with (2)')](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png "Kopie von Hack with (1)")](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png 'Kopie von Hack with (1)')](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
@@ -102,4 +101,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

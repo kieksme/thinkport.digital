@@ -1,12 +1,11 @@
 ---
-title: "The 6 Most Important Things I have learned in my 6 Months using Server-less"
+title: 'The 6 Most Important Things I have learned in my 6 Months using Server-less'
 publishDate: 2018-12-15T10:00:00Z
-categories: 
-  + "big-data"
-coverImage: "serverless-1.png"
+categories: + "big-data"
+coverImage: 'serverless-1.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## Serverless Tips
 
@@ -40,9 +39,9 @@ DynamoDB is on a whole new level. Among the benefits of getting the NoSQL databa
 
 After several attempts and finally succeeding with DynamoDB, I learned that:
 
-* Do not just jump into it without getting the facts right. Understand how it works first, lest you get disappointed and move back to RDMS.
-* It has extremely powerful tools. You can use streams to attach code to table events.
-* It can feed other storage systems. It can also be used to protect other databases from enormous data volumes.
+- Do not just jump into it without getting the facts right. Understand how it works first, lest you get disappointed and move back to RDMS.
+- It has extremely powerful tools. You can use streams to attach code to table events.
+- It can feed other storage systems. It can also be used to protect other databases from enormous data volumes.
 
 ![](images/6-2.png)
 
@@ -50,22 +49,20 @@ After several attempts and finally succeeding with DynamoDB, I learned that:
 
 Traditionally, you only had to authenticate yourself and then track them by following a session ID. The session ID controlled access. This was time-saving as you only needed to do the hard work once. But there are problems associated with this approach. First, it only works if the server is in the middle. In this case, the server has been burned to the ground. Second, it exposes you to malicious attacks like CSRF. It also makes passing identity to other services very difficult.
 
-Nobody likes the CSRF attacks. This is where the JWT token comes in. Here is an illustration of how it works; 
+Nobody likes the CSRF attacks. This is where the JWT token comes in. Here is an illustration of how it works;
 
-* **Step 1:** get a JWT. You are awarded a JWT token after the authorization process.
-* **Step 2:** use it to communicate with the service you writeBelow are some reasons why you should use JWT; 
-    
+- **Step 1:** get a JWT. You are awarded a JWT token after the authorization process.
+- **Step 2:** use it to communicate with the service you writeBelow are some reasons why you should use JWT;
 
-    - The client can talk to more than one serverless activity
-    - Every request is authenticated
-    - It is secure.
-    - It is anti-monolith, 
-    - It is CSRF-free
-    
+  - The client can talk to more than one serverless activity
+  - Every request is authenticated
+  - It is secure.
+  - It is anti-monolith,
+  - It is CSRF-free
 
-    The only thing needed from your serveless code is a Custom Authorizer to determine if the header is valid.
-    
-    However, JWT makes all other types of auth look complex. Therefore, we shifted to Auth0. Surely, serverless is extremely simple and very effective.
+  The only thing needed from your serveless code is a Custom Authorizer to determine if the header is valid.
+
+  However, JWT makes all other types of auth look complex. Therefore, we shifted to Auth0. Surely, serverless is extremely simple and very effective.
 
 ![](images/7-2.png) ![](images/8-2.png)
 
@@ -87,9 +84,9 @@ I was introduced to React when I entered the world of Single Page Applications. 
 
 I soon discovered  Vue.js and my life using serverless turned around. You can learn all about Vue in just a few days. Other significant advantages of Vue include:
 
-* Everything is a component which manages its own content, design, and code. This makes it easy to manage our clients’ projects, which are quite a huge number.
-* You are provided with powerful debugging tools, a Webpack and great organization from the open-source JavaScript framework.
-* Vue allows you to develop a desktop application within the browser. This way, you can improve the user experience.
+- Everything is a component which manages its own content, design, and code. This makes it easy to manage our clients’ projects, which are quite a huge number.
+- You are provided with powerful debugging tools, a Webpack and great organization from the open-source JavaScript framework.
+- Vue allows you to develop a desktop application within the browser. This way, you can improve the user experience.
 
 In the old world, we would be deploying apps through Elastic Beanstalk. We would then monitor them for utilization and manage infrastructure. In SPAs, however, when you deploy an application, you are copying index.html, bundle.js, and some file dependencies to an s3 bucket which is front-ended by a CloudFront distribution. This grants you steady loading and distribution behavior. It also enables multi-version management.
 
@@ -115,61 +112,61 @@ We have commenced on a journey of building SPA apps which use serverless infrast
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![OpenMaps](images/OpenMaps-1024x696.png "picture blog post testdata open maps")](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+[![OpenMaps](images/OpenMaps-1024x696.png 'picture blog post testdata open maps')](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png "BDHomeBanner")](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png 'BDHomeBanner')](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Hack with (4)](images/Hack-with-4.png "Hack with (4)")](https://thinkport.digital/aws-rds-2/)
+[![Hack with (4)](images/Hack-with-4.png 'Hack with (4)')](https://thinkport.digital/aws-rds-2/)
 
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam-2/)
-
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS IAM](https://thinkport.digital/aws-iam-2/ "AWS IAM")
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam-2/)
+
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [AWS IAM](https://thinkport.digital/aws-iam-2/ 'AWS IAM')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -185,4 +182,4 @@ We have commenced on a journey of building SPA apps which use serverless infrast
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

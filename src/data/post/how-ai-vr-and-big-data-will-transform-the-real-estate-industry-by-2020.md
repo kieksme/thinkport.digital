@@ -1,12 +1,11 @@
 ---
-title: "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020"
+title: 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020'
 publishDate: 2018-12-14T10:00:00Z
-categories: 
-  + "big-data"
-coverImage: "How-AI.png"
+categories: + "big-data"
+coverImage: 'How-AI.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## Real Estate & Tech
 
@@ -18,11 +17,11 @@ coverImage: "How-AI.png"
 
 I came to learn of AI through my colleagues. I heard them speaking of a new feature that was about to be rolled out by our company. Throughout the conversation, I was blown away as it looked like the perfect thing. There was a lot of details on AI, and it had been on [the news](http://aibusiness.org/rentberry-revolutionising-the-rental-market-with-ai/) already. It made me happy to learn that our company was in the process of creating the [next-generation rental platform](https://rentberry.com/) that was AI-powered.
 
-Excited about our company’s great move, I asked my colleagues to explain every detail of the feature to me. I came up with the following; 
+Excited about our company’s great move, I asked my colleagues to explain every detail of the feature to me. I came up with the following;
 
-* Rentberry was planning to launch lots of new features.
-* The future of the real estate industry is bright as these features will change how people rent and rent out.
-* Recent advancements in the technical field will save people money, effort and time.
+- Rentberry was planning to launch lots of new features.
+- The future of the real estate industry is bright as these features will change how people rent and rent out.
+- Recent advancements in the technical field will save people money, effort and time.
 
 I am that person that is not so excited about technological advancements. Maybe it is because I fear that one-day technology will take over and human beings will be deemed not important. But this information didn’t scare me at all. To say the least, it gave me hope for the future.
 
@@ -62,61 +61,61 @@ As someone that has full knowledge in IT and rental business, I can confidently 
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (3)](images/Reasons-Why-3.png "Reasons Why (3)")](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Reasons Why (3)](images/Reasons-Why-3.png 'Reasons Why (3)')](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Hack with (5)](images/Hack-with-5.png "Hack with (5)")](https://thinkport.digital/aws-elastic-beanstalk-2/)
+[![Hack with (5)](images/Hack-with-5.png 'Hack with (5)')](https://thinkport.digital/aws-elastic-beanstalk-2/)
 
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (4)](images/Hack-with-4.png "Hack with (4)")](https://thinkport.digital/aws-rds-2/)
-
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
+[![Hack with (4)](images/Hack-with-4.png 'Hack with (4)')](https://thinkport.digital/aws-rds-2/)
+
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -132,4 +131,4 @@ As someone that has full knowledge in IT and rental business, I can confidently 
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

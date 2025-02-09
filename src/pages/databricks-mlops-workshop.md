@@ -1,6 +1,6 @@
 ---
-title: "Databricks MLOps Workshop"
-publishDate: "2024-04-18T10:00:00Z"
+title: 'Databricks MLOps Workshop'
+publishDate: '2024-04-18T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie MLOps Expert:in mit unserem Training
 
 ## Auf einen Blick
 
-* 3 Tage
-* Individuell
-* Workshop
-* Vor Ort
+- 3 Tage
+- Individuell
+- Workshop
+- Vor Ort
 
 Ziel dieses drei tägigen Gruppen-Trainings ist es, Sie in Theorie und Praxis zu einer/m souveränen Expert:in auszubilden. Anhand einer Machine Learning-Fallstudie aus der Praxis werden Sie eine umfassende MLOps-Lösung selbst erarbeiten. Für wen ist das ideal? Für IT Entscheider in mittelständischen bis großen DAX-Unternehmen. Jetzt Termin sichern.
 
@@ -27,17 +27,17 @@ Unser Workshop baut auf den vollumfänglichen Lösungen von Databricks. Dadurch 
 
 Teilnehmer haben nach Abschluss...
 
-* ...die Datenversionierung und das Experimenttracking
-* … die Modellverwaltung und Bereitstellung
-* … das Monitoring von Datendrift und Modellleistung
-* … die Verwaltung von KI-Assets und Feature-Tabellen
+- ...die Datenversionierung und das Experimenttracking
+- … die Modellverwaltung und Bereitstellung
+- … das Monitoring von Datendrift und Modellleistung
+- … die Verwaltung von KI-Assets und Feature-Tabellen
 
 ## Teilnehmer
 
 Der Kurs ist geeignet für Personen mit...
 
-* Software Engineers
-* MLOps Engineers und Machine Learning Engineers die an der Überführung von Machine-Learning-Modellen in die Produktion sowie an deren anschließenden Wartung und Überwachung interessiert sind
+- Software Engineers
+- MLOps Engineers und Machine Learning Engineers die an der Überführung von Machine-Learning-Modellen in die Produktion sowie an deren anschließenden Wartung und Überwachung interessiert sind
 
 ## Workshop Aufbau
 
@@ -45,31 +45,31 @@ Der Kurs ist geeignet für Personen mit...
 
 ### First Contact Tag I
 
-* Databricks Lakehouse
-* Unity Catalog
-* Hands-on Lab
-* Lunch Break
-* Delta Lake
-* Feature Store
-* Feature Engineering
-* Hands-on Lab
+- Databricks Lakehouse
+- Unity Catalog
+- Hands-on Lab
+- Lunch Break
+- Delta Lake
+- Feature Store
+- Feature Engineering
+- Hands-on Lab
 
 ### Modeling Tag II
 
-* Databricks Workflows
-* Hands-on Lab
-* Lunch Break
-* Model Management
-* Model Registry
-* Hands-on Lab
+- Databricks Workflows
+- Hands-on Lab
+- Lunch Break
+- Model Management
+- Model Registry
+- Hands-on Lab
 
 ### Refining Tag III
 
-* Deployment Paradigmen
-* Hands-on Lab
-* Lunch Break
-* Monitoring
-* Hands-on Lab
+- Deployment Paradigmen
+- Hands-on Lab
+- Lunch Break
+- Monitoring
+- Hands-on Lab
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 

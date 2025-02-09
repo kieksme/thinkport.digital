@@ -1,6 +1,6 @@
 ---
-title: "Terraform für AWS Lernen"
-date: "2020-08-26"
+title: 'Terraform für AWS Lernen'
+date: '2020-08-26'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 3 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 3 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie mit diesem Terraform AWS Training hands-on ganze Infrastrukturen mit IaC im Handumdrehen bereitzustellen. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -25,33 +25,33 @@ Dem Zeitgeist entsprechend setzen zunehmend viele Unternehmen auf Infrastructure
 
 ## Termine
 
-25.06. - 27.06.24 Terraform für AWS Training  
+25.06. - 27.06.24 Terraform für AWS Training
 
-08.07. - 10.07.24 Terraform für AWS Training  
+08.07. - 10.07.24 Terraform für AWS Training
 
-12.08. - 14.08.24 Terraform für AWS Training  
+12.08. - 14.08.24 Terraform für AWS Training
 
 \* individuelle Termine möglich
 
 ## Preis
 
-2.200 € zzgl. MwSt.  
+2.200 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Ganze Architekturen mit Terraform aufsetzen
-* Skalierbare und sichere AWS Architekturen definieren
-* Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
+- Ganze Architekturen mit Terraform aufsetzen
+- Skalierbare und sichere AWS Architekturen definieren
+- Workflows über eine CI/CD-Pipeline anhand von GitLab automatisieren (optional)
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-* Grundlegendem Verständnis in den Bereichen AWS Cloud und Systemadministration
-* Mittleren Scripting Kenntnissen
-* Interesse, Infrastructure as Code zu lernen
+- Grundlegendem Verständnis in den Bereichen AWS Cloud und Systemadministration
+- Mittleren Scripting Kenntnissen
+- Interesse, Infrastructure as Code zu lernen
 
 ## Aufbau
 
@@ -59,39 +59,39 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Grundlagen Tag I
 
-* Installation und Einführung in Terraform
-* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-* Erstellen von Terraform Modulen
-* Lab: Planung einer ersten AWS-Architektur mit Terraform
+- Installation und Einführung in Terraform
+- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+- Erstellen von Terraform Modulen
+- Lab: Planung einer ersten AWS-Architektur mit Terraform
 
 ### AWS Infrastruktur Tag II
 
-* Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
-* Lab: Entwicklung von AWS-Architekturen mit Terraform
+- Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
+- Lab: Entwicklung von AWS-Architekturen mit Terraform
 
 ### DevOps Tag III
 
-* Einführung in GitLab und Erstellen einer Pipeline
-* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
-* Dieser Teil des Kurses ist optional
+- Einführung in GitLab und Erstellen einer Pipeline
+- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
+- Dieser Teil des Kurses ist optional
 
-* Installation und Einführung in Terraform
-* Kennenlernen von wichtigen Befehlen, Variablen und Outputs
-* Erstellen von Terraform Modulen
-* Lab: Planung einer ersten AWS-Architektur mit Terraform
+- Installation und Einführung in Terraform
+- Kennenlernen von wichtigen Befehlen, Variablen und Outputs
+- Erstellen von Terraform Modulen
+- Lab: Planung einer ersten AWS-Architektur mit Terraform
 
-* Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
-* Lab: Entwicklung von AWS-Architekturen mit Terraform
+- Kennenlernen von wichtigen AWS-Services wie EC2, IAM, Subnets, Gateways und mehr
+- Lab: Entwicklung von AWS-Architekturen mit Terraform
 
-* Einführung in GitLab und Erstellen einer Pipeline
-* Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
-* Dieser Teil des Kurses ist optional
+- Einführung in GitLab und Erstellen einer Pipeline
+- Lab: Deployment einer einfachen REST API (in Python) mit Terraform, GitLab, Docker und weiteren AWS Technologien
+- Dieser Teil des Kurses ist optional
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
 ## Erfolge
 
-Die Lerninhalte von "Terraform AWS Training" werden von unseren Trainern spannend und eingänglich vermittelt. Von zertifizierten Cloud Profis lernen Sie Architekturen mit Terraform aufzusetzen.  
+Die Lerninhalte von "Terraform AWS Training" werden von unseren Trainern spannend und eingänglich vermittelt. Von zertifizierten Cloud Profis lernen Sie Architekturen mit Terraform aufzusetzen.
 
 ## Unterstützung
 
@@ -105,7 +105,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 

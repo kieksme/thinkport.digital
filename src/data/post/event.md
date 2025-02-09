@@ -1,10 +1,9 @@
 ---
-title: "Microservices Meetup Rhein-Main March 2020"
+title: 'Microservices Meetup Rhein-Main March 2020'
 publishDate: 2020-02-09T10:00:00Z
-categories: 
-  + "events"
+categories: + "events"
   + "news"
-coverImage: "MicroservicesMeetup.jpeg"
+coverImage: 'MicroservicesMeetup.jpeg'
 ---
 
 [![](images/Logo_horizontral_new.png)](https://thinkport.digital)
@@ -35,4 +34,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

@@ -1,13 +1,12 @@
 ---
-title: "Kublr bringt Rolling-Updates für Kubernetes"
+title: 'Kublr bringt Rolling-Updates für Kubernetes'
 publishDate: 2020-03-30T10:00:00Z
-categories: 
-  + "aws-cloud"
+categories: + "aws-cloud"
   + "cloud-kubernetes"
-coverImage: "Kublr-bringt-Rolling.png"
+coverImage: 'Kublr-bringt-Rolling.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 Updates für Kubernetes
 
@@ -63,73 +62,73 @@ Diese Statistiken legen zusammengenommen und nachdrücklich nahe, dass mehr IT-E
 
 “We’ll expand the IT ops team’s ability to deliver Kubernetes across their organization in a reliable and well-governed manner, ” sagte Chunikhin.  Geplante Funktionen umfassen:
 
-* Beibehaltung der Versionsparität von Kubernetes und anderen Komponenten
+- Beibehaltung der Versionsparität von Kubernetes und anderen Komponenten
 
-* Kublr ist eine der wenigen Kubernetes-Lösungen für Unternehmen, die die neueste Version von Kubernetes unterstützen.
+- Kublr ist eine der wenigen Kubernetes-Lösungen für Unternehmen, die die neueste Version von Kubernetes unterstützen.
 
-* Unterstützung für extern bereitgestellte Cluster (z. B. Cloud-verwaltete Kubernetes und andere Kubernetes-Bereitstellungs- und Management-Tools). Diese Funktion wird die Betriebsfunktionen von Kublr, wie z. B. die zentralisierte Logsammlung, Überwachung, Sicherheit und RBAC, auf nicht von Kublr bereitgestellte Cluster ausweiten.
+- Unterstützung für extern bereitgestellte Cluster (z. B. Cloud-verwaltete Kubernetes und andere Kubernetes-Bereitstellungs- und Management-Tools). Diese Funktion wird die Betriebsfunktionen von Kublr, wie z. B. die zentralisierte Logsammlung, Überwachung, Sicherheit und RBAC, auf nicht von Kublr bereitgestellte Cluster ausweiten.
 
-* Umfassende Governance-Richtlinien, die es dem IT-Betrieb ermöglichen, Governance-Regeln und Grenzen zu definieren, innerhalb derer Software-Entwicklungsteams Kubernetes-Cluster verwenden und betreiben können, einschließlich Netzwerk, Zugriffskontrolle, Ressourcenkontingente usw.
+- Umfassende Governance-Richtlinien, die es dem IT-Betrieb ermöglichen, Governance-Regeln und Grenzen zu definieren, innerhalb derer Software-Entwicklungsteams Kubernetes-Cluster verwenden und betreiben können, einschließlich Netzwerk, Zugriffskontrolle, Ressourcenkontingente usw.
 
-* Erweiterte Funktionen im Zusammenhang mit der Bereitstellung von Kubernetes an mehreren Standorten (Multi-Cloud, Multi-Region, Hybrid), einschließlich Netzwerkkonnektivität, Föderation, Datenreplikation, Orchestrierung an mehreren Standorten und DR.
+- Erweiterte Funktionen im Zusammenhang mit der Bereitstellung von Kubernetes an mehreren Standorten (Multi-Cloud, Multi-Region, Hybrid), einschließlich Netzwerkkonnektivität, Föderation, Datenreplikation, Orchestrierung an mehreren Standorten und DR.
 
-* Eine Vielzahl von Anwendungspaketen und Partner-Integrationen wie CI/CD (Spinnaker, Jenkins), Service-Meshes (Istio, Linkerd), FaaS (OpenFaaS), Sicherheit (NeuVector), Speicherung (Ceph/Rook, Portworx, Yugabyte, HDFS), Datenwissenschaft (Spark).
+- Eine Vielzahl von Anwendungspaketen und Partner-Integrationen wie CI/CD (Spinnaker, Jenkins), Service-Meshes (Istio, Linkerd), FaaS (OpenFaaS), Sicherheit (NeuVector), Speicherung (Ceph/Rook, Portworx, Yugabyte, HDFS), Datenwissenschaft (Spark).
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
+
+[Frontend](https://thinkport.digital/category/frontend/)
+
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why](images/Reasons-Why.png "Reasons Why")](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/)
+[![Reasons Why](images/Reasons-Why.png 'Reasons Why')](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/)
 
-### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ "Reasons Why DynamoDB is Not for Everyone")
+### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ 'Reasons Why DynamoDB is Not for Everyone')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ "Reasons Why DynamoDB is Not for Everyone")
+### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ 'Reasons Why DynamoDB is Not for Everyone')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Airflow on AWS](images/Kafka-1-1024x696.png "picture blog post Airflow")](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
+[![Airflow on AWS](images/Kafka-1-1024x696.png 'picture blog post Airflow')](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
 
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![GreatUI](images/Kopie-von-Hack-with.png "GreatUI")](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![GreatUI](images/Kopie-von-Hack-with.png 'GreatUI')](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
@@ -145,4 +144,4 @@ Diese Statistiken legen zusammengenommen und nachdrücklich nahe, dass mehr IT-E
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

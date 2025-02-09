@@ -1,12 +1,11 @@
 ---
-title: "AWS-Reinvent-Review2022"
+title: 'AWS-Reinvent-Review2022'
 publishDate: 2022-12-21T10:00:00Z
-categories: 
-  + "aws-cloud"
-coverImage: "test4.0.png"
+categories: + "aws-cloud"
+coverImage: 'test4.0.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # AWS re: Invent Review 2022
 
@@ -72,60 +71,60 @@ Der Thinkport AWS Circle wünscht Ihnen allen schöne Feiertage und einen guten 
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Hack with (5)](images/Hack-with-5.png "Hack with (5)")](https://thinkport.digital/aws-elastic-beanstalk-2/)
+[![Hack with (5)](images/Hack-with-5.png 'Hack with (5)')](https://thinkport.digital/aws-elastic-beanstalk-2/)
 
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ "AWS Elastic Beanstalk")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (1)](images/Hack-with-1.png "Hack with (1)")](https://thinkport.digital/aws-s3/)
-
-### [AWS Simple Storage Service](https://thinkport.digital/aws-s3/ "AWS Simple Storage Service")
+### [AWS Elastic Beanstalk](https://thinkport.digital/aws-elastic-beanstalk-2/ 'AWS Elastic Beanstalk')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS Simple Storage Service](https://thinkport.digital/aws-s3/ "AWS Simple Storage Service")
+[![Hack with (1)](images/Hack-with-1.png 'Hack with (1)')](https://thinkport.digital/aws-s3/)
+
+### [AWS Simple Storage Service](https://thinkport.digital/aws-s3/ 'AWS Simple Storage Service')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [AWS Simple Storage Service](https://thinkport.digital/aws-s3/ 'AWS Simple Storage Service')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
+
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Hack with](images/Hack-with.png "Hack with")](https://thinkport.digital/aws-ec2/)
+[![Hack with](images/Hack-with.png 'Hack with')](https://thinkport.digital/aws-ec2/)
 
-### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ "AWS Elastic Compute Cloud")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ "AWS Elastic Compute Cloud")
+### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ 'AWS Elastic Compute Cloud')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ 'AWS Elastic Compute Cloud')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)

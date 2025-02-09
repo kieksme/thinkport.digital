@@ -1,13 +1,12 @@
 ---
-title: "IT-Automatisierung als Antwort gegen die Corona-Krise"
+title: 'IT-Automatisierung als Antwort gegen die Corona-Krise'
 publishDate: 2020-03-30T10:00:00Z
-categories: 
-  + "aws-cloud"
+categories: + "aws-cloud"
   + "big-data"
-coverImage: "IT-Automatisierung.png"
+coverImage: 'IT-Automatisierung.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # IT-Automatisierung als Antwort gegen die Corona-Krise
 
@@ -43,75 +42,75 @@ Die Ausbreitung des Coronavirus erfolgt besonders für neue als auch für aussch
 
 ### Zusätzliche Tipps zur Pandemievorsorge für IT-Teams:
 
-* Bewertung der IT-Lieferkette zur Bestimmung der Vorbereitung
-* Implementierung von Lösungen zur Verwaltung von dezentralen Rechenzentren
-* Überprüfung und/oder Implementierung von Richtlinien für die Fernarbeit, insbesondere Fragen bezüglich BYOD, vom Unternehmen ausgegebene IT-Equipment, priorisierte Zugänge und Internet - Bandbreitenkapazität
-* Nutzen der Cloud, um mögliche Risiken zu mildern
-* Untersuchung und Nutzung alternativer Kommunikationskanäle (Sprache, Chat usw.)
-* Webbasierte Videokonferenzen nutzen
-* Entscheiden, welche Geschäftsvorgänge, die einen hohen Ressourcen Verbrauch erfordern, fortgesetzt werden müssen und welche verschoben werden können
-* Verzögerung/Verschiebung nicht wesentlicher IT-Operationen
-* Staffelung der Betriebszeiten und der Personalzuweisung zur Erleichterung der Bandbreiten Nachfrage
-* IT-Budget und Projekte entsprechend neu ausrichten
+- Bewertung der IT-Lieferkette zur Bestimmung der Vorbereitung
+- Implementierung von Lösungen zur Verwaltung von dezentralen Rechenzentren
+- Überprüfung und/oder Implementierung von Richtlinien für die Fernarbeit, insbesondere Fragen bezüglich BYOD, vom Unternehmen ausgegebene IT-Equipment, priorisierte Zugänge und Internet - Bandbreitenkapazität
+- Nutzen der Cloud, um mögliche Risiken zu mildern
+- Untersuchung und Nutzung alternativer Kommunikationskanäle (Sprache, Chat usw.)
+- Webbasierte Videokonferenzen nutzen
+- Entscheiden, welche Geschäftsvorgänge, die einen hohen Ressourcen Verbrauch erfordern, fortgesetzt werden müssen und welche verschoben werden können
+- Verzögerung/Verschiebung nicht wesentlicher IT-Operationen
+- Staffelung der Betriebszeiten und der Personalzuweisung zur Erleichterung der Bandbreiten Nachfrage
+- IT-Budget und Projekte entsprechend neu ausrichten
 
 Diese jüngste katastrophale Gesundheitskrise erinnert uns daran, wie anfällig Unternehmen für äußere Umstände sein können. Durch den Einsatz neuester Technologien, wie z. B. intelligenter IT-Prozessautomatisierung, können Unternehmen ihre Mitarbeiter schützen und mögliche Auswirkungen minimieren. Da sich gezeigt hat, dass die Ermöglichung von Fernarbeit die Produktivität verbessert, die Mitarbeiterfluktuation verringert und die Betriebskosten senkt, könnten Unternehmen, die diese Richtlinien umsetzen, am Ende der Krise stärker daraus hervorgehen als zuvor.
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png "Partnership Announcement_Thinkport (2)")](https://thinkport.digital/thinkport-solace-partnership/)
+[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png 'Partnership Announcement_Thinkport (2)')](https://thinkport.digital/thinkport-solace-partnership/)
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Airflow on AWS](images/Kafka-1-1024x696.png "picture blog post Airflow")](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
-
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+[![Airflow on AWS](images/Kafka-1-1024x696.png 'picture blog post Airflow')](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
+
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (2)](images/Reasons-Why-2.png "Reasons Why (2)")](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Reasons Why (2)](images/Reasons-Why-2.png 'Reasons Why (2)')](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png "Kopie von Hack with (2)")](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png 'Kopie von Hack with (2)')](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why](images/Reasons-Why.png "Reasons Why")](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/)
+[![Reasons Why](images/Reasons-Why.png 'Reasons Why')](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/)
 
-### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ "Reasons Why DynamoDB is Not for Everyone")
+### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ 'Reasons Why DynamoDB is Not for Everyone')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ "Reasons Why DynamoDB is Not for Everyone")
+### [Reasons Why DynamoDB is Not for Everyone](https://thinkport.digital/reasons-why-dynamodb-is-not-for-everyone/ 'Reasons Why DynamoDB is Not for Everyone')
 
 [Big Data](https://thinkport.digital/category/big-data/)

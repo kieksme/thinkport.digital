@@ -1,12 +1,11 @@
 ---
-title: "Kafka-Fundamentals"
+title: 'Kafka-Fundamentals'
 publishDate: 2023-01-20T10:00:00Z
-categories: 
-  + "streaming"
-coverImage: "BlogTeaser_KafkaFundamentals.png"
+categories: + "streaming"
+coverImage: 'BlogTeaser_KafkaFundamentals.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Kafka Fundamentals – Grundlagen der Event-Streaming-Plattform erklärt
 
@@ -22,9 +21,9 @@ Mithilfe von Apache Kafka ist es möglich, Datenströme über eine verteilte Pla
 
 Apache Kafka ist eine Event-Streaming-Plattform. Doch was genau verbirgt sich hinter dem Begriff? Einfach gesagt, verfügt die Anwendung über drei Kernfunktionen, die Sie entsprechend Ihrer Bedürfnisse implementieren können:
 
-* Schreiben und Lesen von Events sowie kontinuierlicher Import und Export von Daten aus und in andere Systeme
-* Dauerhaftes und zuverlässiges Speichern von Events
-* Asynchrone Verarbeitung von Events in Echtzeit
+- Schreiben und Lesen von Events sowie kontinuierlicher Import und Export von Daten aus und in andere Systeme
+- Dauerhaftes und zuverlässiges Speichern von Events
+- Asynchrone Verarbeitung von Events in Echtzeit
 
 ![Apache Kafka Logo mit Schriftzug](images/Apache-Kafka-Logo.png)
 
@@ -44,12 +43,12 @@ Die gespeicherten Informationen werden im Cluster repliziert und verteilt. Dort 
 
 Als Ergänzung zu den Befehlszeilen-Tools verfügt Apache Kafka über 5 Kern-APIs, die verschiedene Aufgaben übernehmen:
 
-* Mit der **Admin-API** managen und überprüfen Sie Topics, Broker und weitere Objekte in Kafka.
-* Die **Producer-API** erlaubt Anwendungen das Schreiben von Daten und Nachrichten in das Kafka-Cluster.
-* Über die **Consumer-API** lassen sich Event-Streams des Kafka-Clusters auslesen und verarbeiten.
+- Mit der **Admin-API** managen und überprüfen Sie Topics, Broker und weitere Objekte in Kafka.
+- Die **Producer-API** erlaubt Anwendungen das Schreiben von Daten und Nachrichten in das Kafka-Cluster.
+- Über die **Consumer-API** lassen sich Event-Streams des Kafka-Clusters auslesen und verarbeiten.
 
-* Die **Streams-API** dient der Implementierung von Stream-Processing-Applikationen und Microservices. Es handelt sich dabei um eine Java-Bibliothek, die Datenströme zustandsbehaftet und fehlertolerant verarbeiten kann. Der Input wird von einem oder mehreren Topics gelesen und zu einem Output für ein oder mehrere Topics umgewandelt. Zu den bereitgestellten Operatoren gehören das Filtern, Gruppieren und Zuordnen von Daten. Außerdem unterstützt die Streams-API Tabellen, Joins und Zeitfenster.
-* Die **Connect-API** basiert auf der Producer- und der Consumer-API. Mit ihr erstellen Sie wiederverwendbare Datenimport- und -exportschnittstellen zur Kommunikation mit Drittsystemen. Hier stehen bereits zahlreiche kommerzielle und freie Konnektoren bereit, die sich für die Verbindung mit Systemen von verschiedenen Herstellern eignen.
+- Die **Streams-API** dient der Implementierung von Stream-Processing-Applikationen und Microservices. Es handelt sich dabei um eine Java-Bibliothek, die Datenströme zustandsbehaftet und fehlertolerant verarbeiten kann. Der Input wird von einem oder mehreren Topics gelesen und zu einem Output für ein oder mehrere Topics umgewandelt. Zu den bereitgestellten Operatoren gehören das Filtern, Gruppieren und Zuordnen von Daten. Außerdem unterstützt die Streams-API Tabellen, Joins und Zeitfenster.
+- Die **Connect-API** basiert auf der Producer- und der Consumer-API. Mit ihr erstellen Sie wiederverwendbare Datenimport- und -exportschnittstellen zur Kommunikation mit Drittsystemen. Hier stehen bereits zahlreiche kommerzielle und freie Konnektoren bereit, die sich für die Verbindung mit Systemen von verschiedenen Herstellern eignen.
 
 ![Bild Collage mit einer Wolke über einem Haus, wobei mit zwei orangenen Pfeilen ein Austausch dargestellt werden soll.](images/Kafka-Fundamentals-1-1024x1024.png)
 
@@ -89,62 +88,62 @@ Wollen Sie mehr über die Event-Streaming-Plattform, ihre Funktionsweise und die
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png "Eine Frau arbeitet am Server")](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png 'Eine Frau arbeitet am Server')](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
-
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Azure Databricks](images/Azure-Databricks-2.png "Auf der Abbildung sind die zwei Logos von Azure und Databricks zu sehen")](https://thinkport.digital/azure-databricks/)
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
-### [Azure Databricks](https://thinkport.digital/azure-databricks/ "Azure Databricks")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
+
+[![Azure Databricks](images/Azure-Databricks-2.png 'Auf der Abbildung sind die zwei Logos von Azure und Databricks zu sehen')](https://thinkport.digital/azure-databricks/)
+
+### [Azure Databricks](https://thinkport.digital/azure-databricks/ 'Azure Databricks')
 
 [Azure Cloud](https://thinkport.digital/category/azure-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Azure Databricks](https://thinkport.digital/azure-databricks/ "Azure Databricks")
+### [Azure Databricks](https://thinkport.digital/azure-databricks/ 'Azure Databricks')
 
 [Azure Cloud](https://thinkport.digital/category/azure-cloud/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1.png "Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.")](https://thinkport.digital/was-ist-cloud-consulting/)
-
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1.png 'Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.')](https://thinkport.digital/was-ist-cloud-consulting/)
+
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
+
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

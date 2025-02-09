@@ -1,6 +1,6 @@
 ---
-title: "CI/CD mit AWS"
-publishDate: "2021-06-04T10:00:00Z"
+title: 'CI/CD mit AWS'
+publishDate: '2021-06-04T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 1 Tag
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 1 Tag
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie mit CI CD AWS robuste und hochverfügbare Pipelines zu entwickeln. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -25,33 +25,33 @@ Fast keine Anwendungen werden heutzutage ohne CI/CD (Continuous Integration / Co
 
 ## Termine
 
-21.06.24 CI/ CD AWS  
+21.06.24 CI/ CD AWS
 
-19.07.24 CI/ CD AWS  
+19.07.24 CI/ CD AWS
 
-16.08.24 CI/ CD AWS  
+16.08.24 CI/ CD AWS
 
 \* individuelle Termine möglich
 
 ## Preis
 
-700 € zzgl. MwSt.  
+700 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Architektur und Aufbau ausgereifter und moderner CI/CD Pipelines mit AWS
-* Schlüsselkomponente einbeziehen
-* Effektive Kombination aus AWS-Berechnungen und -Services nutzen
+- Architektur und Aufbau ausgereifter und moderner CI/CD Pipelines mit AWS
+- Schlüsselkomponente einbeziehen
+- Effektive Kombination aus AWS-Berechnungen und -Services nutzen
 
 ## Zielgruppe
 
 ## Der Kurs ist geeignet für Personen mit...
 
-* Kenntnissen und Erfahrung in AWS-Entwicklung und -Architektur
-* Kenntnissen in DevOps
-* die Anwendungen mit AWS erstellen
+- Kenntnissen und Erfahrung in AWS-Entwicklung und -Architektur
+- Kenntnissen in DevOps
+- die Anwendungen mit AWS erstellen
 
 ## Aufbau
 
@@ -59,15 +59,15 @@ Teilnehmer können nach Abschluss...
 
 ### CI/CD Tag I
 
-* Einführung: Was ist CI/CD und warum sie das brauchen
-* AWS DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
-* Integration mit Git: CodeCommit & GitHub
-* Erstellen und Bereitstellen einer Hello-World Anwendung
+- Einführung: Was ist CI/CD und warum sie das brauchen
+- AWS DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
+- Integration mit Git: CodeCommit & GitHub
+- Erstellen und Bereitstellen einer Hello-World Anwendung
 
-* Einführung: Was ist CI/CD und warum sie das brauchen
-* AWS DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
-* Integration mit Git: CodeCommit & GitHub
-* Erstellen und Bereitstellen einer Hello-World Anwendung
+- Einführung: Was ist CI/CD und warum sie das brauchen
+- AWS DevOps Services im Überblick: CodePipeline, CodeBuild, CodeDeploy, CodeStar
+- Integration mit Git: CodeCommit & GitHub
+- Erstellen und Bereitstellen einer Hello-World Anwendung
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -87,7 +87,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 

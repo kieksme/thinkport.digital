@@ -1,12 +1,11 @@
 ---
-title: "ESG-Datenplattform"
+title: 'ESG-Datenplattform'
 publishDate: 2024-08-07T10:00:00Z
-author: "Dominik Fries"
-categories: 
-  + "big-data"
+author: 'Dominik Fries'
+categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
-image: "https://thinkport.digital/wp-content/uploads/2024/08/Titelbild-Bild-2-768x768.png"
+image: 'https://thinkport.digital/wp-content/uploads/2024/08/Titelbild-Bild-2-768x768.png'
 ---
 
 ## Die maßgeschneiderte Lösung für das automatisierte ESG-Reporting
@@ -39,7 +38,7 @@ Um die in den EU-Taxonomien und im ESRS definierten ESG-KPIs in ihrer Komplexit�
 
 Das Ziel ist klar: Alle für das ESG-Reporting notwendigen Daten vollständig, automatisiert und zentral abzulegen, um daraus mit minimalem Aufwand ein fertiges Reporting zu erhalten. Eine ESG-Datenplattform kann das ermöglichen und kann gleichzeitig die Basis für ein datengetriebenes Nachhaltigkeitsmanagement sein.
 
-![Links befindet sich ein futuristisches Bild und rechts oben ein kleiner Zeitlicher Ausblick und anschließend eine Zusammenfassung.](images/Bild-Whitepaper-Vorschau-qs60p9m357cho5yshfdih524mkx6nopa6andziafr8.png "ESG-Whitepaper-Vorschau") [Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
+![Links befindet sich ein futuristisches Bild und rechts oben ein kleiner Zeitlicher Ausblick und anschließend eine Zusammenfassung.](images/Bild-Whitepaper-Vorschau-qs60p9m357cho5yshfdih524mkx6nopa6andziafr8.png 'ESG-Whitepaper-Vorschau') [Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
 
 Selbstverständlich können Sie sich auch direkt an unsere Expert:innen wenden und sich noch heute einen Termin zum direkten Austausch ausmachen. Thinkport liefert immer eine individuelle und maßgeschneiderte Lösung, um Sie dorthin zu bringen, wo Sie hinwollen.
 
@@ -61,62 +60,62 @@ _ESG | Data Experte_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.webp "Skalierbarkeit01")](https://thinkport.digital/streaming-und-skalierbarkeit/)
+[![Skalierbarkeit01](images/Skalierbarkeit01-1024x1024.webp 'Skalierbarkeit01')](https://thinkport.digital/streaming-und-skalierbarkeit/)
 
-### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ "Event-getriebene Anwendungen effektiv betreiben")
-
-[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
-
-### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ "Event-getriebene Anwendungen effektiv betreiben")
+### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ 'Event-getriebene Anwendungen effektiv betreiben')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp "Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf")](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
+### [Event-getriebene Anwendungen effektiv betreiben](https://thinkport.digital/streaming-und-skalierbarkeit/ 'Event-getriebene Anwendungen effektiv betreiben')
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
+[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+[![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/)
 
-### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ "Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp "Solace vs Confuence Post (680 × 450 px)")](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
-
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
+### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![fail2bail teaser](images/4-1024x683.webp "fail2bail teaser")](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp "terraform verlinken teaser")](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
-### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ "Setup Hashcorp Nomad mit Terraform")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![terraform verlinken teaser](images/terraform-verlinken-1024x683.webp 'terraform verlinken teaser')](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/)
+
+### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ "Setup Hashcorp Nomad mit Terraform")
+### [Setup Hashcorp Nomad mit Terraform](https://thinkport.digital/setup-hashcorp-nomad-mit-terraform/ 'Setup Hashcorp Nomad mit Terraform')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)

@@ -1,6 +1,6 @@
 ---
-title: "Unternehmen"
-date: "2019-04-02"
+title: 'Unternehmen'
+date: '2019-04-02'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,19 +10,18 @@ Cloud Consulting with Startup Spirit
 
 0 Offices 0 + Spannende Projekte 0 Gründungsjahr
 
-Wir sind ein Pionier in der Entwicklung innovativer Cloud-Technologien und unterstützen deutschsprachige Großunternehmen bei Projekten in den Bereichen Cloud-Migration, -Entwicklung und -Training.  
-  
+Wir sind ein Pionier in der Entwicklung innovativer Cloud-Technologien und unterstützen deutschsprachige Großunternehmen bei Projekten in den Bereichen Cloud-Migration, -Entwicklung und -Training.
+
 Dank unserer Partnerschaften mit Amazon Web Services, Microsoft Azure, HashiCorp und Confluent arbeiten wir für unsere Kunden stets mit den modernsten Tools, um unsere Vision zu verwirklichen.
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital) [](#linksection)[Consulting](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/) [Trainings](https://thinkport.digital/cloud-trainings-workshops/)
 
 ## Vision & Stärke
 
-  
-Wir bringen Deutschland in die Cloud.  
-  
-Mit unserem erfahrenen Team beschleunigen wir Digitalisierungsansätze und Softwareprojekte.  
-  
+Wir bringen Deutschland in die Cloud.
+
+Mit unserem erfahrenen Team beschleunigen wir Digitalisierungsansätze und Softwareprojekte.
+
 Neben unserer technologischen Expertise verankern wir in den Projekten unserer Kunden auch innovative Denkweisen und Startup-Spirit. Wir überdenken bestehende Architekturen und gehen ineffiziente Lösungen an. Unsere datengetriebene und iterative Arbeitsweise richtet sich ganz nach dem avantgardistischen Geist von Silicon Valley.
 
 ## Erfolgsgeschichte
@@ -141,146 +140,144 @@ Stetige Akquise neuer Kunden und Projekte trotz Coronakrise
 
 Etablieren weiterer Partnerschaften mit Solace, Google und weiteren Cloud Agenturen
 
-## Ein  
+## Ein
 
 ausgezeichnetes  
 Team
 
 ### Frankfurt
 
-![Tobi](images/AnyConv.com__Tobi.webp "Portrait Tobias")    Tobias CEO    ![alex](images/alex-2.webp "Portrait Alex")
+![Tobi](images/AnyConv.com__Tobi.webp 'Portrait Tobias') Tobias CEO ![alex](images/alex-2.webp 'Portrait Alex')
 
-    Alex Business Unit Lead  
+    Alex Business Unit Lead
 
-Transportation & Logistic 
+Transportation & Logistic
 
-![Keith](images/keith-1-1.webp "Portrait Keith")
+![Keith](images/keith-1-1.webp 'Portrait Keith')
 
-    Keith Business Unit Lead  
+    Keith Business Unit Lead
 
-Retail 
+Retail
 
-![Samir](images/Samir.png "Samir")
+![Samir](images/Samir.png 'Samir')
 
-    Samir Business Team Lead  
+    Samir Business Team Lead
 
-Transportation 
+Transportation
 
-![Philipp D’Angelo](images/AnyConv.com__Philipp-DAngelo.webp "Portrat Phillip")
+![Philipp D’Angelo](images/AnyConv.com__Philipp-DAngelo.webp 'Portrat Phillip')
 
-    Philipp Business Unit Lead  
+    Philipp Business Unit Lead
 
-Finance 
+Finance
 
-![Patrick](images/Patrick.png "Patrick")    Patrick Cloud Architect    ![Laszlo](images/Laszlo.png "Laszlo")
+![Patrick](images/Patrick.png 'Patrick') Patrick Cloud Architect ![Laszlo](images/Laszlo.png 'Laszlo')
 
-    Laszlo Business Unit Lead  
+    Laszlo Business Unit Lead
 
-Streaming 
+Streaming
 
-![Wladislaw](images/Wladislaw.png "Wladislaw")    Wladislaw Cloud Engineer    ![Steffen](images/Steffen.png "Steffen")    Steffen Cloud Engineer    ![Vanessa](images/Vanessa.png "Vanessa")    Vanessa Business Development    ![Joshua](images/Ohne-Titel-500-x-500-px-2.png "portrait Joshua")    Joshua Senior Cloud Engineer    ![Philipp3](images/Philipp3.png "portrait Philipp")    Philipp Innovation Manager    ![Björn](images/Björn.png "portrait björn")
+![Wladislaw](images/Wladislaw.png 'Wladislaw') Wladislaw Cloud Engineer ![Steffen](images/Steffen.png 'Steffen') Steffen Cloud Engineer ![Vanessa](images/Vanessa.png 'Vanessa') Vanessa Business Development ![Joshua](images/Ohne-Titel-500-x-500-px-2.png 'portrait Joshua') Joshua Senior Cloud Engineer ![Philipp3](images/Philipp3.png 'portrait Philipp') Philipp Innovation Manager ![Björn](images/Björn.png 'portrait björn')
 
-    Björn Product Owner  
+    Björn Product Owner
 
-![Sabrina](images/Sabrina-1.png "portrait Sabrine")
+![Sabrina](images/Sabrina-1.png 'portrait Sabrine')
 
-    Sabrina Team Lead  
+    Sabrina Team Lead
 
-People & Culture 
+People & Culture
 
-![moritz](images/moritz-2.png "portrait moritz")
+![moritz](images/moritz-2.png 'portrait moritz')
 
-    Jan Moritz Account Manager  
+    Jan Moritz Account Manager
 
-![Julius](images/Julius-1.png "portrait julius")
+![Julius](images/Julius-1.png 'portrait julius')
 
-    Julius Business Unit Lead  
+    Julius Business Unit Lead
 
-Data 
+Data
 
-![Tobias Hau](images/Tobias-1.png "portrait tobias hau")
+![Tobias Hau](images/Tobias-1.png 'portrait tobias hau')
 
-    Tobias Senior Cloud Engineer  
+    Tobias Senior Cloud Engineer
 
-![Kristian](images/Kristian-1.png "portrait kristian")
+![Kristian](images/Kristian-1.png 'portrait kristian')
 
-    Kristian Cloud Architect  
+    Kristian Cloud Architect
 
-![Qin](images/Qin.png "Qin portrait")
+![Qin](images/Qin.png 'Qin portrait')
 
-    Qin Cloud Engineer  
+    Qin Cloud Engineer
 
-![Richard](images/Richard.png "Richard")
+![Richard](images/Richard.png 'Richard')
 
-    Richard Cloud Architect  
+    Richard Cloud Architect
 
-![Markus](images/Markus.png "Markus portrait")
+![Markus](images/Markus.png 'Markus portrait')
 
-    Markus Cloud Engineer  
+    Markus Cloud Engineer
 
-![Mario](images/Mario-1.png "Mario portrait")
+![Mario](images/Mario-1.png 'Mario portrait')
 
-    Mario Cloud Developer  
+    Mario Cloud Developer
 
-![Thomas](images/Thomas.png "portrait Thomas")
+![Thomas](images/Thomas.png 'portrait Thomas')
 
-    Thomas Senior Cloud Engineer  
+    Thomas Senior Cloud Engineer
 
-![Reyber](images/Reyber-1.png "portrait Reyber")
+![Reyber](images/Reyber-1.png 'portrait Reyber')
 
-    Reyber Cloud Engineer  
+    Reyber Cloud Engineer
 
-![Rebecca](images/Rebecca-1.webp "Rebecca portrait")
+![Rebecca](images/Rebecca-1.webp 'Rebecca portrait')
 
-    Rebecca Finance Manager  
+    Rebecca Finance Manager
 
-![Joshua Babutzka](images/JoshuaBabutzka-1.png "portrait Joshua Babutzka")
+![Joshua Babutzka](images/JoshuaBabutzka-1.png 'portrait Joshua Babutzka')
 
-    Joshua Office Manager  
+    Joshua Office Manager
 
-![Mai Ly](images/Mai-Ly-1.webp "Mai Ly portrait")    Mai Ly Senior Cloud Engineer    ![Chantal](images/Chantal.webp "portrait of our coworker Chantal")    Chantal Business Development    ![tim _mejorada](images/tim-_mejorada-e1712303866982.webp "Tim Portrait")
+![Mai Ly](images/Mai-Ly-1.webp 'Mai Ly portrait') Mai Ly Senior Cloud Engineer ![Chantal](images/Chantal.webp 'portrait of our coworker Chantal') Chantal Business Development ![tim _mejorada](images/tim-_mejorada-e1712303866982.webp 'Tim Portrait')
 
-    Tim Product Owner    
+    Tim Product Owner
 
 ### Hamburg
 
-![Philipp](images/Philipp-1.png "portrait Philipp")
+![Philipp](images/Philipp-1.png 'portrait Philipp')
 
-    Philipp Business Unit Lead  
+    Philipp Business Unit Lead
 
-General 
+General
 
-![clemens](images/clemens-2.webp "Clemens Portrait")
+![clemens](images/clemens-2.webp 'Clemens Portrait')
 
-    Clemens Business Unit Lead  
+    Clemens Business Unit Lead
 
-Biotech & Chemicals 
+Biotech & Chemicals
 
-![Jonas](images/Jonas-1.png "Jonas portrait")
+![Jonas](images/Jonas-1.png 'Jonas portrait')
 
-    Jonas Cloud Engineer                      
+    Jonas Cloud Engineer
 
-###   
+###
 
-  
-  
 Leipzig
 
-![Dominik](images/Dominik-3.png "Dominik portrait")    Dominik CTO    ![markus (1)](images/markus-1-1.webp "Markus portrait")    Markus Senior Cloud Architect    ![Mathias](images/AnyConv.com__Mathias.webp "Mathias Portrait")    Mathias Senior Cloud Architect    ![Tilman](images/AnyConv.com__Tilman.webp "Tilman Portrait")    Tilman Cloud Engineer    ![Lukas](images/Lukas.png "portrait Lukas")    Lukas Senior Cloud Engineer    ![Martin](images/AnyConv.com__Martin.webp "Martin Portrait")    Martin Cloud Architect    ![Christina](images/Christina.png "portrait Christina")
+![Dominik](images/Dominik-3.png 'Dominik portrait') Dominik CTO ![markus (1)](images/markus-1-1.webp 'Markus portrait') Markus Senior Cloud Architect ![Mathias](images/AnyConv.com__Mathias.webp 'Mathias Portrait') Mathias Senior Cloud Architect ![Tilman](images/AnyConv.com__Tilman.webp 'Tilman Portrait') Tilman Cloud Engineer ![Lukas](images/Lukas.png 'portrait Lukas') Lukas Senior Cloud Engineer ![Martin](images/AnyConv.com__Martin.webp 'Martin Portrait') Martin Cloud Architect ![Christina](images/Christina.png 'portrait Christina')
 
-    Christina Business Unit Lead  
+    Christina Business Unit Lead
 
-Zero 
+Zero
 
-![filipp](images/filipp-2.webp "Filipp portrait")    Filipp Senior Cloud Engineer    ![chris-ulpinnis](images/chris-ulpinnis-2.webp "Chris Portrait")    Chris Cloud Architect    ![Evelina](images/Evelina-2.webp "Evelina portrait")    Evelina Cloud Developer    ![Coming Soon](images/Design-ohne-Titel-7.png "Coming Soon Icon")    Stephan Senior Cloud Engineer    ![André](images/André-1.webp "André portrait")    André Senior Cloud Engineer    ![Annemarie](images/Annemarie-1.webp "portrait Annemarie")    Annemarie Dual Computer Science Student    ![Frank](images/Frank.webp "portrait Frank")    Frank Cloud Engineer    ![Martin Gutwin](images/Martin-Gutwin-3.webp "portrait Martin Gutwin")
+![filipp](images/filipp-2.webp 'Filipp portrait') Filipp Senior Cloud Engineer ![chris-ulpinnis](images/chris-ulpinnis-2.webp 'Chris Portrait') Chris Cloud Architect ![Evelina](images/Evelina-2.webp 'Evelina portrait') Evelina Cloud Developer ![Coming Soon](images/Design-ohne-Titel-7.png 'Coming Soon Icon') Stephan Senior Cloud Engineer ![André](images/André-1.webp 'André portrait') André Senior Cloud Engineer ![Annemarie](images/Annemarie-1.webp 'portrait Annemarie') Annemarie Dual Computer Science Student ![Frank](images/Frank.webp 'portrait Frank') Frank Cloud Engineer ![Martin Gutwin](images/Martin-Gutwin-3.webp 'portrait Martin Gutwin')
 
-    Martin Cloud Engineer    
+    Martin Cloud Engineer
 
 ### Berlin
 
-![Felix](images/Felix-1.png "portrait Felix")    Felix Cloud Engineer    ![Andreas](images/Andreas.webp "Andreas portrait")    Andreas Cloud Architect    ![René](images/René.webp "Portrait René")
+![Felix](images/Felix-1.png 'portrait Felix') Felix Cloud Engineer ![Andreas](images/Andreas.webp 'Andreas portrait') Andreas Cloud Architect ![René](images/René.webp 'Portrait René')
 
-    René Cloud Architect                      
+    René Cloud Architect
 
 Cloud-Beratung mit Start-Up Mentalität
 
@@ -296,7 +293,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-* [](https://www.xing.com/profile/Tobias_Drechsel3)
+- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+- [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)

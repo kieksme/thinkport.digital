@@ -1,13 +1,12 @@
 ---
-title: "Setup Hashicorp Nomad Ansible Consul"
+title: 'Setup Hashicorp Nomad Ansible Consul'
 publishDate: 2024-01-19T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: "7.webp"
+coverImage: '7.webp'
 ---
 
-# Setup von Hashcorp Nomad - 
+# Setup von Hashcorp Nomad -
 
 Schritt 4: Ansible - consul
 
@@ -44,7 +43,7 @@ Ansible - nomad](https://thinkport.digital/setup-hashicorp-nomad-ansible-nomad/)
 
 ![rolle consul teaser](images/7-1024x683.webp)
 
- Schritt 4:  
+Schritt 4:  
 Ansible - consul
 
 Um Consul zu installieren müssen wir nicht viel anders machen als bei Nomad, daher können wir den nomad Rollen-Ordner einmal kopieren und in consul umbenennen, danach bearbeiten wir zuerst die `tasks/main.yml` Datei. In VS Code drücken wir Command+F um anschließend alle in der Datei vorhandenen nomad Wörter gegen consul auszutauschen.
@@ -57,89 +56,79 @@ Nun müssen wir nur noch bei unserer Version-Check-Task den ersten Buchstaben wi
 
 Der Output des Commands `consul version` sieht so aus, daher benötigen wir ein großes “Consul”.
 
-				
-					 `thinkport@vm-nomad-setup-demo-0:~$ consul version Consul v1.16.1`
+    				 `thinkport@vm-nomad-setup-demo-0:~$ consul version Consul v1.16.1`
 
-				
-			
+
+
 
 Also ändern wir hier `consul v` zu `Consul v` (in Zeile 5 der Abbildung)
 
-				
-					 `- name: Check consul version     command: consul version     register: consul_version_output     changed_when: false     failed_when: "'consul v' not in consul_version_output.stdout"`
+    				 `- name: Check consul version     command: consul version     register: consul_version_output     changed_when: false     failed_when: "'consul v' not in consul_version_output.stdout"`
 
-				
-			
+
+
 
 Da wir auch hier default Werte brauchen legen wir diese nun an bzw. modifizieren die von der Nomad-Rolle kopierten Werte mit der gleichen Methode:
 
-				
-					 `--- prerequisites:     - unzip consul_version: "1.16.1" # Dirs and Links hashicorp_releases_url: https://releases.hashicorp.com consul_install_dir: /usr/local/bin consul_data_dir: /opt/consul consul_config_dir: /etc/consul.d #User&Groups consul_user: consul consul_group: consul`
+    				 `--- prerequisites:     - unzip consul_version: "1.16.1" # Dirs and Links hashicorp_releases_url: https://releases.hashicorp.com consul_install_dir: /usr/local/bin consul_data_dir: /opt/consul consul_config_dir: /etc/consul.d #User&Groups consul_user: consul consul_group: consul`
 
-				
-			
+
+
 
 Ansible Vars File - Ansible Variables File (vars.json)
 
-Nun haben wir auch schon alle Tasks entsprechend angepasst. Jetzt müssen wir noch das Service- sowie Config-Template richtig konfigurieren. Das passende Service-Template finden wir wieder auf der Website von HashiCorp, du kannst es von [hier](https://developer.hashicorp.com/consul/tutorials/production-deploy/deployment-guide#configure-the-consul-process "https://developer.hashicorp.com/consul/tutorials/production-deploy/deployment-guide#configure-the-consul-process") kopieren. Anschließend müssen wir das Template wieder anpassen:
+Nun haben wir auch schon alle Tasks entsprechend angepasst. Jetzt müssen wir noch das Service- sowie Config-Template richtig konfigurieren. Das passende Service-Template finden wir wieder auf der Website von HashiCorp, du kannst es von [hier](https://developer.hashicorp.com/consul/tutorials/production-deploy/deployment-guide#configure-the-consul-process 'https://developer.hashicorp.com/consul/tutorials/production-deploy/deployment-guide#configure-the-consul-process') kopieren. Anschließend müssen wir das Template wieder anpassen:
 
-				
-					 `[Unit] Description="HashiCorp Consul - A service mesh solution" Documentation=https://www.consul.io/ Requires=network-online.target After=network-online.target ConditionFileNotEmpty={{consul_config_dir}}/config.hcl [Service] EnvironmentFile=-{{consul_config_dir}}/consul.env User= {{consul_user}} Group= {{consul_group}} ExecStart={{consul_install_dir}}/consul agent -config-dir={{consul_config_dir}}/ ExecReload=/bin/kill --signal HUP $MAINPID`
+    				 `[Unit] Description="HashiCorp Consul - A service mesh solution" Documentation=https://www.consul.io/ Requires=network-online.target After=network-online.target ConditionFileNotEmpty={{consul_config_dir}}/config.hcl [Service] EnvironmentFile=-{{consul_config_dir}}/consul.env User= {{consul_user}} Group= {{consul_group}} ExecStart={{consul_install_dir}}/consul agent -config-dir={{consul_config_dir}}/ ExecReload=/bin/kill --signal HUP $MAINPID`
 
-				
-			
+
+
 
 Als nächstes passen wir noch die Konfigurationsdatei an.
 
 Für Consul benötigen wir andere Blöcke als für Nomad, zuerst geben wir aber erstmal das `data_dir` an!
 
-				
-					 `data_dir = "{{ consul_data_dir }}"`
+    				 `data_dir = "{{ consul_data_dir }}"`
 
-				
-			
+
+
 
 Nun setzen wir noch die IP-Adresse auf der consul später Web-Anfragen annimmt. Dazu nehmen wir jede - also 0.0.0.0 als IP.
 
-				
-					 `client_addr = "0.0.0.0"`
+    				 `client_addr = "0.0.0.0"`
 
-				
-			
+
+
 
 Nun müssen wir wieder zu erwartenden Server in der `bootstrap_expect` Variable angeben, dazu benutzen wir wieder die Ansible Variable `{{ consul_bootstrap_expect }}` . Danach setzen wir den Server auf true und schalten ihn damit an. Das User Interface setzen wir auch auf angeschaltet.
 
-				
-					 `bootstrap_expect = {{ consul_bootstrap_expect }} server = true ui_config {     enabled = true }`
+    				 `bootstrap_expect = {{ consul_bootstrap_expect }} server = true ui_config {     enabled = true }`
 
-				
-			
+
+
 
 Anschließend fügen wir wieder `retry_join` hinzu um aus der Ansible Gruppe alle privaten IPs auszulesen und diese in einer Liste darzustellen - dadurch verbinden wir alle VMs in ein Consul Cluster.
 
-				
-					 `retry_join = ["{{ groups['azure_nomad_vms'] | map('extract', hostvars, ['ansible_default_ipv4', "address']) | join('","') }}"]`
+    				 `retry_join = ["{{ groups['azure_nomad_vms'] | map('extract', hostvars, ['ansible_default_ipv4', "address']) | join('","') }}"]`
 
-				
-			
+
+
 
 Nun binden wir wie gewohnt die geschriebene Rolle in unsere `playbook.yml` Datei ein:
 
-				
-					 `--- - hosts: azure_nomad_vms     become: yes     roles:         - ufw         - fail2ban         - nomad         - consul     vars:         failed2ban_services:             - name: sshd                 port: 22                 maxretry: 5                 bantime: 60         ufw_apps_allow:             - OpenSSH         ufw_ports_allow:         # nomad             - 4646             - 4647             - 4648         # consul             - 8300             - 8301             - 8302             - 8400             - 8500             - 8600         nomad_group_name: azure_nomad_vms         nomad_bootstrap_expect: "{{ groups[nomad_group_name] | length }}"         nomad_version: 1.6.1         consul_bootstrap_expect: "{{ groups[nomad_group_name] | length }}"         consul_version: 1.16.1`
+    				 `--- - hosts: azure_nomad_vms     become: yes     roles:         - ufw         - fail2ban         - nomad         - consul     vars:         failed2ban_services:             - name: sshd                 port: 22                 maxretry: 5                 bantime: 60         ufw_apps_allow:             - OpenSSH         ufw_ports_allow:         # nomad             - 4646             - 4647             - 4648         # consul             - 8300             - 8301             - 8302             - 8400             - 8500             - 8600         nomad_group_name: azure_nomad_vms         nomad_bootstrap_expect: "{{ groups[nomad_group_name] | length }}"         nomad_version: 1.6.1         consul_bootstrap_expect: "{{ groups[nomad_group_name] | length }}"         consul_version: 1.16.1`
 
-				
-			
+
+
 
 Wir fügen unter `roles` den Namen der erstellen Rolle hinzu. Danach geben wir die von Consul verwendeten Ports frei. Anschließend geben wir erneut die Anzahl der zu erwartenden VMs in der `consul_bootstrap_expect` Variable an. Um den Download mit der aktuellsten Version zu starten vergeben wir hier wieder die `consul_version` Variable, die dann später den Download-Link für das Consul Paket bildet.
 
 Da wir auch hier wieder auf ein UI zugreifen wollen, müssen wir zuerst eine neue NSG-Rolle erstellen. Dazu gehen wir wieder in unsere `main.tf` Datei und fügen folgenden Code ein:
 
-				
-					 `security_rule {     name                        = "Consul_UI"     priority                    = 1003     direction                   = "Inbound"     access                      = "Allow"     protocol                    = "Tcp"     source_port_range           = "*"     destination_port_range      = "8500"     source_address_prefix       = "*"     destination_address_prefix  = "*" }`
+    				 `security_rule {     name                        = "Consul_UI"     priority                    = 1003     direction                   = "Inbound"     access                      = "Allow"     protocol                    = "Tcp"     source_port_range           = "*"     destination_port_range      = "8500"     source_address_prefix       = "*"     destination_address_prefix  = "*" }`
 
-				
-			
+
+
 
 Damit geben wir eingehende Verbindungen auf dem Port 8500 frei um das User Interface von Consul zu erreichen.
 
@@ -185,62 +174,62 @@ _Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp "Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer")](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
 [![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![ai software development 2](images/2-1024x683.png "image of software development AI related")](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/)
+[![ai software development 2](images/2-1024x683.png 'image of software development AI related')](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/)
 
-### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ "Grundlagen eines “AI Driven Software Development”-Trainings")
+### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ 'Grundlagen eines “AI Driven Software Development”-Trainings')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ "Grundlagen eines “AI Driven Software Development”-Trainings")
+### [Grundlagen eines “AI Driven Software Development”-Trainings](https://thinkport.digital/grundlagen-eines-ai-driven-software-development-trainings/ 'Grundlagen eines “AI Driven Software Development”-Trainings')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![ansible teaser](images/ansible-1024x683.webp "ansible teaser")](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
+[![ansible teaser](images/ansible-1024x683.webp 'ansible teaser')](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/)
 
-### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ "Setup von Hashicorp Nomad mit Ansible")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ "Setup von Hashicorp Nomad mit Ansible")
+### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png "Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.")](https://thinkport.digital/was-ist-cloud-consulting/)
+### [Setup von Hashicorp Nomad mit Ansible](https://thinkport.digital/setup-hashicorp-nomad-mit-ansible/ 'Setup von Hashicorp Nomad mit Ansible')
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png 'Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.')](https://thinkport.digital/was-ist-cloud-consulting/)
+
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Multi-Cloud-Strategien](images/Multi-Cloud-Strategien-1024x683.png "network of clouds")](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/)
+[![Multi-Cloud-Strategien](images/Multi-Cloud-Strategien-1024x683.png 'network of clouds')](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/)
 
-### [Strategische Entscheidungen für Unternehmen](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/ "Strategische Entscheidungen für Unternehmen")
+### [Strategische Entscheidungen für Unternehmen](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/ 'Strategische Entscheidungen für Unternehmen')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Strategische Entscheidungen für Unternehmen](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/ "Strategische Entscheidungen für Unternehmen")
+### [Strategische Entscheidungen für Unternehmen](https://thinkport.digital/strategische-entscheidungen-fuer-unternehmen/ 'Strategische Entscheidungen für Unternehmen')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

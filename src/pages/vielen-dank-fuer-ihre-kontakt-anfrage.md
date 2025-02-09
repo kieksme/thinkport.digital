@@ -1,9 +1,9 @@
 ---
-title: "Vielen Dank für Ihre Kontakt-Anfrage!"
-date: "2023-06-08"
+title: 'Vielen Dank für Ihre Kontakt-Anfrage!'
+date: '2023-06-08'
 ---
 
-## Vielen Dank für  
+## Vielen Dank für
 
 Ihre Kontakt Anfrage!
 

@@ -1,6 +1,6 @@
 ---
-title: "Cloud Architecture Review"
-publishDate: "2022-05-06T10:00:00Z"
+title: 'Cloud Architecture Review'
+publishDate: '2022-05-06T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,11 +10,11 @@ Prüfen Sie mit unseren Experten die Zukunftsfähigkeit Ihrer Cloud Architektur
 
 ## Auf einen Blick
 
-* 3 Stunden
-* Individuell
-* Workshop
-* Remote oder vor Ort
-* GRATIS
+- 3 Stunden
+- Individuell
+- Workshop
+- Remote oder vor Ort
+- GRATIS
 
 Besonders in schnellen Märkten ist es sinnvoll, die Cloud Architektur den sich stets ändernden Marktanforderungen anzupassen. Dabei sind komplexe Rahmenbedingungen zu berücksichtigen. In diesem Cloud Architektur Review stehen Ihnen ausgewiesene ExpertInnen für einen praxis-orientierten Austausch zur Verfügung. Anschließend erarbeiten wir mit Ihnen die nächsten Meilensteine Ihrer Roadmap.
 
@@ -78,12 +78,12 @@ Der Workshop ist geeignet für Geschäftsführung, Management und technische Ent
 
 ### Cloud Architecture Review
 
-* Aufnahme des Status quo
-* Organisatorische Herausforderungen und Lösungen
-* Technische Herausforderungen und Lösungen
-* Cloud Architecture - Eine Übersicht
-* Referenzarchitekturen und Best Practices aus der Praxis
-* Erstellung einer Roadmap
+- Aufnahme des Status quo
+- Organisatorische Herausforderungen und Lösungen
+- Technische Herausforderungen und Lösungen
+- Cloud Architecture - Eine Übersicht
+- Referenzarchitekturen und Best Practices aus der Praxis
+- Erstellung einer Roadmap
 
 ![workshop picture](images/IMG_0028-2-1024x768.png)
 
@@ -95,6 +95,6 @@ Der Workshop ist geeignet für Geschäftsführung, Management und technische Ent
 
 Erfahren Sie mehr zu diesem Workshop in einem persönlichen Gespräch
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## Weitere Workshops

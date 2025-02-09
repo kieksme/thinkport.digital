@@ -1,12 +1,11 @@
 ---
-title: "We participated at the hackathon #WirvsVirus!"
+title: 'We participated at the hackathon #WirvsVirus!'
 publishDate: 2020-03-23T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Kublr-bringt-Rolling-1.png"
+categories: + "news"
+coverImage: 'Kublr-bringt-Rolling-1.png'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # We participated in the hackathon #WirvsVirus
 
@@ -34,4 +33,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

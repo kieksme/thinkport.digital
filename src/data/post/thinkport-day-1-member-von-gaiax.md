@@ -1,12 +1,11 @@
 ---
-title: "Thinkport ist Day-1-Member von GAIA-X"
+title: 'Thinkport ist Day-1-Member von GAIA-X'
 publishDate: 2020-11-23T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Team-2.png"
+categories: + "news"
+coverImage: 'Team-2.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 # Thinkport ist Day-1-Member von GAIA-X
 
@@ -14,7 +13,7 @@ NEWS
 
 ![Thinkport Frankfurt GAIA-X Day 1 Member](images/Thinkport-Team-GAIA-X-member-768x1024.jpg)
 
- Share on facebook Share on twitter Share on linkedin Share on pinterest Share on email
+Share on facebook Share on twitter Share on linkedin Share on pinterest Share on email
 
 ## „Thinkport GmbH ist Day-1-Member von GAIA-X“
 
@@ -40,4 +39,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

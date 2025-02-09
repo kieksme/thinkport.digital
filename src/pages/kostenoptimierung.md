@@ -1,7 +1,7 @@
 ---
-title: "Workshop Kostenoptimierung in der Cloud"
-date: "2023-08-03"
-coverImage: "inovation-cloud.png"
+title: 'Workshop Kostenoptimierung in der Cloud'
+date: '2023-08-03'
+coverImage: 'inovation-cloud.png'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -11,10 +11,10 @@ Bringen Sie ihr Unternehmen durch innovative Workshops voran
 
 ## Auf einen Blick
 
-* 1-3 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und Vorort verfügbar
+- 1-3 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und Vorort verfügbar
 
 Lernen Sie in diesem Workshop unter der Anleitung unserer Cloud-Experten und moderiert von unseren agilen Coaches, wie man teuere und veraltete Softwarekonzepte durch moderne skalierbare Cloud-Anwendungen ersetzt. Anhand eines Prototypen wird ein funktionierendes Minimalbeispiel geplant, welches anschließend auch umgesetzt werden kann. Profitieren Sie von dem Wissen unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -44,19 +44,19 @@ Cloud-Lösungen wie AWS, Azure und Google Cloud bieten vielfältige Möglichkeit
 
 Geeignet für Plattform- und Enterprise-Architekten
 
-* Umfassende Evaluierung von typischen Cloud Computing Kostenfallen
-* Auditing der aktuellen (Cloud-)Architektur mit Fokus auf Kostenoptimierung
-* Gemeinsames Erarbeiten eines optimierten state-of-the-art Architekturvorschlags basierend auf Best-Practices
-* Flexibilität durch bedarfsorientierte Skalierung gewährleisten
+- Umfassende Evaluierung von typischen Cloud Computing Kostenfallen
+- Auditing der aktuellen (Cloud-)Architektur mit Fokus auf Kostenoptimierung
+- Gemeinsames Erarbeiten eines optimierten state-of-the-art Architekturvorschlags basierend auf Best-Practices
+- Flexibilität durch bedarfsorientierte Skalierung gewährleisten
 
 ## Workshop für C-Level
 
 Geeignet für C-Level und Management
 
-* Cloud-Computing Kosten bewerten und aufschlüsseln lernen
-* Einsparungprognose durch Migration von on-premise in die Cloud
-* Nachhaltiges beobachten von Cloud-Gebühren und Vorhersagen von projektübergreifenden Kostenentwicklung
-* Risikominimierung durch Rechte und Rollen um spontan auftretende Kosten zu verhindern
+- Cloud-Computing Kosten bewerten und aufschlüsseln lernen
+- Einsparungprognose durch Migration von on-premise in die Cloud
+- Nachhaltiges beobachten von Cloud-Gebühren und Vorhersagen von projektübergreifenden Kostenentwicklung
+- Risikominimierung durch Rechte und Rollen um spontan auftretende Kosten zu verhindern
 
 ## Kostenevaluierung unabhängig vom Hyperscaler
 
@@ -64,24 +64,24 @@ Geeignet für C-Level und Management
 
 ### Amazon Web Service AWS
 
-* Cloud Finanzmanagmenent
-* Gesamteffizienz messen und mit dem Workload vergleichen
-* Ausgaben analysieren und zuordnen
-* Fokus auf Pay-As-You go und on-demand ressourcen
+- Cloud Finanzmanagmenent
+- Gesamteffizienz messen und mit dem Workload vergleichen
+- Ausgaben analysieren und zuordnen
+- Fokus auf Pay-As-You go und on-demand ressourcen
 
 ### Google Cloud GCP
 
-* Nutzen von Compute Engine-Instanzen nur bei Lastspitzen und Bedarf
-* Cloud storage Kosten anpassen an Aufbewahrungsdauer oder Zugriffsmuster
-* VM-Größe/Typ an den Workload anpassen durch Spot VMs/Preemptible VMs und rightsizing recommendations
-* Erkennen und effizientes Anwenden von commited Use discounts
+- Nutzen von Compute Engine-Instanzen nur bei Lastspitzen und Bedarf
+- Cloud storage Kosten anpassen an Aufbewahrungsdauer oder Zugriffsmuster
+- VM-Größe/Typ an den Workload anpassen durch Spot VMs/Preemptible VMs und rightsizing recommendations
+- Erkennen und effizientes Anwenden von commited Use discounts
 
 ### Microsoft Azure
 
-* Einführung in Microsoft Cost Management
-* Automatische Skalierung anhand einer Auslastungsoptimierung evaluiert von Azure Advisor
-* Microsoft Lizenzkosten nahtlos in allen Anwendungen nutzen, womit Betriebskosten eingspart werden und die Effizienz erhöht wird
-* Preisvergünstigungen durch Azure Reserved Virtual Machine Instances
+- Einführung in Microsoft Cost Management
+- Automatische Skalierung anhand einer Auslastungsoptimierung evaluiert von Azure Advisor
+- Microsoft Lizenzkosten nahtlos in allen Anwendungen nutzen, womit Betriebskosten eingspart werden und die Effizienz erhöht wird
+- Preisvergünstigungen durch Azure Reserved Virtual Machine Instances
 
 ![](images/DSC01530-1024x683.jpg)
 
@@ -109,7 +109,7 @@ Innovation Manager
 
 [innovation@thinkport.digital](mailto:dfries@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/philipp-h%C3%B6llthaler-038b731b7/)
-*  [](https://www.xing.com/profile/Philipp_Hoellthaler/cv)
+-  [](https://www.linkedin.com/in/philipp-h%C3%B6llthaler-038b731b7/)
+-  [](https://www.xing.com/profile/Philipp_Hoellthaler/cv)
 
 ## Weitere Trainings

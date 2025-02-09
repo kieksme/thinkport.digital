@@ -1,6 +1,6 @@
 ---
-title: "Cloud Walker- Bootcamp für Berufseinsteiger"
-publishDate: "2022-05-04T10:00:00Z"
+title: 'Cloud Walker- Bootcamp für Berufseinsteiger'
+publishDate: '2022-05-04T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

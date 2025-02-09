@@ -1,10 +1,9 @@
 ---
-title: "Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung"
+title: 'Orthanc und Kubernetes: Sichere On-Premise und Multicloud-Lösung'
 publishDate: 2024-01-08T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "orthanc-und-kubernetes-scaled.webp"
+coverImage: 'orthanc-und-kubernetes-scaled.webp'
 ---
 
 ## Orthanc und Kubernetes - Sichere On-Premise- und Multicloud-Lösung
@@ -42,13 +41,10 @@ Korthweb stellt eine innovative Lösung dar, um Orthanc, eine Open-Source-Anwend
 Korthweb bietet drei unterschiedliche Ansätze zur Bereitstellung von Orthanc auf Kubernetes, was den Nutzern eine Bandbreite an Optionen je nach ihren spezifischen Anforderungen bietet:
 
 1. **Einführung von Ingress-Optionen**: Die Nutzung von Istio oder Traefik für Ingress ermöglicht die TLS-Terminierung an HTTP- und TCP-Ports. Dies stellt sicher, dass der Datenverkehr sicher und verschlüsselt bleibt.
-    
 
 2. **Zertifikatsmanagement und Routing**: Durch den Einsatz des Cert Managers können selbstsignierte Zertifikate bereitgestellt werden. Zudem erleichtert das Traffic Routing mit Istio (Gateway, Virtual Service) die Verwaltung des Datenverkehrs.
-    
 
 3. **Erweiterte Sicherheit mit Istio**: Die Installation und Konfiguration von Istio, sowohl über Helm-Charts als auch Istioctl, bietet zusätzliche Sicherheit durch Peer-Authentifizierung, mTLS und Autorisierungsrichtlinien.
-    
 
 ### Monitoring und Datenbank-Management
 
@@ -65,46 +61,32 @@ Insgesamt bietet Korthweb eine umfassende und benutzerfreundliche Plattform für
 ## Orthanc in Kubernetes (Korthweb)
 
 1. **Skalierbarkeit:**
-    
 
-    - Automatische Skalierung von Anwendungen basierend auf der Auslastung.
-        
+   - Automatische Skalierung von Anwendungen basierend auf der Auslastung.
 
 2. **Self-Healing:**
-    
 
-    - Automatische Wiederherstellung von fehlerhaften Anwendungen oder Nodes.
-        
+   - Automatische Wiederherstellung von fehlerhaften Anwendungen oder Nodes.
 
 3. **Load-Balancing:**
-    
 
-    - Automatisches Load-Balancing und Distribution des Netzwerkverkehrs auf die Anwendungen.
-        
+   - Automatisches Load-Balancing und Distribution des Netzwerkverkehrs auf die Anwendungen.
 
 4. **Multicloud- und Hybrid-Cloud-Fähigkeit:**
-    
 
-    - Ermöglicht die Ausführung von Workloads über verschiedene Clouds oder in Hybrid-Cloud-Umgebungen.
-        
+   - Ermöglicht die Ausführung von Workloads über verschiedene Clouds oder in Hybrid-Cloud-Umgebungen.
 
 5. **Automatisierung:**
-    
 
-    - Automatisiert viele manuelle Prozesse wie Deployment, Skalierung und Betrieb von Anwendungen.
-        
+   - Automatisiert viele manuelle Prozesse wie Deployment, Skalierung und Betrieb von Anwendungen.
 
 6. **Flexibilität:**
-    
 
-    - Unterstützung einer Vielzahl von Workloads, einschließlich stateless, stateful und datengesteuerten Anwendungen.
-        
+   - Unterstützung einer Vielzahl von Workloads, einschließlich stateless, stateful und datengesteuerten Anwendungen.
 
 7. **Community und Support:**
-    
 
-    - Eine aktive Community und breite Unterstützung von Cloud-Anbietern und Software-Anbietern.
-        
+   - Eine aktive Community und breite Unterstützung von Cloud-Anbietern und Software-Anbietern.
 
 ## Fazit
 
@@ -122,60 +104,60 @@ _Cloud Developer_
 
 [![Big Data](images/Streaming-Services-11.webp "Im Hintergrund sieht man Berge mit den im Vordergrund der 3 Logos von "Spark", "Databricks" sowie "Trino"")](https://thinkport.digital/spark-databricks-trino/)
 
-### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ "Spark, Databricks, Trino")
+### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ 'Spark, Databricks, Trino')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ "Spark, Databricks, Trino")
+### [Spark, Databricks, Trino](https://thinkport.digital/spark-databricks-trino/ 'Spark, Databricks, Trino')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp "Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer")](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
-
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp "Solace vs Confuence Post (680 × 450 px)")](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+[![Solace vs Confuence Post (680 × 450 px)](images/Solace-vs-Confuence-Post-680-×-450-px.webp 'Solace vs Confuence Post (680 × 450 px)')](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/)
 
-### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ "Vom Kafka Cluster zum Event Mesh")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
-
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Vom Kafka Cluster zum Event Mesh](https://thinkport.digital/vom_kafka-cluster_zum_event-mesh/ 'Vom Kafka Cluster zum Event Mesh')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
+
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
 [![Kubernetes und Docker](images/Streaming-Services-6.webp "Blauer Hintergrund auf dem sich der Schriftzug "Cloud Consulting mit" und zentral eine orange Wolke befindet, in der sich wiederum in weiß die Logos von Kubernetes und Docker befinden. Unten rechts auf dem Bild befindet sich noch in weiß das Terraform Logo.")](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ "Cloud Consulting with Kubernetes and Docker")
+### [Cloud Consulting with Kubernetes and Docker](https://thinkport.digital/cloud-consulting-with-kubernetes-and-docker/ 'Cloud Consulting with Kubernetes and Docker')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png "Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.")](https://thinkport.digital/was-ist-cloud-consulting/)
+[![was ist eigentlich Cloud Consulting](images/Streaming-Services-1-1.png 'Blick auf die Dächer einer Stadt in Wolken mit einer Sprach-Wolke in der die Frage steht, was ist eigentlich Cloud Consulting.')](https://thinkport.digital/was-ist-cloud-consulting/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ "Was ist Cloud Consulting")
+### [Was ist Cloud Consulting](https://thinkport.digital/was-ist-cloud-consulting/ 'Was ist Cloud Consulting')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)

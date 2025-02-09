@@ -1,13 +1,12 @@
 ---
-title: "We welcome five new employees to our growing team!"
+title: 'We welcome five new employees to our growing team!'
 publishDate: 2020-03-23T10:00:00Z
-categories: 
-  + "events"
+categories: + "events"
   + "news"
-coverImage: "IMG_3796-e1726841662488.jpg"
+coverImage: 'IMG_3796-e1726841662488.jpg'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # We are welcoming new employees!
 
@@ -39,4 +38,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

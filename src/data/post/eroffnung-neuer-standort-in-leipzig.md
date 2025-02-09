@@ -1,12 +1,11 @@
 ---
-title: "Eröffnung neuer Standort in Leipzig"
+title: 'Eröffnung neuer Standort in Leipzig'
 publishDate: 2020-10-08T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Neuer-Standort-Leipzig.png"
+categories: + "news"
+coverImage: 'Neuer-Standort-Leipzig.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 # Thinkport eröffnet neuen Standort in Leipzig
 
@@ -34,4 +33,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

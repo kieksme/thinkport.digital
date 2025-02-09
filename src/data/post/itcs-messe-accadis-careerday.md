@@ -1,12 +1,11 @@
 ---
-title: "Thinkport attends the ITCS Fair and accadis Career Day"
+title: 'Thinkport attends the ITCS Fair and accadis Career Day'
 publishDate: 2020-07-20T10:00:00Z
-categories: 
-  + "news"
-coverImage: "ITC.png"
+categories: + "news"
+coverImage: 'ITC.png'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Thinkport at ICTS Messe & accadis Career Day
 
@@ -38,4 +37,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

@@ -1,13 +1,12 @@
 ---
-title: "Core Strategies Cloud Migration"
+title: 'Core Strategies Cloud Migration'
 publishDate: 2022-07-26T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "cloud-kubernetes"
-coverImage: "abstract-art-blur-bright-373543-scaled.jpg"
+coverImage: 'abstract-art-blur-bright-373543-scaled.jpg'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Cloud Migration- 5 core strategies
 
@@ -63,61 +62,61 @@ Learn more about the best suited cloud migration strategy in our **[Cloud Archit
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Hack with](images/Hack-with.png "Hack with")](https://thinkport.digital/aws-ec2/)
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
-### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ "AWS Elastic Compute Cloud")
+[Frontend](https://thinkport.digital/category/frontend/)
 
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+[![Hack with](images/Hack-with.png 'Hack with')](https://thinkport.digital/aws-ec2/)
 
-### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ "AWS Elastic Compute Cloud")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ 'AWS Elastic Compute Cloud')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [AWS Elastic Compute Cloud](https://thinkport.digital/aws-ec2/ 'AWS Elastic Compute Cloud')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png "BDHomeBanner")](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png 'BDHomeBanner')](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![GreatUI](images/Kopie-von-Hack-with.png "GreatUI")](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+[![GreatUI](images/Kopie-von-Hack-with.png 'GreatUI')](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Reasons Why (3)](images/Reasons-Why-3.png "Reasons Why (3)")](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+[Frontend](https://thinkport.digital/category/frontend/)
+
+[![Reasons Why (3)](images/Reasons-Why-3.png 'Reasons Why (3)')](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
@@ -133,4 +132,4 @@ Learn more about the best suited cloud migration strategy in our **[Cloud Archit
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

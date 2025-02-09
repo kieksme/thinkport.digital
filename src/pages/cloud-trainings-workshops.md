@@ -1,6 +1,6 @@
 ---
-title: "Cloud Trainings & Workshops"
-publishDate: "2022-07-08T10:00:00Z"
+title: 'Cloud Trainings & Workshops'
+publishDate: '2022-07-08T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -8,12 +8,12 @@ Wir machen Sie fit für die Cloud!
 
 # Cloud Trainings & Workshops für Ihren Erfolg
 
- Wunsch-Termin vereinbaren 0 Workshops & Trainings 0 + Erfolgreiche Teilnehmer 0 Zertifizierte Trainer
+Wunsch-Termin vereinbaren 0 Workshops & Trainings 0 + Erfolgreiche Teilnehmer 0 Zertifizierte Trainer
 
-Seit 2018 qualifizieren große Unternehmen und DAX Konzerne ihre Mitarbeiter in unseren praxisnahen Cloud Trainings und Workshops. Unser Fokus liegt auf den Cloud Service Providern AWS, Azure und Google.  
-  
-Hinzu kommen Cloud Trainings-Angebote zu marktführenden Spezial-Technologien. Hierzu zählen im Bereich der Cloud Architektur Trainings für Kubernetes, Docker und Terraform. Besonders anspruchsvolles Daten Management schulen wir auf Apache Kafka, Databricks und Spark. Sowie Airflow für die Workflow Programmierung.  
-  
+Seit 2018 qualifizieren große Unternehmen und DAX Konzerne ihre Mitarbeiter in unseren praxisnahen Cloud Trainings und Workshops. Unser Fokus liegt auf den Cloud Service Providern AWS, Azure und Google.
+
+Hinzu kommen Cloud Trainings-Angebote zu marktführenden Spezial-Technologien. Hierzu zählen im Bereich der Cloud Architektur Trainings für Kubernetes, Docker und Terraform. Besonders anspruchsvolles Daten Management schulen wir auf Apache Kafka, Databricks und Spark. Sowie Airflow für die Workflow Programmierung.
+
 Für strategische Herausforderungen und komplexe Aufgabenstellungen bieten wir eine Reihe individuell zugeschnittener Cloud Workshops an.
 
 ## Trainings
@@ -22,12 +22,12 @@ Qualifizieren Sie Ihre Mitarbeiter praxisnah für den neuesten Stand der Technol
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital) [](#linksection)@media only screen and (max-width: 2399px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 25%; } }@media only screen and (max-width: 1024px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 50%; } }@media only screen and (max-width: 767px) { .elementor-element.elementor-element-5f40cd8 .eael-filterable-gallery-item-wrap { width: 100%; } }
 
-* All
-* AWS
-* Azure
-* Event-Streaming
-* Hybrid-Cloud
-* Weitere Trainings
+- All
+- AWS
+- Azure
+- Event-Streaming
+- Hybrid-Cloud
+- Weitere Trainings
 
 [![CI/ CD für AWS Logo und Schriftzug](https://thinkport.digital/wp-content/uploads/2022/09/AWS_CICD-1.png)
 
@@ -133,9 +133,9 @@ Hands-on! Ganze Infrastrukturen in GCP mit IaC bereitstellen.
 
 @media only screen and (max-width: 2399px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 25%; } }@media only screen and (max-width: 1024px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 50%; } }@media only screen and (max-width: 767px) { .elementor-element.elementor-element-a72e35b .eael-filterable-gallery-item-wrap { width: 100%; } }
 
-* All
-* Cloud
-* Verwandte Themen
+- All
+- Cloud
+- Verwandte Themen
 
 [![Disruption Days Logo und Schriftzug](https://thinkport.digital/wp-content/uploads/2022/09/DD-1.png)
 
@@ -279,7 +279,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

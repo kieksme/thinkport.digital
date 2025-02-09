@@ -1,9 +1,8 @@
 ---
-title: "Workshop \"Data Engineering for Managers\""
+title: 'Workshop "Data Engineering for Managers"'
 publishDate: 2020-02-09T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Bahn.png"
+categories: + "news"
+coverImage: 'Bahn.png'
 ---
 
 [![](images/Logo_horizontral_new.png)](https://thinkport.digital)
@@ -36,4 +35,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

@@ -1,9 +1,9 @@
 ---
-title: "Thinkport - Cloud Consulting mit Start-up Spirit"
-date: "2020-09-24"
+title: 'Thinkport - Cloud Consulting mit Start-up Spirit'
+date: '2020-09-24'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours") ](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png 'Logo Bright Colours') ](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-q79kisryfbimg521qvcamhuu9zgajwl52ie1tm6q0s.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Cloud Consulting
 
@@ -54,7 +54,7 @@ Innerhalb von Kundenprojekten - wie auch intern - sind wir auf die Arbeit mit ag
 
 Im Formular unten können Sie Ihre E-Mail-Adresse, Ihren Namen und Ihr Unternehmen angeben, um den kostenlosen Artikel "HashiCorp Vault" herunterzuladen.
 
-Download\_Formular\_HasiCorp\_Vault       Name \*  First Last Name \*  Last Email \*  Company  Captcha Absenden  Si eres humano, deja este campo en blanco. 
+Download_Formular_HasiCorp_Vault Name \* First Last Name \* Last Email \* Company Captcha Absenden Si eres humano, deja este campo en blanco.
 
 ## Unser Cloud Consulting
 
@@ -69,7 +69,7 @@ Download\_Formular\_HasiCorp\_Vault       Name \*  First Last Name \*  Last Emai
 
 ## Hierzu fokussieren wir auf die Architektur und Umsetzungen der drei marktführenden **Cloud Service Partner** AWS, Azure und GCP. Diese mächtigen Plattformen bieten hunderte von Services an, die maßgeschneidert auf die individuellen Kunden-Bedürfnisse von uns strategisch gedacht, geplant, umgesetzt und betrieben werden.
 
- [![AWS Logo auf einem weißen Quadrat](images/AWS-1024x1024.png)](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/aws/)[![Azure Logo auf einem weißen Quadrat](images/Azure-1024x1024.png) ](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/azure/)[![Google Cloud Logo auf einem weißen Quadrat](images/Kafka-1-1024x1024.png)](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/google-cloud-consulting/)
+[![AWS Logo auf einem weißen Quadrat](images/AWS-1024x1024.png)](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/aws/)[![Azure Logo auf einem weißen Quadrat](images/Azure-1024x1024.png) ](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/azure/)[![Google Cloud Logo auf einem weißen Quadrat](images/Kafka-1-1024x1024.png)](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/google-cloud-consulting/)
 
 ## Hinzu kommen im Einzelfall empfohlene bis notwendige **[Technologien weiterer Partner](https://thinkport.digital/cloud-trainings-workshops/)**, die wir für unsere Kunden lösungsorientiert einsetzen und orchestrieren. Hierzu zählen im Bereich der Cloud Architektur **[Kubernetes, Docker](https://thinkport.digital/docker-und-kubernetes-lernen/)** und **[Terraform](https://thinkport.digital/terraform-trainings/)**. Für besonders anspruchsvolles Daten Management setzen wir auf **[Apache Kafka](https://thinkport.digital/cloud-consulting-fuer-deutsche-grossunternehmen/apache-kafka/)**, **[Databricks](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)** und **[Spark](https://thinkport.digital/spark-fuer-big-data-lernen/)**. Sowie **[Airflow](https://thinkport.digital/airflow-in-der-cloud/)** für die Workflow Programmierung.
 
@@ -86,7 +86,7 @@ Wie können wir Ihnen helfen? Gerne stellen wir Ihnen das Experten - Team mit Be
 
 ## Erstklassige Kunden
 
- [![Edeka-logo](images/Edeka-logo.png)](https://digital.edeka/)[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png "Deutsche Börse") ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png "rio-logo") ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png "Commerzbank-Logo") ](https://www.commerzbank.de/)[![enbw Cloud Consulting Projekt Thinkport](images/enbw_logo-q79jvm38dt9d0bw52ozusjyi9bqdprfvr80k4ue3nc.png "enbw_logo") ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png "db logo") ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png "merck_logo") ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
+[![Edeka-logo](images/Edeka-logo.png)](https://digital.edeka/)[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![enbw Cloud Consulting Projekt Thinkport](images/enbw_logo-q79jvm38dt9d0bw52ozusjyi9bqdprfvr80k4ue3nc.png 'enbw_logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
 
 ## Weitere Informationen
 

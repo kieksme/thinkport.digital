@@ -1,12 +1,11 @@
 ---
-title: "Story of the Month: Our CTO, Dominik Fries"
+title: 'Story of the Month: Our CTO, Dominik Fries'
 publishDate: 2020-05-29T10:00:00Z
-categories: 
-  + "news"
-coverImage: "Dominik-3-e1710339452361.png"
+categories: + "news"
+coverImage: 'Dominik-3-e1710339452361.png'
 ---
 
-[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Our CTO, Dominik Fries
 
@@ -40,4 +39,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

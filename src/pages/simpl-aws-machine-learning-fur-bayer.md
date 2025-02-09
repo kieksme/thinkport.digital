@@ -1,12 +1,12 @@
 ---
-title: "AWS Machine Learning Plattform für Bayer AG"
-date: "2021-07-02"
+title: 'AWS Machine Learning Plattform für Bayer AG'
+date: '2021-07-02'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 # Bildanalyse für Bayer AG - Machine Learning Pipeline in der Cloud
 
-0 Labore 0 k+ Bilder 0 x Schnellere Ergebnisse 
+0 Labore 0 k+ Bilder 0 x Schnellere Ergebnisse
 
 ![Thinkport and Bayer win digital leader award 2021](images/2021_DLA_signets_EFFICIENCY_bayer-1024x539.jpeg)
 
@@ -18,7 +18,7 @@ Bayer AG
 
 ![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg.png)
 
-Die Bayer AG ist ein deutsches multinationales Pharma- und Life-Science-Unternehmen und eines der größten Pharmaunternehmen der Welt. Zu den Geschäftsfeldern von Bayer mit Hauptsitz in Leverkusen gehören Human- und Tierarzneimittel, Produkte für die  Gesundheitsvorsorge von Verbrauchern, Agrarchemikalien, Saatgut und biotechnologische Produkte. Das Geschäft wird über die drei Divisionen Pharmaceuticals,  Consumer Health und Crop Science geführt.    
+Die Bayer AG ist ein deutsches multinationales Pharma- und Life-Science-Unternehmen und eines der größten Pharmaunternehmen der Welt. Zu den Geschäftsfeldern von Bayer mit Hauptsitz in Leverkusen gehören Human- und Tierarzneimittel, Produkte für die  Gesundheitsvorsorge von Verbrauchern, Agrarchemikalien, Saatgut und biotechnologische Produkte. Das Geschäft wird über die drei Divisionen Pharmaceuticals,  Consumer Health und Crop Science geführt.  
 
 Die Division Crop Science ist Hersteller von Pflanzenschutzmitteln. Gegliedert ist Crop Science in die zwei Geschäftsfelder Crop Protection/Seeds und Environmental Science. Ersteres umfasst die Geschäftsfelder Herbicides, Fungicides, Insecticides und SeedGrowth. 
 
@@ -56,11 +56,11 @@ Die ganze Architektur von SIMPL ist Cloud agnostisch und kann somit auch im eige
 
 Modelle unterstützen dabei verschiedenste Bilder automatische zu analysieren und neue Kenntnisse zu gewinnen. Thinkport unterstützt mit Cloud Technologien dabei die internen Data Science Teams zu enablen. Diese können neue Modelle einfach in neue Experimente integrieren und Ergebnisse erzeugen.
 
-Mithilfe der AWS Cloud konnten von Anfang an schnelle Entwicklungsergebnisse erzielt werden. Das Projekt wurde iterativ mit einem kleinen PoC gestartet. Die Fortschritte waren so überzeugend, dass schnell mehr Ressourcen für das Projekt bereitgestellt wurden.  
-  
+Mithilfe der AWS Cloud konnten von Anfang an schnelle Entwicklungsergebnisse erzielt werden. Das Projekt wurde iterativ mit einem kleinen PoC gestartet. Die Fortschritte waren so überzeugend, dass schnell mehr Ressourcen für das Projekt bereitgestellt wurden.
+
 Ein Entscheidende Faktor war dabei der Verwendung von vielen bestehenden internen Plattformen und Open Source Software. Dies ermöglichte einen klaren Fokus auf den Mehrwert der Plattform.
 
-## Herausragende  
+## Herausragende
 
 Technologien
 
@@ -94,7 +94,7 @@ CEO & Senior Cloud Consultant
 
 tdrechsel@thinkport.digital
 
-* [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
+- [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

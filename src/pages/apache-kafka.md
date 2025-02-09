@@ -1,13 +1,13 @@
 ---
-title: "Apache Kafka Consulting"
-publishDate: "2023-01-13T10:00:00Z"
+title: 'Apache Kafka Consulting'
+publishDate: '2023-01-13T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## High-Performance-Lösungen von Thinkport
 
-Das Apache Kafka Consulting von Thinkport unterstützt Sie und Ihr Team bei der Implementierung von Apache Kafka® für ein **einfaches und effizientes Datenstreaming**. Nutzen Sie die Anwendung außerdem als Zwischenspeicher: Confluent, gegründet von den ursprünglichen Entwicklern von Apache Kafka, verarbeitet Daten in Echtzeit und bietet sowohl Daten-Streaming Pipelines als auch **APIs für weitere Systeme und Anwendungen**. Verwalten Sie Echtzeitdaten problemlos und skalieren Sie sie einfach und schnell für jede Art von IT-Infrastruktur. Mit Confluent wurde Kafka enterprise ready!  
-  
+Das Apache Kafka Consulting von Thinkport unterstützt Sie und Ihr Team bei der Implementierung von Apache Kafka® für ein **einfaches und effizientes Datenstreaming**. Nutzen Sie die Anwendung außerdem als Zwischenspeicher: Confluent, gegründet von den ursprünglichen Entwicklern von Apache Kafka, verarbeitet Daten in Echtzeit und bietet sowohl Daten-Streaming Pipelines als auch **APIs für weitere Systeme und Anwendungen**. Verwalten Sie Echtzeitdaten problemlos und skalieren Sie sie einfach und schnell für jede Art von IT-Infrastruktur. Mit Confluent wurde Kafka enterprise ready!
+
 Confluent Cloud ist ein Cloud-nativer Service für Apache Kafka®, ohne sich Gedanken über eine Infrastruktur machen zu müssen. Datenströme können ohne die Herausforderungen des Infrastruktur-Managements genutzt werden, damit sich Unternehmen auf das Wesentliche konzentrieren können: Ihr Kerngeschäft. Confluent Cloud ist ein vollständig verwalteter, cloud-nativer Kafka-Dienst für die Verbindung und Verarbeitung sämtlicher Daten überall dort, wo sie benötigt werden.
 
 ![Laszlo vor einem türkisen Quadrat.](images/LaszloImQuadrat-891x1024.png)
@@ -17,38 +17,38 @@ Confluent Cloud ist ein Cloud-nativer Service für Apache Kafka®, ohne sich Ged
 „Profitieren Sie von der Expertise von Thinkport: Dank unserer Erfahrung und unserem technischen Know-how entwickeln wir die idealen Digitalisierungsansätze für Ihre speziellen Bedürfnisse. Mit unserem Apache Kafka Consulting sparen Sie Zeit und Ressourcen und vermeiden Fehler. Aufgrund unserer Partnerschaften mit namhaften IT-Providern stehen uns die neuesten Tools und Technologien zur Verfügung. Wir unterstützen Sie bei der Umsetzung Ihrer digitalen Vision.“  
 Laszlo Csoti, Circle Lead Streaming
 
- Termin vereinbaren[](#linksection)
+Termin vereinbaren[](#linksection)
 
-## Apache-Kafka-Consulting von Thinkport:  
+## Apache-Kafka-Consulting von Thinkport:
 
 volles Potenzial entfalten und durchstarten
 
-Gehen Sie den **ersten Schritt in eine Zukunft mit Echtzeit-Daten** und profitieren Sie von der Apache Kafka Beratung von Thinkport. Wir begleiten Sie bei Entwicklungs- und Migrationsprozessen und beraten Sie vollumfänglich über Ihre technologischen und unternehmerischen Perspektiven.  
-  
+Gehen Sie den **ersten Schritt in eine Zukunft mit Echtzeit-Daten** und profitieren Sie von der Apache Kafka Beratung von Thinkport. Wir begleiten Sie bei Entwicklungs- und Migrationsprozessen und beraten Sie vollumfänglich über Ihre technologischen und unternehmerischen Perspektiven.
+
 Wir verfügen über langjährige Erfahrung und Expertise und lösen auch komplexe Unterfangen erfolgreich und effizient. Mit unserer Hilfe **schöpfen Sie das volle Potenzial mit Apache Kafka aus:** Wir wissen genau, an welchen Stellen sich der Einsatz bestimmter Technologien lohnt. Durch unser Apache Kafka Consulting vermeiden Sie Fallstricke sowie hohe Kosten und sparen Zeit. Das Know-how unseres Teams ermöglicht es Ihnen, mit bereits vorhandenen Ressourcen beste Ergebnisse in Ihrem Apache Kafka Projekt zu erzielen
 
- Termin vereinbaren
+Termin vereinbaren
 
 Mit Apache Kafka nutzen Sie die Vorteile einer technisch ausgereiften Daten-Streaming-Plattform, die es Ihnen ermöglicht, die Daten direkt zu durchsuchen und zu verarbeiten. Die Anwendung bietet **eine Vielzahl von Möglichkeiten**, die Ihnen und Ihrem Unternehmen **entscheidende Vorteile bei der Datenverarbeitung** verschaffen:
 
 ## Kafka Stärken
 
-* **Kafka-Datenpipelines**  
-    Apache Kafka integriert die Daten, sobald sie in den jeweiligen Sources erstellt werden. So stehen sie an einem oder mehreren Zielen sofort zum Streamen zur Verfügung. Dank des Apache Kafka Consultings von Thinkport migrieren Sie erfolgreich.
+- **Kafka-Datenpipelines**  
+   Apache Kafka integriert die Daten, sobald sie in den jeweiligen Sources erstellt werden. So stehen sie an einem oder mehreren Zielen sofort zum Streamen zur Verfügung. Dank des Apache Kafka Consultings von Thinkport migrieren Sie erfolgreich.
 
-* **Kafka Stream Processing**  
-    Verarbeiten Sie die Daten mithilfe von Anwendungen wie Joins, Filtern und vielen mehr, die für zahlreiche Fälle nutzbar sind. Mit der Stream-Processing-Bibliothek Kafka Streams können Sie Daten in Echtzeit verarbeiten. Erfahren Sie in unserer Apache Kafka Beratung alles über Ihre Anwendungsmöglichkeiten und Einsparpotenziale.
+- **Kafka Stream Processing**  
+   Verarbeiten Sie die Daten mithilfe von Anwendungen wie Joins, Filtern und vielen mehr, die für zahlreiche Fälle nutzbar sind. Mit der Stream-Processing-Bibliothek Kafka Streams können Sie Daten in Echtzeit verarbeiten. Erfahren Sie in unserer Apache Kafka Beratung alles über Ihre Anwendungsmöglichkeiten und Einsparpotenziale.
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf drei Kafka Wolken](images/Kafka-1-1024x902.png)
 
-* **Streaming Analytics von Apache Kafka**  
-    Kombinieren Sie zum Beispiel Apache Kafka mit einer Open-Source-Anwendung wie Druid und erzeugen Sie so einen leistungsstarken Streaming-Analytics-Manager. Streaming-Daten werden zunächst von Apache Kafka geladen, um im Anschluss von Druid für analytische Echtzeit-Abfragen zur Verfügung gestellt zu werden. Im Rahmen unseres Apache Kafka Consultings entwickeln wir optimale Prozesse zur Unterstützung Ihrer Vorgänge.
+- **Streaming Analytics von Apache Kafka**  
+   Kombinieren Sie zum Beispiel Apache Kafka mit einer Open-Source-Anwendung wie Druid und erzeugen Sie so einen leistungsstarken Streaming-Analytics-Manager. Streaming-Daten werden zunächst von Apache Kafka geladen, um im Anschluss von Druid für analytische Echtzeit-Abfragen zur Verfügung gestellt zu werden. Im Rahmen unseres Apache Kafka Consultings entwickeln wir optimale Prozesse zur Unterstützung Ihrer Vorgänge.
 
-* **Streaming-ETL**  
-    ETL steht für die Datenbankfunktionen Extract, Transform und Load und beschreibt die Verarbeitung und Übertragung von Daten. Das Echtzeit-ETL von Apache Kafka kombiniert unterschiedliche Funktionen und Komponenten, um Daten über die API von anderen Datenbanken und Anwendungen zu integrieren oder an diese weiterzuleiten.
+- **Streaming-ETL**  
+   ETL steht für die Datenbankfunktionen Extract, Transform und Load und beschreibt die Verarbeitung und Übertragung von Daten. Das Echtzeit-ETL von Apache Kafka kombiniert unterschiedliche Funktionen und Komponenten, um Daten über die API von anderen Datenbanken und Anwendungen zu integrieren oder an diese weiterzuleiten.
 
-* **Ereignisbezogene Microservices mit Apache Kafka**  
-    Apache Kafka ist in der Lage, zahlreiche Probleme der Microservice-Orchestrierung zu lösen und verbessert zugleich die Geschwindigkeit, Skalierbarkeit und Effizienz. Außerdem fördert es die Übertragung zwischen den Diensten und vermeidet Verzögerungen und Fehler.
+- **Ereignisbezogene Microservices mit Apache Kafka**  
+   Apache Kafka ist in der Lage, zahlreiche Probleme der Microservice-Orchestrierung zu lösen und verbessert zugleich die Geschwindigkeit, Skalierbarkeit und Effizienz. Außerdem fördert es die Übertragung zwischen den Diensten und vermeidet Verzögerungen und Fehler.
 
 [](#linksection)
 
@@ -68,7 +68,7 @@ Entwicklung Unser Entwicklerteam setzt modernste Cloud-Technologien ein, um zuku
 
 <figure>
 
-[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png "BMW")](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
+[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png 'BMW')](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
 
 <figcaption>
 
@@ -78,12 +78,12 @@ Data Streaming / IoT
 
 </figure>
 
-## Unsere Top 3:  
+## Unsere Top 3:
 
 Kafka Trainings & Workshops
 
-Die Lerninhalte unserer vielfältigen Apache Kafka Trainings werden von unseren Experten spannend und eingängig vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.  
-  
+Die Lerninhalte unserer vielfältigen Apache Kafka Trainings werden von unseren Experten spannend und eingängig vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.
+
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
 [Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Schriftzug Kafka Fundamentals vor einem Bild](images/Fundies-1024x463.png) ](https://thinkport.digital/kafka-fundamentals-lernen/)[![Schriftzug Event Streaming Services auf einem Bild](images/Streaming-1024x463.png) ](https://thinkport.digital/event-streaming-services-auf-aws-and-azure/)[![Schriftzug Kafka Administration mit dem Kafka Logo darüber](images/Admin-1024x463.png)](https://thinkport.digital/kafka-administration-lernen/)
@@ -134,7 +134,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

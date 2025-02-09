@@ -1,10 +1,9 @@
 ---
-title: "Pitch Club Frankfurt 19.02.2020"
+title: 'Pitch Club Frankfurt 19.02.2020'
 publishDate: 2020-03-17T10:00:00Z
-categories: 
-  + "events"
+categories: + "events"
   + "news"
-coverImage: "0-2.jpg"
+coverImage: '0-2.jpg'
 ---
 
 [![](images/Logo_horizontral_new.png)](https://thinkport.digital)
@@ -37,4 +36,4 @@ Weitere Neuigkeiten
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

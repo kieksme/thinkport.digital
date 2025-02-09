@@ -1,12 +1,11 @@
 ---
-title: "9 Best Mobile App UI Design Trends in 2018"
+title: '9 Best Mobile App UI Design Trends in 2018'
 publishDate: 2018-11-27T10:00:00
-categories: 
-  + "frontend"
-coverImage: "Kopie-von-Hack-with-1.png"
+categories: + "frontend"
+coverImage: 'Kopie-von-Hack-with-1.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## Design Trends
 
@@ -20,7 +19,7 @@ Are you having a problem catching up with the dynamic trends in mobile app UI de
 
 Mobile app User Interface design trends are changing now and then due to changing user needs. This is not, however, mean that mobile ap ++ ps UI design trends in 2018 are unpredictable. After a keen analysis of UI design trends and innovations in the past few years, we found some common factors that could help predict trends in 2018 were discovered. Therefore, below are 9 trends in mobile app UI designs for you in 2018.
 
-**1). Strong Color and Font Contrast to enhance Legibility**  
+**1). Strong Color and Font Contrast to enhance Legibility**
 
 An excellent UI design should attract a user's attention. This can be created by using a strong color and better font contrast. For instance, making use of fonts of different types, sizes, orders, and styles creates a sense of hierarchy and space. Use of different strengths of colors creates sharp contrasts. The two aspects also make the UI design very attractive.
 
@@ -88,59 +87,59 @@ Mobile app UI designs are complex and usually changeable to suit user needs. The
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png "Kopie von Hack with (2)")](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png 'Kopie von Hack with (2)')](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Hack with (1)](images/Hack-with-1.png "Hack with (1)")](https://thinkport.digital/aws-s3-2/)
+[![Hack with (1)](images/Hack-with-1.png 'Hack with (1)')](https://thinkport.digital/aws-s3-2/)
 
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ "Managed Security für AWS-Umgebungen")
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+### [Managed Security für AWS-Umgebungen](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme-2/ 'Managed Security für AWS-Umgebungen')
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
@@ -156,4 +155,4 @@ Mobile app UI designs are complex and usually changeable to suit user needs. The
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

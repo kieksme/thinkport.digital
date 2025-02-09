@@ -1,10 +1,10 @@
 ---
-title: "AWS Machine Learning Infrastruktur für SparkView"
-publishDate: "2020-08-19T10:00:00Z"
+title: 'AWS Machine Learning Infrastruktur für SparkView'
+publishDate: '2020-08-19T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-# AWS Machine Learning Infrastruktur für SparkView - Umsatz- 
+# AWS Machine Learning Infrastruktur für SparkView - Umsatz-
 
 prognosen in der Cloud
 
@@ -44,7 +44,7 @@ Um wiederkehrenden Wartungsaufwand zu minimieren soll das gesamte Backend automa
 
 Die ML-Prognosen bauen auf Datensätzen aus dem Internet auf. Aus verschiedenen APIs werden Datensätze entnommen und von AWS Lambda Funktionen in einem Amazon S3 Bucket Datalake zusammengefasst. Mithilfe von AWS Glue werden die Daten für die spätere Verarbeitung mit ML-Modellen vorbereitet und entsprechend transformiert. Auf Amazon Amazon RDS werden die Daten gelagert. Amazon StageMaker kann auf diese Datenbanken zugreifen und die Machine Learning Modelle anwenden. Die Prognosen werden wieder auf RDS gespeichert und sind mit dem Frontend verknüpft. AWS Elastic Beanstalk kümmert sich um die nahtlose Koordinierung zwischen Backend und Frontend.
 
-## Herausragende  
+## Herausragende
 
 Technologien
 
@@ -88,7 +88,7 @@ pdangelo@thinkport.digital
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
+- [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

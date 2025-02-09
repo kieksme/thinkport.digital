@@ -1,12 +1,11 @@
 ---
-title: "Neue AWS-Funktionen für Speicher- und Dateisysteme"
+title: 'Neue AWS-Funktionen für Speicher- und Dateisysteme'
 publishDate: 2020-03-27T10:00:00Z
-categories: 
-  + "aws-cloud"
-coverImage: "neu.png"
+categories: + "aws-cloud"
+coverImage: 'neu.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 ## AWS Innovationen
 
@@ -56,63 +55,63 @@ Mit den neuesten Verbesserungen des Nitro-Systems unterstützen alle neuen Insta
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
-
-[Frontend](https://thinkport.digital/category/frontend/)
-
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![GreatUI](images/Kopie-von-Hack-with.png "GreatUI")](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
-
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+[![GreatUI](images/Kopie-von-Hack-with.png 'GreatUI')](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Hack with (4)](images/Hack-with-4.png "Hack with (4)")](https://thinkport.digital/aws-rds-2/)
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
+[Frontend](https://thinkport.digital/category/frontend/)
+
+[![Hack with (4)](images/Hack-with-4.png 'Hack with (4)')](https://thinkport.digital/aws-rds-2/)
+
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS RDS](https://thinkport.digital/aws-rds-2/ "AWS RDS")
+### [AWS RDS](https://thinkport.digital/aws-rds-2/ 'AWS RDS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (2)](images/Reasons-Why-2.png "Reasons Why (2)")](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+[![Reasons Why (2)](images/Reasons-Why-2.png 'Reasons Why (2)')](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png "BDHomeBanner")](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png 'BDHomeBanner')](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
@@ -128,4 +127,4 @@ Mit den neuesten Verbesserungen des Nitro-Systems unterstützen alle neuen Insta
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

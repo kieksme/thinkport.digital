@@ -1,6 +1,6 @@
 ---
-title: "Hybrid-Cloud-Consulting"
-date: "2023-08-25"
+title: 'Hybrid-Cloud-Consulting'
+date: '2023-08-25'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -23,16 +23,16 @@ Ihres Unternehmens sowie deren Umsetzung.
 „Als Circle Lead des Hybrid Circles bei Thinkport bin ich stolz darauf, seit über fünf Jahren an der Entwicklung von hybriden Cloud-Lösungen zu arbeiten. Unsere maßgeschneiderten Lösungen bieten Unternehmen Flexibilität und Kontrolle, indem sie **das Beste aus verschiedenen Cloud-Anbietern** und dem eigenen Rechenzentrum kombinieren. Unser zertifiziertes Expertenteam unterstützt Kunden bei der nahtlosen Integration und Verbindung von Cloud- und lokalen Ressourcen. Thinkport begleitet Unternehmen auf ihrer Reise in die hybride Cloud und maximiert die Vorteile dieser innovativen Technologie.“  
 Samir Hamiani
 
- Termin vereinbaren[](#linksection)
+Termin vereinbaren[](#linksection)
 
 ## Hybrid Cloud Stärken
 
-* Flexibilität
-* Kontrolle und Sicherheit
-* Kostenoptimierung
-* Nahtlose Integration
-* Disaster Recovery und Business Continuity
-* Skalierbarkeit und Agilität
+- Flexibilität
+- Kontrolle und Sicherheit
+- Kostenoptimierung
+- Nahtlose Integration
+- Disaster Recovery und Business Continuity
+- Skalierbarkeit und Agilität
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
 
@@ -52,7 +52,7 @@ Entwicklung Unser Entwicklerteam setzt modernste Cloud-Technologien ein, um zuku
 
 <figure>
 
-[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png "BMW")](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
+[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png 'BMW')](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
 
 <figcaption>
 
@@ -76,14 +76,14 @@ ParcIT
 
 ## Partnerschaften
 
- [![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png)](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
+[![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png)](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)[![Logo AWS Partner Advance Tier Services](images/AWS-Advanced-Tier-Services-Partner.webp) ](https://partners.amazonaws.com/partners/0010L00001tBb55QAC/Thinkport%20GmbH)[![Logo mit Schriftzug Google Cloud Partner](images/Google_Cloud_Partner_no_outline_vertical.png)](https://cloud.google.com/find-a-partner/partner/thinkport)
 
-## Unsere Top 3:  
+## Unsere Top 3:
 
 Hybrid Cloud Trainings
 
-Die Lerninhalte unserer vielfältigen Hybrid Cloud Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.  
-  
+Die Lerninhalte unserer vielfältigen Hybrid Cloud Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.
+
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
 [Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![Im Vordergrund sieht man das Kubernetes & Docker Logo sowie Schriftzug, und im Hintergrund sitzen Personen am Schreibtisch vor dem Laptop und Monitoren](images/Kubernetes-Docker-1024x463.webp) ](https://thinkport.digital/docker-und-kubernetes-lernen/)[![Im Vordergrund sieht man das Apache Spark Logo sowie Schriftzug, und im Hintergrund sitzen Personen am Schreibtisch vor dem Laptop und Monitoren.](images/Spark-für-Big-Data-1024x463.webp) ](https://thinkport.digital/spark-fuer-big-data-lernen/)[![Im Vordergrund sieht man das Airflow Logo und Schriftzug vor dem im Hintergrund zusehenden Gruppe an Menschen, die an einem Laptop herum diskutieren.](images/Airflow-in-der-Cloud-1024x463.webp)](https://thinkport.digital/airflow-in-der-cloud/)
@@ -134,7 +134,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

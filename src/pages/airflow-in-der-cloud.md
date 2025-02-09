@@ -1,6 +1,6 @@
 ---
-title: "Airflow in der Cloud"
-publishDate: "2021-05-03T10:00:00Z"
+title: 'Airflow in der Cloud'
+publishDate: '2021-05-03T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 1 Tag
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 1 Tag
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie in unserem Airflow Training mit Hands-On Übungen von unseren ausgebildeten Experten. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -35,22 +35,22 @@ Airflow ist ein mächtiges Open Source Workflow-Tool zur Orchestrierung von Jobs
 
 ## Preis
 
-700 € zzgl. MwSt.  
+700 € zzgl. MwSt.
 
 ## Lernerfolge
 
 Teilnehmer können nach Abschluss...
 
-* Grundlagen von Airflow verstehen
-* Praktische Erfahrung und Übungen im Umgang mit dem Airflow Frontend
-* Verständnis von Automatisierung, Betrieb und Debugging in der Cloud
+- Grundlagen von Airflow verstehen
+- Praktische Erfahrung und Übungen im Umgang mit dem Airflow Frontend
+- Verständnis von Automatisierung, Betrieb und Debugging in der Cloud
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-* Grundlegendem Verständnis von ETL
-* Grundlegendem Verständis von Docker und objektorientierter Programmierung
+- Grundlegendem Verständnis von ETL
+- Grundlegendem Verständis von Docker und objektorientierter Programmierung
 
 ## Aufbau
 
@@ -58,21 +58,21 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Airflow Practice Tag I
 
-* Vorstellung der Airflow Komponenten
-* Deployment und Architektur
-* Übung - Setup Airflow
-* Übung - My first DAG
-* Airflow Cloud Deployment
-* Enterprise Readiness
-* FAQ für individuelle Fragen
+- Vorstellung der Airflow Komponenten
+- Deployment und Architektur
+- Übung - Setup Airflow
+- Übung - My first DAG
+- Airflow Cloud Deployment
+- Enterprise Readiness
+- FAQ für individuelle Fragen
 
-* Vorstellung der Airflow Komponenten
-* Deployment und Architektur
-* Übung - Setup Airflow
-* Übung - My first DAG
-* Airflow Cloud Deployment
-* Enterprise Readiness
-* FAQ für individuelle Fragen
+- Vorstellung der Airflow Komponenten
+- Deployment und Architektur
+- Übung - Setup Airflow
+- Übung - My first DAG
+- Airflow Cloud Deployment
+- Enterprise Readiness
+- FAQ für individuelle Fragen
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -86,7 +86,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -102,7 +102,7 @@ Welche Vorteile bringt Apache Airflow?
 
 Apache Airflow bringt viele Vorteile mit sich, darunter:
 
-* - Orchestrierung und Automatisierung von Workflows
+- - Orchestrierung und Automatisierung von Workflows
     - Skalierbarkeit
     - Flexibilität
     - Code-Reusability

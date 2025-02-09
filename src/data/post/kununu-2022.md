@@ -1,12 +1,11 @@
 ---
-title: "Kununu 2022"
+title: 'Kununu 2022'
 publishDate: 2022-08-24T10:00:00Z
-categories: 
-  + "news"
-coverImage: "kununu.png"
+categories: + "news"
+coverImage: 'kununu.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Kununu 2022 - Beste Arbeitgeber Frankfurts
 
@@ -28,63 +27,63 @@ Der vollständige Artikel inklusive der Auswahlkriterien und ausführlichen Bewe
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Reasons Why (3)](images/Reasons-Why-3.png "Reasons Why (3)")](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+[![Reasons Why (3)](images/Reasons-Why-3.png 'Reasons Why (3)')](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png "Kopie von Hack with (1)")](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+[Big Data](https://thinkport.digital/category/big-data/)
+
+[![Kopie von Hack with (1)](images/Kopie-von-Hack-with-1.png 'Kopie von Hack with (1)')](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/)
+
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ "9 Best Mobile App UI Design Trends in 2018")
+### [9 Best Mobile App UI Design Trends in 2018](https://thinkport.digital/9-best-mobile-app-ui-design-trends-in-2018/ '9 Best Mobile App UI Design Trends in 2018')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![OpenMaps](images/OpenMaps-1024x696.png "picture blog post testdata open maps")](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+[Big Data](https://thinkport.digital/category/big-data/)
+
+[![OpenMaps](images/OpenMaps-1024x696.png 'picture blog post testdata open maps')](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png "BDHomeBanner")](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
+[![BDHomeBanner](images/BDHomeBanner-e1535112378878.png 'BDHomeBanner')](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/)
 
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ "10 Big Data Trends to watch in 2018")
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![GreatUI](images/Kopie-von-Hack-with.png "GreatUI")](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+### [10 Big Data Trends to watch in 2018](https://thinkport.digital/10-big-data-trends-to-watch-in-2018/ '10 Big Data Trends to watch in 2018')
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+[Big Data](https://thinkport.digital/category/big-data/)
+
+[![GreatUI](images/Kopie-von-Hack-with.png 'GreatUI')](https://thinkport.digital/7-golden-rules-for-creating-great-ui/)
+
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ "7 Golden Rules for Creating Great UI")
+### [7 Golden Rules for Creating Great UI](https://thinkport.digital/7-golden-rules-for-creating-great-ui/ '7 Golden Rules for Creating Great UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
@@ -100,4 +99,4 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

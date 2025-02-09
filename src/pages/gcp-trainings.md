@@ -1,6 +1,6 @@
 ---
-title: "GCP Trainings"
-publishDate: "2024-02-20T10:00:00Z"
+title: 'GCP Trainings'
+publishDate: '2024-02-20T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -24,7 +24,7 @@ Noch unsicher, welches GCP Training zu Ihren Bedürfnissen passt? Dann nehmen Si
 
 Wir beraten Sie gerne
 
- Termin vereinbaren "Ein herzliches Dankeschön an das Team für das informative und praxisorientierte GCP (Google Cloud Platform) mit Terraform Workshop! Die Mischung aus fundierten Erklärungen und hands-on Labs hat mir geholfen, ein solides Verständnis für die Nutzung von Terraform in der GCP zu entwickeln. Besonders hilfreich waren die Tipps und Best Practices, die mir dabei halfen, potenzielle Fallstricke zu vermeiden. Ich fühle mich nun sicherer in der Erstellung und Verwaltung von Infrastruktur als je zuvor. Ich kann diesen Workshop nur wärmstens empfehlen!" Julio H. Junior Developer "Ich war angenehm überrascht von der Qualität des GCP (Google Cloud Platform) mit Terraform Workshops. Obwohl mein Team nur begrenzte Erfahrung mit Terraform hatte, konnten wir dank der strukturierten Präsentationen und der praktischen Übungen schnell Fortschritte erzielen. Der Workshop hat uns nicht nur dabei geholfen, die Grundlagen von Terraform zu verstehen, sondern auch spezifische Techniken und Strategien vermittelt, um effektiv mit der GCP umzugehen. Dieses Training war definitiv ein Wendepunkt für uns und wird uns in unseren zukünftigen Projekten enorm unterstützen. Danke an das gesamte Team für diese wertvolle Erfahrung!" Miriam T. Junior Cloud Engineer Anterior Siguiente
+Termin vereinbaren "Ein herzliches Dankeschön an das Team für das informative und praxisorientierte GCP (Google Cloud Platform) mit Terraform Workshop! Die Mischung aus fundierten Erklärungen und hands-on Labs hat mir geholfen, ein solides Verständnis für die Nutzung von Terraform in der GCP zu entwickeln. Besonders hilfreich waren die Tipps und Best Practices, die mir dabei halfen, potenzielle Fallstricke zu vermeiden. Ich fühle mich nun sicherer in der Erstellung und Verwaltung von Infrastruktur als je zuvor. Ich kann diesen Workshop nur wärmstens empfehlen!" Julio H. Junior Developer "Ich war angenehm überrascht von der Qualität des GCP (Google Cloud Platform) mit Terraform Workshops. Obwohl mein Team nur begrenzte Erfahrung mit Terraform hatte, konnten wir dank der strukturierten Präsentationen und der praktischen Übungen schnell Fortschritte erzielen. Der Workshop hat uns nicht nur dabei geholfen, die Grundlagen von Terraform zu verstehen, sondern auch spezifische Techniken und Strategien vermittelt, um effektiv mit der GCP umzugehen. Dieses Training war definitiv ein Wendepunkt für uns und wird uns in unseren zukünftigen Projekten enorm unterstützen. Danke an das gesamte Team für diese wertvolle Erfahrung!" Miriam T. Junior Cloud Engineer Anterior Siguiente
 
 Cloud-Beratung mit Start-Up Mentalität
 
@@ -36,7 +36,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

@@ -1,22 +1,21 @@
 ---
-title: "Apache Airflow"
+title: 'Apache Airflow'
 publishDate: 2023-01-20T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "hybrid-cloud"
-coverImage: "Apache-Airflow.png"
+coverImage: 'Apache-Airflow.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # How to use Apache Airflow on AWS and Azure
 
-Apache Airflow is an open source platform for scheduling, managing and monitoring workflows. It was originally developed by Airbnb and is now an Apache Foundation project.  
-  
-One of the special features of Apache Airflow is its user-friendly web interface, which allows users to visually plan and manage workflows. This web interface also provides extensive monitoring functionality allowing users to monitor workflow progress, task behaviour and diagnose errors. Airflow also supports integration with a wide range of sources and tools, including databases, cloud services and various programming languages. This makes it a flexible platform suitable for many different workflow use cases.  
-  
-Another special feature of Airflow is its concept of "operators", which allow users to define tasks in workflows. Operators are pre-built blocks of code that are specialised for certain types of tasks such as running SQL queries or uploading files to a cloud. This makes it easier to create and manage complex workflows by allowing users to simply select and merge operators, rather than having to write new code each time.  
-  
+Apache Airflow is an open source platform for scheduling, managing and monitoring workflows. It was originally developed by Airbnb and is now an Apache Foundation project.
+
+One of the special features of Apache Airflow is its user-friendly web interface, which allows users to visually plan and manage workflows. This web interface also provides extensive monitoring functionality allowing users to monitor workflow progress, task behaviour and diagnose errors. Airflow also supports integration with a wide range of sources and tools, including databases, cloud services and various programming languages. This makes it a flexible platform suitable for many different workflow use cases.
+
+Another special feature of Airflow is its concept of "operators", which allow users to define tasks in workflows. Operators are pre-built blocks of code that are specialised for certain types of tasks such as running SQL queries or uploading files to a cloud. This makes it easier to create and manage complex workflows by allowing users to simply select and merge operators, rather than having to write new code each time.
+
 Airflow also provides a variety of features for managing workflows, including the ability to pause and resume workflows, repeat the execution of workflows, and prioritise tasks in workflows. These features allow users to customise their workflows and resolve issues as they arise.
 
 ## Airflow on AWS
@@ -89,10 +88,10 @@ Although there is an active user community for Airflow, there are sometimes case
 
 While Airflow supports a wide range of tools and sources, there are sometimes cases where there are difficulties integrating with certain tools or sources.
 
-Problems with Airflow are usually resolvable, but it can sometimes take time and effort to fix them. It is important that users of Airflow use the documentation and support of the user community to help solve problems.  
-  
-Or they can use services such as **[Amazon MWAA](https://aws.amazon.com/managed-workflows-for-apache-airflow/?nc1=h_ls)**, which was released in 2022. This is a managed service for Apache Airflow that lets you use your current, familiar Apache Airflow platform to orchestrate your workflows. You benefit from improved scalability, availability, and security without having to worry about managing the underlying infrastructure.  
-  
+Problems with Airflow are usually resolvable, but it can sometimes take time and effort to fix them. It is important that users of Airflow use the documentation and support of the user community to help solve problems.
+
+Or they can use services such as **[Amazon MWAA](https://aws.amazon.com/managed-workflows-for-apache-airflow/?nc1=h_ls)**, which was released in 2022. This is a managed service for Apache Airflow that lets you use your current, familiar Apache Airflow platform to orchestrate your workflows. You benefit from improved scalability, availability, and security without having to worry about managing the underlying infrastructure.
+
 In summary, Airflow is a powerful workflow management platform that stands out for its user-friendly web interface, integration with various tools and sources, and extensive management features. It is a popular choice for companies and organisations that need to create workflows for a variety of applications.
 
 ## Apache Airflow – Trainings for getting started
@@ -103,62 +102,62 @@ Do you have further questions about Airflow or need a training seminar for yours
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
-
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png "Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals")](https://thinkport.digital/kafka-fundamentals/)
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
+
+[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png 'Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals')](https://thinkport.digital/kafka-fundamentals/)
+
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png "Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.")](https://thinkport.digital/hybrid-cloud-manifest/)
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+[Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png 'Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.')](https://thinkport.digital/hybrid-cloud-manifest/)
+
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)

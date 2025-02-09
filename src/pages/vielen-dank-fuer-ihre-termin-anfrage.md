@@ -1,6 +1,6 @@
 ---
-title: "Vielen Dank für Ihre Termin-Anfrage!"
-date: "2020-11-19"
+title: 'Vielen Dank für Ihre Termin-Anfrage!'
+date: '2020-11-19'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

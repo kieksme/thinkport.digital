@@ -1,6 +1,6 @@
 ---
-title: "Stream-Verarbeitung mit Kafka Lernen"
-date: "2020-11-19"
+title: 'Stream-Verarbeitung mit Kafka Lernen'
+date: '2020-11-19'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte in
 
 ## Auf einen Blick
 
-* 3 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 3 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Lernen Sie mit Hands-On Übungen, Stream-Verarbeitung mit Kafka in Echtzeit zu meistern. Profitieren Sie von Projekterfahrung unserer Experten und Cloud-Architekten mit Erfahrung direkt aus der Industrie.
 
@@ -25,11 +25,11 @@ Anhand von Apache Kafka ist es möglich, Data Streams über eine verteilte Platt
 
 Termine
 
-26.06. - 28.06.24 Kafka Stream-Verarbeitung  
+26.06. - 28.06.24 Kafka Stream-Verarbeitung
 
-24.07. - 26.07.24 Kafka Stream-Verarbeitung  
+24.07. - 26.07.24 Kafka Stream-Verarbeitung
 
-28.08. - 30.08.24 Kafka Stream-Verarbeitung  
+28.08. - 30.08.24 Kafka Stream-Verarbeitung
 
 ### \* individuelle Termine möglich
 
@@ -41,18 +41,18 @@ Preis
 
 Teilnehmer können nach Abschluss...
 
-* Gute Kenntnisse über Kafkas wichtigste Konzepte
-* Einen guten Überblick über die Kafka-betriebene Event Streaming Plattform Confluent
-* Eine hervorragende Grundlage, um fortgeschrittene Kafka Workshops zu belegen
-* Eine Plattform für automatische Analysen in Microsoft Azure bauen
+- Gute Kenntnisse über Kafkas wichtigste Konzepte
+- Einen guten Überblick über die Kafka-betriebene Event Streaming Plattform Confluent
+- Eine hervorragende Grundlage, um fortgeschrittene Kafka Workshops zu belegen
+- Eine Plattform für automatische Analysen in Microsoft Azure bauen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für Personen mit...
 
-* Erfahrungen als Entwickler mit Java (alternativ . NET, C#, Python oder einer anderen Programmiersprache
-* Fortgeschrittenem Können im Bereich Kafka Client App Entwicklung (z. B. Kafka Fundamentals und Kafka Developer Skills Workshop Ableger)
-* Erfahrung als DevOps Engineer, Data Scientist, Architects oder Application Developers
+- Erfahrungen als Entwickler mit Java (alternativ . NET, C#, Python oder einer anderen Programmiersprache
+- Fortgeschrittenem Können im Bereich Kafka Client App Entwicklung (z. B. Kafka Fundamentals und Kafka Developer Skills Workshop Ableger)
+- Erfahrung als DevOps Engineer, Data Scientist, Architects oder Application Developers
 
 ## Aufbau
 
@@ -60,33 +60,33 @@ Der Kurs ist geeignet für Personen mit...
 
 ### Streams Tag I
 
-* Motivation und Use Cases: Wieso Event-Driven?
-* Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
-* Wie funktioniert Kafka? Sicherheit und Herangehensweise​
+- Motivation und Use Cases: Wieso Event-Driven?
+- Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
+- Wie funktioniert Kafka? Sicherheit und Herangehensweise​
 
 ### Confluent und ksqlDB Tag II
 
-* Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
-* Lab: Datenformate beibehalten und Kompatibilität sichern​
-* Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
+- Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
+- Lab: Datenformate beibehalten und Kompatibilität sichern​
+- Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
 
 ### Confluent Tag III
 
-* Data Streaming Plattform als Zentrales Nervensystem​
-* Verschiedene Deployment Modelle
-* Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
+- Data Streaming Plattform als Zentrales Nervensystem​
+- Verschiedene Deployment Modelle
+- Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
 
-* Motivation und Use Cases: Wieso Event-Driven?
-* Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
-* Wie funktioniert Kafka? Sicherheit und Herangehensweise​
+- Motivation und Use Cases: Wieso Event-Driven?
+- Apache Kafka Grundlagen: Architektur, ZooKeeper und andere Basics
+- Wie funktioniert Kafka? Sicherheit und Herangehensweise​
 
-* Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
-* Lab: Datenformate beibehalten und Kompatibilität sichern​
-* Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
+- Lab: Data Streams mit Kafka Connect und REST Proxy verwalten
+- Lab: Datenformate beibehalten und Kompatibilität sichern​
+- Lab: Bauen einer Echtzeit Streaming Anwendung mit Confluent ksqlDB und Kafka Streams
 
-* Data Streaming Plattform als Zentrales Nervensystem​
-* Verschiedene Deployment Modelle
-* Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
+- Data Streaming Plattform als Zentrales Nervensystem​
+- Verschiedene Deployment Modelle
+- Confluent Basics: RBAC, Control Center, CLI, Operator, Confluent Hub
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -106,7 +106,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 
@@ -124,7 +124,7 @@ Confluent ist ein Unternehmen, das sich auf die Entwicklung von Daten-Streaming-
 
 Confluent bietet eine breite Palette von Lösungen, darunter:
 
-* - Confluent Platform (integrierte Streaming-Plattform)
+- - Confluent Platform (integrierte Streaming-Plattform)
     - Confluent Cloud (Kafka-as-a-Service-Plattform in der Cloud)
     - Confluent Enterprise (erweiterte Version der Confluent Platform)
     - Confluent Hub (ein Marktplatz für Kafka-Connectoren, -Tools und -Anwendungen)

@@ -1,10 +1,10 @@
 ---
-title: "Thinkport Lego Leuchtturm"
-date: "2022-03-14"
+title: 'Thinkport Lego Leuchtturm'
+date: '2022-03-14'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new.png)](https://thinkport.digital)
 
 #SupportUkraine
 
@@ -14,10 +14,10 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 ## Die Idee
 
-Vor einigen Monaten hatten wir die verrückte Idee, unser Logo als Leuchtturm in Lego nachzubauen. Als kleines Geschenk für Kunden und Freunde des Hauses. Stunden der Konzeption, Planung und Vorbereitung gingen ins Land. Nach einigen Monaten wurden die kleinen Meisterwerke endlich geliefert. Jeder im Team war stolz auf das Resultat.  
-  
-Leider hat sich kurz danach die Welt um 180 Grad gedreht.  
-  
+Vor einigen Monaten hatten wir die verrückte Idee, unser Logo als Leuchtturm in Lego nachzubauen. Als kleines Geschenk für Kunden und Freunde des Hauses. Stunden der Konzeption, Planung und Vorbereitung gingen ins Land. Nach einigen Monaten wurden die kleinen Meisterwerke endlich geliefert. Jeder im Team war stolz auf das Resultat.
+
+Leider hat sich kurz danach die Welt um 180 Grad gedreht.
+
 Wir möchten die Leuchttürme jetzt für einen besseren Zweck einsetzen.
 
 [Linkedin](https://www.linkedin.com/company/11759873) [Instagram](https://www.instagram.com/thinkport/) [Youtube](https://www.youtube.com/channel/UCnke3WYRT6bxuMK2t4jw2qQ) [Envelope](mailto:tdrechsel@thinkport.digital)
@@ -47,11 +47,10 @@ lebensrettenden Schutz.
 
 Oder mit normaler Überweisung auf das gleiche Spendenkonto
 
-				
-					 `BIC: COLSDE33 IBAN: DE78 3705 0198 0020 0088 50 Sparkasse KölnBonn Kontonummer: 2000 88 50 BLZ: 370 501 98`
+    				 `BIC: COLSDE33 IBAN: DE78 3705 0198 0020 0088 50 Sparkasse KölnBonn Kontonummer: 2000 88 50 BLZ: 370 501 98`
 
-				
-			
+
+
 
 DANKE.
 

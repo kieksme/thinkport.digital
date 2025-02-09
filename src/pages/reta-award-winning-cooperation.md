@@ -1,10 +1,10 @@
 ---
-title: "Reta Award Winning Cooperation"
-date: "2023-02-27"
+title: 'Reta Award Winning Cooperation'
+date: '2023-02-27'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
-## Thinkport awarded  
+## Thinkport awarded
 
 “Top Supplier Retail 2023”  
 for EDEKA DIGITAL  
@@ -22,12 +22,12 @@ Edeka
 
 EDEKA is the largest German food retailer. The group's market share grew up to 26 % at last count. As the IT subsidiary of EDEKA headquarters, EDEKA DIGITAL GmbH, or EDDI for short, takes on the task of dovetailing the business processes of the medium-sized and cooperative EDEKA group through the successful interaction of three levels (independent retail, regional wholesale and EDEKA headquarters). With more than 600 employees at the locations Hamburg, Mannheim, Berlin and Cluj (Romania), the EDDI team combines profound IT competence and comprehensive retail knowledge. Thus, EDDI not only proactively shapes and develops the digital transformation of the EDEKA group, but is also a significant factor for further growth and success in the retail industry.
 
-EDEKA is one of the largest retailers in Germany and has a strong customer-centric business. It wants to enable cutting-edge technologies to meet the expectation of modern-day shop staff and customers.  
-  
-6, 000 shops are the interface to those customers, hence it is crucial that the centralized IT infrastructure is able to adapt to those modern needs in a distributed manner.  
-  
-As per 2020, most processes in the ERP management systems are batch driven. Data is encapsulated and not accessible in real time. Plugging in new use-cases is time consuming and blocks development of innovative products using legacy systems. Speeding up time-to-market is crucial to help innovative use-cases develop at scale.  
-  
+EDEKA is one of the largest retailers in Germany and has a strong customer-centric business. It wants to enable cutting-edge technologies to meet the expectation of modern-day shop staff and customers.
+
+6, 000 shops are the interface to those customers, hence it is crucial that the centralized IT infrastructure is able to adapt to those modern needs in a distributed manner.
+
+As per 2020, most processes in the ERP management systems are batch driven. Data is encapsulated and not accessible in real time. Plugging in new use-cases is time consuming and blocks development of innovative products using legacy systems. Speeding up time-to-market is crucial to help innovative use-cases develop at scale.
+
 To enable innovative use-cases, it is necessary to break up those silos and open them up to real-time processes. Master data like sales prices should be provided to all processes and apps as soon as a change is populated in the core systems in a fast, reliable and secure manner.
 
 ## [Business Challenge](https://www.fairside.capital/)
@@ -37,14 +37,14 @@ to real-time processes."
 
 ## Business Solution and enabling technology
 
-Whether performance, cost savings or scaling.  
-  
+Whether performance, cost savings or scaling.
+
 We offer pragmatic solutions for the individual project focus of each of our customers. [Contact experts](https://thinkport.digital/kontaktieren)
 
 ### Cloud technology
 
-EDEKA DIGITAL decided to enable access to real-time changes in ERP systems to an instore mobile app solution used by EDEKA employees using an event streaming architecture to access changes to master data in real time.  
-  
+EDEKA DIGITAL decided to enable access to real-time changes in ERP systems to an instore mobile app solution used by EDEKA employees using an event streaming architecture to access changes to master data in real time.
+
 As the decision was to use cloud technologies, Thinkport became the leading cloud consultant of choice to implement this innovative architecture using **[Solace Pub Sub+](https://solace.com/)** hosted on Microsoft Azure.
 
 ### Unified format
@@ -59,14 +59,14 @@ The technology does not only enable real-time access. It also provides a new vie
 
 "Time to market of new digital products is massively reduced."
 
-As data is distributed from multiple sources standardized or aggregated to any new project interested in this data, time to market of new digital products and processes is massively reduced.  
-  
-New use-cases can be integrated in less than six weeks as it was proven with the integration of the Picnic system. With the old integration technologies, it was estimated to take over six months. This is a reduction of 75%.  
-  
+As data is distributed from multiple sources standardized or aggregated to any new project interested in this data, time to market of new digital products and processes is massively reduced.
+
+New use-cases can be integrated in less than six weeks as it was proven with the integration of the Picnic system. With the old integration technologies, it was estimated to take over six months. This is a reduction of 75%.
+
 Same figures were shown with other use-cases that integrated to the data mesh.
 
-It was also shown that a merge from monolithic SAP Retail systems to lightweight frameworks - that are manageable by small teams and are fitting in large scale retail companies like EDEKA – is possible using the right mindset and technologies:  
-  
+It was also shown that a merge from monolithic SAP Retail systems to lightweight frameworks - that are manageable by small teams and are fitting in large scale retail companies like EDEKA – is possible using the right mindset and technologies:
+
 Providing data changes for several hundred thousend products per store creates a gigabit scale of data flow containing 90 million events per day.
 
 [![](images/Badge.webp)](https://www.reta-europe.com/best-connected-retail-solution-2023-edeka-digital/)
@@ -93,7 +93,7 @@ tdrechsel@thinkport.digital
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
+- [](https://de.linkedin.com/in/philipp-d-angelo-27389111b)
 
 ### [More Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 

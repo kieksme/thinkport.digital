@@ -1,6 +1,6 @@
 ---
-title: "Kontakt"
-date: "2021-07-06"
+title: 'Kontakt'
+date: '2021-07-06'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -72,7 +72,7 @@ People & Culture
 
 ### Sabrina
 
-People & Culture [E-Mail](mailto:snorrenbrock@thinkport.digital) 
+People & Culture [E-Mail](mailto:snorrenbrock@thinkport.digital)
 
 ![Tobias gerahmt](images/Tobias_mH.png)
 
@@ -81,7 +81,7 @@ People & Culture [E-Mail](mailto:snorrenbrock@thinkport.digital)
 CEO  
 Public Relations & Partner
 
-[E-Mail](mailto:tdrechsel@thinkport.digital) 
+[E-Mail](mailto:tdrechsel@thinkport.digital)
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
@@ -90,16 +90,15 @@ Public Relations & Partner
 CTO  
 Projects, Operations & Sales
 
-[E-Mail](mailto:dfries@thinkport.digital) 
+[E-Mail](mailto:dfries@thinkport.digital)
 
 ![Sabrina gerahmt](images/Sabrina_mH.png)
 
 #### Sabrina
 
-  
 People & Culture
 
-[E-Mail](mailto:snorrenbrock@thinkport.digital) 
+[E-Mail](mailto:snorrenbrock@thinkport.digital)
 
 ![Tobias gerahmt](images/Tobias_mH.png)
 
@@ -108,7 +107,7 @@ People & Culture
 CEO  
 Public Relations & Partner
 
-[E-Mail](mailto:tdrechsel@thinkport.digital) 
+[E-Mail](mailto:tdrechsel@thinkport.digital)
 
 ![Dominik gerahmt](images/Dominik_mH-2.png)
 
@@ -117,13 +116,12 @@ Public Relations & Partner
 CTO  
 Projects, Operations & Sales
 
-[E-Mail](mailto:dfries@thinkport.digital) 
+[E-Mail](mailto:dfries@thinkport.digital)
 
 ![Sabrina gerahmt](images/Sabrina_mH.png)
 
 #### Sabrina
 
-  
 People & Culture
 
 [E-Mail](mailto:snorrenbrock@thinkport.digital)

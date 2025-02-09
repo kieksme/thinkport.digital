@@ -1,7 +1,7 @@
 ---
 layout: '~/layouts/MarkdownLayout.astro'
-title: "Azure-Consulting"
-publishDate: "2023-02-27T10:00:00Z"
+title: 'Azure-Consulting'
+publishDate: '2023-02-27T10:00:00Z'
 ---
 
 Wir machen Sie fit für die Azure - Cloud!
@@ -24,17 +24,17 @@ Ihres Unternehmens sowie deren Umsetzung.
 
 Keith Schuijlenburg
 
- Termin vereinbaren[](#linksection)
+Termin vereinbaren[](#linksection)
 
 ## Azure Stärken
 
-* Erfüllen regulatorische und Security-Anforderungen am besten
-* Ausgereifte und innovative Lösungen
-* Gute Analytics- und KI-Funktionen
-* Haben die meisten Erfahrungswerte
-* Marktführer
-* Zuverlässiger Partner
-* Gute Debugging-Tools
+- Erfüllen regulatorische und Security-Anforderungen am besten
+- Ausgereifte und innovative Lösungen
+- Gute Analytics- und KI-Funktionen
+- Haben die meisten Erfahrungswerte
+- Marktführer
+- Zuverlässiger Partner
+- Gute Debugging-Tools
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf drei Azure Wolken](images/Group-6-1024x902.png)[](#linksection)
 
@@ -90,12 +90,12 @@ Data Sciene
 
 [![Partner Badge Microsoft Azure](images/Microsoft_Azure_724x720-non_ecking.png)](https://appsource.microsoft.com/de-DE/marketplace/partner-dir/12e29f7c-8633-4490-ab9d-95ba84981681/overview)
 
-## Unsere Top 3:  
+## Unsere Top 3:
 
 Azure Trainings & Workshops
 
-Die Lerninhalte unserer vielfältigen [Azure](https://thinkport.digital/was-ist-azure/)\-Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.  
-  
+Die Lerninhalte unserer vielfältigen [Azure](https://thinkport.digital/was-ist-azure/)\-Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.
+
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
 [Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![](images/Terraform-1024x463.png) ](https://thinkport.digital/terraform-fuer-azure-lernen/)[![Man sieht Hände eines Mannes der etwas erklärt und vor einem Laptop sitzt. Davor ist auf türkisem Hintergrund der Schriftzug "Apache Airflow in Azure" zu lesen.](images/Apache-Airflow-in-Azure-1024x463.webp) ](https://thinkport.digital/airflow-in-der-cloud/)[![](images/Apache-Airflow-in-Azure-2-1024x463.webp)](https://thinkport.digital/datenplattform-mit-azure-und-databricks/)
@@ -136,7 +136,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

@@ -1,12 +1,11 @@
 ---
-title: "Machine Learning in Production"
+title: 'Machine Learning in Production'
 publishDate: 2024-12-10T10:00:00Z
-categories: 
-  + "big-data"
+categories: + "big-data"
   + "cloud-general"
   + "cloud-strategie"
   + "company-value"
-image: "https://images.unsplash.com/photo-1561069934-eee225952461?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+image: 'https://images.unsplash.com/photo-1561069934-eee225952461?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80'
 ---
 
 ## Erfolgreiche Machine-Learning-Projekte in Produktion - Mit MLOps den Unterschied machen
@@ -19,12 +18,12 @@ Mit MLOps (Machine Learning Operations) schaffen Sie die Grundlage für einen re
 
 Unser kostenloses Whitepaper bietet Ihnen einen umfassenden Überblick, wie MLOps Unternehmen dabei unterstützt, aus Machine Learning echten Business Value zu generieren. Neben den Grundlagen und Vorteilen von MLOps zeigen wir Ihnen:
 
-* Schlüsselkriterien für eine erfolgreiche und wertschöpfende Implementierung von KI-Lösungen in ihrem Unternehmen
-* Strategien zur Bewältigung der häufigsten Herausforderungen in Produktion
-* Einen inkrementellen Prozess, der ihnen erlaubt, MLOps schrittweise in Ihrem Unternehmen einzuführen
-* Meinungen von führenden Unternehmen
+- Schlüsselkriterien für eine erfolgreiche und wertschöpfende Implementierung von KI-Lösungen in ihrem Unternehmen
+- Strategien zur Bewältigung der häufigsten Herausforderungen in Produktion
+- Einen inkrementellen Prozess, der ihnen erlaubt, MLOps schrittweise in Ihrem Unternehmen einzuführen
+- Meinungen von führenden Unternehmen
 
-[Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen) 
+[Jetzt Whitepaper Herunterladen](#JetztWhitepaperHerunterladen)
 
 ![Es sind mehrere Zahnräder zu sehen, die ineinandergreifen](images/image-13.webp)
 
@@ -64,62 +63,62 @@ _Business Unit Lead - Data und KI_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp "tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3")](https://thinkport.digital/datenstrategie_fuer_ki/)
+[![tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3](images/tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3.webp 'tpinnov_A_lighthouse_in_dark_blue_and_red_with_a_focus_on_Dat_bb60527e-a8a5-43af-b15f-488f73f2a07c_3')](https://thinkport.digital/datenstrategie_fuer_ki/)
 
-### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ "Datenstrategie für KI Revolution")
-
-[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
-
-### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ "Datenstrategie für KI Revolution")
+### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ 'Datenstrategie für KI Revolution')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
 
-[![nomad setup teaser](images/nomad-setup-1024x683.webp "nomad setup teaser")](https://thinkport.digital/setup-von-hashicorp-nomad/)
+### [Datenstrategie für KI Revolution](https://thinkport.digital/datenstrategie_fuer_ki/ 'Datenstrategie für KI Revolution')
 
-### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ "Setup von Hashicorp Nomad")
+[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Strategie](https://thinkport.digital/category/cloud-strategie/)
+
+[![nomad setup teaser](images/nomad-setup-1024x683.webp 'nomad setup teaser')](https://thinkport.digital/setup-von-hashicorp-nomad/)
+
+### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ 'Setup von Hashicorp Nomad')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ "Setup von Hashicorp Nomad")
+### [Setup von Hashicorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/ 'Setup von Hashicorp Nomad')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp "Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer")](https://thinkport.digital/nomad-vs-kubernetes/)
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
 [![Optimizing Kafka](images/Optimizing-Kafka.png "Vor dem rotem Hintergrundbild eines Zahnrads steht der Schriftzug "Optimizing Kafka".")](https://thinkport.digital/optimizing-kafka/)
 
-### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ "Optimizing Kafka")
+### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ 'Optimizing Kafka')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ "Optimizing Kafka")
+### [Optimizing Kafka](https://thinkport.digital/optimizing-kafka/ 'Optimizing Kafka')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)

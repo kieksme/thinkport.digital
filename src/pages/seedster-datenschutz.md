@@ -1,6 +1,6 @@
 ---
-title: "SeedSter Datenschutz"
-date: "2023-04-27"
+title: 'SeedSter Datenschutz'
+date: '2023-04-27'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 

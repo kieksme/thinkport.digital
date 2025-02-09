@@ -1,6 +1,6 @@
 ---
-title: "Microsoft Fabric Lernen"
-date: "2025-01-16"
+title: 'Microsoft Fabric Lernen'
+date: '2025-01-16'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 2 Tage
-* Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 2 Tage
+- Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Erweitern Sie Ihr Wissen mit unserem praxisnahen Microsoft Fabric Training und lernen Sie, wie Sie leistungsstarke Datenlösungen effizient umsetzen.
 
@@ -27,17 +27,17 @@ Unser Microsoft Fabric Training bietet Ihnen die ideale Grundlage, um das Potenz
 
 Teilnehmer können nach Abschluss...
 
-* Die grundlegenden Funktionen und Anwendungen von Microsoft Fabric, um datengetriebene Prozesse effizient gestalten
-* Datenintegration, -analyse und -visualisierung erfolgreich in Ihrem Unternehmen anwenden
-* Datenbasierte Entscheidungen treffen und Ihre Datenstrategie gezielt optimieren
+- Die grundlegenden Funktionen und Anwendungen von Microsoft Fabric, um datengetriebene Prozesse effizient gestalten
+- Datenintegration, -analyse und -visualisierung erfolgreich in Ihrem Unternehmen anwenden
+- Datenbasierte Entscheidungen treffen und Ihre Datenstrategie gezielt optimieren
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-* Datenanalyst\*innen und Data Engineers: Fachleute, die datengetriebene Lösungen entwickeln und optimieren möchten.
-* Power-User und Data Professionals: Anwender\*innen, die regelmäßig mit Datenmodellen, Analysen und Dashboards arbeiten und ihre Effizienz steigern möchten.
-* Grundlegendem Verständnis für TCP/IP Netzwerke und eventuell Erfahrung mit Java Virtual Machine (JVM)
+- Datenanalyst\*innen und Data Engineers: Fachleute, die datengetriebene Lösungen entwickeln und optimieren möchten.
+- Power-User und Data Professionals: Anwender\*innen, die regelmäßig mit Datenmodellen, Analysen und Dashboards arbeiten und ihre Effizienz steigern möchten.
+- Grundlegendem Verständnis für TCP/IP Netzwerke und eventuell Erfahrung mit Java Virtual Machine (JVM)
 
 ## Aufbau
 
@@ -45,17 +45,17 @@ Der Kurs ist geeignet für...
 
 ### Einführung und Grundlagen Tag I
 
-* Komponenten und Architektur
-* Erstellung und Automatisierung von Datenpipelines
-* Data Warehousing & Echtzeit-Analysen:
-* Erste Schritte mit Machine Learning-Modellen
+- Komponenten und Architektur
+- Erstellung und Automatisierung von Datenpipelines
+- Data Warehousing & Echtzeit-Analysen:
+- Erste Schritte mit Machine Learning-Modellen
 
 ### Vertiefung und Praxis Tag II
 
-* Entwicklung interaktiver Dashboards
-* Fortgeschrittene Datenmodellierung
-* Sicherheit & Governance
-* Workflow-Automatisierung
+- Entwicklung interaktiver Dashboards
+- Fortgeschrittene Datenmodellierung
+- Sicherheit & Governance
+- Workflow-Automatisierung
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 

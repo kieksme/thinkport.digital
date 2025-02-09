@@ -1,6 +1,6 @@
 ---
-title: "AWS-Consulting"
-publishDate: "2022-11-30T10:00:00Z"
+title: 'AWS-Consulting'
+publishDate: '2022-11-30T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -21,15 +21,15 @@ Ihres Unternehmens sowie deren Umsetzung.
 „AWS ist nicht nur der marktführende Cloud-Anbieter. Er bietet auch nahezu alle Aspekte der modernen IT an. Wir, als Thinkport, sind stolz darauf, AWS Consulting Partner der ersten Stunde zu sein. So haben wir eine ausgefeilte Expertise in Sachen Sicherheit, Zuverlässigkeit, Skalierbarkeit und Kosteneffizienz entwickelt. Unser Portfolio umfasst zahl- und erfolgreiche AWS-Applikationen. Dabei liegt uns die fortlaufende Weiterbildung unserer Mitarbeiter in Bezug auf die neuesten AWS-Services immer am Herzen.“  
 Kristian Nikolic
 
- Termin vereinbaren[](#linksection)
+Termin vereinbaren[](#linksection)
 
 ## AWS Stärken
 
-* Der marktführende und ausgereifteste Cloud-Anbieter
-* AWS unterstützt mehr Sicherheitsstandards und Compliance-Zertifizierungen als jedes andere Angebot, einschließlich PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2 und NIST 800-171
-* Drittanbieter-Validierung für 1.000 globale Anforderungen
-* Große Anzahl von Regionen und Edge-Standorten, die es ermöglichen, Daten in Ihrer Region zu speichern oder sie näher an Ihre Kunden zu liefern
-* Größte Entwicklergemeinschaft auf der Welt
+- Der marktführende und ausgereifteste Cloud-Anbieter
+- AWS unterstützt mehr Sicherheitsstandards und Compliance-Zertifizierungen als jedes andere Angebot, einschließlich PCI-DSS, HIPAA/HITECH, FedRAMP, GDPR, FIPS 140-2 und NIST 800-171
+- Drittanbieter-Validierung für 1.000 globale Anforderungen
+- Große Anzahl von Regionen und Edge-Standorten, die es ermöglichen, Daten in Ihrer Region zu speichern oder sie näher an Ihre Kunden zu liefern
+- Größte Entwicklergemeinschaft auf der Welt
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf drei AWS Wolken](images/Group-5-6-1024x902.png)[](#linksection)
 
@@ -49,7 +49,7 @@ Entwicklung Unser Entwicklerteam setzt modernste Cloud-Technologien ein, um zuku
 
 <figure>
 
-[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png "BMW")](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
+[![Ein schwarzer BMW fährt auf der Straße](images/rodan-can-6cqJPeTIuls-unsplash-1-min.png 'BMW')](https://thinkport.digital/echtzeit-streaming-von-auto-daten-bmw/)
 
 <figcaption>
 
@@ -89,8 +89,8 @@ API für einen 360° Kunden-Dialog
 
 AWS Trainings & Workshops
 
-Die Lerninhalte unserer vielfältigen AWS Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.  
-  
+Die Lerninhalte unserer vielfältigen AWS Trainings werden von unseren Experten spannend und eingänglich vermittelt. In den Trainings lernen Sie praxisorientiert von zertifizierten Cloud Profis, wie Sie moderne Anwendungen erstellen und bereitstellen.
+
 Gerne schneiden wir auch unsere bestehenden Trainingsmaßnahmen oder Workshops ganz individuell auf Ihre Bedürfnisse zu. Sprechen Sie uns diesbezüglich gerne an, gemeinsam finden wir eine Lösung.
 
 [Mehr ](https://thinkport.digital/cloud-trainings-workshops/)[![](images/Terraform-1024x463.png) ](https://thinkport.digital/terraform-fuer-aws-lernen/)[![](images/JS-1024x463.png) ](https://thinkport.digital/aws-fuer-javascript-developer/)[![](images/CD-1024x463.png)](https://thinkport.digital/ci-cd-mit-aws/)
@@ -143,7 +143,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

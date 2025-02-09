@@ -1,12 +1,12 @@
 ---
-title: "AWS Trainings"
-publishDate: "2022-07-07T10:00:00Z"
+title: 'AWS Trainings'
+publishDate: '2022-07-07T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
 ## AWS Trainings für Ihren Erfolg
 
- Wunsch-Termin vereinbaren 0 AWS Trainings 0 + Erfolgreiche Teilnehmer 0 Zertifizierte Trainer
+Wunsch-Termin vereinbaren 0 AWS Trainings 0 + Erfolgreiche Teilnehmer 0 Zertifizierte Trainer
 
 ## AWS Trainings
 
@@ -40,7 +40,7 @@ Noch unsicher, welches AWS Training zu Ihren Bedürfnissen passt? Dann nehmen Si
 
 Wir beraten Sie gerne
 
- Termin vereinbaren "Vielen Dank, Roman, für das tolle AWS Training CI/CD.  
+Termin vereinbaren "Vielen Dank, Roman, für das tolle AWS Training CI/CD.  
 Durch die vielen praxisnahen hands-on Labs fühle ich mich jetzt sicher Pipelines mit AWS zu erstellen. Auch noch einmal Danke für die vielen Tipps, auf was man so achten sollte. Ein rundum gelungenes Training, was ich nur weiter empfehlen kann. Aleksandro P. Junior Developer "Ein super Training zu Terraform für AWS.  
 Mein Team hatte vor der Fortbildung nur wenig Erfahrung bzw. Kenntnisse mit Terraform.  
 Durch den 3-tägigen Kurs, mit vielen hands-on Labs, sind wir nun gut gerüstet für unsere zukünftigen Projekte." Marco B. Cloud Engineer Previous Next
@@ -55,7 +55,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

@@ -1,6 +1,6 @@
 ---
-title: "Hybrid Cloud Trainings"
-publishDate: "2022-07-07T10:00:00Z"
+title: 'Hybrid Cloud Trainings'
+publishDate: '2022-07-07T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -29,7 +29,7 @@ Meistern Sie Datenanalyse mit Text Mining und Machine Learning Methoden. [Anhand
 
 ### Airflow in der Cloud
 
-Orchestrierung von skalierbaren Workflows mit Apache Airflow Cloud oder agnostisch in Kubernetes [Praktische Erfahrungen unserer Cloud-Experten, welche Airflow bei vielen Großkunden eingerichtet und optimiert haben. Mehr Infos](https://thinkport.digital/airflow-in-der-cloud) 
+Orchestrierung von skalierbaren Workflows mit Apache Airflow Cloud oder agnostisch in Kubernetes [Praktische Erfahrungen unserer Cloud-Experten, welche Airflow bei vielen Großkunden eingerichtet und optimiert haben. Mehr Infos](https://thinkport.digital/airflow-in-der-cloud)
 
 ![Nomad Logo Black](images/11-150x120.png)
 
@@ -49,7 +49,7 @@ Noch unsicher, welche Trainingsmaßnahme zu Ihren Bedürfnissen passt? Dann nehm
 
 Wir beraten Sie gerne
 
- Termin vereinbaren "Um uns für die Zukunft zu rüsten, haben wir mit den Kollegen von Thinkport eine Hybrid Cloud Strategie für unser Unternehmen entwickelt. Damit wir auch weiterhin erfolgreich auf dem hart umkämpften Logistikmarkt bestehen. Diesen Plan werden wir nun konsequent umsetzten. Vielen Dank für den vielen Input." Peter B. Manager "Ein super Training zu Big Data. Mein Team hatte vor der Fortbildung keinerlei Erfahrung mit Spark. Durch den Kurs fühlen wir uns im Bereich Datenverarbeitung mittlerweile sicher. " Alexander H. Cloud Engineer Anterior Siguiente
+Termin vereinbaren "Um uns für die Zukunft zu rüsten, haben wir mit den Kollegen von Thinkport eine Hybrid Cloud Strategie für unser Unternehmen entwickelt. Damit wir auch weiterhin erfolgreich auf dem hart umkämpften Logistikmarkt bestehen. Diesen Plan werden wir nun konsequent umsetzten. Vielen Dank für den vielen Input." Peter B. Manager "Ein super Training zu Big Data. Mein Team hatte vor der Fortbildung keinerlei Erfahrung mit Spark. Durch den Kurs fühlen wir uns im Bereich Datenverarbeitung mittlerweile sicher. " Alexander H. Cloud Engineer Anterior Siguiente
 
 Cloud-Beratung mit Start-Up Mentalität
 
@@ -61,7 +61,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

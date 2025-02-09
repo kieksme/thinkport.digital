@@ -1,13 +1,12 @@
 ---
-title: "Kafka Event-Streaming"
+title: 'Kafka Event-Streaming'
 publishDate: 2023-01-30T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "Kafka-Event-Streaming-1.png"
+coverImage: 'Kafka-Event-Streaming-1.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Kafka-Event-Streaming - ein Überblick
 
@@ -17,9 +16,9 @@ In Zeiten der Digitalisierung gehören die effiziente Gestaltung sämtlicher Ges
 
 Event-Streaming gibt Unternehmen die Möglichkeit schneller und effizienter zu operieren und damit die Wettbewerbsfähigkeit für die Zukunft zu sichern. Es handelt sich dabei um eine Softwaretechnologie, die die **Implementierung eventgesteuerter Architekturen** ermöglicht. Diese Umgebungen umfassen mehrere Formen von Entitäten. Solche, die Ereignisse …
 
-* produzieren, 
-* verwalten und
-* konsumieren.
+- produzieren,
+- verwalten und
+- konsumieren.
 
 Das Event-Streaming erfasst Daten in Echtzeit. Diese stammen aus Ereignisquellen wie Sensoren, anderen Softwareanwendungen oder Cloud-Diensten. Anschließend werden die Ereignisströme vorübergehend oder permanent gespeichert und liegen dann für den späteren Abruf oder die Weiterverarbeitung bereit. Je nach Anwendungsbereich können kritische Ereignisse, beispielsweise Bestell- und Zahlungseingänge oder ein per Sensor erfasster Temperaturpunkt, identifiziert und dann entsprechend darauf – entweder in Echtzeit oder im Nachhinein – reagiert werden. Einfach gesagt, **ermöglicht das Event-Streaming einen kontinuierlichen Datenfluss** und sorgt dafür, dass die richtigen Informationen zur richtigen Zeit am richtigen Ort sind.
 
@@ -27,13 +26,13 @@ Das Event-Streaming erfasst Daten in Echtzeit. Diese stammen aus Ereignisquellen
 
 Immer mehr Unternehmen setzen auf eventgetriebene Geschäftsprozesse, um sich einen Vorteil gegenüber den Mitbewerbern zu verschaffen. Schließlich birgt die Digitalisierung nach wie vor viele neue Chancen und das Event-Streaming gehört dabei zu den zentralen Themen. Unabhängig von der Branche ergeben sich im Tagesgeschäft **zahlreiche Anwendungsfälle**, bei denen die Softwaretechnologie eingesetzt werden kann. Zu den Möglichkeiten zählen:
 
-* Die Verarbeitung von Zahlungen und Finanztransaktionen in Echtzeit
-* Die Kontrolle von Prozess- und Lieferketten (Verfolgung und Überwachung von Lieferfahrzeugen oder Sendungen in Echtzeit)
-* Die kontinuierliche Erfassung von Sensordaten in Fabriken, Windparks und anderen Anlagen
-* Die automatisierte Reaktion auf Kundeninteraktionen und Bestellungen im Einzel- und Online-Handel oder in der Reise- und Hotelbranche
-* Die Überwachung von Patienten in Krankenhäusern und Voraussagen zu Zustandsveränderungen
-* Die Speicherung, Verwaltung und Bereitstellung von Daten, die von verschiedenen Abteilungen einer Firma genutzt werden
-* Die Schaffung einer Grundlage für Datenplattformen, ereignisgesteuerte Architekturen und Microservices
+- Die Verarbeitung von Zahlungen und Finanztransaktionen in Echtzeit
+- Die Kontrolle von Prozess- und Lieferketten (Verfolgung und Überwachung von Lieferfahrzeugen oder Sendungen in Echtzeit)
+- Die kontinuierliche Erfassung von Sensordaten in Fabriken, Windparks und anderen Anlagen
+- Die automatisierte Reaktion auf Kundeninteraktionen und Bestellungen im Einzel- und Online-Handel oder in der Reise- und Hotelbranche
+- Die Überwachung von Patienten in Krankenhäusern und Voraussagen zu Zustandsveränderungen
+- Die Speicherung, Verwaltung und Bereitstellung von Daten, die von verschiedenen Abteilungen einer Firma genutzt werden
+- Die Schaffung einer Grundlage für Datenplattformen, ereignisgesteuerte Architekturen und Microservices
 
 [![Bildcollage mit Kalender, Wolke, Kamera und Schriftzug Kafka Event Streaming](images/Kafka-Event-Streaming-1024x1024.png)](https://thinkport.digital/event-streaming-kafka-trainings/)
 
@@ -49,11 +48,11 @@ Zum anderen glänzt das Kafka-Event-Streaming mit hoher Flexibilität. Anwendung
 
 Aber warum nutzen so viele Unternehmen ausgerechnet Apache Kafka? Schließlich existieren noch eine Vielzahl weiterer Queuing-, Messaging- und Streaming-Engines. Folgende Argumente sprechen für den Einsatz des Kafka-Event-Streamings:
 
-* Einfache Skalierbarkeit
-* Hohe Ausfallsicherheit und Belastbarkeit
-* Geringe Latenz
-* Integrierte Optimierungen wie Kompression und Message-Batching
-* Open-Source-Ansatz mit vielen Konnektoren zu anderen Anwendungen
+- Einfache Skalierbarkeit
+- Hohe Ausfallsicherheit und Belastbarkeit
+- Geringe Latenz
+- Integrierte Optimierungen wie Kompression und Message-Batching
+- Open-Source-Ansatz mit vielen Konnektoren zu anderen Anwendungen
 
 [![Werbebanner Streaming Verarbeitung](images/StreamingVerarbeitung-min-1024x1024.png)](https://thinkport.digital/event-streaming-kafka-trainings/)
 
@@ -79,60 +78,60 @@ Fähigkeiten im Umgang mit Apache Kafka sind deshalb sehr gefragt, doch viele Un
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png "Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera")](https://thinkport.digital/kafka-event-streaming/)
+[![Kafka Event Streaming](images/Kafka-Event-Streaming-1.png 'Bildcollage mit zwei dunelblauen überlappenden Kreisen mit der Schriftzug Kafka Event Streaming sowie Icons von einem Kalender und einer Kamera')](https://thinkport.digital/kafka-event-streaming/)
 
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ "Kafka Event-Streaming")
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+### [Kafka Event-Streaming](https://thinkport.digital/kafka-event-streaming/ 'Kafka Event-Streaming')
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
+
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Kafka Streams](images/Streaming-Services-2.png "Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams")](https://thinkport.digital/kafka-streams/)
+[![Kafka Streams](images/Streaming-Services-2.png 'Bildcollage mit dem Logo von Kafka und dem Schriftzug Kafka Streams')](https://thinkport.digital/kafka-streams/)
 
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
-
-### [Kafka Streams](https://thinkport.digital/kafka-streams/ "Kafka Streams")
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png "Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals")](https://thinkport.digital/kafka-fundamentals/)
+### [Kafka Streams](https://thinkport.digital/kafka-streams/ 'Kafka Streams')
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
+
+[![BlogTeaser_Kafka Fundamentals](images/BlogTeaser_KafkaFundamentals.png 'Türkis-blauer Hintergrund auf dem Wolken zu erkennen sind und darauf der Schriftzug Kafka Fundamentals')](https://thinkport.digital/kafka-fundamentals/)
+
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ "Kafka-Fundamentals")
+### [Kafka-Fundamentals](https://thinkport.digital/kafka-fundamentals/ 'Kafka-Fundamentals')
 
 [Streaming](https://thinkport.digital/category/streaming/)
 
-[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png "Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.")](https://thinkport.digital/hybrid-cloud-manifest/)
+[![laptop_server_maintenance_1080x720-min](images/laptop_server_maintenance_1080x720-min-1024x682.png 'Die linke Hand liegt auf der Tastatur des aufgeklappten Laptops im Serverraum.')](https://thinkport.digital/hybrid-cloud-manifest/)
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ "Hybrid-Cloud-Manifest")
+### [Hybrid-Cloud-Manifest](https://thinkport.digital/hybrid-cloud-manifest/ 'Hybrid-Cloud-Manifest')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)

@@ -1,6 +1,6 @@
 ---
-title: "AI Driven Software Development"
-publishDate: "2023-12-12T10:00:00Z"
+title: 'AI Driven Software Development'
+publishDate: '2023-12-12T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Beschleunigen Sie mit uns Ihr
 
 ## Auf einen Blick
 
-* 1 Tag
-* Individuell
-* Training
-* Remote und vor Ort
+- 1 Tag
+- Individuell
+- Training
+- Remote und vor Ort
 
 Dieses Training richtet sich mit Anleitungen und praktischen Übungen an Softwareentwickler:innen und -ingenieure, die ihre Kenntnisse im Bereich künstliche Intelligenz (AI) und maschinelles Lernen (ML) erweitern möchten, um die Möglichkeiten dieser Technologien in ihren Projekten zu nutzen.
 
@@ -41,16 +41,16 @@ Der eintägige Kurs vermittelt Softwareentwickler:innen theoretische Grundlagen 
 
 Teilnehmer:innen haben nach Abschluss...
 
-* die Kenntnis, wie AI ihre Arbeit verbessern kann.
-* potenzielle eigene Anwendungsfälle identifiziert.
-* Klarheit über Chancen und Risiken der AI Anwendung.
-* ein Konzept entwickelt für eine AI-gesteuerte UX.
+- die Kenntnis, wie AI ihre Arbeit verbessern kann.
+- potenzielle eigene Anwendungsfälle identifiziert.
+- Klarheit über Chancen und Risiken der AI Anwendung.
+- ein Konzept entwickelt für eine AI-gesteuerte UX.
 
 ## Zielgruppe
 
 Der Workshop ist geeignet für ...
 
-* Softwareentwickler und -ingenieure, die direkt an der Entwicklung von Software beteiligt sind.
+- Softwareentwickler und -ingenieure, die direkt an der Entwicklung von Software beteiligt sind.
 
 ## Aufbau
 
@@ -58,18 +58,18 @@ Der Workshop ist geeignet für ...
 
 ### AI Driven Software Development Tag I
 
-* Einführung
-* Grundlagen von AI im Software Development
-* AI-Tools und Frameworks für Entwickler
-* Integration von AI in den Softwareentwicklungsprozess
+- Einführung
+- Grundlagen von AI im Software Development
+- AI-Tools und Frameworks für Entwickler
+- Integration von AI in den Softwareentwicklungsprozess
 
 Lunchbreak
 
-* AI in der Code-Analyse und Qualitätssicherung
-* AI-gesteuerte User Experience (UX)
-* AI-Ethik und Datenschutz in der Softwareentwicklung
-* Interaktive Diskussion und Q&A
-* Abschluss und Ausblick
+- AI in der Code-Analyse und Qualitätssicherung
+- AI-gesteuerte User Experience (UX)
+- AI-Ethik und Datenschutz in der Softwareentwicklung
+- Interaktive Diskussion und Q&A
+- Abschluss und Ausblick
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -83,7 +83,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 

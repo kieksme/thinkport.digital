@@ -1,9 +1,8 @@
 ---
-title: "AWS Relational Database Service"
+title: 'AWS Relational Database Service'
 publishDate: 2018-11-15T10:00:00Z
-categories: 
-  + "aws-cloud"
-coverImage: "Hack-with-4.png"
+categories: + "aws-cloud"
+coverImage: 'Hack-with-4.png'
 ---
 
 ## AWS Relational Database Service
@@ -19,14 +18,14 @@ Amazon RDS gives you access to the capabilities of a familiar MySQL, MariaDB, Or
 
  **When to use**
 
-Amazon RDS manages the work involved in setting up a relational database: from provisioning the infrastructure capacity you request to installing the database software. Once your database is up and running, Amazon RDS automates common administrative tasks such as performing backups and patching the software that powers your database. With optional Multi-AZ deployments, Amazon RDS also manages synchronous data replication across Availability Zones with automatic failover.  
+Amazon RDS manages the work involved in setting up a relational database: from provisioning the infrastructure capacity you request to installing the database software. Once your database is up and running, Amazon RDS automates common administrative tasks such as performing backups and patching the software that powers your database. With optional Multi-AZ deployments, Amazon RDS also manages synchronous data replication across Availability Zones with automatic failover.
 
 Since Amazon RDS provides native database access, you interact with the relational database software as you normally would. This means you're still responsible for managing the database settings that are specific to your application. You'll need to build the relational schema that best fits your use case and are responsible for any performance tuning to optimize your database for your application’s workflow.  
-Amazon Web Services provides a number of database alternatives for developers. Amazon RDS enables you to run a fully featured relational database while offloading database administration. Using one of our many relational database AMIs on Amazon EC2 allows you to manage your own relational database in the cloud.  
+Amazon Web Services provides a number of database alternatives for developers. Amazon RDS enables you to run a fully featured relational database while offloading database administration. Using one of our many relational database AMIs on Amazon EC2 allows you to manage your own relational database in the cloud.
 
 **Features**
 
-    •    Enhanced Monitoring: Amazon RDS provides multiple ways to manage automation of many DBA activities and has many different capabilities to do detailed performance analysis of the overall system.  
+    •    Enhanced Monitoring: Amazon RDS provides multiple ways to manage automation of many DBA activities and has many different capabilities to do detailed performance analysis of the overall system.
 
     •    AWS Database Migration Service (DMS): DMS can help in migrating to cloud in virtually no downtime so you can take advantage of the scale, operational efficiency, and the multitude of data storage options available
 
@@ -34,11 +33,11 @@ Amazon Web Services provides a number of database alternatives for developers. A
 
     •    Amazon RDS Resources Encryption: With RDS encryption enabled, the data stored on the instance underlying storage, the automated backups, read replicas, and snapshots all become encrypted. The RDS encryption keys implement the AES-256 algorithm and are entirely managed and protected by the AWS key management infrastructure through AWS Key Management Service (AWS KMS).
 
-    •    Cross-Region Read Replicas for Amazon RDS: Amazon RDS Read Replicas provide enhanced performance and durability for database (DB) instances. Cross-region read replicas can yield tremendous performance benefits for read-only applications for users based out in multiple regions.  
+    •    Cross-Region Read Replicas for Amazon RDS: Amazon RDS Read Replicas provide enhanced performance and durability for database (DB) instances. Cross-region read replicas can yield tremendous performance benefits for read-only applications for users based out in multiple regions.
 
 **Benefits**
 
-    •    Availability: AWS RDS is a highly available relational database that offers a feature called Multi-AZ, which provides a SLA up-time of 99.95%.  
+    •    Availability: AWS RDS is a highly available relational database that offers a feature called Multi-AZ, which provides a SLA up-time of 99.95%.
 
     •    Scalability: Database scalability can prove to be a real challenge if you try to scale your own, self-hosted database.
 
@@ -50,88 +49,85 @@ Amazon Web Services provides a number of database alternatives for developers. A
 
     •    Backup: AWS RDS provides two types of backup mechanisms which are both very easy to setup:  
 Automated backup – This functionality automatically performs a full daily snapshot of a database’s data (during a preferred window of time set up by the user). It also captures your transaction logs as well as any updates to your RDS database.  
-Point-in-Time snapshots – RDS database snapshots are user initiated. Unlike automated backup, which is performed once a day, point-in-time snapshots can be performed as many times as desired. Generally, they are useful to backup set database states, like before a major release or an application upgrade.  
+Point-in-Time snapshots – RDS database snapshots are user initiated. Unlike automated backup, which is performed once a day, point-in-time snapshots can be performed as many times as desired. Generally, they are useful to backup set database states, like before a major release or an application upgrade.
 
 **Getting Started**
 
-  
-Tutorials on how to start with AWS RDS can be found below  
+Tutorials on how to start with AWS RDS can be found below
 
-[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP\_GettingStarted.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)  
-[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP\_Tutorials.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.html)  
+[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_GettingStarted.html)  
+[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_Tutorials.html)
 
 **Best Practices**
 
 The best practices and tips can be found in the below link  
-[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP\_BestPractices.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)  
+[https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/CHAP_BestPractices.html)
 
 **Pricing**
 
-  
-Amazon RDS is free to try. Pay only for what you use. There is no minimum fee. You can pay for Amazon RDS using On-Demand or Reserved Instances. Additional information can be found below.  
-  
-[https://aws.amazon.com/rds/pricing/](https://aws.amazon.com/rds/pricing/)  
-  
+Amazon RDS is free to try. Pay only for what you use. There is no minimum fee. You can pay for Amazon RDS using On-Demand or Reserved Instances. Additional information can be found below.
+
+[https://aws.amazon.com/rds/pricing/](https://aws.amazon.com/rds/pricing/)
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Crossplane (2)](images/Crossplane-2-1-1024x696.png "Crossplane (2)")](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
+[![Crossplane (2)](images/Crossplane-2-1-1024x696.png 'Crossplane (2)')](https://thinkport.digital/cloud_infrastructure_with_crossplane/)
 
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ "Crossplane – composing cloud infrastructure in a more effective way")
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+### [Crossplane – composing cloud infrastructure in a more effective way](https://thinkport.digital/cloud_infrastructure_with_crossplane/ 'Crossplane – composing cloud infrastructure in a more effective way')
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png "Kopie von Hack with (2)")](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
+[![Kopie von Hack with (2)](images/Kopie-von-Hack-with-2.png 'Kopie von Hack with (2)')](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/)
 
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
-
-[Disrupt](https://thinkport.digital/category/disrupt/)
-
-### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ "10 Machine Learning Algorithms You Should Know in 2018")
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
 [Disrupt](https://thinkport.digital/category/disrupt/)
 
-[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png "Partnership Announcement_Thinkport (2)")](https://thinkport.digital/thinkport-solace-partnership/)
+### [10 Machine Learning Algorithms You Should Know in 2018](https://thinkport.digital/10-machine-learning-algorithms-you-should-know-in-2018/ '10 Machine Learning Algorithms You Should Know in 2018')
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+[Disrupt](https://thinkport.digital/category/disrupt/)
+
+[![Partnership Announcement_Thinkport (2)](images/Partnership-Announcement_Thinkport-2-1024x696.png 'Partnership Announcement_Thinkport (2)')](https://thinkport.digital/thinkport-solace-partnership/)
+
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ "Thinkport and Solace announce Partnership")
+### [Thinkport and Solace announce Partnership](https://thinkport.digital/thinkport-solace-partnership/ 'Thinkport and Solace announce Partnership')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png "Kopie von Hack with (4)")](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
+[![Kopie von Hack with (4)](images/Kopie-von-Hack-with-4.png 'Kopie von Hack with (4)')](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ "16 Things to Avoid When Writing For Your UI")
+### [16 Things to Avoid When Writing For Your UI](https://thinkport.digital/16-things-to-avoid-when-writing-for-your-ui/ '16 Things to Avoid When Writing For Your UI')
 
 [Frontend](https://thinkport.digital/category/frontend/)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -147,4 +143,4 @@ Amazon RDS is free to try. Pay only for what you use. There is no minimum fee. Y
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-* [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+- [](https://www.linkedin.com/in/christina-friede-2a6426168/)

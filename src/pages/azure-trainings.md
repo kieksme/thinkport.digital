@@ -1,6 +1,6 @@
 ---
-title: "Azure Trainings"
-publishDate: "2022-07-07T10:00:00Z"
+title: 'Azure Trainings'
+publishDate: '2022-07-07T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -34,7 +34,7 @@ Noch unsicher, welches [Azure](https://thinkport.digital/was-ist-azure/)\- Train
 
 Wir beraten Sie gerne
 
- Termin vereinbaren "Danke Keith für das tolle hands-on Terraform Training für Azure. Ich werde ab jetzt vermehrt mit Terraform in der Cloud arbeiten. Das Training ist absolut empfehlenswert!" Michael D. Cloud Engineer "Ein super Training zu Databricks.  
+Termin vereinbaren "Danke Keith für das tolle hands-on Terraform Training für Azure. Ich werde ab jetzt vermehrt mit Terraform in der Cloud arbeiten. Das Training ist absolut empfehlenswert!" Michael D. Cloud Engineer "Ein super Training zu Databricks.  
 Danke, für das individuelle Eingehen auf unsere Bedürfnisse. Dadurch haben wir vielleicht nicht das eigentliche Trainingsziel geschafft, allerdings haben wir genau das bekommen, was wir zum jetzigen Zeitpunkt dringend benötigt haben. Vielen Dank dafür!" Markus E. Cloud Engineer Anterior Siguiente
 
 Cloud-Beratung mit Start-Up Mentalität
@@ -47,7 +47,7 @@ Cloud-Beratung mit Start-Up Mentalität
 
 CTO & Lead Cloud Architect
 
-* [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
-* [+49 151 63417156](tel:+4915163417156)
-* [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
-* [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)
+- [dfries@thinkport.digital](mailto:dfries@thinkport.digital)
+- [+49 151 63417156](tel:+4915163417156)
+- [LinkedIn](https://www.linkedin.com/in/dominik-fries-497ab7107/?originalSubdomain=de)
+- [Dominik Fries](https://www.xing.com/profile/Dominik_Fries5)

@@ -1,10 +1,9 @@
 ---
-title: "Snowflake vs. Databricks"
+title: 'Snowflake vs. Databricks'
 publishDate: 2024-05-17T10:00:00Z
-categories: 
-  + "big-data"
+categories: + "big-data"
   + "cloud-general"
-coverImage: "Snowflake-vs.-Databricks-artikel-bilder-1.webp"
+coverImage: 'Snowflake-vs.-Databricks-artikel-bilder-1.webp'
 ---
 
 # Snowflake vs. Databricks
@@ -41,60 +40,49 @@ Letztendlich ist es schwer zu sagen, ob Snowflake oder Databricks günstiger ist
 
 ## Welche Features bieten Snowflake und Databricks jeweils an?
 
-|  | Snowflake | Databricks |
-| --- | --- | --- |
-| Time Travel | ✅ | ✅ |
-| Git-Integration | ⚠️ bisher nur Lesezugriff (Stand 04/2024) | ✅ |
-| Unterstützte Datenformate | CSV, JSON, Avro, ORC, Parquet, XML, unstrukturierte Daten | CSV, JSON, Avro, ORC, Parquet, XML, Binary |
-| Data Governance | ✅ (u.a. Snowflake Horizon) | ✅ |
-| Notebooks | Indirekt über einen Connector | ✅ |
-| Unterstützte Sprachen | Direkt: SQL, Python Zusätzlich über Driver: Go, PHP, Node.js, C, … Snowpark API: Java, Python, Scala | Direkt: SQL, Python, Scala, R Zusätzlich über SDK: Java, Go |
-| Unterstützte Entwicklungsumgebungen | UI: Worksheets Snowpark: alle IDEs | UI: Notebooks Databricks Connect: alle IDEs |
-| AI & ML | 
-* AI unterstützte Entwicklung (Snowflake Copilot)
-    
+|                                     | Snowflake                                                                                            | Databricks                                                  |
+| ----------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| Time Travel                         | ✅                                                                                                   | ✅                                                          |
+| Git-Integration                     | ⚠️ bisher nur Lesezugriff (Stand 04/2024)                                                            | ✅                                                          |
+| Unterstützte Datenformate           | CSV, JSON, Avro, ORC, Parquet, XML, unstrukturierte Daten                                            | CSV, JSON, Avro, ORC, Parquet, XML, Binary                  |
+| Data Governance                     | ✅ (u.a. Snowflake Horizon)                                                                          | ✅                                                          |
+| Notebooks                           | Indirekt über einen Connector                                                                        | ✅                                                          |
+| Unterstützte Sprachen               | Direkt: SQL, Python Zusätzlich über Driver: Go, PHP, Node.js, C, … Snowpark API: Java, Python, Scala | Direkt: SQL, Python, Scala, R Zusätzlich über SDK: Java, Go |
+| Unterstützte Entwicklungsumgebungen | UI: Worksheets Snowpark: alle IDEs                                                                   | UI: Notebooks Databricks Connect: alle IDEs                 |
+| AI & ML                             |
 
-* Vortrainierte Modelle
-    
+- AI unterstützte Entwicklung (Snowflake Copilot)
 
-* ML Warehouses (Snowpark)
-    
+- Vortrainierte Modelle
 
-* Interaktion mit Modellen als Apps (Streamlit)
-    
+- ML Warehouses (Snowpark)
 
-* Entwicklung von eigenen Modellen mit verschiedenen ML Libraries oder Snowpark ML
-    
+- Interaktion mit Modellen als Apps (Streamlit)
 
- | 
+- Entwicklung von eigenen Modellen mit verschiedenen ML Libraries oder Snowpark ML
 
-* AI unterstützte Entwicklung
-    
+|
 
-* Feature Store
-    
+- AI unterstützte Entwicklung
 
-* AutoML
-    
+- Feature Store
 
-* Vektordatenbank
-    
+- AutoML
 
-* ML Cluster
-    
+- Vektordatenbank
 
-* Entwicklung von eigenen Modellen mit verschiedenen ML Libraries
-    
+- ML Cluster
 
- |
-| Pipelines | Hauptsächlich SQL Tasks in einem Task Graph | 
+- Entwicklung von eigenen Modellen mit verschiedenen ML Libraries
+
+|
+| Pipelines | Hauptsächlich SQL Tasks in einem Task Graph |
 
 Tasks in einem Job
 
-* Die Tasks können Notebooks, SQL, Python Skripte, JARs, usw.
-    
+- Die Tasks können Notebooks, SQL, Python Skripte, JARs, usw.
 
- |
+|
 
 ## Für welche Use Cases können Databricks und Snowflake verwendet werden?
 
@@ -148,62 +136,62 @@ _Senior Cloud Engineer_
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![fail2bail teaser](images/4-1024x683.webp "fail2bail teaser")](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
+[![fail2bail teaser](images/4-1024x683.webp 'fail2bail teaser')](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ "Setup Hashicorp Nomad Ansible fail2ban")
+### [Setup Hashicorp Nomad Ansible fail2ban](https://thinkport.digital/setup-hashicorp-nomad-ansible-fail2ban/ 'Setup Hashicorp Nomad Ansible fail2ban')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [Streaming-Services](https://thinkport.digital/streaming-services/ "Streaming-Services")
+### [Streaming-Services](https://thinkport.digital/streaming-services/ 'Streaming-Services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg "abstract-art-blur-bright-373543")](https://thinkport.digital/core-strategies-cloud-migration/)
+[![abstract-art-blur-bright-373543](images/abstract-art-blur-bright-373543-1024x683.jpg 'abstract-art-blur-bright-373543')](https://thinkport.digital/core-strategies-cloud-migration/)
 
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
-
-### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ "Core Strategies Cloud Migration")
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![sustainability](images/sustainability-1-1024x696.png "thinkport cloud picture")](https://thinkport.digital/sustainability-of-the-cloud/)
+### [Core Strategies Cloud Migration](https://thinkport.digital/core-strategies-cloud-migration/ 'Core Strategies Cloud Migration')
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
+
+[![sustainability](images/sustainability-1-1024x696.png 'thinkport cloud picture')](https://thinkport.digital/sustainability-of-the-cloud/)
+
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ "Sustainability of the Cloud")
+### [Sustainability of the Cloud](https://thinkport.digital/sustainability-of-the-cloud/ 'Sustainability of the Cloud')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp "Post Was ist Databricks TRAINING")](https://thinkport.digital/was-ist-databricks-training/)
+[![Post Was ist Databricks TRAINING](images/Post-Was-ist-Databricks-TRAINING-1024x683.webp 'Post Was ist Databricks TRAINING')](https://thinkport.digital/was-ist-databricks-training/)
 
-### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ "Was ist Databricks Training?")
-
-[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
-
-### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ "Was ist Databricks Training?")
+### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
 [Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
 
-[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp "Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer")](https://thinkport.digital/nomad-vs-kubernetes/)
+### [Was ist Databricks Training?](https://thinkport.digital/was-ist-databricks-training/ 'Was ist Databricks Training?')
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+[Big Data](https://thinkport.digital/category/big-data/), [Cloud General](https://thinkport.digital/category/cloud-general/)
+
+[![nomad vs kubernetes](images/Frische-Informationen-_1_-1024x683.webp 'Bild von zwei Entwicklern vor einem Computer, mit dem Rücken zugewandt, mit dem Nomad-Logo auf dem Computer')](https://thinkport.digital/nomad-vs-kubernetes/)
+
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ "Nomad vs Kubernetes")
+### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)

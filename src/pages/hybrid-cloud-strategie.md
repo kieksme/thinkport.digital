@@ -1,6 +1,6 @@
 ---
-title: "Hybrid Cloud Strategie"
-publishDate: "2021-07-14T10:00:00Z"
+title: 'Hybrid Cloud Strategie'
+publishDate: '2021-07-14T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -10,10 +10,10 @@ Erarbeiten Sie mit uns Ihre
 
 ## Auf einen Blick
 
-* 1 Tag
-* Individuell
-* Workshop
-* Remote und vor Ort
+- 1 Tag
+- Individuell
+- Workshop
+- Remote und vor Ort
 
 Besonders bei kritischen Geschäftsprozessen und Systemen ist es sinnvoll, die Abhängigkeit von Cloudanbietern zu reduzieren. In diesem Hybrid Cloud Training erhalten sie essentielle Grundlagen zu dieser Thematik. Anschließend erarbeiten wir mit Ihnen eine Roadmap für Ihre erfolgreiche Hybrid Cloud Strategie.
 
@@ -27,9 +27,9 @@ Besonders für Großunternehmen und Unternehmen in stark regulierten Branchen is
 
 Der Workshop ist geeignet für ...
 
-* IT-Strategen und Architekten
-* Entscheidungsträger mit grundlegendem IT Verständnis
-* Personen mit Grundlagen in Cloudtechnologien
+- IT-Strategen und Architekten
+- Entscheidungsträger mit grundlegendem IT Verständnis
+- Personen mit Grundlagen in Cloudtechnologien
 
 ## Aufbau
 
@@ -37,19 +37,19 @@ Der Workshop ist geeignet für ...
 
 ### Hybridcloud Strategie Tag I
 
-* Aufnahme des Status quo
-* Organisatorische Herausforderungen und Lösungen
-* Technische Herausforderungen und Lösungen
-* Hybrid Cloud Landscape - Eine Übersicht
-* Referenzarchitekturen und Best Practices aus der Praxis
-* Erstellung einer Roadmap
+- Aufnahme des Status quo
+- Organisatorische Herausforderungen und Lösungen
+- Technische Herausforderungen und Lösungen
+- Hybrid Cloud Landscape - Eine Übersicht
+- Referenzarchitekturen und Best Practices aus der Praxis
+- Erstellung einer Roadmap
 
-* Aufnahme des Status quo
-* Organisatorische Herausforderungen und Lösungen
-* Technische Herausforderungen und Lösungen
-* Hybrid Cloud Landscape - Eine Übersicht
-* Referenzarchitekturen und Best Practices aus der Praxis
-* Erstellung einer Roadmap
+- Aufnahme des Status quo
+- Organisatorische Herausforderungen und Lösungen
+- Technische Herausforderungen und Lösungen
+- Hybrid Cloud Landscape - Eine Übersicht
+- Referenzarchitekturen und Best Practices aus der Praxis
+- Erstellung einer Roadmap
 
 ![](images/DSC01530-1024x683.jpg)
 
@@ -63,6 +63,6 @@ Erfahren Sie mehr zu diesem Workshop in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## Weitere Workshops

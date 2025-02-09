@@ -1,10 +1,9 @@
 ---
-title: "Practical Tips and Tricks on How to Use Typography in UI Design"
+title: 'Practical Tips and Tricks on How to Use Typography in UI Design'
 publishDate: 2018-12-14T00:00:00.000Z
-categories: 
-  + "big-data"
+categories: + "big-data"
   + "aws-cloud"
-coverImage: "practical-1.png"
+coverImage: 'practical-1.png'
 ---
 
 ## Typrography in UI Design – cloud frontend
@@ -131,63 +130,63 @@ Hierarchy dictates the order of going through content. It also gives a guideline
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Reasons Why (3)](images/Reasons-Why-3.png "Reasons Why (3)")](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
+[![Reasons Why (3)](images/Reasons-Why-3.png 'Reasons Why (3)')](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/)
 
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
-
-[Big Data](https://thinkport.digital/category/big-data/)
-
-### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ "How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![4](images/4-2.png "4")](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
-
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+### [How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020](https://thinkport.digital/how-ai-vr-and-big-data-will-transform-the-real-estate-industry-by-2020/ 'How AI, VR, and Big Data Will Transform the Real Estate Industry by 2020')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ "The 6 Most Important Things I have learned in my 6 Months using Server-less")
+[![4](images/4-2.png '4')](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/)
+
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![OpenMaps](images/OpenMaps-1024x696.png "picture blog post testdata open maps")](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+### [The 6 Most Important Things I have learned in my 6 Months using Server-less](https://thinkport.digital/the-6-most-important-things-i-have-learned-in-my-6-months-using-server-less/ 'The 6 Most Important Things I have learned in my 6 Months using Server-less')
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+[Big Data](https://thinkport.digital/category/big-data/)
+
+[![OpenMaps](images/OpenMaps-1024x696.png 'picture blog post testdata open maps')](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/)
+
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ "Testdaten generieren mithilfe von Openmaps")
+### [Testdaten generieren mithilfe von Openmaps](https://thinkport.digital/testdaten-generieren-mithilfe-von-openmaps/ 'Testdaten generieren mithilfe von Openmaps')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Reasons Why (2)](images/Reasons-Why-2.png "Reasons Why (2)")](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
+[![Reasons Why (2)](images/Reasons-Why-2.png 'Reasons Why (2)')](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ "Practical Tips and Tricks on How to Use Typography in UI Design")
+### [Practical Tips and Tricks on How to Use Typography in UI Design](https://thinkport.digital/practical-tips-and-tricks-on-how-to-use-typography-in-ui-design/ 'Practical Tips and Tricks on How to Use Typography in UI Design')
 
 [Big Data](https://thinkport.digital/category/big-data/)
 
-[![Hack with (1)](images/Hack-with-1.png "Hack with (1)")](https://thinkport.digital/aws-s3-2/)
+[![Hack with (1)](images/Hack-with-1.png 'Hack with (1)')](https://thinkport.digital/aws-s3-2/)
 
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [AWS S3](https://thinkport.digital/aws-s3-2/ "AWS S3")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Airflow on AWS](images/Kafka-1-1024x696.png "picture blog post Airflow")](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
-
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+### [AWS S3](https://thinkport.digital/aws-s3-2/ 'AWS S3')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ "Three ways to deploy Airflow on AWS")
+[![Airflow on AWS](images/Kafka-1-1024x696.png 'picture blog post Airflow')](https://thinkport.digital/how-to-deploy-airflow-on-aws/)
+
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [Three ways to deploy Airflow on AWS](https://thinkport.digital/how-to-deploy-airflow-on-aws/ 'Three ways to deploy Airflow on AWS')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
@@ -203,4 +202,4 @@ Hierarchy dictates the order of going through content. It also gives a guideline
 
 ## [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+-  [](https://www.linkedin.com/in/christina-friede-2a6426168/)

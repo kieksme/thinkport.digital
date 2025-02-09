@@ -1,6 +1,6 @@
 ---
-title: "HashiCorp Nomad Training"
-publishDate: "2024-05-06T10:00:00Z"
+title: 'HashiCorp Nomad Training'
+publishDate: '2024-05-06T10:00:00Z'
 layout: '~/layouts/MarkdownLayout.astro'
 ---
 
@@ -12,10 +12,10 @@ Werden Sie Experte mit dem
 
 ## Auf einen Blick
 
-* 2 Tage
-* Monatlich und Individuell
-* Technisches Training
-* Remote und vor Ort verfügbar
+- 2 Tage
+- Monatlich und Individuell
+- Technisches Training
+- Remote und vor Ort verfügbar
 
 Als Experte im Management von HashiCorp Nomad lernen Sie, die Bereitstellung und Skalierung Ihrer Anwendungen zu optimieren. Profitieren Sie von der Projekterfahrung unserer Experten und Cloud-Architekten, die direkt aus der Industrie stammen.
 
@@ -43,18 +43,18 @@ Als Experte im Management von HashiCorp Nomad lernen Sie, die Bereitstellung und
 
 Teilnehmer können nach Abschluss...
 
-* Die Einsatzmöglichkeiten von HashiCorp Nomad verstehen
-* Anwendungen für HashiCorp Nomad packen und skalierbar bereitstellen
-* Workloads und Jobs in HashiCorp Nomad verwalten
-* Die Integration von HashiCorp Nomad in bestehende Infrastrukturen verstehen
+- Die Einsatzmöglichkeiten von HashiCorp Nomad verstehen
+- Anwendungen für HashiCorp Nomad packen und skalierbar bereitstellen
+- Workloads und Jobs in HashiCorp Nomad verwalten
+- Die Integration von HashiCorp Nomad in bestehende Infrastrukturen verstehen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-* Solidem Linux-Können
-* Allgemeinen Kenntnissen im Bereich Softwareentwicklung
-* Interesse an DevOps und Infrastructure as Code
+- Solidem Linux-Können
+- Allgemeinen Kenntnissen im Bereich Softwareentwicklung
+- Interesse an DevOps und Infrastructure as Code
 
 ## Aufbau
 
@@ -62,25 +62,25 @@ Der Kurs ist geeignet für...
 
 ### Nomad Grundlagen Tag I
 
-* Einführung in HashiCorp Nomad
-* Installation und Konfiguration
-* Grundlagen der Job-Spezifikationen
-* Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
+- Einführung in HashiCorp Nomad
+- Installation und Konfiguration
+- Grundlagen der Job-Spezifikationen
+- Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
 
 ### Nomad in Action Tag II
 
-* Job-Management und Skalierung
-* Überwachung und Fehlersuche
-* Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
+- Job-Management und Skalierung
+- Überwachung und Fehlersuche
+- Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
 
-* Einführung in HashiCorp Nomad
-* Installation und Konfiguration
-* Grundlagen der Job-Spezifikationen
-* Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
+- Einführung in HashiCorp Nomad
+- Installation und Konfiguration
+- Grundlagen der Job-Spezifikationen
+- Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
 
-* Job-Management und Skalierung
-* Überwachung und Fehlersuche
-* Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
+- Job-Management und Skalierung
+- Überwachung und Fehlersuche
+- Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
@@ -94,7 +94,7 @@ Erfahren Sie mehr zu diesem Training in einem persönlichen Gespräch
 
 Sie setzen mit uns individuelle Schwerpunkte und erhalten ein zugeschnittenes Angebot für Ihre Anforderungen 24h nach dem Termin
 
- Termin vereinbaren
+Termin vereinbaren
 
 ## FAQs
 

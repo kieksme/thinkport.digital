@@ -1,13 +1,12 @@
 ---
-title: "Streaming-Services"
+title: 'Streaming-Services'
 publishDate: 2023-01-23T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "Streaming-Services.png"
+coverImage: 'Streaming-Services.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Streaming-Services – Lösungen von AWS, Azure und Apache Kafka im Vergleich
 
@@ -79,56 +78,56 @@ Wollen Sie tiefer in die Materie einsteigen? Unser Training zum Thema **[Event-S
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Kafka](images/Kafka-1024x696.png "blog post kafka 2.7")](https://thinkport.digital/kafka-2-7-update/)
+[![Kafka](images/Kafka-1024x696.png 'blog post kafka 2.7')](https://thinkport.digital/kafka-2-7-update/)
 
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
-
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
+
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/)
+
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
-### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ "IT-Automatisierung als Antwort gegen die Corona-Krise")
+### [IT-Automatisierung als Antwort gegen die Corona-Krise](https://thinkport.digital/it-automatisierung-als-antwort-gegen-die-corona-krise/ 'IT-Automatisierung als Antwort gegen die Corona-Krise')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [Big Data](https://thinkport.digital/category/big-data/)
 
 [![Streaming Services](images/Streaming-Services.png "Im Hintergrund ist ein dunkler Sternenhimmel zu sehen mit dem Schriftzug "Streaming Services" sowie "AWS, Azure und Apache Kafka" zu sehen.")](https://thinkport.digital/streaming-services/)
 
-### [streaming-services](https://thinkport.digital/streaming-services/ "streaming-services")
+### [streaming-services](https://thinkport.digital/streaming-services/ 'streaming-services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-### [streaming-services](https://thinkport.digital/streaming-services/ "streaming-services")
+### [streaming-services](https://thinkport.digital/streaming-services/ 'streaming-services')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Streaming](https://thinkport.digital/category/streaming/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
 
-### [apache airflow](https://thinkport.digital/apache-airflow/ "apache airflow")
-
-[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
-
-### [apache airflow](https://thinkport.digital/apache-airflow/ "apache airflow")
+### [apache airflow](https://thinkport.digital/apache-airflow/ 'apache airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [apache airflow](https://thinkport.digital/apache-airflow/ 'apache airflow')
+
+[Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
+
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ "Home Office wegen Covid-19? So kann AWS helfen")
+### [Home Office wegen Covid-19? So kann AWS helfen](https://thinkport.digital/home-office-covid-19-aws-losungen/ 'Home Office wegen Covid-19? So kann AWS helfen')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)

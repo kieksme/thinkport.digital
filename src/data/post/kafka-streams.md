@@ -1,13 +1,12 @@
 ---
-title: "Kafka Streams"
+title: 'Kafka Streams'
 publishDate: 2023-01-25T10:00:00Z
-categories: 
-  + "cloud-general"
+categories: + "cloud-general"
   + "streaming"
-coverImage: "Streaming-Services-2.png"
+coverImage: 'Streaming-Services-2.png'
 ---
 
- [![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png "Logo Bright Colours")](https://thinkport.digital)
+[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)[![Thinkport Logo](images/Logo_horizontral_new-ovavzp5ztqmosy1yz1jrwr9fv5swhtoc0bky3tkc3g.png 'Logo Bright Colours')](https://thinkport.digital)
 
 # Kafka Streams – Stream-Processing leicht gemacht
 
@@ -57,12 +56,12 @@ Stream-Processing-Anwendungen sind in ihrer Architektur oft hochkomplex. Hier st
 
 Stream-Processing-Plattformen sollten im Idealfall eine Integration für Datenspeicherplattformen bieten. In vielen Fällen werden die Skalierbarkeit und die Fehlertoleranz den Anforderungen aber nicht gerecht. Kafka Streams steht als robuste Alternative zur Verfügung, mit der sich diese Schwächen ausmerzen lassen. Dabei stechen folgende Vorteile hervor:
 
-* Fehlertolerante Clusterarchitektur, die einen zuverlässigen Betrieb selbst bei Ausfällen oder Wartungsarbeiten gewährleistet
-* Domänenspezifische Sprache mit Operatoren zum Filtern, Abbilden und Gruppieren sowie Unterstützung für Joins und Windowing
-* Hochgradige Skalierbarkeit, dank der anspruchsvolle Anwendungen umgesetzt werden können
-* Direkte Verbindung mit Kafka und Nutzung in der Cloud möglich
-* Java- und Scala-Skripte ermöglichen den Zugriff über Windows, Linux und Mac
-* Vollständige Integration mit Kafka Security für verbesserte Datensicherheit
+- Fehlertolerante Clusterarchitektur, die einen zuverlässigen Betrieb selbst bei Ausfällen oder Wartungsarbeiten gewährleistet
+- Domänenspezifische Sprache mit Operatoren zum Filtern, Abbilden und Gruppieren sowie Unterstützung für Joins und Windowing
+- Hochgradige Skalierbarkeit, dank der anspruchsvolle Anwendungen umgesetzt werden können
+- Direkte Verbindung mit Kafka und Nutzung in der Cloud möglich
+- Java- und Scala-Skripte ermöglichen den Zugriff über Windows, Linux und Mac
+- Vollständige Integration mit Kafka Security für verbesserte Datensicherheit
 
 [![Werbebanner Streaming Verarbeitung](images/StreamingVerarbeitung-min-1024x1024.png)](https://thinkport.digital/event-streaming-kafka-trainings/)
 
@@ -70,9 +69,9 @@ Stream-Processing-Plattformen sollten im Idealfall eine Integration für Datensp
 
 Stream-Processing erweist sich überall dort als sinnvoll, wo die Latenz bei der Verarbeitung großer Datenmengen reduziert werden soll. Wenn der Use-Case folgende Attribute aufweist, kann sich Stream-Processing lohnen:
 
-* Dauerhafter Strom von Daten
-* Kontinuierlicher Workload statt einer Datenlieferung als Paket
-* Sofortige Verarbeitung der Daten notwendig
+- Dauerhafter Strom von Daten
+- Kontinuierlicher Workload statt einer Datenlieferung als Paket
+- Sofortige Verarbeitung der Daten notwendig
 
 Kafka Streams bringt die Streaming-Plattform weiter voran, da es die Implementierung von Anwendungen vereinfacht. Besonders in event-getriebenen Umgebungen mit asynchroner Kommunikation liefert Kafka starke Argumente: Es ist datensicher, einfach skalierbar und leistungsstark.
 
@@ -84,60 +83,60 @@ Um das volle Potenzial von Kafka ausnutzen zu können, braucht es allerdings die
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
-[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png "Terraform_DevOps Tools")](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
+[![Terrafrom eines der besten DvOps Tools (1)](images/Terrafrom-eines-der-besten-DvOps-Tools-1-1024x696.png 'Terraform_DevOps Tools')](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/)
 
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
-
-[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
-
-### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ "Warum Terraform eines Ihrer DevOps Tools sein sollte")
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
 
-[![Hack with (3)](images/Hack-with-3.png "Hack with (3)")](https://thinkport.digital/aws-iam/)
+### [Warum Terraform eines Ihrer DevOps Tools sein sollte](https://thinkport.digital/warum-terraform-einer-ihrer-devops-tools-sein-sollte/ 'Warum Terraform eines Ihrer DevOps Tools sein sollte')
 
-### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ "AWS Identity and Access Management")
+[AWS Cloud](https://thinkport.digital/category/aws-cloud/), [IaC](https://thinkport.digital/category/iac/)
+
+[![Hack with (3)](images/Hack-with-3.png 'Hack with (3)')](https://thinkport.digital/aws-iam/)
+
+### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ 'AWS Identity and Access Management')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ "AWS Identity and Access Management")
+### [AWS Identity and Access Management](https://thinkport.digital/aws-iam/ 'AWS Identity and Access Management')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![Apache Airflow](images/Apache-Airflow.png "Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund")](https://thinkport.digital/apache-airflow/)
+[![Apache Airflow](images/Apache-Airflow.png 'Logo mit Schriftzug Apache Airflow vor strahlendem Hintergrund')](https://thinkport.digital/apache-airflow/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Apache Airflow](https://thinkport.digital/apache-airflow/ "Apache Airflow")
+### [Apache Airflow](https://thinkport.digital/apache-airflow/ 'Apache Airflow')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Hybrid-Cloud](https://thinkport.digital/category/hybrid-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ "Neue AWS-Funktionen für Speicher- und Dateisysteme")
+### [Neue AWS-Funktionen für Speicher- und Dateisysteme](https://thinkport.digital/neue-aws-funktionen-fur-speicher-und-dateisysteme/ 'Neue AWS-Funktionen für Speicher- und Dateisysteme')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png "Eine Frau arbeitet am Server")](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
+[![woman_server_technican_1060x720](images/woman_server_technican_1060x720-1024x696.png 'Eine Frau arbeitet am Server')](https://thinkport.digital/modernisierung-ist-ein-kontinuum/)
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ "Modernisierung ist ein Kontinuum")
+### [Modernisierung ist ein Kontinuum](https://thinkport.digital/modernisierung-ist-ein-kontinuum/ 'Modernisierung ist ein Kontinuum')
 
 [Cloud General](https://thinkport.digital/category/cloud-general/), [Cloud Kubernetes](https://thinkport.digital/category/cloud-kubernetes/)
 
-[![Kafka](images/Kafka-1024x696.png "blog post kafka 2.7")](https://thinkport.digital/kafka-2-7-update/)
+[![Kafka](images/Kafka-1024x696.png 'blog post kafka 2.7')](https://thinkport.digital/kafka-2-7-update/)
 
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)
 
-### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ "Was Sie über Kafka 2.7 wissen sollten")
+### [Was Sie über Kafka 2.7 wissen sollten](https://thinkport.digital/kafka-2-7-update/ 'Was Sie über Kafka 2.7 wissen sollten')
 
 [AWS Cloud](https://thinkport.digital/category/aws-cloud/)

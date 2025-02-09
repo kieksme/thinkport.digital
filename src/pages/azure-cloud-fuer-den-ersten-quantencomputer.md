@@ -1,9 +1,9 @@
 ---
-title: "Azure Cloud Infrastruktur für den allerersten Quantencomputer"
-publishDate: "2020-04-25T10:00:00Z"
+title: 'Azure Cloud Infrastruktur für den allerersten Quantencomputer'
+publishDate: '2020-04-25T10:00:00Z'
 ---
 
-# Azure Cloud Infrastruktur für  
+# Azure Cloud Infrastruktur für
 
 den weltweit ersten all-purpose Quanten-computer
 
@@ -47,13 +47,13 @@ Der Zugriff auf einen Quantencomputer muss auf zweierlei Ebenen sicher sein: Es 
 
 Um möglichst viele Kunden anzusprechen muss das gesamte Frontend bequem und nutzerfreundlich gestaltet werden. Von der Registrierung über die Nutzung bis hin zur Zahlung soll das Interface intuitiv sein ohne Kompromisse in punkto Funktionalität einzugehen.​
 
-Der Nutzer meldet sich über das von Thinkport entwickelte Registrierungsportal an. Das Herz der Cloud Architektur bildet das Azure API Management, das mit allen Anwendungen kommuniziert. Die Autorisierung für die Zugänge auf das System wird über Azure Active Directory B2C verwaltet. Über OAuth können sich die User auch über ihr Google Konto anmelden. Zusätzlich können AGBs unkompliziert in Azure Table Storage gespeichert und über eine Azure Function implementiert werden. Dank eines externen Email-Versandservices verfügt die Infrastruktur über eine professionelle Customer Contact Funktion.   
+Der Nutzer meldet sich über das von Thinkport entwickelte Registrierungsportal an. Das Herz der Cloud Architektur bildet das Azure API Management, das mit allen Anwendungen kommuniziert. Die Autorisierung für die Zugänge auf das System wird über Azure Active Directory B2C verwaltet. Über OAuth können sich die User auch über ihr Google Konto anmelden. Zusätzlich können AGBs unkompliziert in Azure Table Storage gespeichert und über eine Azure Function implementiert werden. Dank eines externen Email-Versandservices verfügt die Infrastruktur über eine professionelle Customer Contact Funktion. 
 
-Das Monitoring Dashboard baut auf Azure Application Insights auf. Hier werden Nutzerzahlen und Metrics übersichtlich dargestellt. Darauf aufbauend hat Thinkport ein auf Subscription Keys basierendes Zahlungsmodell entwickelt, das sichere und bequeme Transaktionen ermöglicht. Darüber hinaus kümmert sich ein Load Balancer um eine sichere und stabile Lastverteilung zwischen dem Quantencomputer selbst und einem Simulator. Unsere Cloud Architekten haben eine Infrastruktur entwickelt die nutzerfreundlich, funktional und zugleich kompromisslos sicher ist.  
+Das Monitoring Dashboard baut auf Azure Application Insights auf. Hier werden Nutzerzahlen und Metrics übersichtlich dargestellt. Darauf aufbauend hat Thinkport ein auf Subscription Keys basierendes Zahlungsmodell entwickelt, das sichere und bequeme Transaktionen ermöglicht. Darüber hinaus kümmert sich ein Load Balancer um eine sichere und stabile Lastverteilung zwischen dem Quantencomputer selbst und einem Simulator. Unsere Cloud Architekten haben eine Infrastruktur entwickelt die nutzerfreundlich, funktional und zugleich kompromisslos sicher ist.
 
 Das Frontend wurde mit CSS, HTML, Javascript und jQuery auf die Beine gestellt. Ein großer Vorteil ist hierbei, dass das gesamte Interface visuell an die bestehenden Systeme und das Corporate Design des Kunden angepasst werden konnte. Das gesamte System fühlt sich für den Nutzer für eine einzige Software an, obwohl im Hintergrund eine Vielzahl an Anwendungen den Service realisiert.
 
-## Herausragende  
+## Herausragende
 
 Technologien
 
@@ -74,9 +74,9 @@ Die Anmeldung für das Portal sowie der Zugriff zum Quantencomputer sind dank de
 
 Das eingebaute Payment-Modell ermöglicht es AQT die Leistung des Quantencomputers zu verwirtschaftlichen. Anhand der Nutzerdaten, die in dem Cloud-System gesammelt und ausgewertet werden, kann die Nutzung der Quantenpower für jeden Nutzer quantifiziert und in Rechnung gestellt werden.
 
-### Automatisierte  
+### Automatisierte
 
-Smart-Verwaltung  
+Smart-Verwaltung
 
 Der Einsatz von modernen Technologien sorgt für lückenlose Sicherheit und starke Leistung ohne hohen wiederkehrenden Arbeitsaufwand. Zahlungsabwicklung, Datenauswertung und Performance-Management erfolgen entsprechend den modernsten Standards automatisiert.
 
@@ -94,7 +94,7 @@ kschuijlenburg@thinkport.digital
 
 +49 151 63417156
 
-* [](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
+- [](https://de.linkedin.com/in/keith-schuijlenburg-a67289142)
 
 ## [Weitere Success Stories](https://thinkport.digital/cloud-excellence-workshops)
 
