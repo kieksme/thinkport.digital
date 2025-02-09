@@ -269,7 +269,7 @@ Leipzig
 
 Zero
 
-![filipp](images/filipp-2.webp 'Filipp portrait') Filipp Senior Cloud Engineer ![chris-ulpinnis](images/chris-ulpinnis-2.webp 'Chris Portrait') Chris Cloud Architect ![Evelina](images/Evelina-2.webp 'Evelina portrait') Evelina Cloud Developer ![Coming Soon](images/Design-ohne-Titel-7.png 'Coming Soon Icon') Stephan Senior Cloud Engineer ![André](images/André-1.webp 'André portrait') André Senior Cloud Engineer ![Annemarie](images/Annemarie-1.webp 'portrait Annemarie') Annemarie Dual Computer Science Student ![Frank](images/Frank.webp 'portrait Frank') Frank Cloud Engineer ![Martin Gutwin](images/Martin-Gutwin-3.webp 'portrait Martin Gutwin')
+![filipp](images/filipp-2.webp 'Filipp portrait') Filipp Senior Cloud Engineer ![chris-ulpinnis](images/chris-ulpinnis-2.webp 'Chris Portrait') Chris Cloud Architect ![Evelina](images/Evelina-2.webp 'Evelina portrait') Evelina Cloud Developer ![Coming Soon](images/Design-ohne-Titel-7.png 'Coming Soon Icon') Stephan Senior Cloud Engineer ![André](images/Andre.webp 'André portrait') André Senior Cloud Engineer ![Annemarie](images/Annemarie-1.webp 'portrait Annemarie') Annemarie Dual Computer Science Student ![Frank](images/Frank.webp 'portrait Frank') Frank Cloud Engineer ![Martin Gutwin](images/Martin-Gutwin-3.webp 'portrait Martin Gutwin')
 
     Martin Cloud Engineer
 
@@ -293,7 +293,7 @@ CEO & Senior Cloud Consultant
 
 +49 151 63417156
 
-- [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
-- [](https://www.xing.com/profile/Tobias_Drechsel3)
+* [](https://de.linkedin.com/in/tobias-drechsel-ba1319b6)
+* [](https://www.xing.com/profile/Tobias_Drechsel3)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)
