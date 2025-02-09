@@ -27,8 +27,6 @@ PACS nutzt den DICOM-Standard, um ein effizientes System zur Speicherung, Verwal
 
 Die Verbindung zwischen DICOM und PACS zeigt sich im Workflow des Gesundheitswesens: Ein im DICOM-Format gespeichertes Bild wird auf den PACS-Server übertragen, von wo aus autorisierte Gesundheitsdienstleister darauf zugreifen können. Hierbei kommen PACS-Clients zum Einsatz – Softwareanwendungen, die es ermöglichen, die Bilder zu visualisieren, zu bearbeiten und für diagnostische oder therapeutische Zwecke zu teilen.
 
-![white icon of workflow between 3 phases over a blue gradient background](images/PACS_-Zentrales-Verwaltungssystem-für-medizinische-Bilder-2-1024x683.png) ![white icon of a conexion over blue gradient background](images/PACS_-ZentraleBedeutung-von-standardisierten-Datenelementens-Verwaltungssystem-für-medizinische-Bilder-1024x683.png)
-
 ### Bedeutung von standardisierten Datenelementen
 
 Ein weiterer Vorteil von DICOM besteht darin, dass es standardisierte Datenelemente enthält, die essentielle Informationen zum Bild und dem Patienten bereitstellen, wie demografische Daten, Bildaufnahmeparameter und assoziierte Diagnoseberichte. Dies ermöglicht eine ganzheitliche Sicht auf die medizinische Historie und die bildgebenden Studien eines Patienten, was zu einer verbesserten Patientenversorgung beiträgt.
