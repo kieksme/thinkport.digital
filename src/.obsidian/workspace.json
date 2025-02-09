@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/airflow-in-der-cloud.md",
+                "file": "templates/page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "airflow-in-der-cloud"
+              "title": "page"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/airflow-in-der-cloud.md",
+                "file": "templates/page.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for airflow-in-der-cloud"
+              "title": "Backlinks for page"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/airflow-in-der-cloud.md",
+                "file": "templates/page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from airflow-in-der-cloud"
+              "title": "Outgoing links from page"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/airflow-in-der-cloud.md",
+                "file": "templates/page.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of airflow-in-der-cloud"
+              "title": "Outline of page"
             }
           }
         ]
@@ -171,6 +171,12 @@
   },
   "active": "b3bd3dcb327ef3b9",
   "lastOpenFiles": [
+    "README.md",
+    "templates/white-paper.md",
+    "templates/page.md",
+    "templates/blog.md",
+    "templates",
+    "pages/airflow-in-der-cloud.md",
     "env.d.ts",
     "types.d.ts",
     "navigation.ts",
