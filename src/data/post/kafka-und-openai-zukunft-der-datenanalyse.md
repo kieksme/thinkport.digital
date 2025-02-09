@@ -58,8 +58,6 @@ Außerdem: Vergessen Sie nicht die Avro und Schema Registry Abhängigkeiten in I
 
 Der Einsatz von maschinellem Lernen in Verbindung mit Echtzeitdaten hat eine transformierende Wirkung auf Branchen. Es ermöglicht Organisationen, durch die rasche Verarbeitung großer Datenmengen schnelle und fundierte Entscheidungen zu treffen - ein Vorteil in dynamischen Branchen wie dem Finanz-, Gesundheits- und Logistiksektor. Diese Kombination fördert auch hochgradig personalisierte Erfahrungen, indem Inhalte, Dienstleistungen und Produkte an individuelle Präferenzen angepasst werden. Darüber hinaus wird die Automatisierung erleichtert, was zu einer höheren betrieblichen Effizienz, Kosteneinsparungen und der Möglichkeit führt, Humanressourcen für wertvollere Aufgaben einzusetzen. In der Cyber-Sicherheit wird dadurch die Erkennung von Anomalien zur Prävention.
 
-![Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp)
-
 Auch die Industrie profitiert von vorausschauenden Fähigkeiten, insbesondere in den Bereichen Fertigung, Transport und Lieferkette. Maschinelles Lernen kann Geräteausfälle, Wartungsbedarf oder Nachfrageschwankungen auf der Grundlage von Echtzeit-Sensordaten vorhersagen und so dazu beitragen, Ausfallzeiten zu reduzieren, Kosten zu senken und Betriebsabläufe zu optimieren. Im Kundendienst können Chatbots und virtuelle Assistenten sofortige und präzise Antworten auf Anfragen liefern und die Kundenzufriedenheit verbessern.
 
 ## Fazit

@@ -84,8 +84,6 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ### [Nomad vs Kubernetes](https://thinkport.digital/nomad-vs-kubernetes/ 'Nomad vs Kubernetes')
 
-![Was bedeutet das für die Industrie](images/Was-bedeutet-das-für-die-Industrie-1024x683.webp 'Symbol einer menschlichen Hand, die mit einer Roboterhand kollidiert, in Weiß auf einem blauen Hintergrund mit Farbverlauf')
-
 ### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
 
 ### [Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse](https://thinkport.digital/kafka-und-openai-zukunft-der-datenanalyse/ 'Echtzeit-KI: Apache Kafka und OpenAI sind die Zukunft der Datenanalyse')
@@ -514,6 +512,6 @@ Up-to-date bleiben mit dem Cloud-Blog von Thinkport's zertifizierten Experten
 
 ## [svhevia@thinkport.digital](mailto:cfriede@thinkport.digital)
 
-- [](http://www.linkedin.com/in/sara-vazquez-hevia)
+* [](http://www.linkedin.com/in/sara-vazquez-hevia)
 
 ## [Thinkport - Silicon Valley technologies for German enterprises](https://thinkport.digital/kontaktieren/)
