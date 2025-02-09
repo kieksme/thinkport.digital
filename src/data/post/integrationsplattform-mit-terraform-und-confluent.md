@@ -107,8 +107,6 @@ Durch diesen strukturierten und automatisierten Ansatz wird eine effiziente und 
 
 ## Autoren
 
-![Portrait René](images/Renee.webp)
-
 René Korth
 
 _Cloud Architect_

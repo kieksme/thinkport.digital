@@ -275,9 +275,11 @@ Zero
 
 ### Berlin
 
-![Felix](images/Felix-1.png 'portrait Felix') Felix Cloud Engineer ![Andreas](images/Andreas.webp 'Andreas portrait') Andreas Cloud Architect ![René](images/Renee.webp 'Portrait René')
+![Felix](images/Felix-1.png 'portrait Felix') Felix Cloud Engineer ![Andreas](images/Andreas.webp 'Andreas portrait')
 
-    René Cloud Architect
+ Andreas Cloud Architect
+ 
+ René Cloud Architect
 
 Cloud-Beratung mit Start-Up Mentalität
 
