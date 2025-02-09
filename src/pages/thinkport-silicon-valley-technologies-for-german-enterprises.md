@@ -60,10 +60,10 @@ Download_Formular_HasiCorp_Vault Name \* First Last Name \* Last Email \* Compan
 
 ## stellt die IT-Ziele großer Unternehmen und DAX Konzerne in den Mittelpunkt:
 
-- Die Performance zu beschleunigen,
-- Agilität zu erhöhen,
-- Kosten zu senken und
-- Compliance sicherzustellen.
+* Die Performance zu beschleunigen, 
+* Agilität zu erhöhen, 
+* Kosten zu senken und
+* Compliance sicherzustellen.
 
 ![Thinkport Logo auf blau-türkisen Hintergrund](images/Thinkport-Bild-min-1024x629.png)
 
@@ -75,10 +75,10 @@ Download_Formular_HasiCorp_Vault Name \* First Last Name \* Last Email \* Compan
 
 ## Besondere Kompetenzen haben wir in diesen **Service-Bereichen** aufgebaut, die uns Kunden bereits seit 5 Jahren anvertrauen:
 
-- Migration und Development komplexer Cloud Architekturen
-- Hybride und Multi Cloud Architekturen
-- Leistungsfähige Data Plattformen
-- Event getriebene Streaming Architekturen
+* Migration und Development komplexer Cloud Architekturen
+* Hybride und Multi Cloud Architekturen
+* Leistungsfähige Data Plattformen
+* Event getriebene Streaming Architekturen
 
 Wie können wir Ihnen helfen? Gerne stellen wir Ihnen das Experten - Team mit Best Practise Erfahrung für Ihre Aufgabe zusammen.
 
@@ -86,7 +86,7 @@ Wie können wir Ihnen helfen? Gerne stellen wir Ihnen das Experten - Team mit Be
 
 ## Erstklassige Kunden
 
-[![Edeka-logo](images/Edeka-logo.png)](https://digital.edeka/)[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![enbw Cloud Consulting Projekt Thinkport](images/enbw_logo-q79jvm38dt9d0bw52ozusjyi9bqdprfvr80k4ue3nc.png 'enbw_logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
+[![Deutsche Börse Logo](images/Deutsche_Börse_Group_Logo-q8nwu8soggamjo9fy0s5j89iouqp3004v1abbcfw40.png 'Deutsche Börse') ](https://www.eon.de/de/pk.html)[![RIO man Cloud Consulting Projekt Thinkport](images/rio-logo-1-q79jvqsfbzgb1bb67pu7bf0tkpozxjqls081cw2lx8.png 'rio-logo') ](https://rio.cloud/de)[![eon Cloud Consulting Projekt Thinkport](images/1280px-EON_Logo-300x87.png) ](https://www.eon.de/de/pk.html)[![Commerzbank Cloud Projekt Consulting Thinkport](images/Commerzbank-Logo-q79kj9p0dpn571j4xx3ujl24gf4xfjcp0b2gxjbf20.png 'Commerzbank-Logo') ](https://www.commerzbank.de/)[![enbw Cloud Consulting Projekt Thinkport](images/enbw_logo-q79jvm38dt9d0bw52ozusjyi9bqdprfvr80k4ue3nc.png 'enbw_logo') ](http://enbw.de/)[![LSG Azure Data Analytics Cloud Projekt Thinkport Consulting](images/LSG-logo-300x72.png) ](https://www.lsg-group.com/)[![bahn Cloud Consulting Projekt Thinkport](images/db-logo-q79kj8r66vm10erse8ayj81nz6stllubg82c25baxw.png 'db logo') ](http://bahn.de/)[![Merck Cloud Consulting Projekt Thinkport](images/merck_logo-q79jqr992mm10uy3flf8ws2rrno3y25t36o8vdlbso.png 'merck_logo') ](https://www.merckgroup.com/de)[![Bayer Cloud Consulting Projekt Thinkport](images/Logo_Bayer.svg-300x300.png)](https://www.bayer.com/)
 
 ## Weitere Informationen
 

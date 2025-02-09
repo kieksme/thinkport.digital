@@ -42,12 +42,12 @@ Wir reduzieren erfolgreich den Vendor Lock-in, indem wir Ihre Infrastruktur auf 
 
 ## Thinkport Stärken
 
-- 100% Cloud fokussiert
-- Startup Spirit
-- Zertifizierter Partner von AWS, Azure und GCP
-- Arbeiten Lösungsorientiert
-- Expertise durch permanentes Lernen
-- Starkes, sich unterstützendes Team
+* 100% Cloud fokussiert
+* Startup Spirit
+* Zertifizierter Partner von AWS, Azure und GCP
+* Arbeiten Lösungsorientiert
+* Expertise durch permanentes Lernen
+* Starkes, sich unterstützendes Team
 
 ![Zwei Personen als Cartoon gezeichnet sitzen mit Laptop auf dem Schoss auf den Cloud Provider Wolken, WAS, Azure und GCP](images/AWS_wolke_new-1024x902.webp)[](#linksection)
 
@@ -58,8 +58,6 @@ Sie benötigen eine Beratung zur Cloud-Architektur? Oder eine neue Anwendung in 
 ![](images/Icon-Kompetenz.png) ![](images/Linien.png) ![](images/Icons-Bereiche.png)
 
 ## Unsere Erfolge - Success Stories
-
-![Die drei Edeka Logos mit EDDI und Herz.](images/Edeka-Logo.png)
 
 ### Reta Award Winning Cooperation
 
@@ -215,4 +213,4 @@ Director Sales
 
 +49 175 5386808
 
--  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)
+*  [](https://www.linkedin.com/in/patrick-aigner-%E2%98%81-8841b2a9/)

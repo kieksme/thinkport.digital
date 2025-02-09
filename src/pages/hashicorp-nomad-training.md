@@ -6,20 +6,20 @@ layout: '~/layouts/MarkdownLayout.astro'
 
 Werden Sie Experte mit dem
 
-# HashiCorp Nomad Training
+## HashiCorp Nomad Training
 
-# 2-Tages-Kurs für Anfänger
+### 2-Tages-Kurs für Anfänger
 
-## Auf einen Blick
+#### Auf einen Blick
 
-- 2 Tage
-- Monatlich und Individuell
-- Technisches Training
-- Remote und vor Ort verfügbar
+* 2 Tage
+* Monatlich und Individuell
+* Technisches Training
+* Remote und vor Ort verfügbar
 
 Als Experte im Management von HashiCorp Nomad lernen Sie, die Bereitstellung und Skalierung Ihrer Anwendungen zu optimieren. Profitieren Sie von der Projekterfahrung unserer Experten und Cloud-Architekten, die direkt aus der Industrie stammen.
 
-[Anfragen](#sec1)
+### [Anfragen](#sec1)
 
 **[HashiCorp Nomad](https://thinkport.digital/setup-von-hashicorp-nomad/)** bietet eine einfache und flexible Möglichkeit, Anwendungen und Workloads zu planen und zu verwalten, sei es in der Cloud, im Rechenzentrum oder in hybriden Umgebungen. In diesem interaktiven Nomad Training werden die grundlegenden Konzepte und Best Practices vermittelt, um Ihre Anwendungen effizient auf HashiCorp Nomad zu betreiben.
 
@@ -28,9 +28,7 @@ Als Experte im Management von HashiCorp Nomad lernen Sie, die Bereitstellung und
 ## Termine
 
 06.06. - 07.06.24 HashiCorp Nomad Training
-
 25.07. - 26.07.24 HashiCorp Nomad Training
-
 22.08. - 23.08.24 HashiCorp Nomad Training
 
 \* individuelle Termine möglich
@@ -43,18 +41,18 @@ Als Experte im Management von HashiCorp Nomad lernen Sie, die Bereitstellung und
 
 Teilnehmer können nach Abschluss...
 
-- Die Einsatzmöglichkeiten von HashiCorp Nomad verstehen
-- Anwendungen für HashiCorp Nomad packen und skalierbar bereitstellen
-- Workloads und Jobs in HashiCorp Nomad verwalten
-- Die Integration von HashiCorp Nomad in bestehende Infrastrukturen verstehen
+* Die Einsatzmöglichkeiten von HashiCorp Nomad verstehen
+* Anwendungen für HashiCorp Nomad packen und skalierbar bereitstellen
+* Workloads und Jobs in HashiCorp Nomad verwalten
+* Die Integration von HashiCorp Nomad in bestehende Infrastrukturen verstehen
 
 ## Zielgruppe
 
 Der Kurs ist geeignet für...
 
-- Solidem Linux-Können
-- Allgemeinen Kenntnissen im Bereich Softwareentwicklung
-- Interesse an DevOps und Infrastructure as Code
+* Solidem Linux-Können
+* Allgemeinen Kenntnissen im Bereich Softwareentwicklung
+* Interesse an DevOps und Infrastructure as Code
 
 ## Aufbau
 
@@ -62,25 +60,25 @@ Der Kurs ist geeignet für...
 
 ### Nomad Grundlagen Tag I
 
-- Einführung in HashiCorp Nomad
-- Installation und Konfiguration
-- Grundlagen der Job-Spezifikationen
-- Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
+* Einführung in HashiCorp Nomad
+* Installation und Konfiguration
+* Grundlagen der Job-Spezifikationen
+* Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
 
 ### Nomad in Action Tag II
 
-- Job-Management und Skalierung
-- Überwachung und Fehlersuche
-- Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
+* Job-Management und Skalierung
+* Überwachung und Fehlersuche
+* Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
 
-- Einführung in HashiCorp Nomad
-- Installation und Konfiguration
-- Grundlagen der Job-Spezifikationen
-- Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
+* Einführung in HashiCorp Nomad
+* Installation und Konfiguration
+* Grundlagen der Job-Spezifikationen
+* Team-Lab: Bereitstellung einer Beispielanwendung auf Nomad
 
-- Job-Management und Skalierung
-- Überwachung und Fehlersuche
-- Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
+* Job-Management und Skalierung
+* Überwachung und Fehlersuche
+* Team-Lab: Überwachung und Skalierung einer Anwendung in Nomad
 
 ![Sechs Personen, die an einem Tisch sitzen und offenbar verhandeln oder über Geschäfte sprechen.](images/DSC01530-1024x683.jpg)
 
