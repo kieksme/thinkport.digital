@@ -8,13 +8,11 @@ coverImage: 'Was-bietet-Azure-2.png'
 
 # Was ist Azure?
 
-# Die Microsoft Cloud in 2024
+## Die Microsoft Cloud in 2024
 
 Inhaltsverzeichnis
 
-![Ein Leuchtturm mittig im Bild mit einer Person oben rechts ist im Cartoon Stil dargestellt.](images/Leuchtturm-Entwurf-für-website-1-576x1024.png)
-
-## Was ist Azure?
+## Was ist Azure
 
 Azure ist die Cloud-Computing-Plattform von Microsoft. Sie bietet eine ebenso breite wie tiefe Palette von Cloud-Diensten. Darunter Bereitstellung und Verwaltung von virtuellen Maschinen, Speicherung und Analyse von Daten, Entwicklung und Bereitstellung von Webanwendungen, künstliche Intelligenz, maschinelles Lernen, IoT (Internet of Things) und mehr als 200 weitere Anwendungen.
 
