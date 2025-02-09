@@ -11,7 +11,7 @@ coverImage: 'Neuer-Standort-Hamburg.png'
 
 NEWS
 
-![Standorteröffnung Hamburg Post](images/Standorteröffnung-Hamburg-Post-1024x1024.png)
+![Standorteröffnung Hamburg Post](images/Standorteroeffnung-Hamburg-Post-1024x1024.png)
 
 ## „Großartige Neuigkeiten! Wir erweitern unsere Standorte...“
 
@@ -45,7 +45,7 @@ Email:
 
 [cfriede@thinkport.digital](mailto:cfriede@thinkport.digital)
 
--  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
+*  [](https://www.linkedin.com/in/christina-friede-2a6426168/)
 
 ## [Weitere Beiträge](https://thinkport.digital/blog)
 
