@@ -26,8 +26,6 @@ Nomad wurde entwickelt, um die Komplexität der Verwaltung von Anwendungen und W
 
 Nomad bietet eine deklarative Konfiguration, die es den Benutzern ermöglicht, Anwendungen und Workloads in einfachen Konfigurationsdateien zu beschreiben. Dies erleichtert die Automatisierung und Wiederholbarkeit der Bereitstellungsprozesse erheblich.
 
-![Flexible Unterstützung für Container und Nicht-Container-Anwendungen](images/Frische-Informationen-1024x683.png) ![Auf einem Hintergrund mit blauem und türkisem Farbverlauf ist das Hashicorp-Logo in Weiß mit Pfeilen zu sehen, die das Terraform-, das Vault- und das Nomad-Logo verbinden und das Ökosystem von Hashicorp darstellen.](images/Kontextuelles-Verständnis-1024x683.png)
-
 ### Skalierbarkeit für Anwendungen jeder Größe
 
 Eine weitere zentrale Stärke von Nomad ist die Skalierbarkeit. Die Plattform kann problemlos Tausende von Jobs in einem Cluster verwalten und ermöglicht es Unternehmen, ihre Anwendungen dynamisch zu skalieren und Ressourcen effizient zu nutzen.
