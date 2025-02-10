@@ -32,7 +32,7 @@ const metadata = {
       },
       { text: 'Mehr erfahren', href: '#features' },
     ]}
-    image={{ src: '~/assets/images/hero-image-cloud.png', alt: 'Thinkport Hero Image' }}
+    image={{ src: '~/assets/images/hero-image.png', alt: 'AstroWind Hero Image' }}
   >
     <Fragment slot="title">Thinkport — Cloud and beyond</Fragment>
 
@@ -92,6 +92,7 @@ const metadata = {
   />
 
   <!-- Content Widget **************** -->
+
   <Content
     isReversed
     tagline="Inside template"
@@ -240,39 +241,59 @@ const metadata = {
   <!-- Features2 Widget ************** -->
 
   <Features2
-    title="Meist gebuchten trainings"
-    subtitle="Unsere beliebtesten Schulungen bieten Ihnen die Möglichkeit, Ihr Wissen in den wichtigsten Cloud-Technologien zu vertiefen."
+    title="Most used widgets"
+    subtitle="Provides frequently used components for building websites using Tailwind CSS"
     tagline="Components"
     items={[
       {
-        title: 'Microsoft Azure Grundlagen',
-        description: 'Einführung in Microsoft Azure, Core-Services, Deployment-Strategien und Kostenmanagement.',
+        title: 'Headers',
+        description: "Ever tried driving without GPS? Boom! That's why websites need headers for direction.",
+        icon: 'flat-color-icons:template',
+      },
+      {
+        title: 'Heros',
+        description:
+          "Picture a superhero landing – epic, right? That's the job of a Hero section, making grand entrances!",
+        icon: 'flat-color-icons:gallery',
+      },
+      {
+        title: 'Features',
+        description:
+          'Where websites strut their stuff and show off superpowers. No holding back on the bragging rights here!',
+        icon: 'flat-color-icons:approval',
+      },
+      {
+        title: 'Content',
+        description:
+          "Dive into the meat and potatoes of a site; without it, you'd just be window shopping. Content is king.",
+        icon: 'flat-color-icons:document',
+      },
+      {
+        title: 'Call-to-Action',
+        description:
+          'That enthusiastic friend who\'s always urging, "Do it! Do it!"? Yeah, that\'s this button nudging you towards adventure.',
+        icon: 'flat-color-icons:advertising',
+      },
+      {
+        title: 'Pricing',
+        description: 'Behold the dessert menu of the website world. Tempting choices await, can you resist?',
+        icon: 'flat-color-icons:currency-exchange',
+      },
+      {
+        title: 'Testimonial',
+        description: 'Step into the gossip corner! Here, other visitors spill the beans and share the juicy details.',
+        icon: 'flat-color-icons:voice-presentation',
+      },
+      {
+        title: 'Contact',
+        description:
+          'Like a digital mailbox, but faster! Drop a line, ask a question, or send a virtual high-five. Ding! Message in.',
         icon: 'flat-color-icons:business-contact',
       },
       {
-        title: 'AWS Cloud Practitioner',
-        description: 'Grundlagen von Amazon Web Services (AWS), Architektur, Sicherheitsprinzipien und Abrechnung.',
-        icon: 'flat-color-icons:business-contact',
-      },
-      {
-        title: 'Google Cloud Platform (GCP) für Einsteiger',
-        description: 'Einführung in die GCP, Compute Engine, Cloud Storage, Networking und Sicherheitskonzepte.',
-        icon: 'flat-color-icons:business-contact',
-      },
-      {
-        title: 'Terraform für Cloud Engineers',
-        description: 'Infrastructure as Code mit Terraform – Grundlagen, Best Practices und Automatisierung.',
-        icon: 'flat-color-icons:business-contact',
-      },
-      {
-        title: 'Apache Kafka für Data Engineers',
-        description: 'Streaming-Architekturen mit Apache Kafka, Event Processing und Skalierung.',
-        icon: 'flat-color-icons:business-contact',
-      },
-      {
-        title: 'Hybrid-Cloud-Architekturen',
-        description: 'Best Practices für Multi- und Hybrid-Cloud-Umgebungen mit Azure, AWS und GCP.',
-        icon: 'flat-color-icons:business-contact',
+        title: 'Footers',
+        description: "The footer's like the credits of a movie but sprinkled with easter eggs. Time to hunt!",
+        icon: 'flat-color-icons:database',
       },
     ]}
   >
