@@ -10,15 +10,17 @@
           {
             "id": "219bedd6d6f64489",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "azure-cloud-fuer-den-ersten-quantencomputer"
+              "title": "README"
             }
           }
         ]
@@ -160,6 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quickadd:QuickAdd": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,13 +174,16 @@
   },
   "active": "219bedd6d6f64489",
   "lastOpenFiles": [
+    "assets/images/hero-image-cloud.png",
+    "assets/images/hero-image-cloud.jpg",
+    "assets/images/Leuchtturm über den Wolken.jpg",
+    "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
     "data/trainings.json",
     "data/categories.json",
     "data/team copy.json",
     "pages/api/categories.ts",
     "pages/api/team.js.ts",
     "pages/api/team.ts",
-    "pages/azure-cloud-fuer-den-ersten-quantencomputer.md",
     "pages/azure.md",
     "pages/azure-trainings.md",
     "pages/aws-training.md",
