@@ -136,3 +136,15 @@ Wenn du eine wartungsarme, schnelle und moderne Website willst, ist **Astro** id
 - Frontend http://thinkport.netlify.app/
 - "Backend"
 - Deployment Netlify https://app.netlify.com/sites/thinkport/deploys[]()
+
+### Im Paket
+
+- 9 UI Elemente
+- 18 Widgets
+- 10 Blog spezifische Elemente
+- 5 Layouts (Seitenvorlagen)
+	- Homepage
+	- Landingpage
+	- Blog
+	- Inhaltsseite
+	- Inhaltsseite - Markdown only
