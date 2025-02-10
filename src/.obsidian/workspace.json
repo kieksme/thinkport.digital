@@ -171,6 +171,7 @@
   },
   "active": "219bedd6d6f64489",
   "lastOpenFiles": [
+    "data/trainings.json",
     "data/categories.json",
     "data/team copy.json",
     "pages/api/categories.ts",

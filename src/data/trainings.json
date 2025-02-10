@@ -1,0 +1,52 @@
+{
+  "trainings": [
+    {
+      "title": "Microsoft Azure Grundlagen",
+      "description": "Einführung in Microsoft Azure, Core-Services, Deployment-Strategien und Kostenmanagement.",
+      "duration": "2 Tage",
+      "level": "Einsteiger",
+      "topics": ["Azure Compute", "Storage", "Networking", "IAM", "Kosteneffizienz"],
+      "format": ["Online", "Präsenz"]
+    },
+    {
+      "title": "AWS Cloud Practitioner",
+      "description": "Grundlagen von Amazon Web Services (AWS), Architektur, Sicherheitsprinzipien und Abrechnung.",
+      "duration": "2 Tage",
+      "level": "Einsteiger",
+      "topics": ["EC2", "S3", "IAM", "VPC", "Billing"],
+      "format": ["Online", "Präsenz"]
+    },
+    {
+      "title": "Google Cloud Platform (GCP) für Einsteiger",
+      "description": "Einführung in die GCP, Compute Engine, Cloud Storage, Networking und Sicherheitskonzepte.",
+      "duration": "2 Tage",
+      "level": "Einsteiger",
+      "topics": ["Compute Engine", "Cloud Storage", "IAM", "Networking", "Security"],
+      "format": ["Online", "Präsenz"]
+    },
+    {
+      "title": "Terraform für Cloud Engineers",
+      "description": "Infrastructure as Code mit Terraform – Grundlagen, Best Practices und Automatisierung.",
+      "duration": "3 Tage",
+      "level": "Fortgeschritten",
+      "topics": ["HCL-Syntax", "Terraform Modules", "State Management", "CI/CD-Integration"],
+      "format": ["Online", "Präsenz"]
+    },
+    {
+      "title": "Apache Kafka für Data Engineers",
+      "description": "Streaming-Architekturen mit Apache Kafka, Event Processing und Skalierung.",
+      "duration": "3 Tage",
+      "level": "Fortgeschritten",
+      "topics": ["Kafka Architektur", "Producer & Consumer", "Streams API", "Monitoring"],
+      "format": ["Online", "Präsenz"]
+    },
+    {
+      "title": "Hybrid-Cloud-Architekturen",
+      "description": "Best Practices für Multi- und Hybrid-Cloud-Umgebungen mit Azure, AWS und GCP.",
+      "duration": "3 Tage",
+      "level": "Experte",
+      "topics": ["Hybrid-Cloud-Strategien", "Netzwerkintegration", "Sicherheit", "Compliance"],
+      "format": ["Online", "Präsenz"]
+    }
+  ]
+}
