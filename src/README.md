@@ -148,3 +148,8 @@ Wenn du eine wartungsarme, schnelle und moderne Website willst, ist **Astro** id
 	- Blog
 	- Inhaltsseite
 	- Inhaltsseite - Markdown only
+
+#### Migration
+
+- Posts https://thinkport.digital/wp-json/wp/v2/posts
+- Umwandlung in Markdown

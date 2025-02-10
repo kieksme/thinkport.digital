@@ -1,0 +1,23 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+
+const res = await fetch('https://thinkport.digital/wp-json/wp/v2/posts');
+const posts = await res.json();
+const metadata = {
+  title: 'Random user',
+};
+---
+
+<Layout metadata={metadata}>
+  <main class="container max-w-3xl py-12 mx-auto">
+    <h1>Astro + WordPress 🚀</h1>
+    {
+      posts.map((post) => (
+        <article class="p-6 my-6 bg-white rounded-md shadow-md dark:bg-gray-800">
+          <h2 set:html={post.title.rendered} />
+          <p set:html={post.content.rendered} />
+        </article>
+      ))
+    }
+  </main>
+</Layout>
